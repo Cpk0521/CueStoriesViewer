@@ -1,0 +1,617 @@
+{
+    "Txt_Name": "Event_009_06",
+    "Dialogue": [
+        {
+            "index": 1,
+            "heroineId": [
+                0
+            ],
+            "name": "マネージャー",
+            "message": "君たちは、ゴブリンのいた遺跡で怪しい男を眠らせて、\n更にホノカがギュウギュウに縛り上げて村まで連れてきた。",
+            "voice": ""
+        },
+        {
+            "index": 2,
+            "heroineId": [
+                4
+            ],
+            "name": "月居ほのか",
+            "message": "そんなギュウギュウに縛ったつもりは……。",
+            "voice": "event/event_009/Event_009_06/event_009_06_002.mp3"
+        },
+        {
+            "index": 3,
+            "heroineId": [
+                2
+            ],
+            "name": "鷹取舞花",
+            "message": "あーあ、遺跡潜りたかったなあ。",
+            "voice": "event/event_009/Event_009_06/event_009_06_003.mp3"
+        },
+        {
+            "index": 4,
+            "heroineId": [
+                0
+            ],
+            "name": "マネージャー",
+            "message": "さらにゴブリンのボスが身に着けていた、\n謎の魔法のアイテムも手に入れた。",
+            "voice": ""
+        },
+        {
+            "index": 5,
+            "heroineId": [
+                1
+            ],
+            "name": "六石陽菜",
+            "message": "はい。",
+            "voice": "event/event_009/Event_009_06/event_009_06_005.mp3"
+        },
+        {
+            "index": 6,
+            "heroineId": [
+                0
+            ],
+            "name": "マネージャー",
+            "message": "村に連れて行った男は、結局村人ではなかった。\n村長も見たことがない顔だと言う。",
+            "voice": ""
+        },
+        {
+            "index": 7,
+            "heroineId": [
+                3
+            ],
+            "name": "鹿野志穂",
+            "message": "ふむ。",
+            "voice": "event/event_009/Event_009_06/event_009_06_007.mp3"
+        },
+        {
+            "index": 8,
+            "heroineId": [
+                0
+            ],
+            "name": "マネージャー",
+            "message": "縛られた男は周囲を見渡して、焦った様子でこう言ったよ。",
+            "voice": ""
+        },
+        {
+            "index": 9,
+            "heroineId": [
+                0
+            ],
+            "name": "怪しい男",
+            "message": "「くそっ。まさかいきなり眠らされるとは……。」",
+            "voice": ""
+        },
+        {
+            "index": 10,
+            "heroineId": [
+                2
+            ],
+            "name": "鷹取舞花",
+            "message": "あ、起きてたの？",
+            "voice": "event/event_009/Event_009_06/event_009_06_010.mp3"
+        },
+        {
+            "index": 11,
+            "heroineId": [
+                1
+            ],
+            "name": "六石陽菜",
+            "message": "村に移動したり、だいぶ時間も経ったもんね。",
+            "voice": "event/event_009/Event_009_06/event_009_06_011.mp3"
+        },
+        {
+            "index": 12,
+            "heroineId": [
+                4
+            ],
+            "name": "月居ほのか",
+            "message": "どうしてあの場にいたの？",
+            "voice": "event/event_009/Event_009_06/event_009_06_012.mp3"
+        },
+        {
+            "index": 13,
+            "heroineId": [
+                0
+            ],
+            "name": "怪しい男",
+            "message": "「ふん。言うわけ無いだろう。」",
+            "voice": ""
+        },
+        {
+            "index": 14,
+            "heroineId": [
+                3
+            ],
+            "name": "鹿野志穂",
+            "message": "この魔法のアイテムはなんだ？",
+            "voice": "event/event_009/Event_009_06/event_009_06_014.mp3"
+        },
+        {
+            "index": 15,
+            "heroineId": [
+                0
+            ],
+            "name": "マネージャー",
+            "message": "男はじろりとそちらを見て、口をつぐむ。",
+            "voice": ""
+        },
+        {
+            "index": 16,
+            "heroineId": [
+                4
+            ],
+            "name": "月居ほのか",
+            "message": "なるほど。これが何か知ってるね。",
+            "voice": "event/event_009/Event_009_06/event_009_06_016.mp3"
+        },
+        {
+            "index": 17,
+            "heroineId": [
+                3
+            ],
+            "name": "鹿野志穂",
+            "message": "間違いなく、ゴブリンの襲撃に関係があるな。\n私達に撃退されたのを見て、証拠を隠滅しに来たとか。",
+            "voice": "event/event_009/Event_009_06/event_009_06_017.mp3"
+        },
+        {
+            "index": 18,
+            "heroineId": [
+                2
+            ],
+            "name": "鷹取舞花",
+            "message": "その証拠ってのが、このアイテム？",
+            "voice": "event/event_009/Event_009_06/event_009_06_018.mp3"
+        },
+        {
+            "index": 19,
+            "heroineId": [
+                3
+            ],
+            "name": "鹿野志穂",
+            "message": "その可能性は高い。",
+            "voice": "event/event_009/Event_009_06/event_009_06_019.mp3"
+        },
+        {
+            "index": 20,
+            "heroineId": [
+                2
+            ],
+            "name": "鷹取舞花",
+            "message": "どうする？　この世界の警察みたいなのに突き出す？",
+            "voice": "event/event_009/Event_009_06/event_009_06_020.mp3"
+        },
+        {
+            "index": 21,
+            "heroineId": [
+                4
+            ],
+            "name": "月居ほのか",
+            "message": "それがエリカさんなんじゃないの？",
+            "voice": "event/event_009/Event_009_06/event_009_06_021.mp3"
+        },
+        {
+            "index": 22,
+            "heroineId": [
+                1
+            ],
+            "name": "六石陽菜",
+            "message": "うーん……、でもなんの罪？　\n実際のところまだ何も証拠がないよ？",
+            "voice": "event/event_009/Event_009_06/event_009_06_022.mp3"
+        },
+        {
+            "index": 23,
+            "heroineId": [
+                0
+            ],
+            "name": "マネージャー",
+            "message": "男はニヤニヤと笑ってるね。",
+            "voice": ""
+        },
+        {
+            "index": 24,
+            "heroineId": [
+                0
+            ],
+            "name": "エリカ",
+            "message": "「なんの証拠もない……、か。\nしかしゴブリンの襲撃に関わっていたのは間違いなさそうだ。」",
+            "voice": ""
+        },
+        {
+            "index": 25,
+            "heroineId": [
+                0
+            ],
+            "name": "エリカ",
+            "message": "「私としては、領民を苦しめた罰を与えねば気がすまぬ。」",
+            "voice": ""
+        },
+        {
+            "index": 26,
+            "heroineId": [
+                1
+            ],
+            "name": "六石陽菜",
+            "message": "では、わたしが神の声を聞いてみましょう。",
+            "voice": "event/event_009/Event_009_06/event_009_06_026.mp3"
+        },
+        {
+            "index": 27,
+            "heroineId": [
+                1
+            ],
+            "name": "六石陽菜",
+            "message": "はい。わかりました。\nこの者には、奉仕作業をさせればよろしいのですね？",
+            "voice": "event/event_009/Event_009_06/event_009_06_027.mp3"
+        },
+        {
+            "index": 28,
+            "heroineId": [
+                3
+            ],
+            "name": "鹿野志穂",
+            "message": "おい、ハルナ……、\n神様じゃなくて、亀井様と話してるんじゃないだろうな？",
+            "voice": "event/event_009/Event_009_06/event_009_06_028.mp3"
+        },
+        {
+            "index": 29,
+            "heroineId": [
+                2
+            ],
+            "name": "鷹取舞花",
+            "message": "あのさ、みんな、ちょっといい？\nこの人、もう少し調べたらどうかな？",
+            "voice": "event/event_009/Event_009_06/event_009_06_029.mp3"
+        },
+        {
+            "index": 30,
+            "heroineId": [
+                3
+            ],
+            "name": "鹿野志穂",
+            "message": "と言うと？",
+            "voice": "event/event_009/Event_009_06/event_009_06_030.mp3"
+        },
+        {
+            "index": 31,
+            "heroineId": [
+                2
+            ],
+            "name": "鷹取舞花",
+            "message": "この男が、何者かわかるような物を持っていないか調べる。\n手紙とかそういうの持ってないか、とか。",
+            "voice": "event/event_009/Event_009_06/event_009_06_031.mp3"
+        },
+        {
+            "index": 32,
+            "heroineId": [
+                3
+            ],
+            "name": "鹿野志穂",
+            "message": "うむ、たしかに。\nマイカにしてはいいことを言う。",
+            "voice": "event/event_009/Event_009_06/event_009_06_032.mp3"
+        },
+        {
+            "index": 33,
+            "heroineId": [
+                2
+            ],
+            "name": "鷹取舞花",
+            "message": "ひと言多いんだって……。",
+            "voice": "event/event_009/Event_009_06/event_009_06_033.mp3"
+        },
+        {
+            "index": 34,
+            "heroineId": [
+                0
+            ],
+            "name": "マネージャー",
+            "message": "身につけているのは指輪とかそのくらいだったけど、\nふところに短剣を1本見つけたね。",
+            "voice": ""
+        },
+        {
+            "index": 35,
+            "heroineId": [
+                0
+            ],
+            "name": "マネージャー",
+            "message": "そして短剣には、何か紋章のような印がついてる。",
+            "voice": ""
+        },
+        {
+            "index": 36,
+            "heroineId": [
+                2
+            ],
+            "name": "鷹取舞花",
+            "message": "ん、これなんだ？",
+            "voice": "event/event_009/Event_009_06/event_009_06_036.mp3"
+        },
+        {
+            "index": 37,
+            "heroineId": [
+                0
+            ],
+            "name": "マネージャー",
+            "message": "男の顔色が変わるよ。",
+            "voice": ""
+        },
+        {
+            "index": 38,
+            "heroineId": [
+                4
+            ],
+            "name": "月居ほのか",
+            "message": "重要な手がかりになりそうだね。",
+            "voice": "event/event_009/Event_009_06/event_009_06_038.mp3"
+        },
+        {
+            "index": 39,
+            "heroineId": [
+                0
+            ],
+            "name": "エリカ",
+            "message": "「まあ、今日のところは村にお世話になって、\n明日、ルピナス家の屋敷に戻るとしよう。」",
+            "voice": ""
+        },
+        {
+            "index": 40,
+            "heroineId": [
+                0
+            ],
+            "name": "エリカ",
+            "message": "「この男の処遇だが、事の顛末が終わるまでは、\nしばらくルピナス家の屋敷でおとなしくしていてもらう。」",
+            "voice": ""
+        },
+        {
+            "index": 41,
+            "heroineId": [
+                1
+            ],
+            "name": "六石陽菜",
+            "message": "はい。みんなも疲れてるだろうし、今日はここで休もうか。",
+            "voice": "event/event_009/Event_009_06/event_009_06_041.mp3"
+        },
+        {
+            "index": 42,
+            "heroineId": [
+                0
+            ],
+            "name": "マネージャー",
+            "message": "村で一晩休んだ君たちは、\nエリカと一緒に街への帰り道を歩いている。",
+            "voice": ""
+        },
+        {
+            "index": 43,
+            "heroineId": [
+                0
+            ],
+            "name": "エリカ",
+            "message": "「君たちの実力はよくわかった。\n戦いの腕も、鋭い頭脳も備えているようだ。」",
+            "voice": ""
+        },
+        {
+            "index": 44,
+            "heroineId": [
+                4
+            ],
+            "name": "月居ほのか",
+            "message": "あはは。なんだか嬉しいなー。",
+            "voice": "event/event_009/Event_009_06/event_009_06_044.mp3"
+        },
+        {
+            "index": 45,
+            "heroineId": [
+                0
+            ],
+            "name": "エリカ",
+            "message": "「ところで君たちのリーダーは誰なんだ？」",
+            "voice": ""
+        },
+        {
+            "index": 46,
+            "heroineId": [
+                2
+            ],
+            "name": "鷹取舞花",
+            "message": "リーダーは自分！　と言いたいとこだけど……。\nやっぱりハルナ……、かなあ？",
+            "voice": "event/event_009/Event_009_06/event_009_06_046.mp3"
+        },
+        {
+            "index": 47,
+            "heroineId": [
+                3
+            ],
+            "name": "鹿野志穂",
+            "message": "ま、ハルナだろうな。",
+            "voice": "event/event_009/Event_009_06/event_009_06_047.mp3"
+        },
+        {
+            "index": 48,
+            "heroineId": [
+                4
+            ],
+            "name": "月居ほのか",
+            "message": "うん。わたしたちのリーダーはハルナしかいないね。",
+            "voice": "event/event_009/Event_009_06/event_009_06_048.mp3"
+        },
+        {
+            "index": 49,
+            "heroineId": [
+                1
+            ],
+            "name": "六石陽菜",
+            "message": "え？",
+            "voice": "event/event_009/Event_009_06/event_009_06_049.mp3"
+        },
+        {
+            "index": 50,
+            "heroineId": [
+                0
+            ],
+            "name": "エリカ",
+            "message": "「ふむ。なるほど。\n私には気弱な司祭見習いのようにしか思えないな……。」",
+            "voice": ""
+        },
+        {
+            "index": 51,
+            "heroineId": [
+                0
+            ],
+            "name": "エリカ",
+            "message": "「我々の街に来る前に何があったか知らないが、\n随分信頼されているようだな。」",
+            "voice": ""
+        },
+        {
+            "index": 52,
+            "heroineId": [
+                1
+            ],
+            "name": "六石陽菜",
+            "message": "わたしは、そんな……。\n神の教えに従って歩んでいるだけです。",
+            "voice": "event/event_009/Event_009_06/event_009_06_052.mp3"
+        },
+        {
+            "index": 53,
+            "heroineId": [
+                4
+            ],
+            "name": "月居ほのか",
+            "message": "ふふふ。",
+            "voice": "event/event_009/Event_009_06/event_009_06_053.mp3"
+        },
+        {
+            "index": 54,
+            "heroineId": [
+                2
+            ],
+            "name": "鷹取舞花",
+            "message": "あはは。\n何それ。",
+            "voice": "event/event_009/Event_009_06/event_009_06_054.mp3"
+        },
+        {
+            "index": 55,
+            "heroineId": [
+                3
+            ],
+            "name": "鹿野志穂",
+            "message": "ま、こういうことだ。\nこれがうちのリーダーだから。",
+            "voice": "event/event_009/Event_009_06/event_009_06_055.mp3"
+        },
+        {
+            "index": 56,
+            "heroineId": [
+                0
+            ],
+            "name": "エリカ",
+            "message": "「うむ。君たちが信頼に足る人物だということが分かった。\n申し訳ないんだが、もうひと仕事頼まれてはくれないだろうか。」",
+            "voice": ""
+        },
+        {
+            "index": 57,
+            "heroineId": [
+                0
+            ],
+            "name": "エリカ",
+            "message": "「この怪しげな企てに決着をつけたいのだ。\nもちろん報酬は弾ませてもらう。」",
+            "voice": ""
+        },
+        {
+            "index": 58,
+            "heroineId": [
+                2
+            ],
+            "name": "鷹取舞花",
+            "message": "なら、それに見合った働きをしなくちゃね！",
+            "voice": "event/event_009/Event_009_06/event_009_06_058.mp3"
+        },
+        {
+            "index": 59,
+            "heroineId": [
+                4
+            ],
+            "name": "月居ほのか",
+            "message": "わたしは、困った人の助けになりたい。\nそれだけです。",
+            "voice": "event/event_009/Event_009_06/event_009_06_059.mp3"
+        },
+        {
+            "index": 60,
+            "heroineId": [
+                1
+            ],
+            "name": "六石陽菜",
+            "message": "これも、神の思し召しです。",
+            "voice": "event/event_009/Event_009_06/event_009_06_060.mp3"
+        },
+        {
+            "index": 61,
+            "heroineId": [
+                0
+            ],
+            "name": "エリカ",
+            "message": "「うむ。心意気に感謝する。\nよろしく頼む。」",
+            "voice": ""
+        },
+        {
+            "index": 62,
+            "heroineId": [
+                0
+            ],
+            "name": "マネージャー",
+            "message": "はい、ということで、ここで1回休憩しようか。\n皆には経験値を配るよ。",
+            "voice": ""
+        },
+        {
+            "index": 63,
+            "heroineId": [
+                2
+            ],
+            "name": "鷹取舞花",
+            "message": "やった！",
+            "voice": "event/event_009/Event_009_06/event_009_06_063.mp3"
+        },
+        {
+            "index": 64,
+            "heroineId": [
+                0
+            ],
+            "name": "マネージャー",
+            "message": "で、この経験値で皆1つずつはレベルが上がると思う。\nレベルアップの作業しといてね。",
+            "voice": ""
+        },
+        {
+            "index": 65,
+            "heroineId": [
+                4
+            ],
+            "name": "月居ほのか",
+            "message": "はーい。",
+            "voice": "event/event_009/Event_009_06/event_009_06_065.mp3"
+        },
+        {
+            "index": 66,
+            "heroineId": [
+                0
+            ],
+            "name": "マネージャー",
+            "message": "特に、ハルナとカノ・シ・ホは使える魔法が増えるから、\n魔法の項目を選んでおいてね。",
+            "voice": ""
+        },
+        {
+            "index": 67,
+            "heroineId": [
+                1
+            ],
+            "name": "六石陽菜",
+            "message": "ふふ。楽しい。",
+            "voice": "event/event_009/Event_009_06/event_009_06_067.mp3"
+        },
+        {
+            "index": 68,
+            "heroineId": [
+                0
+            ],
+            "name": "マネージャー",
+            "message": "皆、なんだかんだハマってきてるね。\nいいよいいよ。",
+            "voice": ""
+        }
+    ]
+}

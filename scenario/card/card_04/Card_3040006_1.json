@@ -1,0 +1,536 @@
+{
+    "Txt_Name": "Card_3040006_1",
+    "Dialogue": [
+        {
+            "index": 1,
+            "heroineId": [
+                4
+            ],
+            "name": "月居ほのか",
+            "message": "マネージャー！",
+            "voice": "card/card_04/Card_3040006_1/card_3040006_1_001.mp3"
+        },
+        {
+            "index": 2,
+            "heroineId": [
+                0
+            ],
+            "name": "マネージャー",
+            "message": "あれ？\nほのか？",
+            "voice": ""
+        },
+        {
+            "index": 3,
+            "heroineId": [
+                4
+            ],
+            "name": "月居ほのか",
+            "message": "こんなとこで、何してるんですか？",
+            "voice": "card/card_04/Card_3040006_1/card_3040006_1_003.mp3"
+        },
+        {
+            "index": 4,
+            "heroineId": [
+                0
+            ],
+            "name": "マネージャー",
+            "message": "ちょっと買い出しにね。\nほのかは？",
+            "voice": ""
+        },
+        {
+            "index": 5,
+            "heroineId": [
+                4
+            ],
+            "name": "月居ほのか",
+            "message": "わたしはレッスンの帰りです。",
+            "voice": "card/card_04/Card_3040006_1/card_3040006_1_005.mp3"
+        },
+        {
+            "index": 6,
+            "heroineId": [
+                0
+            ],
+            "name": "マネージャー",
+            "message": "でも、ここって帰り道じゃないよね？",
+            "voice": ""
+        },
+        {
+            "index": 7,
+            "heroineId": [
+                4
+            ],
+            "name": "月居ほのか",
+            "message": "ちょっと、わけがあって街をぶらぶらしてて。",
+            "voice": "card/card_04/Card_3040006_1/card_3040006_1_007.mp3"
+        },
+        {
+            "index": 8,
+            "heroineId": [
+                0
+            ],
+            "name": "マネージャー",
+            "message": "どういうこと？",
+            "voice": ""
+        },
+        {
+            "index": 9,
+            "heroineId": [
+                4
+            ],
+            "name": "月居ほのか",
+            "message": "今度、茨城からお母さんが遊びにくるんです。\nわたしに、東京を案内してほしいって言うから。",
+            "voice": "card/card_04/Card_3040006_1/card_3040006_1_009.mp3"
+        },
+        {
+            "index": 10,
+            "heroineId": [
+                4
+            ],
+            "name": "月居ほのか",
+            "message": "だから、どこを案内したらいいか、下見しようと思って。",
+            "voice": "card/card_04/Card_3040006_1/card_3040006_1_010.mp3"
+        },
+        {
+            "index": 11,
+            "heroineId": [
+                0
+            ],
+            "name": "マネージャー",
+            "message": "それで、ぶらぶらしてたんだ。",
+            "voice": ""
+        },
+        {
+            "index": 12,
+            "heroineId": [
+                4
+            ],
+            "name": "月居ほのか",
+            "message": "でも正直、東京のことぜんぜん知らないんですよね。\nほとんど、寮と学校とレッスンの往復だし。",
+            "voice": "card/card_04/Card_3040006_1/card_3040006_1_012.mp3"
+        },
+        {
+            "index": 13,
+            "heroineId": [
+                4
+            ],
+            "name": "月居ほのか",
+            "message": "休みの日も、あんまり出かけることなんてしないし。\n買い物とかで行くとこは、だいたい決まってるし。",
+            "voice": "card/card_04/Card_3040006_1/card_3040006_1_013.mp3"
+        },
+        {
+            "index": 14,
+            "heroineId": [
+                0
+            ],
+            "name": "マネージャー",
+            "message": "そうだよね。",
+            "voice": ""
+        },
+        {
+            "index": 15,
+            "heroineId": [
+                4
+            ],
+            "name": "月居ほのか",
+            "message": "だって、東京タワーすらまともに見たことないんですよ。",
+            "voice": "card/card_04/Card_3040006_1/card_3040006_1_015.mp3"
+        },
+        {
+            "index": 16,
+            "heroineId": [
+                0
+            ],
+            "name": "マネージャー",
+            "message": "そういう人、多いと思うよ。",
+            "voice": ""
+        },
+        {
+            "index": 17,
+            "heroineId": [
+                4
+            ],
+            "name": "月居ほのか",
+            "message": "ね、マネージャー。\nどこを案内したら喜ぶと思います？",
+            "voice": "card/card_04/Card_3040006_1/card_3040006_1_017.mp3"
+        },
+        {
+            "index": 18,
+            "heroineId": [
+                0
+            ],
+            "name": "マネージャー",
+            "message": "どうだろう……。",
+            "voice": ""
+        },
+        {
+            "index": 19,
+            "heroineId": [
+                4
+            ],
+            "name": "月居ほのか",
+            "message": "ベタなとこで、東京タワーとか？\nあ、あと、浅草？",
+            "voice": "card/card_04/Card_3040006_1/card_3040006_1_019.mp3"
+        },
+        {
+            "index": 20,
+            "heroineId": [
+                0
+            ],
+            "name": "マネージャー",
+            "message": "新宿とか、渋谷とかは？",
+            "voice": ""
+        },
+        {
+            "index": 21,
+            "heroineId": [
+                4
+            ],
+            "name": "月居ほのか",
+            "message": "いかにも東京ってかんじでいいかもしれませんね。\nでも、あんまり詳しくないんだよね……。",
+            "voice": "card/card_04/Card_3040006_1/card_3040006_1_021.mp3"
+        },
+        {
+            "index": 22,
+            "heroineId": [
+                0
+            ],
+            "name": "マネージャー",
+            "message": "下見しといた方がいいかも。",
+            "voice": ""
+        },
+        {
+            "index": 23,
+            "heroineId": [
+                4
+            ],
+            "name": "月居ほのか",
+            "message": "そうですね。\nじゃ、とりあえず新宿に行ってみましょう。",
+            "voice": "card/card_04/Card_3040006_1/card_3040006_1_023.mp3"
+        },
+        {
+            "index": 24,
+            "heroineId": [
+                0
+            ],
+            "name": "マネージャー",
+            "message": "えっ？\n一緒に？",
+            "voice": ""
+        },
+        {
+            "index": 25,
+            "heroineId": [
+                4
+            ],
+            "name": "月居ほのか",
+            "message": "忙しいですか？",
+            "voice": "card/card_04/Card_3040006_1/card_3040006_1_025.mp3"
+        },
+        {
+            "index": 26,
+            "heroineId": [
+                0
+            ],
+            "name": "マネージャー",
+            "message": "いや、忙しくはないけど……。",
+            "voice": ""
+        },
+        {
+            "index": 27,
+            "heroineId": [
+                4
+            ],
+            "name": "月居ほのか",
+            "message": "じゃあ、いいじゃないですか。\nはい！　行きますよ！",
+            "voice": "card/card_04/Card_3040006_1/card_3040006_1_027.mp3"
+        },
+        {
+            "index": 28,
+            "heroineId": [
+                0
+            ],
+            "name": "マネージャー",
+            "message": "さすがに、都心は人が多いな……。\nって、あれ？　ほのか？",
+            "voice": ""
+        },
+        {
+            "index": 29,
+            "heroineId": [
+                0
+            ],
+            "name": "マネージャー",
+            "message": "どこ行っちゃったんだ……？",
+            "voice": ""
+        },
+        {
+            "index": 30,
+            "heroineId": [
+                0
+            ],
+            "name": "マネージャー",
+            "message": "ん？　なんだあの人だかり……。\nゲームセンター……？",
+            "voice": ""
+        },
+        {
+            "index": 31,
+            "heroineId": [
+                0
+            ],
+            "name": "マネージャー",
+            "message": "あっ！",
+            "voice": ""
+        },
+        {
+            "index": 32,
+            "heroineId": [
+                0
+            ],
+            "name": "マネージャー",
+            "message": "ほのか！　",
+            "voice": ""
+        },
+        {
+            "index": 33,
+            "heroineId": [
+                4
+            ],
+            "name": "月居ほのか",
+            "message": "マネージャー！\nちょっと、待っててください！",
+            "voice": "card/card_04/Card_3040006_1/card_3040006_1_033.mp3"
+        },
+        {
+            "index": 34,
+            "heroineId": [
+                0
+            ],
+            "name": "マネージャー",
+            "message": "何してんの……？",
+            "voice": ""
+        },
+        {
+            "index": 35,
+            "heroineId": [
+                4
+            ],
+            "name": "月居ほのか",
+            "message": "見たら、分かりません、か？　\nゲームしてるんです！",
+            "voice": "card/card_04/Card_3040006_1/card_3040006_1_035.mp3"
+        },
+        {
+            "index": 36,
+            "heroineId": [
+                0
+            ],
+            "name": "マネージャー",
+            "message": "どうしてゲームなんて……。",
+            "voice": ""
+        },
+        {
+            "index": 37,
+            "heroineId": [
+                4
+            ],
+            "name": "月居ほのか",
+            "message": "わたし、こういう体を動かすゲーム得意なんです！",
+            "voice": "card/card_04/Card_3040006_1/card_3040006_1_037.mp3"
+        },
+        {
+            "index": 38,
+            "heroineId": [
+                0
+            ],
+            "name": "マネージャー",
+            "message": "確かに得意そう……。",
+            "voice": ""
+        },
+        {
+            "index": 39,
+            "heroineId": [
+                4
+            ],
+            "name": "月居ほのか",
+            "message": "それ！　はい！",
+            "voice": "card/card_04/Card_3040006_1/card_3040006_1_039.mp3"
+        },
+        {
+            "index": 40,
+            "heroineId": [
+                0
+            ],
+            "name": "マネージャー",
+            "message": "すごい高得点……。",
+            "voice": ""
+        },
+        {
+            "index": 41,
+            "heroineId": [
+                4
+            ],
+            "name": "月居ほのか",
+            "message": "あ、しまった！\nよし！",
+            "voice": "card/card_04/Card_3040006_1/card_3040006_1_041.mp3"
+        },
+        {
+            "index": 42,
+            "heroineId": [
+                0
+            ],
+            "name": "マネージャー",
+            "message": "すごいギャラリーが集まってる……。",
+            "voice": ""
+        },
+        {
+            "index": 43,
+            "heroineId": [
+                4
+            ],
+            "name": "月居ほのか",
+            "message": "これでどうだ！",
+            "voice": "card/card_04/Card_3040006_1/card_3040006_1_043.mp3"
+        },
+        {
+            "index": 44,
+            "heroineId": [
+                0
+            ],
+            "name": "マネージャー",
+            "message": "拍手喝采を受けてる……。",
+            "voice": ""
+        },
+        {
+            "index": 45,
+            "heroineId": [
+                4
+            ],
+            "name": "月居ほのか",
+            "message": "みんな！\nありがとう！",
+            "voice": "card/card_04/Card_3040006_1/card_3040006_1_045.mp3"
+        },
+        {
+            "index": 46,
+            "heroineId": [
+                0
+            ],
+            "name": "マネージャー",
+            "message": "手拍子まで……。",
+            "voice": ""
+        },
+        {
+            "index": 47,
+            "heroineId": [
+                4
+            ],
+            "name": "月居ほのか",
+            "message": "いっくよ～……。\nフィニーッシュ！",
+            "voice": "card/card_04/Card_3040006_1/card_3040006_1_047.mp3"
+        },
+        {
+            "index": 48,
+            "heroineId": [
+                0
+            ],
+            "name": "マネージャー",
+            "message": "すごい！\n最高得点！",
+            "voice": ""
+        },
+        {
+            "index": 49,
+            "heroineId": [
+                4
+            ],
+            "name": "月居ほのか",
+            "message": "やったー！",
+            "voice": "card/card_04/Card_3040006_1/card_3040006_1_049.mp3"
+        },
+        {
+            "index": 50,
+            "heroineId": [
+                0
+            ],
+            "name": "マネージャー",
+            "message": "まるで、スタンディングオベーションのような拍手……。",
+            "voice": ""
+        },
+        {
+            "index": 51,
+            "heroineId": [
+                4
+            ],
+            "name": "月居ほのか",
+            "message": "どうもありがとう！\nみなさんの応援のおかげです！",
+            "voice": "card/card_04/Card_3040006_1/card_3040006_1_051.mp3"
+        },
+        {
+            "index": 52,
+            "heroineId": [
+                0
+            ],
+            "name": "マネージャー",
+            "message": "コンサートみたいになってる……。",
+            "voice": ""
+        },
+        {
+            "index": 53,
+            "heroineId": [
+                4
+            ],
+            "name": "月居ほのか",
+            "message": "ふぅー、いい汗かいた！",
+            "voice": "card/card_04/Card_3040006_1/card_3040006_1_053.mp3"
+        },
+        {
+            "index": 54,
+            "heroineId": [
+                0
+            ],
+            "name": "マネージャー",
+            "message": "お疲れさま。",
+            "voice": ""
+        },
+        {
+            "index": 55,
+            "heroineId": [
+                4
+            ],
+            "name": "月居ほのか",
+            "message": "お母さん、このゲームセンターに案内したら喜ぶかな？",
+            "voice": "card/card_04/Card_3040006_1/card_3040006_1_055.mp3"
+        },
+        {
+            "index": 56,
+            "heroineId": [
+                0
+            ],
+            "name": "マネージャー",
+            "message": "ゲームセンターは喜ばないんじゃない？",
+            "voice": ""
+        },
+        {
+            "index": 57,
+            "heroineId": [
+                4
+            ],
+            "name": "月居ほのか",
+            "message": "でも、わたしより運動神経いいですよ？\nきっと、わたしより高得点が出ます。",
+            "voice": "card/card_04/Card_3040006_1/card_3040006_1_057.mp3"
+        },
+        {
+            "index": 58,
+            "heroineId": [
+                0
+            ],
+            "name": "マネージャー",
+            "message": "本当に……？",
+            "voice": ""
+        },
+        {
+            "index": 59,
+            "heroineId": [
+                4
+            ],
+            "name": "月居ほのか",
+            "message": "とりあえず、もっといろんなとこを観てみましょう！\nマネージャー、こっち！　早く！ ",
+            "voice": "card/card_04/Card_3040006_1/card_3040006_1_059.mp3"
+        }
+    ]
+}

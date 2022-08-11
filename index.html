@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Stories Archive Viewer | CUE!-see you everyday-</title>
+    <meta name="viewport" content="width=device-width, maximum-scale=1.0">
+    <link rel="icon" href="./Image/favicon.png" />
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta
+      name="description"
+      content="Stories Archive Viewer | CUE!-see you everyday-"
+    />
+
+    <!-- twitter -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta
+      name="twitter:url"
+      content=""
+    />
+    <meta name="twitter:title" content="Stories Archive Viewer | CUE!-see you everyday-" />
+    <meta
+      name="twitter:description"
+      content="Stories Archive Viewer | CUE!-see you everyday-"
+    />
+    <!-- <meta
+      name="twitter:image"
+      content=""
+    /> -->
+
+    <!-- facebook -->
+    <meta property="og:title" content="Stories Archive Viewer | CUE!-see you everyday-" />
+    <meta
+      property="og:site_name"
+      content="Stories Archive Viewer | CUE!-see you everyday-"
+    />
+    <meta
+      property="og:description"
+      content="Stories Archive Viewer | CUE!-see you everyday-"
+    />
+    <meta property="og:type" content="website" />
+    <meta
+      property="og:url"
+      content=""
+    />
+    <!-- <meta
+      property="og:image"
+      content="%PUBLIC_URL%"
+    /> -->
+    
+
+    <link rel="stylesheet" type="text/css" href="./css/index.css">
+  </head>
+  <body>
+    <noscript>You need to enable JavaScript to run this app.</noscript>
+    <div id="root">
+
+      <div class="bg"></div>
+
+      <div class='header'>
+          <div class='header-contain'>
+            <a href="./index.html" ><img src='./Image/favicon.png'></img></a>
+          </div>
+      </div>
+
+      <div class="mainHome">
+        <div class='filter'>
+          <div class='filter-btn-list'>
+              <div class='filter-btn btn-selecting' id='Maindiv'><a href="#Main" onclick="btnOnclick('Main')">メインストーリー</a></div>
+              <div class='filter-btn' id='Carddiv'><a href="#Card" onclick="btnOnclick('Card')">キャラクターストーリー</a></div>
+              <div class='filter-btn' id='Lessondiv'><a href="#Lesson" onclick="btnOnclick('Lesson')">レッスンストーリー</a></div>
+              <div class='filter-btn' id='Linkdiv'><a href="#Link" onclick="btnOnclick('Link')">リンクストーリー</a></div>
+              <div class='filter-btn' id='Eventdiv'><a href="#Event" onclick="btnOnclick('Event')">イベントストーリー</a></div>
+          </div>
+        </div>
+
+        <div class='listview'>
+          <div class='storylist' id="storylist">
+            <!-- <div class='storyBlock'>
+              <div class='storyBlock-contain'>
+                  <div class=''}>
+                    
+                  </div>
+                  <div class='story-chapter'>
+                    
+                  </div>
+              </div>   
+            </div> -->
+  
+          </div>
+        </div>
+
+      </div>
+
+    </div>
+
+  </body>
+
+  <script src="./js/index.js" type="text/javascript"></script>
+
+</html>

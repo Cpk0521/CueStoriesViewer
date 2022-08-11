@@ -1,0 +1,455 @@
+{
+    "Txt_Name": "Event_009_04",
+    "Dialogue": [
+        {
+            "index": 1,
+            "heroineId": [
+                0
+            ],
+            "name": "マネージャー",
+            "message": "じゃあ、戦闘を始めようか。\n敏捷値からするとマイカが1番なんだけど……。",
+            "voice": ""
+        },
+        {
+            "index": 2,
+            "heroineId": [
+                2
+            ],
+            "name": "鷹取舞花",
+            "message": "うーん……。\n自分とりあえず様子見たいし、最後でいいかな。",
+            "voice": "event/event_009/Event_009_04/event_009_04_002.mp3"
+        },
+        {
+            "index": 3,
+            "heroineId": [
+                4
+            ],
+            "name": "月居ほのか",
+            "message": "じゃあ、その次はわたしかな？\n前に出て、ゴブリンに攻撃します。手近なやつに、剣で攻撃。",
+            "voice": "event/event_009/Event_009_04/event_009_04_003.mp3"
+        },
+        {
+            "index": 4,
+            "heroineId": [
+                0
+            ],
+            "name": "マネージャー",
+            "message": "サイコロを2個振って、命中値との合計が10以上なら命中だよ。",
+            "voice": ""
+        },
+        {
+            "index": 5,
+            "heroineId": [
+                4
+            ],
+            "name": "月居ほのか",
+            "message": "うん、命中！\nおりゃああっ！",
+            "voice": "event/event_009/Event_009_04/event_009_04_005.mp3"
+        },
+        {
+            "index": 6,
+            "heroineId": [
+                3
+            ],
+            "name": "鹿野志穂",
+            "message": "同じゴブリンに、火の矢の魔法で攻撃しよう。\nいでよ、火の矢！　敵を射抜け！",
+            "voice": "event/event_009/Event_009_04/event_009_04_006.mp3"
+        },
+        {
+            "index": 7,
+            "heroineId": [
+                0
+            ],
+            "name": "マネージャー",
+            "message": "はい、そのゴブリンは倒れた。\nということで、次はゴブリンたちが迫るよ。",
+            "voice": ""
+        },
+        {
+            "index": 8,
+            "heroineId": [
+                0
+            ],
+            "name": "マネージャー",
+            "message": "ホノカを3体で囲んで攻撃。\nサイコロ2個＋回避値が9以下で回避失敗。",
+            "voice": ""
+        },
+        {
+            "index": 9,
+            "heroineId": [
+                4
+            ],
+            "name": "月居ほのか",
+            "message": "3体だから、3回やればいいんだね？",
+            "voice": "event/event_009/Event_009_04/event_009_04_009.mp3"
+        },
+        {
+            "index": 10,
+            "heroineId": [
+                4
+            ],
+            "name": "月居ほのか",
+            "message": "くっ……、一発受けちゃった。\nでもまだまだ大丈夫！　持ちこたえられるよ。",
+            "voice": "event/event_009/Event_009_04/event_009_04_010.mp3"
+        },
+        {
+            "index": 11,
+            "heroineId": [
+                1
+            ],
+            "name": "六石陽菜",
+            "message": "回復魔法いる？",
+            "voice": "event/event_009/Event_009_04/event_009_04_011.mp3"
+        },
+        {
+            "index": 12,
+            "heroineId": [
+                4
+            ],
+            "name": "月居ほのか",
+            "message": "あー……。いや、まだいらないかな。\n次のターンでお願い。",
+            "voice": "event/event_009/Event_009_04/event_009_04_012.mp3"
+        },
+        {
+            "index": 13,
+            "heroineId": [
+                1
+            ],
+            "name": "六石陽菜",
+            "message": "うん、わかった。じゃ、祈ってるね。\n神よ、我らに祝福を……！",
+            "voice": "event/event_009/Event_009_04/event_009_04_013.mp3"
+        },
+        {
+            "index": 14,
+            "heroineId": [
+                0
+            ],
+            "name": "マネージャー",
+            "message": "さ、マイカ。\n最後だけど、どうする？",
+            "voice": ""
+        },
+        {
+            "index": 15,
+            "heroineId": [
+                2
+            ],
+            "name": "鷹取舞花",
+            "message": "うーん……。とりあえず、弓で援護するしかないよね。\nホノカを囲んでる1体に攻撃して……。",
+            "voice": "event/event_009/Event_009_04/event_009_04_015.mp3"
+        },
+        {
+            "index": 16,
+            "heroineId": [
+                2
+            ],
+            "name": "鷹取舞花",
+            "message": "うん、命中。そしてダメージは、っと……。",
+            "voice": "event/event_009/Event_009_04/event_009_04_016.mp3"
+        },
+        {
+            "index": 17,
+            "heroineId": [
+                0
+            ],
+            "name": "マネージャー",
+            "message": "え？　24？",
+            "voice": ""
+        },
+        {
+            "index": 18,
+            "heroineId": [
+                2
+            ],
+            "name": "鷹取舞花",
+            "message": "クリティカルしちゃった！\nツイてるね。",
+            "voice": "event/event_009/Event_009_04/event_009_04_018.mp3"
+        },
+        {
+            "index": 19,
+            "heroineId": [
+                3
+            ],
+            "name": "鹿野志穂",
+            "message": "さすが忍者。",
+            "voice": "event/event_009/Event_009_04/event_009_04_019.mp3"
+        },
+        {
+            "index": 20,
+            "heroineId": [
+                2
+            ],
+            "name": "鷹取舞花",
+            "message": "えっへん。",
+            "voice": "event/event_009/Event_009_04/event_009_04_020.mp3"
+        },
+        {
+            "index": 21,
+            "heroineId": [
+                0
+            ],
+            "name": "マネージャー",
+            "message": "あらら、その1体は一撃で倒れた。",
+            "voice": ""
+        },
+        {
+            "index": 22,
+            "heroineId": [
+                0
+            ],
+            "name": "マネージャー",
+            "message": "でも、ゴブリンたちは崖の上にも人がいると知って、\n崖の上に向かって指を差したりしてる。",
+            "voice": ""
+        },
+        {
+            "index": 23,
+            "heroineId": [
+                2
+            ],
+            "name": "鷹取舞花",
+            "message": "なんだよ！　結局バレるじゃんか！",
+            "voice": "event/event_009/Event_009_04/event_009_04_023.mp3"
+        },
+        {
+            "index": 24,
+            "heroineId": [
+                4
+            ],
+            "name": "月居ほのか",
+            "message": "次のターン行っていい？\nうなれ！　炎の、ブロードソード！！",
+            "voice": "event/event_009/Event_009_04/event_009_04_024.mp3"
+        },
+        {
+            "index": 25,
+            "heroineId": [
+                3
+            ],
+            "name": "鹿野志穂",
+            "message": "いでよ、眠りの雲よ。安らかなる眠りを。",
+            "voice": "event/event_009/Event_009_04/event_009_04_025.mp3"
+        },
+        {
+            "index": 26,
+            "heroineId": [
+                0
+            ],
+            "name": "マネージャー",
+            "message": "はい。パタン……、と。\nま、ゴブリンじゃさすがに君たちにはかなわないかな。",
+            "voice": ""
+        },
+        {
+            "index": 27,
+            "heroineId": [
+                0
+            ],
+            "name": "マネージャー",
+            "message": "さて、ゴブリン3体がマイカの方へ向かって崖を登り始めるよ。",
+            "voice": ""
+        },
+        {
+            "index": 28,
+            "heroineId": [
+                2
+            ],
+            "name": "鷹取舞花",
+            "message": "うわっ、マジかぁ……。",
+            "voice": "event/event_009/Event_009_04/event_009_04_028.mp3"
+        },
+        {
+            "index": 29,
+            "heroineId": [
+                0
+            ],
+            "name": "マネージャー",
+            "message": "ホノカにも、先と同じように3体が攻撃。",
+            "voice": ""
+        },
+        {
+            "index": 30,
+            "heroineId": [
+                4
+            ],
+            "name": "月居ほのか",
+            "message": "くっ……！　まだまだー！",
+            "voice": "event/event_009/Event_009_04/event_009_04_030.mp3"
+        },
+        {
+            "index": 31,
+            "heroineId": [
+                1
+            ],
+            "name": "六石陽菜",
+            "message": "神よ、ホノカちゃんの傷を癒やし給え……。",
+            "voice": "event/event_009/Event_009_04/event_009_04_031.mp3"
+        },
+        {
+            "index": 32,
+            "heroineId": [
+                2
+            ],
+            "name": "鷹取舞花",
+            "message": "バレちゃったんなら、もういいよね。",
+            "voice": "event/event_009/Event_009_04/event_009_04_032.mp3"
+        },
+        {
+            "index": 33,
+            "heroineId": [
+                2
+            ],
+            "name": "鷹取舞花",
+            "message": "みんな！　ゴブリンは全部で10体だよ！\nそして後ろに1体、大きなゴブリンがいる。",
+            "voice": "event/event_009/Event_009_04/event_009_04_033.mp3"
+        },
+        {
+            "index": 34,
+            "heroineId": [
+                2
+            ],
+            "name": "鷹取舞花",
+            "message": "そいつがボスだと思う！　\n……多分だけど。",
+            "voice": "event/event_009/Event_009_04/event_009_04_034.mp3"
+        },
+        {
+            "index": 35,
+            "heroineId": [
+                3
+            ],
+            "name": "鹿野志穂",
+            "message": "ふむ。\n私たちからそのボスっぽいのは見えるか？",
+            "voice": "event/event_009/Event_009_04/event_009_04_035.mp3"
+        },
+        {
+            "index": 36,
+            "heroineId": [
+                0
+            ],
+            "name": "マネージャー",
+            "message": "いや、暗くて見えないね。",
+            "voice": ""
+        },
+        {
+            "index": 37,
+            "heroineId": [
+                3
+            ],
+            "name": "鹿野志穂",
+            "message": "じゃあ、マジックライトの魔法を使って、周辺を明るくしよう。\nいでよ、光よ。マナの力で闇を照らせ。",
+            "voice": "event/event_009/Event_009_04/event_009_04_037.mp3"
+        },
+        {
+            "index": 38,
+            "heroineId": [
+                0
+            ],
+            "name": "マネージャー",
+            "message": "明るくなった。\n確かにひと回り大きなゴブリンが指示を出してる様子だね。",
+            "voice": ""
+        },
+        {
+            "index": 39,
+            "heroineId": [
+                0
+            ],
+            "name": "マネージャー",
+            "message": "そして、そのボス風のゴブリンだけど、\n頭に銀の王冠みたいなものをつけてるのが見える。",
+            "voice": ""
+        },
+        {
+            "index": 40,
+            "heroineId": [
+                2
+            ],
+            "name": "鷹取舞花",
+            "message": "へぇ。ゴブリンも偉くなると、おしゃれするんだ。",
+            "voice": "event/event_009/Event_009_04/event_009_04_040.mp3"
+        },
+        {
+            "index": 41,
+            "heroineId": [
+                3
+            ],
+            "name": "鹿野志穂",
+            "message": "これで狙いは定まったな。\n行け、ホノカ！",
+            "voice": "event/event_009/Event_009_04/event_009_04_041.mp3"
+        },
+        {
+            "index": 42,
+            "heroineId": [
+                4
+            ],
+            "name": "月居ほのか",
+            "message": "うおりゃあああああっ！！",
+            "voice": "event/event_009/Event_009_04/event_009_04_042.mp3"
+        },
+        {
+            "index": 43,
+            "heroineId": [
+                0
+            ],
+            "name": "マネージャー",
+            "message": "はい。ホノカの剣でゴブリンのボスはとどめを刺された。\n残っていたゴブリンは、全部逃げ出すね。",
+            "voice": ""
+        },
+        {
+            "index": 44,
+            "heroineId": [
+                0
+            ],
+            "name": "エリカ",
+            "message": "「ふう。ゴブリンどもめ、\n勝ち目がないとわかって一目散に逃げ出したな。」",
+            "voice": ""
+        },
+        {
+            "index": 45,
+            "heroineId": [
+                2
+            ],
+            "name": "鷹取舞花",
+            "message": "やった！",
+            "voice": "event/event_009/Event_009_04/event_009_04_045.mp3"
+        },
+        {
+            "index": 46,
+            "heroineId": [
+                0
+            ],
+            "name": "エリカ",
+            "message": "「みんなよくやってくれた。心から感謝する。\nこのまま村の人たちと合流してひと休みとしよう。」",
+            "voice": ""
+        },
+        {
+            "index": 47,
+            "heroineId": [
+                1
+            ],
+            "name": "六石陽菜",
+            "message": "あの……、村がゴブリンの群れに襲われることって、\n今までも、よくあったんですか？",
+            "voice": "event/event_009/Event_009_04/event_009_04_047.mp3"
+        },
+        {
+            "index": 48,
+            "heroineId": [
+                0
+            ],
+            "name": "エリカ",
+            "message": "「いや、野外で出くわすようなことはたまにあるが、\n少なくとも野営して村を襲うなんて聞いたこともないな。」",
+            "voice": ""
+        },
+        {
+            "index": 49,
+            "heroineId": [
+                1
+            ],
+            "name": "六石陽菜",
+            "message": "何か原因があるのかも。",
+            "voice": "event/event_009/Event_009_04/event_009_04_049.mp3"
+        },
+        {
+            "index": 50,
+            "heroineId": [
+                3
+            ],
+            "name": "鹿野志穂",
+            "message": "確かに怪しいな……。",
+            "voice": "event/event_009/Event_009_04/event_009_04_050.mp3"
+        }
+    ]
+}
