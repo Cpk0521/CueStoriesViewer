@@ -245,6 +245,20 @@ img {
     align-items: flex-start;
 }
 
+#upToTopBtn {
+    background: rgba(43,117,255,.95);
+    border: 1px solid #2b75ff;
+    bottom: 5.5vh;
+    color: #fff;
+    position: fixed;
+    right: 12vw;
+    z-index: 99;
+    height: 4.5vw;
+    width: 4.5vw;
+    border-radius: 50%;
+    padding: auto;
+}
+
 @media only screen and (max-width: 1023px) {
 
     .mainHome {
@@ -331,6 +345,12 @@ img {
         height: 100%;
     }
 
+    #upToTopBtn {
+        bottom: 4.5vh;
+        right: 1vw;
+        height: 13vw;
+        width: 13vw;
+    }
 
 
 }

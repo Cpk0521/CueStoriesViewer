@@ -69,3 +69,18 @@ const loadStories = (type) => {
 }
 
 loadAllJson()
+
+
+var upToTopbtn = document.getElementById("upToTopBtn");
+window.onscroll = () => {
+    if (document.body.scrollTop > 50 || document.documentElement.scrollTop > 50) {
+        upToTopbtn.style.display = "block";
+      } else {
+        upToTopbtn.style.display = "none";
+      }
+}
+
+const topFunction = () => {
+    document.body.scrollTop = 0; // For Safari
+    document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
+}
