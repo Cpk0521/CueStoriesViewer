@@ -4,17 +4,7 @@ var story_id = params.get('id')
 var phase = params.get('phase')
 
 var StoryMaster = {}
-
-// const loadStoryData = (StoryType, sid, phase) => {
-//     let storylist = StoryMaster[StoryType]?.find(x => {return x.scenarios.find(x => x.story_id == sid && x.phase == phase)})    
-//     let curr = [...storylist.scenarios].find(x => x.phase == phase && x.story_id == sid)
-
-//     let scenarioPath = './scenario/' + curr.path
-
-//     let prev = storylist.scenarios.find(x => x.story_id == sid && x.phase == (+phase-1))
-//     let next = storylist.scenarios.find(x => x.story_id == sid && x.phase == (+phase+1))
-
-//     return {prev, curr, next, scenarioPath}
+var voicePlayer = new Audio()
 
 const loadAllJson = () => {
     fetch('./json/All.json')
@@ -36,12 +26,12 @@ const loadAllJson = () => {
             let next = storylist.scenarios.find(x => x.story_id == story_id && x.phase == (+phase+1))
         
             genStory(curr)
+            genFooter(prev, next, story_type)
 
         }).catch(function(error) {
             console.log(error);
         });
 }
-
 
 const genStory = (curr) => {
     var logtitle = document.getElementById('log-title')
@@ -86,9 +76,28 @@ const genStory = (curr) => {
 
 }
 
+const genFooter = (prev, next, story_type) => {
+    var logtitle = document.getElementById('log-footer')
+
+    var inner = '';
+    if (prev)
+        inner += `<div class="prev"><a href="./viewer.html?type=${story_type}&id=${prev.story_id}&phase=${prev.phase}">前の回</a></div>`
+    inner += `<div class="main"><a href="./index.html#${story_type}">戻る</a></div>`
+    if (next)
+        inner += `<div class="next"><a href="./viewer.html?type=${story_type}&id=${next.story_id}&phase=${next.phase}">次の回</a></div>`
+
+    logtitle.innerHTML += inner
+}
+
+
 const playaudio = (path) => {
-    var v = new Audio(`./voice/${path}`);
-    v.play()
+
+    if (!voicePlayer.paused){
+        voicePlayer.pause()
+    }
+
+    voicePlayer.src = `./voice/${path}`
+    voicePlayer.play()
 }
 
 

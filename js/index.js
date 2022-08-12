@@ -74,7 +74,7 @@ loadAllJson()
 var upToTopbtn = document.getElementById("upToTopBtn");
 window.onscroll = () => {
     if (document.body.scrollTop > 50 || document.documentElement.scrollTop > 50) {
-        upToTopbtn.style.display = "block";
+        upToTopbtn.style.display = "flex";
       } else {
         upToTopbtn.style.display = "none";
       }

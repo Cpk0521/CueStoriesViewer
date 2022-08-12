@@ -79,13 +79,43 @@ main {
     background-color: #fff;
     border-radius: 10px;
     border: 1px solid #e6e6e6;
-    padding: 0px 10px 45px 10px;
+    padding: 0px 10px;
 }
 
 .log-title {
     margin: 15px auto;
     font-weight: 600;
     font-size: x-large;
+}
+
+.log-footer {
+    display: grid;
+    justify-content: center;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin: 15px auto;
+    font-weight: 600;
+    font-size: large;
+    padding: 0 5vw;
+}
+
+.log-footer > div > a {
+    text-decoration: none;
+    background-color: transparent;
+    color: #007bff;
+}
+
+.prev {
+    grid-column: 1/2;
+    text-align: left;
+}
+
+.main {
+    grid-column: 2/3;
+}
+
+.next {
+    grid-column: 3/4;
+    text-align: right;
 }
 
 .dialogue {
@@ -238,11 +268,17 @@ img {
 }
 
 .story-chapter {
-    font-size: 1.5vw;
+    font-size: 1.3vw;
     padding: 5px;    
     display: flex;
     flex-direction: column;
     align-items: flex-start;
+}
+
+.story-chapter > a {
+    text-decoration: none!important;
+    background-color: transparent;
+    color: #007bff;
 }
 
 #upToTopBtn {
@@ -257,6 +293,9 @@ img {
     width: 4.5vw;
     border-radius: 50%;
     padding: auto;
+
+    align-items: center;
+    justify-content: center;
 }
 
 @media only screen and (max-width: 1023px) {
@@ -312,6 +351,10 @@ img {
         font-size: inherit;
     }
 
+    .log-footer {
+        padding: 0 10px;
+    }
+
     .dialogue {
         grid-template-columns: auto;
         grid-gap: 5px;
@@ -352,5 +395,5 @@ img {
         width: 13vw;
     }
 
-
+    
 }
