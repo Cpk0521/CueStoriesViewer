@@ -86,7 +86,7 @@ const genFooter = (prev, next, story_type) => {
     if (next)
         inner += `<div class="next"><a href="./viewer.html?type=${story_type}&id=${next.story_id}&phase=${next.phase}">次の回</a></div>`
 
-    logtitle.innerHTML += inner
+    logtitle.innerHTML = inner
 }
 
 
