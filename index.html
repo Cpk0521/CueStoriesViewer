@@ -58,19 +58,35 @@
       <div class="bg"></div>
 
       <div class='header'>
-          <div class='header-contain'>
-            <a href="./index.html" ><img src='./Image/favicon.png'></img></a>
+        <div class="header-left"></div>
+        <div class='header-contain'>
+          <a href="./index.html" ><img src='./Image/favicon.png'></img></a>
+        </div>
+        <div class="header-right">
+          <div onclick="open_sp_menu()">
+            <svg id="sp_menu_open" class="sp-on" xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor" viewBox="0 0 16 16">
+              <path fill-rule="evenodd" d="M2.5 12a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5z"/>
+            </svg>
+            <svg id="sp_menu_close" xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor" viewBox="0 0 16 16">
+              <path d="M2.146 2.854a.5.5 0 1 1 .708-.708L8 7.293l5.146-5.147a.5.5 0 0 1 .708.708L8.707 8l5.147 5.146a.5.5 0 0 1-.708.708L8 8.707l-5.146 5.147a.5.5 0 0 1-.708-.708L7.293 8 2.146 2.854Z"/>
+            </svg>
           </div>
+        </div>
       </div>
-
-      <div class="mainHome">
-        <div class='filter'>
-          <div class='filter-btn-list'>
-              <div class='filter-btn btn-selecting' id='Maindiv'><a href="#Main" onclick="btnOnclick('Main')">メインストーリー</a></div>
-              <div class='filter-btn' id='Carddiv'><a href="#Card" onclick="btnOnclick('Card')">キャラクターストーリー</a></div>
-              <div class='filter-btn' id='Lessondiv'><a href="#Lesson" onclick="btnOnclick('Lesson')">レッスンストーリー</a></div>
-              <div class='filter-btn' id='Linkdiv'><a href="#Link" onclick="btnOnclick('Link')">リンクストーリー</a></div>
-              <div class='filter-btn' id='Eventdiv'><a href="#Event" onclick="btnOnclick('Event')">イベントストーリー</a></div>
+      
+      <div class='filter' id="sp_menu">
+        <div class='filter-btn-list'>
+            <div class='filter-btn btn-selecting' id='Maindiv'><a href="#Main" onclick="btnOnclick('Main')">メインストーリー</a></div>
+            <div class='filter-btn' id='Carddiv'><a href="#Card" onclick="btnOnclick('Card')">キャラクターストーリー</a></div>
+            <div class='filter-btn' id='Lessondiv'><a href="#Lesson" onclick="btnOnclick('Lesson')">レッスンストーリー</a></div>
+            <div class='filter-btn' id='Linkdiv'><a href="#Link" onclick="btnOnclick('Link')">リンクストーリー</a></div>
+            <div class='filter-btn' id='Eventdiv'><a href="#Event" onclick="btnOnclick('Event')">イベントストーリー</a></div>
+        </div>
+      </div>
+        
+      <div class="mainHome" >
+        <div class="chapterFilter">
+          <div class="chapterFilter-list" id="chapterFilter-list">
           </div>
         </div>
 
@@ -86,22 +102,19 @@
                   </div>
               </div>   
             </div> -->
-  
           </div>
         </div>
 
       </div>
 
       <button id="upToTopBtn" onclick="topFunction()" style="display:none">
-        <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" fill="currentColor" class="bi bi-chevron-up" viewBox="0 0 16 16">
-          <path fill-rule="evenodd" d="M7.646 4.646a.5.5 0 0 1 .708 0l6 6a.5.5 0 0 1-.708.708L8 5.707l-5.646 5.647a.5.5 0 0 1-.708-.708l6-6z"/>
-        </svg>
+        <img src="./Image/btn_top.png">
       </button>
 
     </div>
 
+    <script src="./js/index.js" type="text/javascript"></script>
   </body>
 
-  <script src="./js/index.js" type="text/javascript"></script>
 
 </html>
