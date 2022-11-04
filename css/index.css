@@ -392,6 +392,19 @@ img {
     display: none;
 }
 
+::-webkit-scrollbar {
+    width: 5px;
+}
+
+::-webkit-scrollbar-track {
+    background-color: #e4e4e4;
+    border-radius: 100px;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #b3b3b3;
+    border-radius: 100px;
+}
 
 @media only screen and (max-width: 1023px) {
 
