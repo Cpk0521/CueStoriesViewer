@@ -151,7 +151,7 @@ main {
     border: 1px solid #e6e6e6;
     padding: 10px;
     display: grid;
-    grid-template-columns: 2fr 8fr .5fr;
+    grid-template-columns: 2.5fr 8fr .5fr;
     grid-gap: 7px;
     /* justify-content: center;
     align-items: center; */
@@ -378,6 +378,7 @@ img {
     align-items: center;
     justify-content: center;
 }
+
 
 #upToTopBtn img {
     width: 50%;

@@ -48,8 +48,6 @@ const loadStoryLog = (curr) => {
 
     // var logItemList = document.getElementById('log-item-list')
 
-    // https://raw.githubusercontent.com/Cpk0521/CueStoriesViewer/main
-
     fetch(`${resource_path}/scenario/${curr.path}`)
         .then(function(response) {
             if (!response.ok) {
@@ -282,8 +280,6 @@ const editLogContent = (index, content) => {
     if((edit_lan === '' || edit_lan === 'default') && !edit_lan) {
         return
     }
-
-    console.log(content)
 
     //edit
     edit_Story.Dialogue.forEach(d => {

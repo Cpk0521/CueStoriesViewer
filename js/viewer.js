@@ -5,7 +5,7 @@ var phase = params.get('phase')
 
 var resource_path = 'https://raw.githubusercontent.com/Cpk0521/CueStoryResource/main'
 
-var StoryMaster = {}
+var Story = {}
 var voicePlayer = new Audio()
 
 const loadAllJson = () => {
@@ -40,8 +40,6 @@ const genStory = (curr) => {
     logtitle.innerHTML = curr.title
     document.title = `${curr.title} | Stories Archive Viewer`
 
-    var logItemList = document.getElementById('log-item-list')
-
     fetch(`${resource_path}/scenario/${curr.path}`)
         .then(function(response) {
             if (!response.ok) {
@@ -52,30 +50,43 @@ const genStory = (curr) => {
         .then(response => response.json())
         .then(json => {
 
-
-            var inner = ``
-            json.Dialogue?.map(d => {
-                inner += `<div class='Log-item'>`
-                inner += `<div class='dialogue'>`
-                inner += `<div class='dialogue-icon ${d.heroineId.length > 1?`multiple-${d.heroineId.length}`:''}'>` 
-                Array.from(d.heroineId).forEach(i => {
-                    if(i != 0)
-                        inner += `<img src="./Image/CharIcon/CharaIcon_${i.toString().padStart(2, '0')}.png"/>`
-                })
-                inner += `</div>`
-                inner += `<div class='dialogue-name'>${d.name.default}</div>`
-                inner += `<div class='dialogue-meg'>${d.message.default}</div>`
-                inner += `<div class='dialogue-voice'>`
-                if(d.voice != "")
-                    inner += `<img src='./Image/Scenario_VoiceButton.png' onclick="playaudio('${d.voice}')"></img>`
-                inner += `</div></div></div>`
-            })
-            logItemList.innerHTML += inner
+            Story = json
+            genStoryLog(json)
 
         }).catch(function(error) {
             console.log(error);
         });
 
+}
+
+
+const genStoryLog = (story, language = 'default') => {
+
+    if(language != 'default') {
+        if(!story.Language?.includes(language)) {
+            return
+        }
+    }
+
+    var logItemList = document.getElementById('log-item-list')
+    var inner = ``
+    story.Dialogue?.map(d => {
+        inner += `<div class='Log-item'>`
+        inner += `<div class='dialogue'>`
+        inner += `<div class='dialogue-icon ${d.heroineId.length > 1?`multiple-${d.heroineId.length}`:''}'>` 
+        Array.from(d.heroineId).forEach(i => {
+            if(i != 0)
+                inner += `<img src="./Image/CharIcon/CharaIcon_${i.toString().padStart(2, '0')}.png"/>`
+        })
+        inner += `</div>`
+        inner += `<div class='dialogue-name'>${d.name[language]}</div>`
+        inner += `<div class='dialogue-meg'>${d.message[language]}</div>`
+        inner += `<div class='dialogue-voice'>`
+        if(d.voice != "")
+            inner += `<img src='./Image/Scenario_VoiceButton.png' onclick="playaudio('${d.voice}')"></img>`
+        inner += `</div></div></div>`
+    })
+    logItemList.innerHTML = inner
 }
 
 const genFooter = (prev, next, story_type) => {
@@ -113,4 +124,9 @@ document.addEventListener("keydown", function(event) {
     if (event.key == 'e' || event.key == 'E') {
         window.open(`./editor.html?type=${story_type}&id=${story_id}&phase=${phase}`,'_blank');
     }
+
+    if (event.key == 'c' || event.key == 'C') {
+        genStoryLog(Story, 'zh')
+    }
 });
+
