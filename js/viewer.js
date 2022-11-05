@@ -3,6 +3,8 @@ var story_type = params.get('type')
 var story_id = params.get('id')
 var phase = params.get('phase')
 
+var resource_path = 'https://raw.githubusercontent.com/Cpk0521/CueStoryResource/main'
+
 var StoryMaster = {}
 var voicePlayer = new Audio()
 
@@ -40,7 +42,7 @@ const genStory = (curr) => {
 
     var logItemList = document.getElementById('log-item-list')
 
-    fetch(`./scenario/${curr.path}`)
+    fetch(`${resource_path}/scenario/${curr.path}`)
         .then(function(response) {
             if (!response.ok) {
                 throw Error(response.statusText);
@@ -96,7 +98,7 @@ const playaudio = (path) => {
         voicePlayer.pause()
     }
 
-    voicePlayer.src = `./voice/${path}`
+    voicePlayer.src = `${resource_path}/voice/${path}`
     voicePlayer.play()
 }
 
