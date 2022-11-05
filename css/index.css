@@ -95,7 +95,7 @@ main {
     position: relative;
     background-color: #fff;
     border-radius: 10px;
-    height: 200px;
+    /* height: 200px; */
     border: 1px solid #e6e6e6;
     /* box-shadow: 0 .5px 5px 1px #d8d8d8; */
 }
@@ -193,8 +193,13 @@ img {
     grid-row: 2 / 3;
     grid-column: 1 / 2;
     text-align: center;
-    font-weight: 500;
+    /* font-weight: 500; */
     margin: auto 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: small;
+    font-family: RodinCattleya_Pro_EB;
 }
 
 .dialogue-meg {
@@ -207,7 +212,7 @@ img {
     font-weight: 700;
 }
 
-.dialogue-voice {
+.dialogue-voice, .editor-tool {
     grid-row: 1 / 3;
     grid-column: 3 / 4;
     text-align: center;
@@ -310,6 +315,7 @@ img {
 .chapterFilter-list {
     margin: 0 auto;
     display: flex;
+    align-items: center;
     height: 25vh;
     flex-wrap: nowrap;
     flex-direction: row;
@@ -325,8 +331,10 @@ img {
 .chapterFilter-all {
     background-color: #fff;
     border-radius: 10px;
-    padding: 25px;
-    border: 1px solid #e6e6e6;
+    padding: 15px;
+    height: 100%;
+    border: 1px solid #b3b3b3;
+    font-family: RodinCattleya_Pro_EB;
 }
 
 .chapterFilter-all:active {
@@ -336,11 +344,6 @@ img {
 #chaper-btn {
     cursor: pointer;
 }
-
-/* ::-webkit-scrollbar {
-    width: 5px;  
-    background: transparent;
-} */
 
 .sp-btn-menu {
     height: 4.5vw;
@@ -392,21 +395,77 @@ img {
     display: none;
 }
 
-::-webkit-scrollbar {
-    width: 5px;
+.editor-log-title {
+    width: 90%;
+    height: 5vh;
+    text-align: center;
+    font-size: medium;
+    font-family: RodinCattleya_Pro_EB;
+    resize: none;
+    border-radius: 5px;
 }
 
-::-webkit-scrollbar-track {
+.editor-name {
+    width: 100%;
+    text-align: center;
+}
+
+.editor-meg {
+    height: 15vh;
+    resize: none;
+    border-radius: 5px;
+    border: 1px solid #7d7d7d;
+    font-size: medium;
+    font-family: RodinCattleya_Pro_B;
+    white-space: unset!important;
+}
+
+.editor-controller {
+    /* position: absolute;
+    bottom: 0; */
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    /* width: 100%; */
+    align-items: center;
+    justify-items: center;
+    
+}
+
+.editor-controller-btn {
+    display : flex;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    border-bottom: 1px solid #e6e6e6;
+    cursor: pointer;
+    padding: 15px 0;
+}
+
+.editor-controller-btn:hover {
+    background-color: #e6e6e6;
+}
+
+input[type=text] {
+    border-radius: 5px;
+    border: 1px solid #7d7d7d;
+}
+
+.chapterFilter-list::-webkit-scrollbar {
+    height: 5px;
+}
+
+.chapterFilter-list::-webkit-scrollbar-track {
     background-color: #e4e4e4;
     border-radius: 100px;
 }
 
-::-webkit-scrollbar-thumb {
+.chapterFilter-list::-webkit-scrollbar-thumb {
     background-color: #b3b3b3;
     border-radius: 100px;
 }
 
-@media only screen and (max-width: 1023px) {
+@media only screen and (max-width: 1024px) {
 
     .mainHome {
         width: 90vw;
@@ -471,11 +530,13 @@ img {
     }
 
     aside {
-        width:auto;
+        /* width: auto; */
+        width: 96vw;
     }
 
     main {
-        width:auto;
+        /* width:auto; */
+        width: 96vw;
     }
 
     .log-title {
@@ -505,6 +566,7 @@ img {
     .dialogue-name {
         grid-row: 2 / 3;
         grid-column: 1 / 2;
+        margin: 0;
     }
 
     .dialogue-meg {
@@ -525,5 +587,14 @@ img {
         height: 13vw;
         width: 13vw;
     }
+
+    .chapterFilter-list::-webkit-scrollbar {
+        height: 3px;
+    }
+
+    .editor-meg {
+        width: 100%;
+    }
+
 
 }

@@ -3,8 +3,8 @@ var story_type = params.get('type')
 var story_id = params.get('id')
 var phase = params.get('phase')
 
-var StoryMaster = {}
-var voicePlayer = new Audio()
+var EditStory = {}
+var localStorge = window.localStorage
 
 const loadAllJson = () => {
     fetch('./json/All.json')
@@ -22,21 +22,19 @@ const loadAllJson = () => {
             let storylist = json[story_type]?.find(x => {return x.scenarios.find(s => s.story_id == story_id && s.phase == phase)}) 
             let curr = [...storylist.scenarios]?.find(x => {return x.phase == phase && x.story_id == story_id})
             
-            let prev = storylist.scenarios.find(x => x.story_id == story_id && x.phase == (+phase-1))
-            let next = storylist.scenarios.find(x => x.story_id == story_id && x.phase == (+phase+1))
-        
-            genStory(curr)
-            genFooter(prev, next, story_type)
+            // console.log(curr)
+            genEditorStoryLog(curr)
 
         }).catch(function(error) {
             console.log(error);
         });
 }
 
-const genStory = (curr) => {
+
+const genEditorStoryLog = (curr) => {
     var logtitle = document.getElementById('log-title')
-    logtitle.innerHTML = curr.title
-    document.title = `${curr.title} | Stories Archive Viewer`
+    logtitle.innerText = curr.title
+    document.title = `${curr.title} | Editor Mode`
 
     var logItemList = document.getElementById('log-item-list')
 
@@ -50,6 +48,7 @@ const genStory = (curr) => {
         .then(response => response.json())
         .then(json => {
 
+            EditStory = json
 
             var inner = ``
             json.Dialogue?.map(d => {
@@ -61,11 +60,11 @@ const genStory = (curr) => {
                         inner += `<img src="./Image/CharIcon/CharaIcon_${i.toString().padStart(2, '0')}.png"/>`
                 })
                 inner += `</div>`
-                inner += `<div class='dialogue-name'>${d.name}</div>`
-                inner += `<div class='dialogue-meg'>${d.message}</div>`
+                inner += `<div class='dialogue-name'><input type="text" class="editor-name" value="${d.name}"/></div>`
+                inner += `<textarea class='dialogue-meg editor-meg'>${d.message}</textarea>`
                 inner += `<div class='dialogue-voice'>`
-                if(d.voice != "")
-                    inner += `<img src='./Image/Scenario_VoiceButton.png' onclick="playaudio('${d.voice}')"></img>`
+                // if(d.voice != "")
+                //     inner += `<img src='./Image/Scenario_VoiceButton.png' onclick="playaudio('${d.voice}')"></img>`
                 inner += `</div></div></div>`
             })
             logItemList.innerHTML += inner
@@ -76,39 +75,30 @@ const genStory = (curr) => {
 
 }
 
-const genFooter = (prev, next, story_type) => {
-    var logtitle = document.getElementById('log-footer')
+const previewStoryLog = () => {
 
-    var inner = '';
-    if (prev)
-        inner += `<div class="prev"><a href="./viewer.html?type=${story_type}&id=${prev.story_id}&phase=${prev.phase}">前の回</a></div>`
-    inner += `<div class="main"><a href="./index.html#${story_type}">戻る</a></div>`
-    if (next)
-        inner += `<div class="next"><a href="./viewer.html?type=${story_type}&id=${next.story_id}&phase=${next.phase}">次の回</a></div>`
+}
 
-    logtitle.innerHTML = inner
+const preview = () => {
+    console.log('preview')
+}
+
+const saveEditToLoacl = () => {
+    console.log('save')
+}
+
+const downloadJSON = () => {
+    console.log('download')
+
+    var dataStr = "data:text/json;charset=utf-8," + encodeURIComponent(JSON.stringify(EditStory));
+    var downloadAnchorNode = document.createElement('a');
+    downloadAnchorNode.setAttribute("href", dataStr);
+    downloadAnchorNode.setAttribute("download", EditStory.Txt_Name + ".json");
+    document.body.appendChild(downloadAnchorNode);
+    downloadAnchorNode.click();
+    downloadAnchorNode.remove();
 }
 
 
-const playaudio = (path) => {
-
-    if (!voicePlayer.paused){
-        voicePlayer.pause()
-    }
-
-    voicePlayer.src = `./voice/${path}`
-    voicePlayer.play()
-}
-
-
-const Hello = (text) => {
-    console.log(text)
-}
 
 loadAllJson()
-
-document.addEventListener("keydown", function(event) {
-    if (event.key == 'e' || event.key == 'E') {
-        window.open(`./editor.html?type=${story_type}&id=${story_id}&phase=${phase}`,'_blank');
-    }
-});

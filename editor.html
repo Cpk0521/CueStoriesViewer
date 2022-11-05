@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Stories Archive Viewer | CUE!-see you everyday-</title>
+    <!-- <meta name="viewport" content="width=device-width, maximum-scale=1.0"> -->
+    <link rel="icon" href="./Image/favicon.png" />
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta
+      name="description"
+      content="Stories Archive Viewer | CUE!-see you everyday-"
+    />
+
+    <!-- twitter -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta
+      name="twitter:url"
+      content=""
+    />
+    <meta name="twitter:title" content="Stories Archive Viewer | CUE!-see you everyday-" />
+    <meta
+      name="twitter:description"
+      content="Stories Archive Viewer | CUE!-see you everyday-"
+    />
+    <!-- <meta
+      name="twitter:image"
+      content=""
+    /> -->
+
+    <!-- facebook -->
+    <meta property="og:title" content="Stories Archive Viewer | CUE!-see you everyday-" />
+    <meta
+      property="og:site_name"
+      content="Stories Archive Viewer | CUE!-see you everyday-"
+    />
+    <meta
+      property="og:description"
+      content="Stories Archive Viewer | CUE!-see you everyday-"
+    />
+    <meta property="og:type" content="website" />
+    <meta
+      property="og:url"
+      content=""
+    />
+    <!-- <meta
+      property="og:image"
+      content="%PUBLIC_URL%"
+    /> -->
+    
+
+    <link rel="stylesheet" type="text/css" href="./css/index.css">
+  </head>
+
+  <body>
+    <noscript>You need to enable JavaScript to run this app.</noscript>
+    <div id="root">
+        <div class="bg"></div>
+        <div class='header'>
+          <div class="header-left"></div>
+          <div class='header-contain'>
+            <a href="./index.html" ><img src='./Image/favicon.png'></img></a>
+          </div>
+          <div class="header-right"></div>
+        </div>
+        <div class="reader-contain">
+            <aside class="reader-left">
+              <div class='infoBlock sticky'>
+                <div class='info-contain'>
+                  <div>
+
+                  </div>
+                  <div class="editor-controller">
+                    <div class="editor-controller-btn" onclick="preview()">
+                      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 12s3-7 10-7 10 7 10 7-3 7-10 7-10-7-10-7Z"></path><circle cx="12" cy="12" r="3"></circle></svg>
+                      <div>preview</div>
+                    </div>
+                    <div class="editor-controller-btn" onclick="saveEditToLoacl()">
+                      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h11l5 5v11a2 2 0 0 1-2 2z"></path><polyline points="17 21 17 13 7 13 7 21"></polyline><polyline points="7 3 7 8 15 8"></polyline></svg>
+                      <div>save</div>
+                    </div>
+                    <div class="editor-controller-btn" onclick="downloadJSON()">
+                      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path><polyline points="7 10 12 15 17 10"></polyline><line x1="12" y1="15" x2="12" y2="3"></line></svg>
+                      <div>download</div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </aside>
+              
+            <main>
+                <div class='viewer'>
+                    <div class='log-item-list'>
+                        <!-- title -->
+                      <div type="text" class="log-title" id="log-title">404</div>
+                        <!-- Content -->
+                      <div class='log-list' id="log-item-list">
+
+                        <!-- <div class="Log-item">
+                          <div class="dialogue">
+                            <div class="dialogue-icon">
+                              <img src="./Image/CharIcon/CharaIcon_02.png"></div>
+
+                              <div class="dialogue-name">
+                                <input type="text" class="editor-name" value="鷹取舞花"/>
+                              </div>
+                              <textarea class="dialogue-meg editor-meg">??</textarea>
+                              <div class="dialogue-voice">
+                                <img src="./Image/Scenario_VoiceButton.png">
+                              </div>
+                            </div>
+                          </div> -->
+
+                      </div>
+
+                      <!-- footer -->
+                      <div class='log-footer' id="log-footer"></div>
+
+                    </div>
+                </div>
+            </main>
+            <aside class="reader-right">
+                <!-- <div class='infoBlock sticky'>
+                    <div class='info-contain'>
+                        
+                    </div>
+                </div> -->
+            </aside>
+        </div>
+
+
+        
+    </div>
+
+
+  </body>
+
+  <script src="./js/editor.js" type="text/javascript"></script>
+
+</html>
