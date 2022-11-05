@@ -124,6 +124,9 @@ const genEditorStoryLog = (EditStory, language = 'default') => {
         input.type = 'text'
         input.className = 'editor-name'
         input.value = `${d.name[language]}`
+        if(edit_lan == '') {
+            input.disabled = true
+        }
         input.onchange = () => {
             editNameContent(d.index, input.value)
         }
@@ -132,6 +135,9 @@ const genEditorStoryLog = (EditStory, language = 'default') => {
         let textarea = document.createElement("textarea");
         textarea.className = 'dialogue-meg editor-meg'
         textarea.innerHTML = `${d.message[language]}`
+        if(edit_lan == '') {
+            textarea.disabled = true
+        }
         textarea.onchange = () => {
             editLogContent(d.index, textarea.value)
         }
@@ -183,6 +189,9 @@ const preview = () => {
                             <path d="M16 5l3 3"></path>
                         </svg><div>Edit</div>`
         previewStoryLog(edit_lan)
+        // if(edit_lan != '') {
+        //     saveEditToLoacl()
+        // }
     }else {
         btn.innerHTML = `<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 12s3-7 10-7 10 7 10 7-3 7-10 7-10-7-10-7Z"></path><circle cx="12" cy="12" r="3"></circle></svg>
                         <div>preview</div>`
