@@ -6,8 +6,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "あら……、お酒、無くなっちゃった。\nおかわりもらおうかな。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "あら……、お酒、無くなっちゃった。\nおかわりもらおうかな。"
+            },
             "voice": "card/Card_09/Card_4090010_3/card_4090010_3_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "次は何飲むの？",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "次は何飲むの？"
+            },
             "voice": "card/Card_09/Card_4090010_3/card_4090010_3_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "えっと、そうね……。\n……、オールドファッションド、もらおうかな。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "えっと、そうね……。\n……、オールドファッションド、もらおうかな。"
+            },
             "voice": "card/Card_09/Card_4090010_3/card_4090010_3_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "何それ？",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "何それ？"
+            },
             "voice": "card/Card_09/Card_4090010_3/card_4090010_3_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "カクテルよ。ウイスキーベースの。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "カクテルよ。ウイスキーベースの。"
+            },
             "voice": "card/Card_09/Card_4090010_3/card_4090010_3_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "へえ。あんた、やっぱり詳しいよね。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "へえ。あんた、やっぱり詳しいよね。"
+            },
             "voice": "card/Card_09/Card_4090010_3/card_4090010_3_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "うふふ。\nフルーツとかお砂糖とかが入って、おいしいの。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "うふふ。\nフルーツとかお砂糖とかが入って、おいしいの。"
+            },
             "voice": "card/Card_09/Card_4090010_3/card_4090010_3_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "まほろは？　\nグラス、空でしょ？",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "まほろは？　\nグラス、空でしょ？"
+            },
             "voice": "card/Card_09/Card_4090010_3/card_4090010_3_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "あー、じゃあ、まほろは今と同じの。\nモヒート、おかわり。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "あー、じゃあ、まほろは今と同じの。\nモヒート、おかわり。"
+            },
             "voice": "card/Card_09/Card_4090010_3/card_4090010_3_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "ねーえ、まほろ、\n人の話の途中で、話題変えるのずるい。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "ねーえ、まほろ、\n人の話の途中で、話題変えるのずるい。"
+            },
             "voice": "card/Card_09/Card_4090010_3/card_4090010_3_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "いやいや、\n今日はまほろの話は無しだって言ってるじゃん。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "いやいや、\n今日はまほろの話は無しだって言ってるじゃん。"
+            },
             "voice": "card/Card_09/Card_4090010_3/card_4090010_3_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "ええ、それ、後出しじゃない？",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "ええ、それ、後出しじゃない？"
+            },
             "voice": "card/Card_09/Card_4090010_3/card_4090010_3_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "美晴のほうこそ、\nいつの間にか人を自分のペースに取り込んじゃうしさ。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "美晴のほうこそ、\nいつの間にか人を自分のペースに取り込んじゃうしさ。"
+            },
             "voice": "card/Card_09/Card_4090010_3/card_4090010_3_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "ほんと、上手いっていうか、なんていうか。\n自然とそうなる、天性のオーラっていうか。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "ほんと、上手いっていうか、なんていうか。\n自然とそうなる、天性のオーラっていうか。"
+            },
             "voice": "card/Card_09/Card_4090010_3/card_4090010_3_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "そうかなぁ？",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "そうかなぁ？"
+            },
             "voice": "card/Card_09/Card_4090010_3/card_4090010_3_015.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "そうだよ。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "そうだよ。"
+            },
             "voice": "card/Card_09/Card_4090010_3/card_4090010_3_016.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "うふふ。\n……そう言えば、他にも聞きたいことあるの、わたし。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "うふふ。\n……そう言えば、他にも聞きたいことあるの、わたし。"
+            },
             "voice": "card/Card_09/Card_4090010_3/card_4090010_3_017.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "何？",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "何？"
+            },
             "voice": "card/Card_09/Card_4090010_3/card_4090010_3_018.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "まほろ、莉子と仲良すぎじゃない？",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "まほろ、莉子と仲良すぎじゃない？"
+            },
             "voice": "card/Card_09/Card_4090010_3/card_4090010_3_019.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "はあ！？　何言ってんの？\n全然そんなことないんだけど。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "はあ！？　何言ってんの？\n全然そんなことないんだけど。"
+            },
             "voice": "card/Card_09/Card_4090010_3/card_4090010_3_020.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "それとも、絢との仲のほうが、いいのかな？",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "それとも、絢との仲のほうが、いいのかな？"
+            },
             "voice": "card/Card_09/Card_4090010_3/card_4090010_3_021.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "いや、それもそれで無いし。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "いや、それもそれで無いし。"
+            },
             "voice": "card/Card_09/Card_4090010_3/card_4090010_3_022.mp3"
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "うふふ。ムキになって否定するところをみると……。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "うふふ。ムキになって否定するところをみると……。"
+            },
             "voice": "card/Card_09/Card_4090010_3/card_4090010_3_023.mp3"
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "ああ、もう、まほろの話は無しだって言ったんだけど！",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "ああ、もう、まほろの話は無しだって言ったんだけど！"
+            },
             "voice": "card/Card_09/Card_4090010_3/card_4090010_3_024.mp3"
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "っていうか、ほら！\nいつの間にか美晴のペースになってる。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "っていうか、ほら！\nいつの間にか美晴のペースになってる。"
+            },
             "voice": "card/Card_09/Card_4090010_3/card_4090010_3_025.mp3"
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "うふふ。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "うふふ。"
+            },
             "voice": "card/Card_09/Card_4090010_3/card_4090010_3_026.mp3"
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "その技、どこで身につけたの？",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "その技、どこで身につけたの？"
+            },
             "voice": "card/Card_09/Card_4090010_3/card_4090010_3_027.mp3"
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "やだ、まほろ、ひどい！\n技なんかじゃないのに。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "やだ、まほろ、ひどい！\n技なんかじゃないのに。"
+            },
             "voice": "card/Card_09/Card_4090010_3/card_4090010_3_028.mp3"
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "わたし、楽しくお話してるだけよ？",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "わたし、楽しくお話してるだけよ？"
+            },
             "voice": "card/Card_09/Card_4090010_3/card_4090010_3_029.mp3"
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "よく言うよ。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "よく言うよ。"
+            },
             "voice": "card/Card_09/Card_4090010_3/card_4090010_3_030.mp3"
         },
         {
@@ -276,8 +396,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "うふふ。\nあ、それでね、まほろ。あのね……。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "うふふ。\nあ、それでね、まほろ。あのね……。"
+            },
             "voice": "card/Card_09/Card_4090010_3/card_4090010_3_031.mp3"
         },
         {
@@ -285,8 +409,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "何よ？　まほろの話は無しだからね。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "何よ？　まほろの話は無しだからね。"
+            },
             "voice": "card/Card_09/Card_4090010_3/card_4090010_3_032.mp3"
         },
         {
@@ -294,8 +422,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "えっとね……。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "えっとね……。"
+            },
             "voice": "card/Card_09/Card_4090010_3/card_4090010_3_033.mp3"
         },
         {
@@ -303,8 +435,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "うー……、ちょっと頭が痛いな……。\n昨日は調子に乗りすぎたかも。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "うー……、ちょっと頭が痛いな……。\n昨日は調子に乗りすぎたかも。"
+            },
             "voice": "card/Card_09/Card_4090010_3/card_4090010_3_034.mp3"
         },
         {
@@ -312,8 +448,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "はあ、まほろとしたことが……。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "はあ、まほろとしたことが……。"
+            },
             "voice": "card/Card_09/Card_4090010_3/card_4090010_3_035.mp3"
         },
         {
@@ -321,8 +461,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "結局なんだかんだ美晴に乗せられて、\n話さなくてもいいようなことまで、喋っちゃった気がする。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "結局なんだかんだ美晴に乗せられて、\n話さなくてもいいようなことまで、喋っちゃった気がする。"
+            },
             "voice": "card/Card_09/Card_4090010_3/card_4090010_3_036.mp3"
         },
         {
@@ -330,8 +474,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "ほんと怖いね、美晴は……。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "ほんと怖いね、美晴は……。"
+            },
             "voice": "card/Card_09/Card_4090010_3/card_4090010_3_037.mp3"
         },
         {
@@ -339,8 +487,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "なあに、わたしの名前、呼んだ？",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "なあに、わたしの名前、呼んだ？"
+            },
             "voice": "card/Card_09/Card_4090010_3/card_4090010_3_038.mp3"
         },
         {
@@ -348,8 +500,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "わ、美晴！",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "わ、美晴！"
+            },
             "voice": "card/Card_09/Card_4090010_3/card_4090010_3_039.mp3"
         },
         {
@@ -357,8 +513,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "うふふ。まほろ、おはよう。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "うふふ。まほろ、おはよう。"
+            },
             "voice": "card/Card_09/Card_4090010_3/card_4090010_3_040.mp3"
         },
         {
@@ -366,8 +526,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "お……、おはよう。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "お……、おはよう。"
+            },
             "voice": "card/Card_09/Card_4090010_3/card_4090010_3_041.mp3"
         },
         {
@@ -375,8 +539,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "あのさ……、美晴。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "あのさ……、美晴。"
+            },
             "voice": "card/Card_09/Card_4090010_3/card_4090010_3_042.mp3"
         },
         {
@@ -384,8 +552,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "なあに？",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "なあに？"
+            },
             "voice": "card/Card_09/Card_4090010_3/card_4090010_3_043.mp3"
         },
         {
@@ -393,8 +565,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "昨日のことは全部忘れて。\n余計なことまで話しちゃった気がする。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "昨日のことは全部忘れて。\n余計なことまで話しちゃった気がする。"
+            },
             "voice": "card/Card_09/Card_4090010_3/card_4090010_3_044.mp3"
         },
         {
@@ -402,8 +578,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "どうして？\nあんなに楽しかったじゃない？",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "どうして？\nあんなに楽しかったじゃない？"
+            },
             "voice": "card/Card_09/Card_4090010_3/card_4090010_3_045.mp3"
         },
         {
@@ -411,8 +591,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "ああ、もう。本当に勘弁して。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "ああ、もう。本当に勘弁して。"
+            },
             "voice": "card/Card_09/Card_4090010_3/card_4090010_3_046.mp3"
         },
         {
@@ -420,8 +604,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "うふふ。しょうがないなぁ。\nその代わり……。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "うふふ。しょうがないなぁ。\nその代わり……。"
+            },
             "voice": "card/Card_09/Card_4090010_3/card_4090010_3_047.mp3"
         },
         {
@@ -429,8 +617,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "その代わり？　何？",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "その代わり？　何？"
+            },
             "voice": "card/Card_09/Card_4090010_3/card_4090010_3_048.mp3"
         },
         {
@@ -438,8 +630,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "まほろの隠れ家、\nまた一緒に飲みに行きましょ？",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "まほろの隠れ家、\nまた一緒に飲みに行きましょ？"
+            },
             "voice": "card/Card_09/Card_4090010_3/card_4090010_3_049.mp3"
         },
         {
@@ -447,8 +643,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "うふふ。大丈夫！\nわたしだけ、だから、ね！",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "うふふ。大丈夫！\nわたしだけ、だから、ね！"
+            },
             "voice": "card/Card_09/Card_4090010_3/card_4090010_3_050.mp3"
         }
     ]

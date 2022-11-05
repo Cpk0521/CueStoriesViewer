@@ -6,8 +6,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "お疲れ様です。\nあ、まほろ。まだ帰ってなかったんだ。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "お疲れ様です。\nあ、まほろ。まだ帰ってなかったんだ。"
+            },
             "voice": "audition/story_01/heroine_10/HM_Cast_01_10_11_02/hm_cast_01_10_11_02_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "ううん、まほろも今終わったとこ。\n丁度いいや、絢に話があるんだけど。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "ううん、まほろも今終わったとこ。\n丁度いいや、絢に話があるんだけど。"
+            },
             "voice": "audition/story_01/heroine_10/HM_Cast_01_10_11_02/hm_cast_01_10_11_02_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "え？　なに？",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "え？　なに？"
+            },
             "voice": "audition/story_01/heroine_10/HM_Cast_01_10_11_02/hm_cast_01_10_11_02_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "ほら、これ。\nこの雑貨屋さん、絶対に絢の好みだと思って。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "ほら、これ。\nこの雑貨屋さん、絶対に絢の好みだと思って。"
+            },
             "voice": "audition/story_01/heroine_10/HM_Cast_01_10_11_02/hm_cast_01_10_11_02_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "えっ、かわいい……！",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "えっ、かわいい……！"
+            },
             "voice": "audition/story_01/heroine_10/HM_Cast_01_10_11_02/hm_cast_01_10_11_02_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "でしょ？\n他にも系列店があって、お店によってテイスト変えてるみたい。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "でしょ？\n他にも系列店があって、お店によってテイスト変えてるみたい。"
+            },
             "voice": "audition/story_01/heroine_10/HM_Cast_01_10_11_02/hm_cast_01_10_11_02_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "そうなんだ、全部行ってみたいなぁ……。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "そうなんだ、全部行ってみたいなぁ……。"
+            },
             "voice": "audition/story_01/heroine_10/HM_Cast_01_10_11_02/hm_cast_01_10_11_02_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "まぁ、行きたい時に行けばいいだけじゃないの？\nすぐ無くなるもんでもないでしょ。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "まぁ、行きたい時に行けばいいだけじゃないの？\nすぐ無くなるもんでもないでしょ。"
+            },
             "voice": "audition/story_01/heroine_10/HM_Cast_01_10_11_02/hm_cast_01_10_11_02_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "それはそうなんだけど……。\n行ったら絶対色々欲しくなっちゃうし……。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "それはそうなんだけど……。\n行ったら絶対色々欲しくなっちゃうし……。"
+            },
             "voice": "audition/story_01/heroine_10/HM_Cast_01_10_11_02/hm_cast_01_10_11_02_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "うぅ……どうしよう。\nまほろも一緒に行ってくれる？",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "うぅ……どうしよう。\nまほろも一緒に行ってくれる？"
+            },
             "voice": "audition/story_01/heroine_10/HM_Cast_01_10_11_02/hm_cast_01_10_11_02_010.mp3"
         }
     ]

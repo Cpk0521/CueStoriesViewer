@@ -6,8 +6,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "思い出した～！\n思い出したよ～！",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "思い出した～！\n思い出したよ～！"
+            },
             "voice": "card/Card_09/Card_4090005_3/card_4090005_3_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "りおさん、何を思い出したんですか？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "りおさん、何を思い出したんですか？"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "さっき話してた、アレ。\nバラの花言葉！",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "さっき話してた、アレ。\nバラの花言葉！"
+            },
             "voice": "card/Card_09/Card_4090005_3/card_4090005_3_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "バラの花言葉って確か……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "バラの花言葉って確か……。"
+            },
             "voice": ""
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "「熱烈な愛」でしょ？",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "「熱烈な愛」でしょ？"
+            },
             "voice": "card/Card_09/Card_4090005_3/card_4090005_3_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "さっきそう言ってましたよね？",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "さっきそう言ってましたよね？"
+            },
             "voice": "card/Card_09/Card_4090005_3/card_4090005_3_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "と・こ・ろ・が・だよ！\nバラは、色によって花言葉が違うの！",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "と・こ・ろ・が・だよ！\nバラは、色によって花言葉が違うの！"
+            },
             "voice": "card/Card_09/Card_4090005_3/card_4090005_3_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そうなんですか？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そうなんですか？"
+            },
             "voice": ""
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "「熱烈な愛」は、赤いバラの花言葉。",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "「熱烈な愛」は、赤いバラの花言葉。"
+            },
             "voice": "card/Card_09/Card_4090005_3/card_4090005_3_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "赤いバラ？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "赤いバラ？"
+            },
             "voice": ""
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "ちなみに、白いバラは「純潔」。\nピンクのバラは「しとやか」。",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "ちなみに、白いバラは「純潔」。\nピンクのバラは「しとやか」。"
+            },
             "voice": "card/Card_09/Card_4090005_3/card_4090005_3_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "黄色いバラは「愛情の薄らぎ」。",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "黄色いバラは「愛情の薄らぎ」。"
+            },
             "voice": "card/Card_09/Card_4090005_3/card_4090005_3_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "へえ……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "へえ……。"
+            },
             "voice": ""
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "ていうか、バラっていろんな色があるのね。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "ていうか、バラっていろんな色があるのね。"
+            },
             "voice": "card/Card_09/Card_4090005_3/card_4090005_3_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "知らなかった。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "知らなかった。"
+            },
             "voice": "card/Card_09/Card_4090005_3/card_4090005_3_015.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "で、紫のバラは？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "で、紫のバラは？"
+            },
             "voice": ""
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "紫のバラ。つまり青いバラの花言葉は……。\n「夢が叶う」！",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "紫のバラ。つまり青いバラの花言葉は……。\n「夢が叶う」！"
+            },
             "voice": "card/Card_09/Card_4090005_3/card_4090005_3_017.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "夢が……、叶う……。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "夢が……、叶う……。"
+            },
             "voice": "card/Card_09/Card_4090005_3/card_4090005_3_018.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "りおさん、ネットで調べたでしょ？",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "りおさん、ネットで調べたでしょ？"
+            },
             "voice": "card/Card_09/Card_4090005_3/card_4090005_3_019.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "し、調べてないよ！　\n思い出したの！",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "し、調べてないよ！　\n思い出したの！"
+            },
             "voice": "card/Card_09/Card_4090005_3/card_4090005_3_020.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "うそ。\nそんなに詳しく知ってるわけないもの。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "うそ。\nそんなに詳しく知ってるわけないもの。"
+            },
             "voice": "card/Card_09/Card_4090005_3/card_4090005_3_021.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "一応、ネットで確認はしたけど……。",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "一応、ネットで確認はしたけど……。"
+            },
             "voice": "card/Card_09/Card_4090005_3/card_4090005_3_022.mp3"
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "ほら。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "ほら。"
+            },
             "voice": "card/Card_09/Card_4090005_3/card_4090005_3_023.mp3"
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "調べたっていいじゃない！　\n知りたかったんでしょ？",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "調べたっていいじゃない！　\n知りたかったんでしょ？"
+            },
             "voice": "card/Card_09/Card_4090005_3/card_4090005_3_024.mp3"
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "あ、開き直った。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "あ、開き直った。"
+            },
             "voice": "card/Card_09/Card_4090005_3/card_4090005_3_025.mp3"
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "りおさん、ありがとうございます。\nおかげで、大事なことを思い出しました。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "りおさん、ありがとうございます。\nおかげで、大事なことを思い出しました。"
+            },
             "voice": "card/Card_09/Card_4090005_3/card_4090005_3_026.mp3"
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "いやいや、なんのこれしき……。\nんっ？　大事なこと？",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "いやいや、なんのこれしき……。\nんっ？　大事なこと？"
+            },
             "voice": "card/Card_09/Card_4090005_3/card_4090005_3_027.mp3"
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "大事なことってなに？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "大事なことってなに？"
+            },
             "voice": ""
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "わたしには、歳の離れた兄がいたんです。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "わたしには、歳の離れた兄がいたんです。"
+            },
             "voice": "card/Card_09/Card_4090005_3/card_4090005_3_029.mp3"
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "お兄さん？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "お兄さん？"
+            },
             "voice": ""
         },
         {
@@ -276,8 +396,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "幼少から体が弱く、病院通いをしていました。\n友達と外で遊ぶことも、親に止められていました。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "幼少から体が弱く、病院通いをしていました。\n友達と外で遊ぶことも、親に止められていました。"
+            },
             "voice": "card/Card_09/Card_4090005_3/card_4090005_3_031.mp3"
         },
         {
@@ -285,8 +409,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "そのせいか、本を読むことが好きでした。\nわたしにいろんなことを教えてくれました。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "そのせいか、本を読むことが好きでした。\nわたしにいろんなことを教えてくれました。"
+            },
             "voice": "card/Card_09/Card_4090005_3/card_4090005_3_032.mp3"
         },
         {
@@ -294,8 +422,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "わたしが声優になりたいと言ったときも、\nいろんな本を薦めてくれました。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "わたしが声優になりたいと言ったときも、\nいろんな本を薦めてくれました。"
+            },
             "voice": "card/Card_09/Card_4090005_3/card_4090005_3_033.mp3"
         },
         {
@@ -303,8 +435,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "応援してくれてたんだ。",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "応援してくれてたんだ。"
+            },
             "voice": "card/Card_09/Card_4090005_3/card_4090005_3_034.mp3"
         },
         {
@@ -312,8 +448,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "きっと自分の夢をわたしに託したんだと思います。\nわたしが弱気になると、いつも励ましてくれました。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "きっと自分の夢をわたしに託したんだと思います。\nわたしが弱気になると、いつも励ましてくれました。"
+            },
             "voice": "card/Card_09/Card_4090005_3/card_4090005_3_035.mp3"
         },
         {
@@ -321,8 +461,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "なのに……、なのにわたしは……。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "なのに……、なのにわたしは……。"
+            },
             "voice": "card/Card_09/Card_4090005_3/card_4090005_3_036.mp3"
         },
         {
@@ -330,8 +474,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "（美晴、泣いてる……。）",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "（美晴、泣いてる……。）"
+            },
             "voice": ""
         },
         {
@@ -339,8 +487,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "すみません……。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "すみません……。"
+            },
             "voice": "card/Card_09/Card_4090005_3/card_4090005_3_038.mp3"
         },
         {
@@ -348,8 +500,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "ううん。\n無理しなくていいのよ。",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "ううん。\n無理しなくていいのよ。"
+            },
             "voice": "card/Card_09/Card_4090005_3/card_4090005_3_039.mp3"
         },
         {
@@ -357,8 +513,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "兄は、わたしにこう言ったんです。\n大丈夫。「夢は叶う」って。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "兄は、わたしにこう言ったんです。\n大丈夫。「夢は叶う」って。"
+            },
             "voice": "card/Card_09/Card_4090005_3/card_4090005_3_040.mp3"
         },
         {
@@ -366,8 +526,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "夢は叶う……？",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "夢は叶う……？"
+            },
             "voice": "card/Card_09/Card_4090005_3/card_4090005_3_041.mp3"
         },
         {
@@ -375,8 +539,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "紫のバラの花言葉……。",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "紫のバラの花言葉……。"
+            },
             "voice": "card/Card_09/Card_4090005_3/card_4090005_3_042.mp3"
         },
         {
@@ -384,8 +552,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "それじゃ……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "それじゃ……。"
+            },
             "voice": ""
         },
         {
@@ -393,8 +565,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "あのバラは兄からです。\n兄が、わたしに送ってくれたんです。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "あのバラは兄からです。\n兄が、わたしに送ってくれたんです。"
+            },
             "voice": "card/Card_09/Card_4090005_3/card_4090005_3_044.mp3"
         },
         {
@@ -402,8 +578,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "お兄さん？\nえ、ちょっと待って？",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "お兄さん？\nえ、ちょっと待って？"
+            },
             "voice": "card/Card_09/Card_4090005_3/card_4090005_3_045.mp3"
         },
         {
@@ -411,8 +591,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "なに？",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "なに？"
+            },
             "voice": "card/Card_09/Card_4090005_3/card_4090005_3_046.mp3"
         },
         {
@@ -420,8 +604,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "お兄さんて……、今は？",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "お兄さんて……、今は？"
+            },
             "voice": "card/Card_09/Card_4090005_3/card_4090005_3_047.mp3"
         },
         {
@@ -429,8 +617,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "元気よ？\nピンピンしてる。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "元気よ？\nピンピンしてる。"
+            },
             "voice": "card/Card_09/Card_4090005_3/card_4090005_3_048.mp3"
         },
         {
@@ -438,8 +630,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "なんだ……。\nわたしはてっきり……。",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "なんだ……。\nわたしはてっきり……。"
+            },
             "voice": "card/Card_09/Card_4090005_3/card_4090005_3_049.mp3"
         },
         {
@@ -447,8 +643,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "てっきり？\n何ですか？",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "てっきり？\n何ですか？"
+            },
             "voice": "card/Card_09/Card_4090005_3/card_4090005_3_050.mp3"
         },
         {
@@ -456,8 +656,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "いや、何でもない……。",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "いや、何でもない……。"
+            },
             "voice": "card/Card_09/Card_4090005_3/card_4090005_3_051.mp3"
         },
         {
@@ -465,8 +669,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "あなたが、紛らわしい言い方するから。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "あなたが、紛らわしい言い方するから。"
+            },
             "voice": "card/Card_09/Card_4090005_3/card_4090005_3_052.mp3"
         },
         {
@@ -474,8 +682,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "わたし、何か言った？",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "わたし、何か言った？"
+            },
             "voice": "card/Card_09/Card_4090005_3/card_4090005_3_053.mp3"
         },
         {
@@ -483,8 +695,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "なのにわたしは……って、泣いてたでしょ？",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "なのにわたしは……って、泣いてたでしょ？"
+            },
             "voice": "card/Card_09/Card_4090005_3/card_4090005_3_054.mp3"
         },
         {
@@ -492,8 +708,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "ああ……、あれはね。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "ああ……、あれはね。"
+            },
             "voice": "card/Card_09/Card_4090005_3/card_4090005_3_055.mp3"
         },
         {
@@ -501,8 +721,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "なのにわたしは、\n兄が貸してくれた本を読まなかったって言おうとしたの。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "なのにわたしは、\n兄が貸してくれた本を読まなかったって言おうとしたの。"
+            },
             "voice": "card/Card_09/Card_4090005_3/card_4090005_3_056.mp3"
         },
         {
@@ -510,8 +734,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "やめてよ！\nカン違いするでしょ！",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "やめてよ！\nカン違いするでしょ！"
+            },
             "voice": "card/Card_09/Card_4090005_3/card_4090005_3_057.mp3"
         },
         {
@@ -519,8 +747,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "えぇ？\n何の話？",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "えぇ？\n何の話？"
+            },
             "voice": "card/Card_09/Card_4090005_3/card_4090005_3_058.mp3"
         },
         {
@@ -528,8 +760,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "美晴ちゃんって、天然なとこあるんだね。",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "美晴ちゃんって、天然なとこあるんだね。"
+            },
             "voice": "card/Card_09/Card_4090005_3/card_4090005_3_059.mp3"
         },
         {
@@ -537,8 +773,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "ええ……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "ええ……。"
+            },
             "voice": ""
         },
         {
@@ -546,8 +786,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "っで？\n何で貸してくれた本を読まなったの？",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "っで？\n何で貸してくれた本を読まなったの？"
+            },
             "voice": "card/Card_09/Card_4090005_3/card_4090005_3_061.mp3"
         },
         {
@@ -555,8 +799,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "わたし、マンガは読まないから。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "わたし、マンガは読まないから。"
+            },
             "voice": "card/Card_09/Card_4090005_3/card_4090005_3_062.mp3"
         },
         {
@@ -564,8 +812,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "何てマンガ？",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "何てマンガ？"
+            },
             "voice": "card/Card_09/Card_4090005_3/card_4090005_3_063.mp3"
         },
         {
@@ -573,8 +825,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "えっと、何だっけ……。\n女の子がお芝居をやるマンガ。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "えっと、何だっけ……。\n女の子がお芝居をやるマンガ。"
+            },
             "voice": "card/Card_09/Card_4090005_3/card_4090005_3_064.mp3"
         },
         {
@@ -582,8 +838,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "声優を目指すわたしと、境遇が似てるって言ってました。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "声優を目指すわたしと、境遇が似てるって言ってました。"
+            },
             "voice": "card/Card_09/Card_4090005_3/card_4090005_3_065.mp3"
         },
         {
@@ -591,8 +851,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "なるほど。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "なるほど。"
+            },
             "voice": "card/Card_09/Card_4090005_3/card_4090005_3_066.mp3"
         },
         {
@@ -600,8 +864,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "鹿野さん、知ってるの？",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "鹿野さん、知ってるの？"
+            },
             "voice": "card/Card_09/Card_4090005_3/card_4090005_3_067.mp3"
         },
         {
@@ -609,8 +877,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "当たり前。\n芝居をする者のバイブル。教科書。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "当たり前。\n芝居をする者のバイブル。教科書。"
+            },
             "voice": "card/Card_09/Card_4090005_3/card_4090005_3_068.mp3"
         },
         {
@@ -618,8 +890,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "そうなんだ。\n知らなかった。",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "そうなんだ。\n知らなかった。"
+            },
             "voice": "card/Card_09/Card_4090005_3/card_4090005_3_069.mp3"
         },
         {
@@ -627,8 +903,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "主人公に送られてくるのが、紫のバラ。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "主人公に送られてくるのが、紫のバラ。"
+            },
             "voice": "card/Card_09/Card_4090005_3/card_4090005_3_070.mp3"
         },
         {
@@ -636,8 +916,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "紫のバラ……。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "紫のバラ……。"
+            },
             "voice": "card/Card_09/Card_4090005_3/card_4090005_3_071.mp3"
         },
         {
@@ -645,8 +929,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "主人公を応援する謎の人物から送られてくる。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "主人公を応援する謎の人物から送られてくる。"
+            },
             "voice": "card/Card_09/Card_4090005_3/card_4090005_3_072.mp3"
         },
         {
@@ -654,8 +942,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "謎の人物……。",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "謎の人物……。"
+            },
             "voice": "card/Card_09/Card_4090005_3/card_4090005_3_073.mp3"
         },
         {
@@ -663,8 +955,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "あ、だからお兄さん、㋪にしたんじゃない？",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "あ、だからお兄さん、㋪にしたんじゃない？"
+            },
             "voice": "card/Card_09/Card_4090005_3/card_4090005_3_074.mp3"
         },
         {
@@ -672,8 +968,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "謎の男を演出。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "謎の男を演出。"
+            },
             "voice": "card/Card_09/Card_4090005_3/card_4090005_3_075.mp3"
         },
         {
@@ -681,8 +981,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "これで、謎が解けた。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "これで、謎が解けた。"
+            },
             "voice": "card/Card_09/Card_4090005_3/card_4090005_3_076.mp3"
         },
         {
@@ -690,8 +994,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "ううん。\nたぶん違うと思う。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "ううん。\nたぶん違うと思う。"
+            },
             "voice": "card/Card_09/Card_4090005_3/card_4090005_3_077.mp3"
         },
         {
@@ -699,8 +1007,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "違う？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "違う？"
+            },
             "voice": ""
         },
         {
@@ -708,8 +1020,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "㋪っていうのは、内緒って意味じゃない。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "㋪っていうのは、内緒って意味じゃない。"
+            },
             "voice": "card/Card_09/Card_4090005_3/card_4090005_3_079.mp3"
         },
         {
@@ -717,8 +1033,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "じゃあ、なんなの？\nどういう意味？",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "じゃあ、なんなの？\nどういう意味？"
+            },
             "voice": "card/Card_09/Card_4090005_3/card_4090005_3_080.mp3"
         },
         {
@@ -726,8 +1046,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "お兄ちゃんの名前が、ヒトシなの。\n㋪は、きっとヒトシの㋪。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "お兄ちゃんの名前が、ヒトシなの。\n㋪は、きっとヒトシの㋪。"
+            },
             "voice": "card/Card_09/Card_4090005_3/card_4090005_3_081.mp3"
         },
         {
@@ -735,8 +1059,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "……何だそれ！",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "……何だそれ！"
+            },
             "voice": "card/Card_09/Card_4090005_3/card_4090005_3_082.mp3"
         },
         {
@@ -744,8 +1072,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "兄妹揃って、ちょっと天然だね。",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "兄妹揃って、ちょっと天然だね。"
+            },
             "voice": "card/Card_09/Card_4090005_3/card_4090005_3_083.mp3"
         },
         {
@@ -753,8 +1085,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "ですね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "ですね。"
+            },
             "voice": ""
         },
         {
@@ -762,8 +1098,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "ありがとう。お兄ちゃん。\nすごくすごく、力をもらいました。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "ありがとう。お兄ちゃん。\nすごくすごく、力をもらいました。"
+            },
             "voice": "card/Card_09/Card_4090005_3/card_4090005_3_085.mp3"
         },
         {
@@ -771,8 +1111,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "ふふっ、わたし、頑張ります！",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "ふふっ、わたし、頑張ります！"
+            },
             "voice": "card/Card_09/Card_4090005_3/card_4090005_3_086.mp3"
         }
     ]

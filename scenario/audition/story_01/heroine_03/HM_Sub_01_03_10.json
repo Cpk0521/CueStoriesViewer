@@ -6,8 +6,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "お疲れちゃーん……む？\nジャーマネ、顔色が悪いぞ。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "お疲れちゃーん……む？\nジャーマネ、顔色が悪いぞ。"
+            },
             "voice": "audition/story_01/heroine_03/HM_Sub_01_03_10/hm_sub_01_03_10_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "お疲れ、志穂。\nいや、ちょっとお腹の調子が悪くて。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "お疲れ、志穂。\nいや、ちょっとお腹の調子が悪くて。"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "そうか。じゃあ、今度、効く薬を持ってこよう。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "そうか。じゃあ、今度、効く薬を持ってこよう。"
+            },
             "voice": "audition/story_01/heroine_03/HM_Sub_01_03_10/hm_sub_01_03_10_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "飲めばばっちり。悪霊も即退散。\nありがとう、よい薬です。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "飲めばばっちり。悪霊も即退散。\nありがとう、よい薬です。"
+            },
             "voice": "audition/story_01/heroine_03/HM_Sub_01_03_10/hm_sub_01_03_10_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "……それ大丈夫なの？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "……それ大丈夫なの？"
+            },
             "voice": ""
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "さぁな。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "さぁな。"
+            },
             "voice": "audition/story_01/heroine_03/HM_Sub_01_03_10/hm_sub_01_03_10_006.mp3"
         }
     ]

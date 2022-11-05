@@ -6,8 +6,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "どうしたの？　チサが私に悩み相談って。 ",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "どうしたの？　チサが私に悩み相談って。 "
+            },
             "voice": "card/Card_06/Card_4060010_3/card_4060010_3_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "いや、悩みってほどじゃないんだけど……。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "いや、悩みってほどじゃないんだけど……。"
+            },
             "voice": "card/Card_06/Card_4060010_3/card_4060010_3_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "最近、仕事についてちょっと考えてて。\nそれで、誰かと話したいな、って。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "最近、仕事についてちょっと考えてて。\nそれで、誰かと話したいな、って。"
+            },
             "voice": "card/Card_06/Card_4060010_3/card_4060010_3_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "そうなの？　何かあった？",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "そうなの？　何かあった？"
+            },
             "voice": "card/Card_06/Card_4060010_3/card_4060010_3_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "まぁ、何かあったというか、なんというか……。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "まぁ、何かあったというか、なんというか……。"
+            },
             "voice": "card/Card_06/Card_4060010_3/card_4060010_3_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "柚葉はどう？　声優の仕事、楽しく感じる？",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "柚葉はどう？　声優の仕事、楽しく感じる？"
+            },
             "voice": "card/Card_06/Card_4060010_3/card_4060010_3_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "もちろん！\nそれに私、楽しくない仕事なんてしたくないもの。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "もちろん！\nそれに私、楽しくない仕事なんてしたくないもの。"
+            },
             "voice": "card/Card_06/Card_4060010_3/card_4060010_3_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "それはさ……。\n楽しく感じなかった場合、その仕事断っちゃうってこと？",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "それはさ……。\n楽しく感じなかった場合、その仕事断っちゃうってこと？"
+            },
             "voice": "card/Card_06/Card_4060010_3/card_4060010_3_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "えぇ、そうよ。\nでも、今までそんなことはなかったわ。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "えぇ、そうよ。\nでも、今までそんなことはなかったわ。"
+            },
             "voice": "card/Card_06/Card_4060010_3/card_4060010_3_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "そうなの？",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "そうなの？"
+            },
             "voice": "card/Card_06/Card_4060010_3/card_4060010_3_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "だって、世の中のほとんどって楽しいことばかりじゃない？",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "だって、世の中のほとんどって楽しいことばかりじゃない？"
+            },
             "voice": "card/Card_06/Card_4060010_3/card_4060010_3_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "楽しいことばかり、か……。\nありがとう、柚葉。私なりにもっと考えてみる。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "楽しいことばかり、か……。\nありがとう、柚葉。私なりにもっと考えてみる。"
+            },
             "voice": "card/Card_06/Card_4060010_3/card_4060010_3_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "あ、待って、チサ。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "あ、待って、チサ。"
+            },
             "voice": "card/Card_06/Card_4060010_3/card_4060010_3_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "パパの仕事の哲学はちょっと違ってたわ。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "パパの仕事の哲学はちょっと違ってたわ。"
+            },
             "voice": "card/Card_06/Card_4060010_3/card_4060010_3_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "仕事の哲学？",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "仕事の哲学？"
+            },
             "voice": "card/Card_06/Card_4060010_3/card_4060010_3_015.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "そう。聞いたことがあるの。\n「どうしてそんなにたくさん仕事が出来るの？」って。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "そう。聞いたことがあるの。\n「どうしてそんなにたくさん仕事が出来るの？」って。"
+            },
             "voice": "card/Card_06/Card_4060010_3/card_4060010_3_016.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "それで……、柚葉のお父さんは？",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "それで……、柚葉のお父さんは？"
+            },
             "voice": "card/Card_06/Card_4060010_3/card_4060010_3_017.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "「我慢」だって。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "「我慢」だって。"
+            },
             "voice": "card/Card_06/Card_4060010_3/card_4060010_3_018.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "なんか、もっと難しい言葉を言ってたと思うけど、\n要は「我慢」って。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "なんか、もっと難しい言葉を言ってたと思うけど、\n要は「我慢」って。"
+            },
             "voice": "card/Card_06/Card_4060010_3/card_4060010_3_019.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "「我慢」……か。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "「我慢」……か。"
+            },
             "voice": "card/Card_06/Card_4060010_3/card_4060010_3_020.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "私は我慢なんて得意じゃないから、その代わりに探すの。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "私は我慢なんて得意じゃないから、その代わりに探すの。"
+            },
             "voice": "card/Card_06/Card_4060010_3/card_4060010_3_021.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "探すって何を？",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "探すって何を？"
+            },
             "voice": "card/Card_06/Card_4060010_3/card_4060010_3_022.mp3"
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "楽しいこと！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "楽しいこと！"
+            },
             "voice": "card/Card_06/Card_4060010_3/card_4060010_3_023.mp3"
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "そうすると、周りが全部、楽しいことで埋まるわ。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "そうすると、周りが全部、楽しいことで埋まるわ。"
+            },
             "voice": "card/Card_06/Card_4060010_3/card_4060010_3_024.mp3"
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "へぇ……。柚葉はすごいね。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "へぇ……。柚葉はすごいね。"
+            },
             "voice": "card/Card_06/Card_4060010_3/card_4060010_3_025.mp3"
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "そう？　そういうものでしょ。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "そう？　そういうものでしょ。"
+            },
             "voice": "card/Card_06/Card_4060010_3/card_4060010_3_026.mp3"
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "だって、世の中のほとんどって、楽しいことばかりなんだから。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "だって、世の中のほとんどって、楽しいことばかりなんだから。"
+            },
             "voice": "card/Card_06/Card_4060010_3/card_4060010_3_027.mp3"
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "そっか……。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "そっか……。"
+            },
             "voice": "card/Card_06/Card_4060010_3/card_4060010_3_028.mp3"
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "あ、そうだ。収録って、夕方からなんでしょ。\n私、時間空いてるから、一緒に行ってあげようか？",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "あ、そうだ。収録って、夕方からなんでしょ。\n私、時間空いてるから、一緒に行ってあげようか？"
+            },
             "voice": "card/Card_06/Card_4060010_3/card_4060010_3_029.mp3"
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "いいわよ、そんなの。\n引率だなんて聞いたことないし。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "いいわよ、そんなの。\n引率だなんて聞いたことないし。"
+            },
             "voice": "card/Card_06/Card_4060010_3/card_4060010_3_030.mp3"
         },
         {
@@ -276,8 +396,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "でも、ありがとう柚葉。\n参考になったわ。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "でも、ありがとう柚葉。\n参考になったわ。"
+            },
             "voice": "card/Card_06/Card_4060010_3/card_4060010_3_031.mp3"
         },
         {
@@ -285,8 +409,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "仕事を楽しむこと。\n仕事を我慢すること。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "仕事を楽しむこと。\n仕事を我慢すること。"
+            },
             "voice": "card/Card_06/Card_4060010_3/card_4060010_3_032.mp3"
         },
         {
@@ -294,8 +422,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "私が声優の仕事を続けていくには、\nどっちが正解なんだろう……。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "私が声優の仕事を続けていくには、\nどっちが正解なんだろう……。"
+            },
             "voice": "card/Card_06/Card_4060010_3/card_4060010_3_033.mp3"
         },
         {
@@ -303,8 +435,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "（どっちが正解か、わからない私は、\nこの仕事、向いてないのかな……。）",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "（どっちが正解か、わからない私は、\nこの仕事、向いてないのかな……。）"
+            },
             "voice": "card/Card_06/Card_4060010_3/card_4060010_3_034.mp3"
         },
         {
@@ -312,8 +448,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "……。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "……。"
+            },
             "voice": "card/Card_06/Card_4060010_3/card_4060010_3_035.mp3"
         },
         {
@@ -321,8 +461,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "楽しいことを探す……、か。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "楽しいことを探す……、か。"
+            },
             "voice": "card/Card_06/Card_4060010_3/card_4060010_3_036.mp3"
         },
         {
@@ -330,8 +474,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "それって、楽しいことがそこにあるって、\n思わないと、出来ない見方よね。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "それって、楽しいことがそこにあるって、\n思わないと、出来ない見方よね。"
+            },
             "voice": "card/Card_06/Card_4060010_3/card_4060010_3_037.mp3"
         },
         {
@@ -339,8 +487,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "だから、柚葉みたいに思えることも、才能なんだろうな。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "だから、柚葉みたいに思えることも、才能なんだろうな。"
+            },
             "voice": "card/Card_06/Card_4060010_3/card_4060010_3_038.mp3"
         },
         {
@@ -348,8 +500,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "……そういえば、桐香先生の言葉。\nあれもつまり、1つの見方、ってことよね。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "……そういえば、桐香先生の言葉。\nあれもつまり、1つの見方、ってことよね。"
+            },
             "voice": "card/Card_06/Card_4060010_3/card_4060010_3_039.mp3"
         },
         {
@@ -357,8 +513,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "桐香先生が厳しく責任が必要という仕事も、\n柚葉が楽しいことがそこにあると思う仕事も、",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "桐香先生が厳しく責任が必要という仕事も、\n柚葉が楽しいことがそこにあると思う仕事も、"
+            },
             "voice": "card/Card_06/Card_4060010_3/card_4060010_3_040.mp3"
         },
         {
@@ -366,8 +526,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "どっちも同じ、声優の仕事。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "どっちも同じ、声優の仕事。"
+            },
             "voice": "card/Card_06/Card_4060010_3/card_4060010_3_041.mp3"
         },
         {
@@ -375,8 +539,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "私にとって、声優の仕事は……。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "私にとって、声優の仕事は……。"
+            },
             "voice": "card/Card_06/Card_4060010_3/card_4060010_3_042.mp3"
         },
         {
@@ -384,8 +552,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "よし……！",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "よし……！"
+            },
             "voice": "card/Card_06/Card_4060010_3/card_4060010_3_043.mp3"
         },
         {
@@ -393,8 +565,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "お。千紗、もう行くの？　早いんじゃない？",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "お。千紗、もう行くの？　早いんじゃない？"
+            },
             "voice": "card/Card_06/Card_4060010_3/card_4060010_3_044.mp3"
         },
         {
@@ -402,8 +578,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "なんか気持ちが上がっちゃって……。\n行ってくるね。　",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "なんか気持ちが上がっちゃって……。\n行ってくるね。　"
+            },
             "voice": "card/Card_06/Card_4060010_3/card_4060010_3_045.mp3"
         },
         {
@@ -411,8 +591,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "はいよ！　行ってらっしゃい！　",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "はいよ！　行ってらっしゃい！　"
+            },
             "voice": "card/Card_06/Card_4060010_3/card_4060010_3_046.mp3"
         },
         {
@@ -420,8 +604,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "チサ、元気になったみたいね。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "チサ、元気になったみたいね。"
+            },
             "voice": "card/Card_06/Card_4060010_3/card_4060010_3_047.mp3"
         },
         {
@@ -429,8 +617,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "ごめんね、心配かけちゃって。\n私もう、大丈夫だから。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "ごめんね、心配かけちゃって。\n私もう、大丈夫だから。"
+            },
             "voice": "card/Card_06/Card_4060010_3/card_4060010_3_048.mp3"
         },
         {
@@ -438,8 +630,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "うん、頑張ってね、千紗ちゃん。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "うん、頑張ってね、千紗ちゃん。"
+            },
             "voice": "card/Card_06/Card_4060010_3/card_4060010_3_049.mp3"
         },
         {
@@ -447,8 +643,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "（時にはこんな風に見つめ直すのも必要よね……。）",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "（時にはこんな風に見つめ直すのも必要よね……。）"
+            },
             "voice": "card/Card_06/Card_4060010_3/card_4060010_3_050.mp3"
         },
         {
@@ -456,8 +656,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "（憧れた仕事、大好きな仕事。\nそれが今の私の仕事。）",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "（憧れた仕事、大好きな仕事。\nそれが今の私の仕事。）"
+            },
             "voice": "card/Card_06/Card_4060010_3/card_4060010_3_051.mp3"
         },
         {
@@ -465,8 +669,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "（だから、こうして顔を上げることが出来るなら……。うん。）",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "（だから、こうして顔を上げることが出来るなら……。うん。）"
+            },
             "voice": "card/Card_06/Card_4060010_3/card_4060010_3_052.mp3"
         },
         {
@@ -474,8 +682,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "行ってきます！",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "行ってきます！"
+            },
             "voice": "card/Card_06/Card_4060010_3/card_4060010_3_053.mp3"
         }
     ]

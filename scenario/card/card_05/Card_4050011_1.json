@@ -6,8 +6,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "よーし、もう1回台本最初から合わせよう！　",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "よーし、もう1回台本最初から合わせよう！　"
+            },
             "voice": "card/Card_05/Card_4050011_1/card_4050011_1_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "うん。あいりのとこからだね。　",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "うん。あいりのとこからだね。　"
+            },
             "voice": "card/Card_05/Card_4050011_1/card_4050011_1_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "アイリ、いつでもいいわよ？　",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "アイリ、いつでもいいわよ？　"
+            },
             "voice": "card/Card_05/Card_4050011_1/card_4050011_1_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "みんな、のってるところ悪いんだけど、\nもうそろそろ時間よ。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "みんな、のってるところ悪いんだけど、\nもうそろそろ時間よ。"
+            },
             "voice": "card/Card_05/Card_4050011_1/card_4050011_1_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "えー、時間？　まだいいじゃんか！\nみんなもまだ練習したいでしょ？",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "えー、時間？　まだいいじゃんか！\nみんなもまだ練習したいでしょ？"
+            },
             "voice": "card/Card_05/Card_4050011_1/card_4050011_1_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "うん。　",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "うん。　"
+            },
             "voice": "card/Card_05/Card_4050011_1/card_4050011_1_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "このレッスン室は他のチームとも共有なんだから。\nあと10分で、次はWindのみんなが使うことになってるの。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "このレッスン室は他のチームとも共有なんだから。\nあと10分で、次はWindのみんなが使うことになってるの。"
+            },
             "voice": "card/Card_05/Card_4050011_1/card_4050011_1_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "あ、そうだね……。　",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "あ、そうだね……。　"
+            },
             "voice": "card/Card_05/Card_4050011_1/card_4050011_1_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "あら、残念ね。　",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "あら、残念ね。　"
+            },
             "voice": "card/Card_05/Card_4050011_1/card_4050011_1_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "練習したいのは私も同じだけど。\n美晴さんたちに迷惑かけるわけにもいかないしね。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "練習したいのは私も同じだけど。\n美晴さんたちに迷惑かけるわけにもいかないしね。"
+            },
             "voice": "card/Card_05/Card_4050011_1/card_4050011_1_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "うーん……。\nでも、事情はわかった。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "うーん……。\nでも、事情はわかった。"
+            },
             "voice": "card/Card_05/Card_4050011_1/card_4050011_1_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "さ、今日はもう片付けして帰るわよ。　",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "さ、今日はもう片付けして帰るわよ。　"
+            },
             "voice": "card/Card_05/Card_4050011_1/card_4050011_1_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "はーい。　",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "はーい。　"
+            },
             "voice": "card/Card_05/Card_4050011_1/card_4050011_1_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "みんな、ちょっと聞いて欲しいんだけどさ。　",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "みんな、ちょっと聞いて欲しいんだけどさ。　"
+            },
             "voice": "card/Card_05/Card_4050011_1/card_4050011_1_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "どうしたの？　そんなあらたまって。　",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "どうしたの？　そんなあらたまって。　"
+            },
             "voice": "card/Card_05/Card_4050011_1/card_4050011_1_015.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "みんな、もっと練習したいと思わない？　",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "みんな、もっと練習したいと思わない？　"
+            },
             "voice": "card/Card_05/Card_4050011_1/card_4050011_1_016.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "うん。したい。　",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "うん。したい。　"
+            },
             "voice": "card/Card_05/Card_4050011_1/card_4050011_1_017.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "ようやく掴んだ、4人そろって出演出来る新作アニメの仕事。\nみんなも気合入ってるでしょ？",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "ようやく掴んだ、4人そろって出演出来る新作アニメの仕事。\nみんなも気合入ってるでしょ？"
+            },
             "voice": "card/Card_05/Card_4050011_1/card_4050011_1_018.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "もちろん！　",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "もちろん！　"
+            },
             "voice": "card/Card_05/Card_4050011_1/card_4050011_1_019.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "だがしかし！　それなのに！\nあたしたちには納得するまで練習出来る場所がない！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "だがしかし！　それなのに！\nあたしたちには納得するまで練習出来る場所がない！"
+            },
             "voice": "card/Card_05/Card_4050011_1/card_4050011_1_020.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "そうね。それは私も思ってるわよ？　",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "そうね。それは私も思ってるわよ？　"
+            },
             "voice": "card/Card_05/Card_4050011_1/card_4050011_1_021.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "これって由々しき事態だと思うんだ。　",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "これって由々しき事態だと思うんだ。　"
+            },
             "voice": "card/Card_05/Card_4050011_1/card_4050011_1_022.mp3"
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "うん。　",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "うん。　"
+            },
             "voice": "card/Card_05/Card_4050011_1/card_4050011_1_023.mp3"
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "あたしたちはこの状況を打破しなければならない！　",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "あたしたちはこの状況を打破しなければならない！　"
+            },
             "voice": "card/Card_05/Card_4050011_1/card_4050011_1_024.mp3"
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "そうだそうだ！　",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "そうだそうだ！　"
+            },
             "voice": "card/Card_05/Card_4050011_1/card_4050011_1_025.mp3"
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "この手に自由を掴み取ろう！！　",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "この手に自由を掴み取ろう！！　"
+            },
             "voice": "card/Card_05/Card_4050011_1/card_4050011_1_026.mp3"
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "おー！　",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "おー！　"
+            },
             "voice": "card/Card_05/Card_4050011_1/card_4050011_1_027.mp3"
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "お、おー！　",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "お、おー！　"
+            },
             "voice": "card/Card_05/Card_4050011_1/card_4050011_1_028.mp3"
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "はいはい。\nでも、どうするの？",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "はいはい。\nでも、どうするの？"
+            },
             "voice": "card/Card_05/Card_4050011_1/card_4050011_1_029.mp3"
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "んー、マネージャーに相談してみたら？",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "んー、マネージャーに相談してみたら？"
+            },
             "voice": "card/Card_05/Card_4050011_1/card_4050011_1_030.mp3"
         },
         {
@@ -276,8 +396,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "そうね……。一応相談してみるけど……。\nレッスン室が共同なのは今に始まったことじゃないしねえ。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "そうね……。一応相談してみるけど……。\nレッスン室が共同なのは今に始まったことじゃないしねえ。"
+            },
             "voice": "card/Card_05/Card_4050011_1/card_4050011_1_031.mp3"
         },
         {
@@ -285,8 +409,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "あたし、明日ちょっと話つけてくる！　",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "あたし、明日ちょっと話つけてくる！　"
+            },
             "voice": "card/Card_05/Card_4050011_1/card_4050011_1_032.mp3"
         },
         {
@@ -294,8 +422,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "話つけるって、マネージャーに？　\nそれとも、もしかして真咲さんに直談判とか？",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "話つけるって、マネージャーに？　\nそれとも、もしかして真咲さんに直談判とか？"
+            },
             "voice": "card/Card_05/Card_4050011_1/card_4050011_1_033.mp3"
         },
         {
@@ -303,8 +435,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "いや、それとは別にちょっとアテがあるんだ。　",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "いや、それとは別にちょっとアテがあるんだ。　"
+            },
             "voice": "card/Card_05/Card_4050011_1/card_4050011_1_034.mp3"
         },
         {
@@ -312,8 +448,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "アテ？　",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "アテ？　"
+            },
             "voice": "card/Card_05/Card_4050011_1/card_4050011_1_035.mp3"
         },
         {
@@ -321,8 +461,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "そう。アテ。どうなるかわかんないけどね。　",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "そう。アテ。どうなるかわかんないけどね。　"
+            },
             "voice": "card/Card_05/Card_4050011_1/card_4050011_1_036.mp3"
         },
         {
@@ -330,8 +474,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "ねえねぇ、みんな！\n大ニュース！　大ニュース！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "ねえねぇ、みんな！\n大ニュース！　大ニュース！"
+            },
             "voice": "card/Card_05/Card_4050011_1/card_4050011_1_037.mp3"
         },
         {
@@ -339,8 +487,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "どうしたの？　",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "どうしたの？　"
+            },
             "voice": "card/Card_05/Card_4050011_1/card_4050011_1_038.mp3"
         },
         {
@@ -348,8 +500,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "何、騒がしいわね。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "何、騒がしいわね。"
+            },
             "voice": "card/Card_05/Card_4050011_1/card_4050011_1_039.mp3"
         },
         {
@@ -357,8 +513,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "親父に頼んでたんだよ。\nあたしたちの練習が出来る場所がないかって。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "親父に頼んでたんだよ。\nあたしたちの練習が出来る場所がないかって。"
+            },
             "voice": "card/Card_05/Card_4050011_1/card_4050011_1_040.mp3"
         },
         {
@@ -366,8 +526,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "そしたら、お店の常連のおじさんが提供してくれて。　",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "そしたら、お店の常連のおじさんが提供してくれて。　"
+            },
             "voice": "card/Card_05/Card_4050011_1/card_4050011_1_041.mp3"
         },
         {
@@ -375,8 +539,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "街の小さな修理工場のガレージらしいんだけど、\n今はもう使ってないらしくてさ、",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "街の小さな修理工場のガレージらしいんだけど、\n今はもう使ってないらしくてさ、"
+            },
             "voice": "card/Card_05/Card_4050011_1/card_4050011_1_042.mp3"
         },
         {
@@ -384,8 +552,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "取り壊して建て直す予定だから、\nそれまでなら自由に使っていいって。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "取り壊して建て直す予定だから、\nそれまでなら自由に使っていいって。"
+            },
             "voice": "card/Card_05/Card_4050011_1/card_4050011_1_043.mp3"
         },
         {
@@ -393,8 +565,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "ええ？　すごい！ ",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "ええ？　すごい！ "
+            },
             "voice": "card/Card_05/Card_4050011_1/card_4050011_1_044.mp3"
         },
         {
@@ -402,8 +578,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "ほら、あたし、看板娘だからさ。\nこう見えてファンは多いってわけ。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "ほら、あたし、看板娘だからさ。\nこう見えてファンは多いってわけ。"
+            },
             "voice": "card/Card_05/Card_4050011_1/card_4050011_1_045.mp3"
         },
         {
@@ -411,8 +591,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "ほんとあたしも罪な女だよ。　",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "ほんとあたしも罪な女だよ。　"
+            },
             "voice": "card/Card_05/Card_4050011_1/card_4050011_1_046.mp3"
         },
         {
@@ -420,8 +604,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "罪な女って、あんた意味わかって言ってるの？",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "罪な女って、あんた意味わかって言ってるの？"
+            },
             "voice": "card/Card_05/Card_4050011_1/card_4050011_1_047.mp3"
         },
         {
@@ -429,8 +617,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "さ、みんな。今から行こう！　",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "さ、みんな。今から行こう！　"
+            },
             "voice": "card/Card_05/Card_4050011_1/card_4050011_1_048.mp3"
         }
     ]

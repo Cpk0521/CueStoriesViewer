@@ -6,8 +6,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "あ、おはよー。マネージャー！\nこれから事務所？",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "あ、おはよー。マネージャー！\nこれから事務所？"
+            },
             "voice": "audition/story_01/heroine_05/HM_Morning_01_05_04/hm_morning_01_05_04_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "あれ？　マネージャー……。\nもしかして髪切った？",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "あれ？　マネージャー……。\nもしかして髪切った？"
+            },
             "voice": "audition/story_01/heroine_05/HM_Morning_01_05_04/hm_morning_01_05_04_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "トークを盛り上げるには、相手の変化に気付くといいんだって！\nえ、切ってない？",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "トークを盛り上げるには、相手の変化に気付くといいんだって！\nえ、切ってない？"
+            },
             "voice": "audition/story_01/heroine_05/HM_Morning_01_05_04/hm_morning_01_05_04_003.mp3"
         }
     ]

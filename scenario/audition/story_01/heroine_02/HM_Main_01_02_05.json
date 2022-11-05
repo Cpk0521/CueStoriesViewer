@@ -6,8 +6,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "いよいよ最終審査だね。\n大丈夫？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "いよいよ最終審査だね。\n大丈夫？"
+            },
             "voice": ""
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "そうっすね……ドキドキはしてるんすけど、\nなんて言うんだろう……。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "そうっすね……ドキドキはしてるんすけど、\nなんて言うんだろう……。"
+            },
             "voice": "audition/story_01/heroine_02/HM_Main_01_02_05/hm_main_01_02_05_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "あっ、ワクワクしてるって感じっす。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "あっ、ワクワクしてるって感じっす。"
+            },
             "voice": "audition/story_01/heroine_02/HM_Main_01_02_05/hm_main_01_02_05_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そっか。\nまぁ、無事、オーディションに来れて良かったよ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そっか。\nまぁ、無事、オーディションに来れて良かったよ。"
+            },
             "voice": ""
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "あはは、それはその……ご心配をおかけしました。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "あはは、それはその……ご心配をおかけしました。"
+            },
             "voice": "audition/story_01/heroine_02/HM_Main_01_02_05/hm_main_01_02_05_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "ま、それはそれこれはこれ！\nあとは全力でやってくるだけなんで！",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "ま、それはそれこれはこれ！\nあとは全力でやってくるだけなんで！"
+            },
             "voice": "audition/story_01/heroine_02/HM_Main_01_02_05/hm_main_01_02_05_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そうだね。その通り！",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そうだね。その通り！"
+            },
             "voice": ""
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "えへへっ。\n結果、楽しみにしててくださいよ。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "えへへっ。\n結果、楽しみにしててくださいよ。"
+            },
             "voice": "audition/story_01/heroine_02/HM_Main_01_02_05/hm_main_01_02_05_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "それじゃあ行ってきます、マネージャー！",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "それじゃあ行ってきます、マネージャー！"
+            },
             "voice": "audition/story_01/heroine_02/HM_Main_01_02_05/hm_main_01_02_05_009.mp3"
         }
     ]

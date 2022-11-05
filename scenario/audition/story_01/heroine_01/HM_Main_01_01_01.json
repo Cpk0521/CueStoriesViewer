@@ -6,8 +6,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "おはよう、マネージャー。\nちょうど良かったわ。",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "おはよう、マネージャー。\nちょうど良かったわ。"
+            },
             "voice": "audition/story_01/heroine_01/HM_Main_01_01_01/hm_main_01_01_01_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "今度、陽菜をこのオーディションに出してみようと思うの。",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "今度、陽菜をこのオーディションに出してみようと思うの。"
+            },
             "voice": "audition/story_01/heroine_01/HM_Main_01_01_01/hm_main_01_01_01_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "「空繰戯曲グレイゼファー」……、ですか。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "「空繰戯曲グレイゼファー」……、ですか。"
+            },
             "voice": ""
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "そう、あの子にちょうど合うと思って。",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "そう、あの子にちょうど合うと思って。"
+            },
             "voice": "audition/story_01/heroine_01/HM_Main_01_01_01/hm_main_01_01_01_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "りおにもサポートするように言ってあるから、よろしくね。",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "りおにもサポートするように言ってあるから、よろしくね。"
+            },
             "voice": "audition/story_01/heroine_01/HM_Main_01_01_01/hm_main_01_01_01_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "そういうこと！　頑張ってね！",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "そういうこと！　頑張ってね！"
+            },
             "voice": "audition/story_01/heroine_01/HM_Main_01_01_01/hm_main_01_01_01_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "ううっ……。ドキドキしてきました。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "ううっ……。ドキドキしてきました。"
+            },
             "voice": "audition/story_01/heroine_01/HM_Main_01_01_01/hm_main_01_01_01_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "この緊張、慣れる日って来るのかな？\nみんな、どうやってこの緊張感と戦ってるんだろう……。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "この緊張、慣れる日って来るのかな？\nみんな、どうやってこの緊張感と戦ってるんだろう……。"
+            },
             "voice": "audition/story_01/heroine_01/HM_Main_01_01_01/hm_main_01_01_01_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "なんて。\nいつまでも情けないこと言ってちゃいけないですよね。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "なんて。\nいつまでも情けないこと言ってちゃいけないですよね。"
+            },
             "voice": "audition/story_01/heroine_01/HM_Main_01_01_01/hm_main_01_01_01_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "声優という夢を掴むためにここに来たんだから……。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "声優という夢を掴むためにここに来たんだから……。"
+            },
             "voice": "audition/story_01/heroine_01/HM_Main_01_01_01/hm_main_01_01_01_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そうだね。\nまずは、2週間後の1次オーディションに向けて頑張ろう！",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そうだね。\nまずは、2週間後の1次オーディションに向けて頑張ろう！"
+            },
             "voice": ""
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "はい。\nよろしくお願いします。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "はい。\nよろしくお願いします。"
+            },
             "voice": "audition/story_01/heroine_01/HM_Main_01_01_01/hm_main_01_01_01_012.mp3"
         }
     ]

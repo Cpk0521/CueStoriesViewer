@@ -6,8 +6,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "ごめんなさい……私、実力不足でした。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "ごめんなさい……私、実力不足でした。"
+            },
             "voice": "audition/story_01/heroine_10/HM_Ending_01_10_03/hm_ending_01_10_03_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "私がもっとちゃんと練習できていれば……。\n役作りだって、もっと……。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "私がもっとちゃんと練習できていれば……。\n役作りだって、もっと……。"
+            },
             "voice": "audition/story_01/heroine_10/HM_Ending_01_10_03/hm_ending_01_10_03_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "本当に、ごめんなさい。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "本当に、ごめんなさい。"
+            },
             "voice": "audition/story_01/heroine_10/HM_Ending_01_10_03/hm_ending_01_10_03_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "絢だけの責任じゃないよ。\nこれは自分の責任でもあるから。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "絢だけの責任じゃないよ。\nこれは自分の責任でもあるから。"
+            },
             "voice": ""
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "……そんな事ないです。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "……そんな事ないです。"
+            },
             "voice": "audition/story_01/heroine_10/HM_Ending_01_10_03/hm_ending_01_10_03_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "あの……反省会、付き合ってもらってもいいですか？",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "あの……反省会、付き合ってもらってもいいですか？"
+            },
             "voice": "audition/story_01/heroine_10/HM_Ending_01_10_03/hm_ending_01_10_03_006.mp3"
         }
     ]

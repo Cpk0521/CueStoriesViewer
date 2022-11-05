@@ -6,8 +6,12 @@
             "heroineId": [
                 0
             ],
-            "name": "？？？",
-            "message": "りんねちゃん！　りんねちゃーん！",
+            "name": {
+                "default": "？？？"
+            },
+            "message": {
+                "default": "りんねちゃん！　りんねちゃーん！"
+            },
             "voice": ""
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "子どもたちがこっちに走って来る……。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "子どもたちがこっちに走って来る……。"
+            },
             "voice": "card/Card_15/Card_4150008_3/card_4150008_3_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "やっぱりカナちゃんだー！\nあ、ミキちゃんもいるー！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "やっぱりカナちゃんだー！\nあ、ミキちゃんもいるー！"
+            },
             "voice": "card/Card_15/Card_4150008_3/card_4150008_3_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "おーい！　カナちゃーん！　ミーキちゃーん！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "おーい！　カナちゃーん！　ミーキちゃーん！"
+            },
             "voice": "card/Card_15/Card_4150008_3/card_4150008_3_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "え、知り合い？",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "え、知り合い？"
+            },
             "voice": "card/Card_15/Card_4150008_3/card_4150008_3_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "うん、お友達。\n近くの保育園の子どもたちだよ。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "うん、お友達。\n近くの保育園の子どもたちだよ。"
+            },
             "voice": "card/Card_15/Card_4150008_3/card_4150008_3_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "たまに公園で、一緒に遊んでるんだー。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "たまに公園で、一緒に遊んでるんだー。"
+            },
             "voice": "card/Card_15/Card_4150008_3/card_4150008_3_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "そうなんだ……。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "そうなんだ……。"
+            },
             "voice": "card/Card_15/Card_4150008_3/card_4150008_3_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "あ！　ナナ先生もいる！\nこんにちはー！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "あ！　ナナ先生もいる！\nこんにちはー！"
+            },
             "voice": "card/Card_15/Card_4150008_3/card_4150008_3_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "え、写真撮っていいって？",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "え、写真撮っていいって？"
+            },
             "voice": "card/Card_15/Card_4150008_3/card_4150008_3_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "うん！　ナナ先生がいいって。\nいつも撮った写真あげてるんだー。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "うん！　ナナ先生がいいって。\nいつも撮った写真あげてるんだー。"
+            },
             "voice": "card/Card_15/Card_4150008_3/card_4150008_3_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "あげた写真は、保育園に飾ってもらってるのー。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "あげた写真は、保育園に飾ってもらってるのー。"
+            },
             "voice": "card/Card_15/Card_4150008_3/card_4150008_3_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "へぇ、そうなんだ。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "へぇ、そうなんだ。"
+            },
             "voice": "card/Card_15/Card_4150008_3/card_4150008_3_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "あ、せっかくだし、リエンヌも一緒に撮ろうよー。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "あ、せっかくだし、リエンヌも一緒に撮ろうよー。"
+            },
             "voice": "card/Card_15/Card_4150008_3/card_4150008_3_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "え、我輩はいいよ。\nちゃんと撮れるか、不安だし。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "え、我輩はいいよ。\nちゃんと撮れるか、不安だし。"
+            },
             "voice": "card/Card_15/Card_4150008_3/card_4150008_3_015.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "だいじょぶ、だいじょぶー！\n子どもたち撮るの、楽しいよー？",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "だいじょぶ、だいじょぶー！\n子どもたち撮るの、楽しいよー？"
+            },
             "voice": "card/Card_15/Card_4150008_3/card_4150008_3_016.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "でも……。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "でも……。"
+            },
             "voice": "card/Card_15/Card_4150008_3/card_4150008_3_017.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 0
             ],
-            "name": "カナちゃん",
-            "message": "ねーねー、りんねちゃん。\nこのおねえさんはだーれ？",
+            "name": {
+                "default": "カナちゃん"
+            },
+            "message": {
+                "default": "ねーねー、りんねちゃん。\nこのおねえさんはだーれ？"
+            },
             "voice": ""
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "このお姉さんはねー、わたしのお友達だよー。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "このお姉さんはねー、わたしのお友達だよー。"
+            },
             "voice": "card/Card_15/Card_4150008_3/card_4150008_3_019.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 0
             ],
-            "name": "ミキちゃん",
-            "message": "りんねちゃんのおともだち？",
+            "name": {
+                "default": "ミキちゃん"
+            },
+            "message": {
+                "default": "りんねちゃんのおともだち？"
+            },
             "voice": ""
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "そう！　リエンヌお姉さん！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "そう！　リエンヌお姉さん！"
+            },
             "voice": "card/Card_15/Card_4150008_3/card_4150008_3_021.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "ちょっと！　それはおかしくない！？",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "ちょっと！　それはおかしくない！？"
+            },
             "voice": "card/Card_15/Card_4150008_3/card_4150008_3_022.mp3"
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 0
             ],
-            "name": "ミキちゃん",
-            "message": "りえんぬおねえさん！",
+            "name": {
+                "default": "ミキちゃん"
+            },
+            "message": {
+                "default": "りえんぬおねえさん！"
+            },
             "voice": ""
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "そこは普通に利恵お姉さん……、\nいや、ここは悪魔エリスの名で……。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "そこは普通に利恵お姉さん……、\nいや、ここは悪魔エリスの名で……。"
+            },
             "voice": "card/Card_15/Card_4150008_3/card_4150008_3_024.mp3"
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 0
             ],
-            "name": "カナちゃん",
-            "message": "あくま？\nおねえさん、あくまなの？",
+            "name": {
+                "default": "カナちゃん"
+            },
+            "message": {
+                "default": "あくま？\nおねえさん、あくまなの？"
+            },
             "voice": ""
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "……ううん、利恵お姉さんだよ。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "……ううん、利恵お姉さんだよ。"
+            },
             "voice": "card/Card_15/Card_4150008_3/card_4150008_3_026.mp3"
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 0
             ],
-            "name": "ミキちゃん",
-            "message": "りえおねえさん！\nりえおねえさんも、おしゃしん、とってくれるの？",
+            "name": {
+                "default": "ミキちゃん"
+            },
+            "message": {
+                "default": "りえおねえさん！\nりえおねえさんも、おしゃしん、とってくれるの？"
+            },
             "voice": ""
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "いや、我輩は……。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "いや、我輩は……。"
+            },
             "voice": "card/Card_15/Card_4150008_3/card_4150008_3_028.mp3"
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 0
             ],
-            "name": "ミキちゃん",
-            "message": "えー、とってくれないのー？",
+            "name": {
+                "default": "ミキちゃん"
+            },
+            "message": {
+                "default": "えー、とってくれないのー？"
+            },
             "voice": ""
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "うう……。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "うう……。"
+            },
             "voice": "card/Card_15/Card_4150008_3/card_4150008_3_030.mp3"
         },
         {
@@ -276,8 +396,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "ほーらー、リエンヌー。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "ほーらー、リエンヌー。"
+            },
             "voice": "card/Card_15/Card_4150008_3/card_4150008_3_031.mp3"
         },
         {
@@ -285,8 +409,12 @@
             "heroineId": [
                 0
             ],
-            "name": "カナちゃん",
-            "message": "りえおねえさーん……。",
+            "name": {
+                "default": "カナちゃん"
+            },
+            "message": {
+                "default": "りえおねえさーん……。"
+            },
             "voice": ""
         },
         {
@@ -294,8 +422,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "ああ、もう、わかった！\n撮る！　撮るから、そんな悲しい顔しないで！",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "ああ、もう、わかった！\n撮る！　撮るから、そんな悲しい顔しないで！"
+            },
             "voice": "card/Card_15/Card_4150008_3/card_4150008_3_033.mp3"
         },
         {
@@ -303,8 +435,12 @@
             "heroineId": [
                 0
             ],
-            "name": "カナちゃん",
-            "message": "ほんと！？",
+            "name": {
+                "default": "カナちゃん"
+            },
+            "message": {
+                "default": "ほんと！？"
+            },
             "voice": ""
         },
         {
@@ -312,8 +448,12 @@
             "heroineId": [
                 0
             ],
-            "name": "ミキちゃん",
-            "message": "やったぁー！",
+            "name": {
+                "default": "ミキちゃん"
+            },
+            "message": {
+                "default": "やったぁー！"
+            },
             "voice": ""
         },
         {
@@ -321,8 +461,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "やったぁー！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "やったぁー！"
+            },
             "voice": "card/Card_15/Card_4150008_3/card_4150008_3_036.mp3"
         },
         {
@@ -330,8 +474,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "なんで凛音まで喜んでるの。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "なんで凛音まで喜んでるの。"
+            },
             "voice": "card/Card_15/Card_4150008_3/card_4150008_3_037.mp3"
         },
         {
@@ -339,8 +487,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "えへへへー、ついー。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "えへへへー、ついー。"
+            },
             "voice": "card/Card_15/Card_4150008_3/card_4150008_3_038.mp3"
         },
         {
@@ -348,8 +500,12 @@
             "heroineId": [
                 0
             ],
-            "name": "ミキちゃん",
-            "message": "じゃあ、りんねちゃん、りえおねえさん。\nよろしくおねがいします！",
+            "name": {
+                "default": "ミキちゃん"
+            },
+            "message": {
+                "default": "じゃあ、りんねちゃん、りえおねえさん。\nよろしくおねがいします！"
+            },
             "voice": ""
         },
         {
@@ -357,8 +513,12 @@
             "heroineId": [
                 0
             ],
-            "name": "カナちゃん",
-            "message": "よろしくおねがいします！",
+            "name": {
+                "default": "カナちゃん"
+            },
+            "message": {
+                "default": "よろしくおねがいします！"
+            },
             "voice": ""
         },
         {
@@ -366,8 +526,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "よーし！　たくさん撮っちゃうぞー！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "よーし！　たくさん撮っちゃうぞー！"
+            },
             "voice": "card/Card_15/Card_4150008_3/card_4150008_3_041.mp3"
         },
         {
@@ -375,8 +539,12 @@
             "heroineId": [
                 0
             ],
-            "name": "ミキちゃん",
-            "message": "りんねちゃん！　りえおねえさん！\nきょうはありがとうございました！",
+            "name": {
+                "default": "ミキちゃん"
+            },
+            "message": {
+                "default": "りんねちゃん！　りえおねえさん！\nきょうはありがとうございました！"
+            },
             "voice": ""
         },
         {
@@ -384,8 +552,12 @@
             "heroineId": [
                 0
             ],
-            "name": "カナちゃん",
-            "message": "またとってねー！　じゃあねー！",
+            "name": {
+                "default": "カナちゃん"
+            },
+            "message": {
+                "default": "またとってねー！　じゃあねー！"
+            },
             "voice": ""
         },
         {
@@ -393,8 +565,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "じゃあねー！　ばいばーい！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "じゃあねー！　ばいばーい！"
+            },
             "voice": "card/Card_15/Card_4150008_3/card_4150008_3_044.mp3"
         },
         {
@@ -402,8 +578,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "えへへ、今日もたくさん撮れたなー。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "えへへ、今日もたくさん撮れたなー。"
+            },
             "voice": "card/Card_15/Card_4150008_3/card_4150008_3_045.mp3"
         },
         {
@@ -411,8 +591,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "ふぅ……、凛音はすごいね。\n我輩は……、なんかいっぱいいっぱいだったよ。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "ふぅ……、凛音はすごいね。\n我輩は……、なんかいっぱいいっぱいだったよ。"
+            },
             "voice": "card/Card_15/Card_4150008_3/card_4150008_3_046.mp3"
         },
         {
@@ -420,8 +604,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "でも、子どもたち撮るのは、楽しかったでしょ？",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "でも、子どもたち撮るのは、楽しかったでしょ？"
+            },
             "voice": "card/Card_15/Card_4150008_3/card_4150008_3_047.mp3"
         },
         {
@@ -429,8 +617,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "うん。それは楽しかった。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "うん。それは楽しかった。"
+            },
             "voice": "card/Card_15/Card_4150008_3/card_4150008_3_048.mp3"
         },
         {
@@ -438,8 +630,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "よかったー。\nまた一緒に撮りに行こう！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "よかったー。\nまた一緒に撮りに行こう！"
+            },
             "voice": "card/Card_15/Card_4150008_3/card_4150008_3_049.mp3"
         },
         {
@@ -447,8 +643,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "うん……。\nたまにはカメラを持って外に出るのも、いいね。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "うん……。\nたまにはカメラを持って外に出るのも、いいね。"
+            },
             "voice": "card/Card_15/Card_4150008_3/card_4150008_3_050.mp3"
         },
         {
@@ -456,8 +656,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "うん！　",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "うん！　"
+            },
             "voice": "card/Card_15/Card_4150008_3/card_4150008_3_051.mp3"
         },
         {
@@ -465,8 +669,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "……あ。　",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "……あ。　"
+            },
             "voice": "card/Card_15/Card_4150008_3/card_4150008_3_052.mp3"
         },
         {
@@ -474,8 +682,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "え？　ちょっと凛音！",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "え？　ちょっと凛音！"
+            },
             "voice": "card/Card_15/Card_4150008_3/card_4150008_3_053.mp3"
         },
         {
@@ -483,8 +695,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "えへへへー、リエンヌの「初めて」撮っちゃったー。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "えへへへー、リエンヌの「初めて」撮っちゃったー。"
+            },
             "voice": "card/Card_15/Card_4150008_3/card_4150008_3_054.mp3"
         },
         {
@@ -492,8 +708,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "もー、急に撮られるとビックリするよ。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "もー、急に撮られるとビックリするよ。"
+            },
             "voice": "card/Card_15/Card_4150008_3/card_4150008_3_055.mp3"
         },
         {
@@ -501,8 +721,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "つい撮りたくなっちゃってー。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "つい撮りたくなっちゃってー。"
+            },
             "voice": "card/Card_15/Card_4150008_3/card_4150008_3_056.mp3"
         },
         {
@@ -510,8 +734,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "全く……。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "全く……。"
+            },
             "voice": "card/Card_15/Card_4150008_3/card_4150008_3_057.mp3"
         },
         {
@@ -519,8 +747,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "でも、凛音が子どもたちと仲良く出来る理由、\n少しわかった気がする。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "でも、凛音が子どもたちと仲良く出来る理由、\n少しわかった気がする。"
+            },
             "voice": "card/Card_15/Card_4150008_3/card_4150008_3_058.mp3"
         },
         {
@@ -528,8 +760,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "そうなの？",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "そうなの？"
+            },
             "voice": "card/Card_15/Card_4150008_3/card_4150008_3_059.mp3"
         },
         {
@@ -537,8 +773,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "うん。\n誰とも、どんな時でも、みんなで楽しく、ってことでしょ？",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "うん。\n誰とも、どんな時でも、みんなで楽しく、ってことでしょ？"
+            },
             "voice": "card/Card_15/Card_4150008_3/card_4150008_3_060.mp3"
         },
         {
@@ -546,8 +786,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "うん！　みんな楽しいのが1番だよー！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "うん！　みんな楽しいのが1番だよー！"
+            },
             "voice": "card/Card_15/Card_4150008_3/card_4150008_3_061.mp3"
         },
         {
@@ -555,8 +799,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "ふふ、そうだね！",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "ふふ、そうだね！"
+            },
             "voice": "card/Card_15/Card_4150008_3/card_4150008_3_062.mp3"
         }
     ]

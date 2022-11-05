@@ -6,8 +6,12 @@
             "heroineId": [
                 0
             ],
-            "name": "医者",
-            "message": "大丈夫ですよ。疲れが出たんでしょう。\n2、3日安静にしてください。",
+            "name": {
+                "default": "医者"
+            },
+            "message": {
+                "default": "大丈夫ですよ。疲れが出たんでしょう。\n2、3日安静にしてください。"
+            },
             "voice": ""
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "（疲れてたのかな……、私。）",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "（疲れてたのかな……、私。）"
+            },
             "voice": "card/Card_10/Card_2100002_1/card_2100002_1_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 0
             ],
-            "name": "男の子A",
-            "message": "お姉ちゃん！\nボールとって！",
+            "name": {
+                "default": "男の子A"
+            },
+            "message": {
+                "default": "お姉ちゃん！\nボールとって！"
+            },
             "voice": ""
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "（もしもこれが難病で……、もしも助からなかったら？　\nどうなるんだろう？）",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "（もしもこれが難病で……、もしも助からなかったら？　\nどうなるんだろう？）"
+            },
             "voice": "card/Card_10/Card_2100002_1/card_2100002_1_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 0
             ],
-            "name": "男の子A",
-            "message": "ねえ！　お姉ちゃん！\n聞こえてる？",
+            "name": {
+                "default": "男の子A"
+            },
+            "message": {
+                "default": "ねえ！　お姉ちゃん！\n聞こえてる？"
+            },
             "voice": ""
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "（世界が全部、なくなるってことだよね。）",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "（世界が全部、なくなるってことだよね。）"
+            },
             "voice": "card/Card_10/Card_2100002_1/card_2100002_1_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 0
             ],
-            "name": "男の子B",
-            "message": "なんか変だよ、あの人。\nお前ボールとってこいよ。",
+            "name": {
+                "default": "男の子B"
+            },
+            "message": {
+                "default": "なんか変だよ、あの人。\nお前ボールとってこいよ。"
+            },
             "voice": ""
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 0
             ],
-            "name": "男の子A",
-            "message": "ちぇっ！",
+            "name": {
+                "default": "男の子A"
+            },
+            "message": {
+                "default": "ちぇっ！"
+            },
             "voice": ""
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "（そう思うとなんか……、\nいろんなものが急に愛おしく見えてきた。）",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "（そう思うとなんか……、\nいろんなものが急に愛おしく見えてきた。）"
+            },
             "voice": "card/Card_10/Card_2100002_1/card_2100002_1_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 0
             ],
-            "name": "男の子A",
-            "message": "なんかあいつニヤついてだぜ。",
+            "name": {
+                "default": "男の子A"
+            },
+            "message": {
+                "default": "なんかあいつニヤついてだぜ。"
+            },
             "voice": ""
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 0
             ],
-            "name": "男の子B",
-            "message": "早く、離れよーぜ。",
+            "name": {
+                "default": "男の子B"
+            },
+            "message": {
+                "default": "早く、離れよーぜ。"
+            },
             "voice": ""
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "（街を行きかう人々。\nこの人たちもまた、大きな命のサイクルの中にいるのかな。）",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "（街を行きかう人々。\nこの人たちもまた、大きな命のサイクルの中にいるのかな。）"
+            },
             "voice": "card/Card_10/Card_2100002_1/card_2100002_1_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "（人はいつか死んじゃう……。\n悲しみを知らない人なんていない。）",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "（人はいつか死んじゃう……。\n悲しみを知らない人なんていない。）"
+            },
             "voice": "card/Card_10/Card_2100002_1/card_2100002_1_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "あれ？　絢？\nなにやってんの？　どっか行くの？",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "あれ？　絢？\nなにやってんの？　どっか行くの？"
+            },
             "voice": "card/Card_10/Card_2100002_1/card_2100002_1_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "……ん、特に何も。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "……ん、特に何も。"
+            },
             "voice": "card/Card_10/Card_2100002_1/card_2100002_1_015.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "クールだねぇ。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "クールだねぇ。"
+            },
             "voice": "card/Card_10/Card_2100002_1/card_2100002_1_016.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "（私だけが特別なわけじゃない。\nみんな同じように頑張って生きてるんだ。）",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "（私だけが特別なわけじゃない。\nみんな同じように頑張って生きてるんだ。）"
+            },
             "voice": "card/Card_10/Card_2100002_1/card_2100002_1_017.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "……。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "……。"
+            },
             "voice": "card/Card_10/Card_2100002_1/card_2100002_1_018.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "あー……。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "あー……。"
+            },
             "voice": "card/Card_10/Card_2100002_1/card_2100002_1_019.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "……。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "……。"
+            },
             "voice": "card/Card_10/Card_2100002_1/card_2100002_1_020.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "あーーー……。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "あーーー……。"
+            },
             "voice": "card/Card_10/Card_2100002_1/card_2100002_1_021.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "……。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "……。"
+            },
             "voice": "card/Card_10/Card_2100002_1/card_2100002_1_022.mp3"
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "すぅぅぅ……。\nあーーーーーー！！！",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "すぅぅぅ……。\nあーーーーーー！！！"
+            },
             "voice": "card/Card_10/Card_2100002_1/card_2100002_1_023.mp3"
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 103
             ],
-            "name": "由良桐香",
-            "message": "ダメ。\nやり直し。",
+            "name": {
+                "default": "由良桐香"
+            },
+            "message": {
+                "default": "ダメ。\nやり直し。"
+            },
             "voice": "card/Card_10/Card_2100002_1/card_2100002_1_024.mp3"
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "桐香先生！\n来てたんですか。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "桐香先生！\n来てたんですか。"
+            },
             "voice": "card/Card_10/Card_2100002_1/card_2100002_1_025.mp3"
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 103
             ],
-            "name": "由良桐香",
-            "message": "聞こえなかった？\nやり直し。",
+            "name": {
+                "default": "由良桐香"
+            },
+            "message": {
+                "default": "聞こえなかった？\nやり直し。"
+            },
             "voice": "card/Card_10/Card_2100002_1/card_2100002_1_026.mp3"
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "別に、稽古をしてたわけじゃ……。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "別に、稽古をしてたわけじゃ……。"
+            },
             "voice": "card/Card_10/Card_2100002_1/card_2100002_1_027.mp3"
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 103
             ],
-            "name": "由良桐香",
-            "message": "神室さん。",
+            "name": {
+                "default": "由良桐香"
+            },
+            "message": {
+                "default": "神室さん。"
+            },
             "voice": "card/Card_10/Card_2100002_1/card_2100002_1_028.mp3"
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "……はい。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "……はい。"
+            },
             "voice": "card/Card_10/Card_2100002_1/card_2100002_1_029.mp3"
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 103
             ],
-            "name": "由良桐香",
-            "message": "力を抜いて……、やり直してごらん。\n今の神室さんの中にある本当の気持ちが、表に出てくるから。",
+            "name": {
+                "default": "由良桐香"
+            },
+            "message": {
+                "default": "力を抜いて……、やり直してごらん。\n今の神室さんの中にある本当の気持ちが、表に出てくるから。"
+            },
             "voice": "card/Card_10/Card_2100002_1/card_2100002_1_030.mp3"
         },
         {
@@ -276,8 +396,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "……。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "……。"
+            },
             "voice": "card/Card_10/Card_2100002_1/card_2100002_1_031.mp3"
         },
         {
@@ -285,8 +409,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "すぅ。 \nあー……。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "すぅ。 \nあー……。"
+            },
             "voice": "card/Card_10/Card_2100002_1/card_2100002_1_032.mp3"
         },
         {
@@ -294,8 +422,12 @@
             "heroineId": [
                 103
             ],
-            "name": "由良桐香",
-            "message": "……力を抜いて。",
+            "name": {
+                "default": "由良桐香"
+            },
+            "message": {
+                "default": "……力を抜いて。"
+            },
             "voice": "card/Card_10/Card_2100002_1/card_2100002_1_033.mp3"
         },
         {
@@ -303,8 +435,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "……すぅ。\nあー……。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "……すぅ。\nあー……。"
+            },
             "voice": "card/Card_10/Card_2100002_1/card_2100002_1_034.mp3"
         },
         {
@@ -312,8 +448,12 @@
             "heroineId": [
                 103
             ],
-            "name": "由良桐香",
-            "message": "……うん、合格。",
+            "name": {
+                "default": "由良桐香"
+            },
+            "message": {
+                "default": "……うん、合格。"
+            },
             "voice": "card/Card_10/Card_2100002_1/card_2100002_1_035.mp3"
         },
         {
@@ -321,8 +461,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "どうして私、泣いてるんだろう？",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "どうして私、泣いてるんだろう？"
+            },
             "voice": "card/Card_10/Card_2100002_1/card_2100002_1_036.mp3"
         }
     ]

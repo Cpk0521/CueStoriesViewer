@@ -6,8 +6,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "「グレイゼファー」の台本を読み込んでるんですけど、\nすごく面白いですよね。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "「グレイゼファー」の台本を読み込んでるんですけど、\nすごく面白いですよね。"
+            },
             "voice": "audition/story_01/heroine_04/HM_Sub_01_04_04/hm_sub_01_04_04_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "やっぱりエリシュを助け出す男の子たちが最高にかっこいい！\nこの子たちは、エリシュのヒーローですよね！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "やっぱりエリシュを助け出す男の子たちが最高にかっこいい！\nこの子たちは、エリシュのヒーローですよね！"
+            },
             "voice": "audition/story_01/heroine_04/HM_Sub_01_04_04/hm_sub_01_04_04_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "現実だとこんな風に閉じ込められるとかはないけど……、",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "現実だとこんな風に閉じ込められるとかはないけど……、"
+            },
             "voice": "audition/story_01/heroine_04/HM_Sub_01_04_04/hm_sub_01_04_04_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "落ち込んじゃったりとか、\nモヤモヤした気持ちを抱えたりとかあると思うんです。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "落ち込んじゃったりとか、\nモヤモヤした気持ちを抱えたりとかあると思うんです。"
+            },
             "voice": "audition/story_01/heroine_04/HM_Sub_01_04_04/hm_sub_01_04_04_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "そんな人たちに元気を与えられるヒーローに、\nわたしはなりたいです！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "そんな人たちに元気を与えられるヒーローに、\nわたしはなりたいです！"
+            },
             "voice": "audition/story_01/heroine_04/HM_Sub_01_04_04/hm_sub_01_04_04_005.mp3"
         }
     ]

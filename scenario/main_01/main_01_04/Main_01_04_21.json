@@ -6,8 +6,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "あれ？\nマネージャーさん、どうしたんですか？",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "あれ？\nマネージャーさん、どうしたんですか？"
+            },
             "voice": "main_01/Main_01_04/Main_01_04_21/main_01_04_21_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "利恵に呼び出されたんだよ。\n大事な話があるって。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "利恵に呼び出されたんだよ。\n大事な話があるって。"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "マネージャーさんも？　\nわたし達も、夜の7時にリビングに集合って連絡きて。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "マネージャーさんも？　\nわたし達も、夜の7時にリビングに集合って連絡きて。"
+            },
             "voice": "main_01/Main_01_04/Main_01_04_21/main_01_04_21_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "聡里と鳴は？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "聡里と鳴は？"
+            },
             "voice": ""
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "あっ、来た来た。\nさとち～ん！　なるちゃ～ん！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "あっ、来た来た。\nさとち～ん！　なるちゃ～ん！"
+            },
             "voice": "main_01/Main_01_04/Main_01_04_21/main_01_04_21_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "大きな声、出さないでよ。\nそんなに広い建物じゃないんだから。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "大きな声、出さないでよ。\nそんなに広い建物じゃないんだから。"
+            },
             "voice": "main_01/Main_01_04/Main_01_04_21/main_01_04_21_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "利恵はまだいないの？",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "利恵はまだいないの？"
+            },
             "voice": "main_01/Main_01_04/Main_01_04_21/main_01_04_21_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "そうなの。\nマネージャーさんしかいなくて。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "そうなの。\nマネージャーさんしかいなくて。"
+            },
             "voice": "main_01/Main_01_04/Main_01_04_21/main_01_04_21_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "話って何ですか？",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "話って何ですか？"
+            },
             "voice": "main_01/Main_01_04/Main_01_04_21/main_01_04_21_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "知らないんだよ。\n来てくれとだけ言われて。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "知らないんだよ。\n来てくれとだけ言われて。"
+            },
             "voice": ""
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "マネージャーさんを呼び出すなんて、何のつもり？",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "マネージャーさんを呼び出すなんて、何のつもり？"
+            },
             "voice": "main_01/Main_01_04/Main_01_04_21/main_01_04_21_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "何か、良い話だって言ってたけど。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "何か、良い話だって言ってたけど。"
+            },
             "voice": "main_01/Main_01_04/Main_01_04_21/main_01_04_21_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "新しい洋服を買ったとか？",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "新しい洋服を買ったとか？"
+            },
             "voice": "main_01/Main_01_04/Main_01_04_21/main_01_04_21_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "だったら、私はパス。\n読みかけの小説が、今クライマックスなの。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "だったら、私はパス。\n読みかけの小説が、今クライマックスなの。"
+            },
             "voice": "main_01/Main_01_04/Main_01_04_21/main_01_04_21_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "それって、私が貸したラノベ？",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "それって、私が貸したラノベ？"
+            },
             "voice": "main_01/Main_01_04/Main_01_04_21/main_01_04_21_015.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "うん。ラノベって初めて読んだけど面白いね。\nダークファンタジーっていうの？",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "うん。ラノベって初めて読んだけど面白いね。\nダークファンタジーっていうの？"
+            },
             "voice": "main_01/Main_01_04/Main_01_04_21/main_01_04_21_016.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "最後、意外な人が黒幕なんだよ？\n教えてあげようか。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "最後、意外な人が黒幕なんだよ？\n教えてあげようか。"
+            },
             "voice": "main_01/Main_01_04/Main_01_04_21/main_01_04_21_017.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "やめてよ！\n楽しんで読んでんだから。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "やめてよ！\n楽しんで読んでんだから。"
+            },
             "voice": "main_01/Main_01_04/Main_01_04_21/main_01_04_21_018.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "本当に、なんのために呼ばれたんだろう……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "本当に、なんのために呼ばれたんだろう……。"
+            },
             "voice": ""
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "マネージャー忙しいの？",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "マネージャー忙しいの？"
+            },
             "voice": "main_01/Main_01_04/Main_01_04_21/main_01_04_21_020.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "こう見えて、そこそこ忙しいんだよ？ ",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "こう見えて、そこそこ忙しいんだよ？ "
+            },
             "voice": ""
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "普段、何してるんですか？",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "普段、何してるんですか？"
+            },
             "voice": "main_01/Main_01_04/Main_01_04_21/main_01_04_21_022.mp3"
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "今は、皆のこと売り込んでるとこかな。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "今は、皆のこと売り込んでるとこかな。"
+            },
             "voice": ""
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "えっ、アニメの監督にですか？",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "えっ、アニメの監督にですか？"
+            },
             "voice": "main_01/Main_01_04/Main_01_04_21/main_01_04_21_024.mp3"
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "いろいろだよ。\n局のプロデューサーとか、制作会社とか。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "いろいろだよ。\n局のプロデューサーとか、制作会社とか。"
+            },
             "voice": ""
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "私達のために努力してくれてるんですね。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "私達のために努力してくれてるんですね。"
+            },
             "voice": "main_01/Main_01_04/Main_01_04_21/main_01_04_21_026.mp3"
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "一応、マネージャーだからね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "一応、マネージャーだからね。"
+            },
             "voice": ""
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "毎日、遊んでるわけじゃないんだ。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "毎日、遊んでるわけじゃないんだ。"
+            },
             "voice": "main_01/Main_01_04/Main_01_04_21/main_01_04_21_028.mp3"
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そう見えてたんだね……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そう見えてたんだね……。"
+            },
             "voice": ""
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "でっ？　どうなんですか？\n売り込みは上手くいってるんですか？",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "でっ？　どうなんですか？\n売り込みは上手くいってるんですか？"
+            },
             "voice": "main_01/Main_01_04/Main_01_04_21/main_01_04_21_030.mp3"
         },
         {
@@ -276,8 +396,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "なかなか厳しいね……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "なかなか厳しいね……。"
+            },
             "voice": ""
         },
         {
@@ -285,8 +409,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "まぁ、わたし達無名のタマゴだしね。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "まぁ、わたし達無名のタマゴだしね。"
+            },
             "voice": "main_01/Main_01_04/Main_01_04_21/main_01_04_21_032.mp3"
         },
         {
@@ -294,8 +422,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "しかも、何ていうか、とくにMoonは……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "しかも、何ていうか、とくにMoonは……。"
+            },
             "voice": ""
         },
         {
@@ -303,8 +435,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "見た目のクセが強い？",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "見た目のクセが強い？"
+            },
             "voice": "main_01/Main_01_04/Main_01_04_21/main_01_04_21_034.mp3"
         },
         {
@@ -312,8 +448,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "人によっては、プロフィール見て、鼻で笑っておしまい。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "人によっては、プロフィール見て、鼻で笑っておしまい。"
+            },
             "voice": ""
         },
         {
@@ -321,8 +461,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "そんな人に仕事もらうことないです。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "そんな人に仕事もらうことないです。"
+            },
             "voice": "main_01/Main_01_04/Main_01_04_21/main_01_04_21_036.mp3"
         },
         {
@@ -330,8 +474,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "そうだよ！\n人を見た目で判断しちゃダメだよ！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "そうだよ！\n人を見た目で判断しちゃダメだよ！"
+            },
             "voice": "main_01/Main_01_04/Main_01_04_21/main_01_04_21_037.mp3"
         },
         {
@@ -339,8 +487,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "声優なんて、見た目は関係ないのに。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "声優なんて、見た目は関係ないのに。"
+            },
             "voice": "main_01/Main_01_04/Main_01_04_21/main_01_04_21_038.mp3"
         },
         {
@@ -348,8 +500,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "でも大丈夫。頑張るから。\nきっといつか、大きな仕事がくるよ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "でも大丈夫。頑張るから。\nきっといつか、大きな仕事がくるよ。"
+            },
             "voice": ""
         },
         {
@@ -357,8 +513,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "ありがとうございます！\nよろしくお願いします！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "ありがとうございます！\nよろしくお願いします！"
+            },
             "voice": "main_01/Main_01_04/Main_01_04_21/main_01_04_21_040.mp3"
         },
         {
@@ -366,8 +526,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "ごめんごめん、待たせちゃった？",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "ごめんごめん、待たせちゃった？"
+            },
             "voice": "main_01/Main_01_04/Main_01_04_21/main_01_04_21_041.mp3"
         },
         {
@@ -375,8 +539,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "あっ、利恵が帰ってきた。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "あっ、利恵が帰ってきた。"
+            },
             "voice": ""
         },
         {
@@ -384,8 +552,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "みんな集めといて、どこ行ってたの？",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "みんな集めといて、どこ行ってたの？"
+            },
             "voice": "main_01/Main_01_04/Main_01_04_21/main_01_04_21_043.mp3"
         },
         {
@@ -393,8 +565,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "ちょっとこれを買いに。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "ちょっとこれを買いに。"
+            },
             "voice": "main_01/Main_01_04/Main_01_04_21/main_01_04_21_044.mp3"
         },
         {
@@ -402,8 +578,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "ホールケーキ……？",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "ホールケーキ……？"
+            },
             "voice": "main_01/Main_01_04/Main_01_04_21/main_01_04_21_045.mp3"
         },
         {
@@ -411,8 +591,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "美味しそう！\nでも何で？",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "美味しそう！\nでも何で？"
+            },
             "voice": "main_01/Main_01_04/Main_01_04_21/main_01_04_21_046.mp3"
         },
         {
@@ -420,8 +604,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "決まってるじゃない。\nお祝いだからよ。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "決まってるじゃない。\nお祝いだからよ。"
+            },
             "voice": "main_01/Main_01_04/Main_01_04_21/main_01_04_21_047.mp3"
         },
         {
@@ -429,8 +617,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "お祝い……？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "お祝い……？"
+            },
             "voice": ""
         }
     ]

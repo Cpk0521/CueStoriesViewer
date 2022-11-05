@@ -6,8 +6,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "忘れ物ない？\n喉の調子大丈夫？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "忘れ物ない？\n喉の調子大丈夫？"
+            },
             "voice": ""
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "持った。\nその確認、もう三度目なんだけど。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "持った。\nその確認、もう三度目なんだけど。"
+            },
             "voice": "audition/story_01/heroine_11/HM_Main_01_11_05/hm_main_01_11_05_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "まほろより緊張してない？\nもっとしっかりしてよ。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "まほろより緊張してない？\nもっとしっかりしてよ。"
+            },
             "voice": "audition/story_01/heroine_11/HM_Main_01_11_05/hm_main_01_11_05_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "すみません……。\nだけど、まほろには全力を出し切ってほしくって。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "すみません……。\nだけど、まほろには全力を出し切ってほしくって。"
+            },
             "voice": ""
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "……はぁ、まったく。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "……はぁ、まったく。"
+            },
             "voice": "audition/story_01/heroine_11/HM_Main_01_11_05/hm_main_01_11_05_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "それにこんなふうに、まほろよりガッチガチの人がいたんじゃ、\n安心して緊張できないじゃん。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "それにこんなふうに、まほろよりガッチガチの人がいたんじゃ、\n安心して緊張できないじゃん。"
+            },
             "voice": "audition/story_01/heroine_11/HM_Main_01_11_05/hm_main_01_11_05_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "えっ、やっぱり緊張してるの？ ",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "えっ、やっぱり緊張してるの？ "
+            },
             "voice": ""
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "いや、そういうのじゃなくて、\nこういう時って適度な緊張も必要なの。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "いや、そういうのじゃなくて、\nこういう時って適度な緊張も必要なの。"
+            },
             "voice": "audition/story_01/heroine_11/HM_Main_01_11_05/hm_main_01_11_05_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "わかってるでしょ？",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "わかってるでしょ？"
+            },
             "voice": "audition/story_01/heroine_11/HM_Main_01_11_05/hm_main_01_11_05_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "はい、すみません……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "はい、すみません……。"
+            },
             "voice": ""
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "もう……大丈夫だよ、マネージャー。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "もう……大丈夫だよ、マネージャー。"
+            },
             "voice": "audition/story_01/heroine_11/HM_Main_01_11_05/hm_main_01_11_05_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "ここまで来れたんだし、\nちゃんとまほろのこと支えてたでしょ。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "ここまで来れたんだし、\nちゃんとまほろのこと支えてたでしょ。"
+            },
             "voice": "audition/story_01/heroine_11/HM_Main_01_11_05/hm_main_01_11_05_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "う、うん。\nそれはそうだけど……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "う、うん。\nそれはそうだけど……。"
+            },
             "voice": ""
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "でしょ？　そういうことだから。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "でしょ？　そういうことだから。"
+            },
             "voice": "audition/story_01/heroine_11/HM_Main_01_11_05/hm_main_01_11_05_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "じゃ、行ってくる。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "じゃ、行ってくる。"
+            },
             "voice": "audition/story_01/heroine_11/HM_Main_01_11_05/hm_main_01_11_05_015.mp3"
         }
     ]

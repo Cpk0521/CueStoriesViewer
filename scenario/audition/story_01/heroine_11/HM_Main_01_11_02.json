@@ -6,8 +6,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "お疲れ様。\nまほろ、最近調子どう？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "お疲れ様。\nまほろ、最近調子どう？"
+            },
             "voice": ""
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "……ん？　あ、ちょっと待ってて。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "……ん？　あ、ちょっと待ってて。"
+            },
             "voice": "audition/story_01/heroine_11/HM_Main_01_11_02/hm_main_01_11_02_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "今、キュイッターにアップしてる最中だから。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "今、キュイッターにアップしてる最中だから。"
+            },
             "voice": "audition/story_01/heroine_11/HM_Main_01_11_02/hm_main_01_11_02_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "なにをアップしてるの？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "なにをアップしてるの？"
+            },
             "voice": ""
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "レッスン中のこと。\n結構、反応あるんだよね。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "レッスン中のこと。\n結構、反応あるんだよね。"
+            },
             "voice": "audition/story_01/heroine_11/HM_Main_01_11_02/hm_main_01_11_02_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "ファンのみんなは、\nこういうまほろの何気ない日常が見たいってことだから。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "ファンのみんなは、\nこういうまほろの何気ない日常が見たいってことだから。"
+            },
             "voice": "audition/story_01/heroine_11/HM_Main_01_11_02/hm_main_01_11_02_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "確かに、そういう日常って興味があるよね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "確かに、そういう日常って興味があるよね。"
+            },
             "voice": ""
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "でしょ？　だから、映えももちろん大事だけど、\n何気ない普段の写真も載せとくの。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "でしょ？　だから、映えももちろん大事だけど、\n何気ない普段の写真も載せとくの。"
+            },
             "voice": "audition/story_01/heroine_11/HM_Main_01_11_02/hm_main_01_11_02_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "なるほど……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "なるほど……。"
+            },
             "voice": ""
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "いや、モチベとかそういうの関係なくない？\nファンサなんだし。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "いや、モチベとかそういうの関係なくない？\nファンサなんだし。"
+            },
             "voice": "audition/story_01/heroine_11/HM_Main_01_11_02/hm_main_01_11_02_011.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "まほろはいつも通りなだけだよ。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "まほろはいつも通りなだけだよ。"
+            },
             "voice": "audition/story_01/heroine_11/HM_Main_01_11_02/hm_main_01_11_02_012.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "なにそれ、どういう意味？",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "なにそれ、どういう意味？"
+            },
             "voice": "audition/story_01/heroine_11/HM_Main_01_11_02/hm_main_01_11_02_014.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "これくらいやって当たり前でしょ。\nこういうのが人気に繋がるんだから。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "これくらいやって当たり前でしょ。\nこういうのが人気に繋がるんだから。"
+            },
             "voice": "audition/story_01/heroine_11/HM_Main_01_11_02/hm_main_01_11_02_015.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "ん？　それなら撮ってもらおうかな。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "ん？　それなら撮ってもらおうかな。"
+            },
             "voice": "audition/story_01/heroine_11/HM_Main_01_11_02/hm_main_01_11_02_017.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "もちろん、まほろより上手に撮れるんだよね？",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "もちろん、まほろより上手に撮れるんだよね？"
+            },
             "voice": "audition/story_01/heroine_11/HM_Main_01_11_02/hm_main_01_11_02_018.mp3"
         }
     ]

@@ -6,8 +6,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "マネージャーさん、お疲れ様です！",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "マネージャーさん、お疲れ様です！"
+            },
             "voice": "audition/story_01/heroine_07/HM_Sub_01_07_11/hm_sub_01_07_11_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "お疲れ様。\nあれ、なんだか嬉しそう？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "お疲れ様。\nあれ、なんだか嬉しそう？"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "えへへ。\n実は……次回のプチキュアがとっても楽しみなんです！",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "えへへ。\n実は……次回のプチキュアがとっても楽しみなんです！"
+            },
             "voice": "audition/story_01/heroine_07/HM_Sub_01_07_11/hm_sub_01_07_11_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "リボン・リーは今、絶体絶命のピンチなんですけど……。\nついに新しい力を手に入れるみたいで。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "リボン・リーは今、絶体絶命のピンチなんですけど……。\nついに新しい力を手に入れるみたいで。"
+            },
             "voice": "audition/story_01/heroine_07/HM_Sub_01_07_11/hm_sub_01_07_11_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "今日は帰ったら、先週の回を見直そうと思ってます。\nちゃんと復習して、万全の状態で次回を迎えるんです……！",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "今日は帰ったら、先週の回を見直そうと思ってます。\nちゃんと復習して、万全の状態で次回を迎えるんです……！"
+            },
             "voice": "audition/story_01/heroine_07/HM_Sub_01_07_11/hm_sub_01_07_11_005.mp3"
         }
     ]

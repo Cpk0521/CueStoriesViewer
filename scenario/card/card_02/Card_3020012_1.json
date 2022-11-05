@@ -6,8 +6,12 @@
             "heroineId": [
                 0
             ],
-            "name": "教師",
-            "message": "はい、ではこの図のように、\n水平で滑らかな床面上に質量がMの物体Aを置き……。",
+            "name": {
+                "default": "教師"
+            },
+            "message": {
+                "default": "はい、ではこの図のように、\n水平で滑らかな床面上に質量がMの物体Aを置き……。"
+            },
             "voice": ""
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "…………ふぁあ。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "…………ふぁあ。"
+            },
             "voice": "card/Card_02/Card_3020012_1/card_3020012_1_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "（昼休みのあとの授業とか、授業っつーか修行だよなー。）",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "（昼休みのあとの授業とか、授業っつーか修行だよなー。）"
+            },
             "voice": "card/Card_02/Card_3020012_1/card_3020012_1_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 0
             ],
-            "name": "教師",
-            "message": "Aの水平な面の上に質量ｍの物体Bを置きます。\nそこでAを水平方向右向きにFの力で引くと……。",
+            "name": {
+                "default": "教師"
+            },
+            "message": {
+                "default": "Aの水平な面の上に質量ｍの物体Bを置きます。\nそこでAを水平方向右向きにFの力で引くと……。"
+            },
             "voice": ""
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "（あ、グラウンドから聞こえてくる声、ほのかじゃん。\nあいつ今、体育やってんのか……。）",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "（あ、グラウンドから聞こえてくる声、ほのかじゃん。\nあいつ今、体育やってんのか……。）"
+            },
             "voice": "card/Card_02/Card_3020012_1/card_3020012_1_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "（相変わらず声でかいなー。）",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "（相変わらず声でかいなー。）"
+            },
             "voice": "card/Card_02/Card_3020012_1/card_3020012_1_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 0
             ],
-            "name": "教師",
-            "message": "鷹取……。\nおーい鷹取、聞いてるかー。",
+            "name": {
+                "default": "教師"
+            },
+            "message": {
+                "default": "鷹取……。\nおーい鷹取、聞いてるかー。"
+            },
             "voice": ""
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "（あーあ。まだ体育のほうがマシだよなー。\nヤバ、眠気、ガチで来た。このままだと寝ちゃうかも……。）",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "（あーあ。まだ体育のほうがマシだよなー。\nヤバ、眠気、ガチで来た。このままだと寝ちゃうかも……。）"
+            },
             "voice": "card/Card_02/Card_3020012_1/card_3020012_1_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "（ま、いっか。\n起きててもどうせ、何言ってるかわかんないんだし。）",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "（ま、いっか。\n起きててもどうせ、何言ってるかわかんないんだし。）"
+            },
             "voice": "card/Card_02/Card_3020012_1/card_3020012_1_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "（そういうわけで、おやすみ……。）",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "（そういうわけで、おやすみ……。）"
+            },
             "voice": "card/Card_02/Card_3020012_1/card_3020012_1_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 0
             ],
-            "name": "教師",
-            "message": "鷹取！",
+            "name": {
+                "default": "教師"
+            },
+            "message": {
+                "default": "鷹取！"
+            },
             "voice": ""
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "は！　はい！",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "は！　はい！"
+            },
             "voice": "card/Card_02/Card_3020012_1/card_3020012_1_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 0
             ],
-            "name": "教師",
-            "message": "鷹取、この問題、解いてみようか。",
+            "name": {
+                "default": "教師"
+            },
+            "message": {
+                "default": "鷹取、この問題、解いてみようか。"
+            },
             "voice": ""
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "え？　ああ……、うーん、自分にはちょっと無理っすね。\nすいません。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "え？　ああ……、うーん、自分にはちょっと無理っすね。\nすいません。"
+            },
             "voice": "card/Card_02/Card_3020012_1/card_3020012_1_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 0
             ],
-            "name": "教師",
-            "message": "無理っすねって……。\nもう少し考えるふりだけでもしてくれないかな。",
+            "name": {
+                "default": "教師"
+            },
+            "message": {
+                "default": "無理っすねって……。\nもう少し考えるふりだけでもしてくれないかな。"
+            },
             "voice": ""
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "いや、あはは。\n考えたふりしても先生の時間無駄にするだけかなと思って。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "いや、あはは。\n考えたふりしても先生の時間無駄にするだけかなと思って。"
+            },
             "voice": "card/Card_02/Card_3020012_1/card_3020012_1_016.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "わかんないもんはわかんないって、\n正直に言ったほうが早いじゃないっすか。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "わかんないもんはわかんないって、\n正直に言ったほうが早いじゃないっすか。"
+            },
             "voice": "card/Card_02/Card_3020012_1/card_3020012_1_017.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 0
             ],
-            "name": "教師",
-            "message": "はあ……。じゃあ、鷹取、放課後少し残るように。\nこの前のテストも悪かったし、少し補習しようか。",
+            "name": {
+                "default": "教師"
+            },
+            "message": {
+                "default": "はあ……。じゃあ、鷹取、放課後少し残るように。\nこの前のテストも悪かったし、少し補習しようか。"
+            },
             "voice": ""
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "ええー。マジっすか……。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "ええー。マジっすか……。"
+            },
             "voice": "card/Card_02/Card_3020012_1/card_3020012_1_019.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "おーい舞花ー。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "おーい舞花ー。"
+            },
             "voice": "card/Card_02/Card_3020012_1/card_3020012_1_020.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "舞花ー、いるー？",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "舞花ー、いるー？"
+            },
             "voice": "card/Card_02/Card_3020012_1/card_3020012_1_021.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "ん？",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "ん？"
+            },
             "voice": "card/Card_02/Card_3020012_1/card_3020012_1_022.mp3"
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "いたいた。あはは。\nめっちゃ暇そうじゃんか。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "いたいた。あはは。\nめっちゃ暇そうじゃんか。"
+            },
             "voice": "card/Card_02/Card_3020012_1/card_3020012_1_023.mp3"
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "あん？　\nあー、ほのかと悠希か。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "あん？　\nあー、ほのかと悠希か。"
+            },
             "voice": "card/Card_02/Card_3020012_1/card_3020012_1_024.mp3"
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "っつーか、いつも言ってるだろ。\n3年の教室に1年と2年が普通に入ってくんなって。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "っつーか、いつも言ってるだろ。\n3年の教室に1年と2年が普通に入ってくんなって。"
+            },
             "voice": "card/Card_02/Card_3020012_1/card_3020012_1_025.mp3"
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "どうして？　別にいいじゃない。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "どうして？　別にいいじゃない。"
+            },
             "voice": "card/Card_02/Card_3020012_1/card_3020012_1_026.mp3"
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "そうそう。\n細かいことはいいんだよ。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "そうそう。\n細かいことはいいんだよ。"
+            },
             "voice": "card/Card_02/Card_3020012_1/card_3020012_1_027.mp3"
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "まあ、いいけどさ。\nで、なんの用？",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "まあ、いいけどさ。\nで、なんの用？"
+            },
             "voice": "card/Card_02/Card_3020012_1/card_3020012_1_028.mp3"
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "舞花、今日帰りどうする？",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "舞花、今日帰りどうする？"
+            },
             "voice": "card/Card_02/Card_3020012_1/card_3020012_1_029.mp3"
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "悠希が事務所に用事あるって言うから、\n一緒に行こうと思うんだけど。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "悠希が事務所に用事あるって言うから、\n一緒に行こうと思うんだけど。"
+            },
             "voice": "card/Card_02/Card_3020012_1/card_3020012_1_030.mp3"
         },
         {
@@ -276,8 +396,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "あー、今日は自分、パス。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "あー、今日は自分、パス。"
+            },
             "voice": "card/Card_02/Card_3020012_1/card_3020012_1_031.mp3"
         },
         {
@@ -285,8 +409,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "え、なんで？",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "え、なんで？"
+            },
             "voice": "card/Card_02/Card_3020012_1/card_3020012_1_032.mp3"
         },
         {
@@ -294,8 +422,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "なんか放課後、補習になっちゃったんだよね。今日。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "なんか放課後、補習になっちゃったんだよね。今日。"
+            },
             "voice": "card/Card_02/Card_3020012_1/card_3020012_1_033.mp3"
         },
         {
@@ -303,8 +435,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "え、また？",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "え、また？"
+            },
             "voice": "card/Card_02/Card_3020012_1/card_3020012_1_034.mp3"
         },
         {
@@ -312,8 +448,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "またってなんだよ、またって。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "またってなんだよ、またって。"
+            },
             "voice": "card/Card_02/Card_3020012_1/card_3020012_1_035.mp3"
         },
         {
@@ -321,8 +461,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "だって、そうじゃない。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "だって、そうじゃない。"
+            },
             "voice": "card/Card_02/Card_3020012_1/card_3020012_1_036.mp3"
         },
         {
@@ -330,8 +474,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "えへへ。舞花、本当に補習ばっかしてるよね。\n宿題とかちゃんとやってる？",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "えへへ。舞花、本当に補習ばっかしてるよね。\n宿題とかちゃんとやってる？"
+            },
             "voice": "card/Card_02/Card_3020012_1/card_3020012_1_037.mp3"
         },
         {
@@ -339,8 +487,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "お前に言われたくないよ、悠希。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "お前に言われたくないよ、悠希。"
+            },
             "voice": "card/Card_02/Card_3020012_1/card_3020012_1_038.mp3"
         },
         {
@@ -348,8 +500,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "あたしはちゃんとやってるもん。宿題。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "あたしはちゃんとやってるもん。宿題。"
+            },
             "voice": "card/Card_02/Card_3020012_1/card_3020012_1_039.mp3"
         },
         {
@@ -357,8 +513,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "あいりが、だろ？",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "あいりが、だろ？"
+            },
             "voice": "card/Card_02/Card_3020012_1/card_3020012_1_040.mp3"
         },
         {
@@ -366,8 +526,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "あたしの宿題だよ？\n一緒にやってるに決まってんじゃん。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "あたしの宿題だよ？\n一緒にやってるに決まってんじゃん。"
+            },
             "voice": "card/Card_02/Card_3020012_1/card_3020012_1_041.mp3"
         },
         {
@@ -375,8 +539,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "本当かー？\nほとんどあいりがやってんじゃねーの？",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "本当かー？\nほとんどあいりがやってんじゃねーの？"
+            },
             "voice": "card/Card_02/Card_3020012_1/card_3020012_1_042.mp3"
         },
         {
@@ -384,8 +552,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "もう、ふたりともダメだよ。\n授業も宿題も、マジメに取り組まなきゃ。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "もう、ふたりともダメだよ。\n授業も宿題も、マジメに取り組まなきゃ。"
+            },
             "voice": "card/Card_02/Card_3020012_1/card_3020012_1_043.mp3"
         },
         {
@@ -393,8 +565,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "はいはい。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "はいはい。"
+            },
             "voice": "card/Card_02/Card_3020012_1/card_3020012_1_044.mp3"
         },
         {
@@ -402,8 +578,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "えへへ。舞花怒られてるし。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "えへへ。舞花怒られてるし。"
+            },
             "voice": "card/Card_02/Card_3020012_1/card_3020012_1_045.mp3"
         },
         {
@@ -411,8 +591,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "悠希もだっつーの。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "悠希もだっつーの。"
+            },
             "voice": "card/Card_02/Card_3020012_1/card_3020012_1_046.mp3"
         },
         {
@@ -420,8 +604,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "っていうかさ、前から不思議だったんだけど、\nほのか、なんでこの高校入ったの？",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "っていうかさ、前から不思議だったんだけど、\nほのか、なんでこの高校入ったの？"
+            },
             "voice": "card/Card_02/Card_3020012_1/card_3020012_1_047.mp3"
         },
         {
@@ -429,8 +617,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "え？　どういう意味？",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "え？　どういう意味？"
+            },
             "voice": "card/Card_02/Card_3020012_1/card_3020012_1_048.mp3"
         },
         {
@@ -438,8 +630,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "なんていうか、\nほのかなら、もっと偏差値高いとこ行けただろ？",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "なんていうか、\nほのかなら、もっと偏差値高いとこ行けただろ？"
+            },
             "voice": "card/Card_02/Card_3020012_1/card_3020012_1_049.mp3"
         },
         {
@@ -447,8 +643,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "そうそう。\nここは舞花がいる学校だよ？",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "そうそう。\nここは舞花がいる学校だよ？"
+            },
             "voice": "card/Card_02/Card_3020012_1/card_3020012_1_050.mp3"
         },
         {
@@ -456,8 +656,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "あーん？　お前もいるんだけどなー、悠希ー。　  ",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "あーん？　お前もいるんだけどなー、悠希ー。　  "
+            },
             "voice": "card/Card_02/Card_3020012_1/card_3020012_1_051.mp3"
         },
         {
@@ -465,8 +669,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "うーん、なんでこの高校入ったのって……、\nこの高校が通いやすかったから、かな。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "うーん、なんでこの高校入ったのって……、\nこの高校が通いやすかったから、かな。"
+            },
             "voice": "card/Card_02/Card_3020012_1/card_3020012_1_052.mp3"
         },
         {
@@ -474,8 +682,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "え？　そんな理由？",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "え？　そんな理由？"
+            },
             "voice": "card/Card_02/Card_3020012_1/card_3020012_1_053.mp3"
         },
         {
@@ -483,8 +695,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "だって、学校はどこでもいいでしょ？\n学ぶのも学ばないのも自分次第なんだから。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "だって、学校はどこでもいいでしょ？\n学ぶのも学ばないのも自分次第なんだから。"
+            },
             "voice": "card/Card_02/Card_3020012_1/card_3020012_1_054.mp3"
         },
         {
@@ -492,8 +708,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "だから、舞花も悠希も、\n環境のせいにしないでマジメに勉強しなきゃダメだよ？",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "だから、舞花も悠希も、\n環境のせいにしないでマジメに勉強しなきゃダメだよ？"
+            },
             "voice": "card/Card_02/Card_3020012_1/card_3020012_1_055.mp3"
         },
         {
@@ -501,8 +721,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "あ、もう休み時間終わっちゃう。戻らなきゃ。\n悠希、行こう。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "あ、もう休み時間終わっちゃう。戻らなきゃ。\n悠希、行こう。"
+            },
             "voice": "card/Card_02/Card_3020012_1/card_3020012_1_056.mp3"
         },
         {
@@ -510,8 +734,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "……聞いたか？　悠希。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "……聞いたか？　悠希。"
+            },
             "voice": "card/Card_02/Card_3020012_1/card_3020012_1_057.mp3"
         },
         {
@@ -519,8 +747,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "……聞いた？　舞花。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "……聞いた？　舞花。"
+            },
             "voice": "card/Card_02/Card_3020012_1/card_3020012_1_058.mp3"
         }
     ]

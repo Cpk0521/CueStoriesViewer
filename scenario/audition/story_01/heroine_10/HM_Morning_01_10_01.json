@@ -6,8 +6,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "おはようございます。\nマネージャー、朝早いんですね。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "おはようございます。\nマネージャー、朝早いんですね。"
+            },
             "voice": "audition/story_01/heroine_10/HM_Morning_01_10_01/hm_morning_01_10_01_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "今日、休講になっちゃって。\nこれから莉子とカラオケに行ってから、レッスンに行きます。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "今日、休講になっちゃって。\nこれから莉子とカラオケに行ってから、レッスンに行きます。"
+            },
             "voice": "audition/story_01/heroine_10/HM_Morning_01_10_01/hm_morning_01_10_01_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "……楽しみだな。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "……楽しみだな。"
+            },
             "voice": "audition/story_01/heroine_10/HM_Morning_01_10_01/hm_morning_01_10_01_003.mp3"
         }
     ]

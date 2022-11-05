@@ -6,8 +6,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "準備が、足りてませんでした……。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "準備が、足りてませんでした……。"
+            },
             "voice": "audition/story_01/heroine_01/HM_Others_01_01_01/hm_others_01_01_01_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "オーディションは相性と運。\nこういう時もあるよ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "オーディションは相性と運。\nこういう時もあるよ。"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "はい。次は頑張ります。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "はい。次は頑張ります。"
+            },
             "voice": "audition/story_01/heroine_01/HM_Others_01_01_01/hm_others_01_01_01_003.mp3"
         }
     ]

@@ -6,8 +6,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "お疲れ様です、マネージャー。\nレッスン室、ありがとうございました。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "お疲れ様です、マネージャー。\nレッスン室、ありがとうございました。"
+            },
             "voice": "audition/story_01/heroine_10/HM_Cast_01_10_11_03/hm_cast_01_10_11_03_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "うん、遅くまでお疲れ様。\n寮まで送って行こうか？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "うん、遅くまでお疲れ様。\n寮まで送って行こうか？"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "あ、大丈夫です。\n勝手に残ってただけなので。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "あ、大丈夫です。\n勝手に残ってただけなので。"
+            },
             "voice": "audition/story_01/heroine_10/HM_Cast_01_10_11_03/hm_cast_01_10_11_03_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "お、絢じゃん。\nまだ事務所にいたんだ。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "お、絢じゃん。\nまだ事務所にいたんだ。"
+            },
             "voice": "audition/story_01/heroine_10/HM_Cast_01_10_11_03/hm_cast_01_10_11_03_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "あれ、まほろ。\nどうしたの？",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "あれ、まほろ。\nどうしたの？"
+            },
             "voice": "audition/story_01/heroine_10/HM_Cast_01_10_11_03/hm_cast_01_10_11_03_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "別に用はないけど。\nもう帰りなら、一緒に帰る？",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "別に用はないけど。\nもう帰りなら、一緒に帰る？"
+            },
             "voice": "audition/story_01/heroine_10/HM_Cast_01_10_11_03/hm_cast_01_10_11_03_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "うん、わかった。\n……ありがとう、まほろ。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "うん、わかった。\n……ありがとう、まほろ。"
+            },
             "voice": "audition/story_01/heroine_10/HM_Cast_01_10_11_03/hm_cast_01_10_11_03_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "……なんのお礼よ。\nほら、とっとと準備してよね。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "……なんのお礼よ。\nほら、とっとと準備してよね。"
+            },
             "voice": "audition/story_01/heroine_10/HM_Cast_01_10_11_03/hm_cast_01_10_11_03_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "ふふ、ごめん。\nすぐ荷物取ってくる。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "ふふ、ごめん。\nすぐ荷物取ってくる。"
+            },
             "voice": "audition/story_01/heroine_10/HM_Cast_01_10_11_03/hm_cast_01_10_11_03_009.mp3"
         }
     ]

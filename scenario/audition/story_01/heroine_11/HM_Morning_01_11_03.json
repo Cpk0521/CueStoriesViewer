@@ -6,8 +6,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "おはよ、マネージャー。\n今から仕事？ ",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "おはよ、マネージャー。\n今から仕事？ "
+            },
             "voice": "audition/story_01/heroine_11/HM_Morning_01_11_03/hm_morning_01_11_03_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "まほろは散歩中。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "まほろは散歩中。"
+            },
             "voice": "audition/story_01/heroine_11/HM_Morning_01_11_03/hm_morning_01_11_03_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "朝起きれた時は、こうして体動かしたほうが、\nレッスンとかにも良い影響あるんだよね。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "朝起きれた時は、こうして体動かしたほうが、\nレッスンとかにも良い影響あるんだよね。"
+            },
             "voice": "audition/story_01/heroine_11/HM_Morning_01_11_03/hm_morning_01_11_03_003.mp3"
         }
     ]

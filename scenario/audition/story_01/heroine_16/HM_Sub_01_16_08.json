@@ -6,8 +6,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "マネージャー、それ……。\nパミ通なんて、読むんですか？",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "マネージャー、それ……。\nパミ通なんて、読むんですか？"
+            },
             "voice": "audition/story_01/heroine_16/HM_Sub_01_16_08/hm_sub_01_16_08_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "うん、ちょっとお客さんからいただいてね。\n鳴も読んでるの？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "うん、ちょっとお客さんからいただいてね。\n鳴も読んでるの？"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "電子版なら。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "電子版なら。"
+            },
             "voice": "audition/story_01/heroine_16/HM_Sub_01_16_08/hm_sub_01_16_08_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そっか。\nじゃ、この雑誌関連の仕事とかあったら、鳴にお願いしようかな。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そっか。\nじゃ、この雑誌関連の仕事とかあったら、鳴にお願いしようかな。"
+            },
             "voice": ""
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "わかりました。\n仕事はやります。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "わかりました。\n仕事はやります。"
+            },
             "voice": "audition/story_01/heroine_16/HM_Sub_01_16_08/hm_sub_01_16_08_005.mp3"
         }
     ]

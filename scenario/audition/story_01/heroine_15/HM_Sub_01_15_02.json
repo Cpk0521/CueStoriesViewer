@@ -6,8 +6,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "……くっしょん！\nマネージャーさん、寒くないですか？",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "……くっしょん！\nマネージャーさん、寒くないですか？"
+            },
             "voice": "audition/story_01/heroine_15/HM_Sub_01_15_02/hm_sub_01_15_02_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "今日、外もすっごく寒いですよねー。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "今日、外もすっごく寒いですよねー。"
+            },
             "voice": "audition/story_01/heroine_15/HM_Sub_01_15_02/hm_sub_01_15_02_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "でもわたし、寒い日のお散歩は好きなんです！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "でもわたし、寒い日のお散歩は好きなんです！"
+            },
             "voice": "audition/story_01/heroine_15/HM_Sub_01_15_02/hm_sub_01_15_02_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "みんなで歩けば、体もポカポカですよ！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "みんなで歩けば、体もポカポカですよ！"
+            },
             "voice": "audition/story_01/heroine_15/HM_Sub_01_15_02/hm_sub_01_15_02_004.mp3"
         }
     ]

@@ -6,8 +6,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "マネージャーさん。\nスヴェンって、ちょっと悠希ちゃんに似てませんか？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "マネージャーさん。\nスヴェンって、ちょっと悠希ちゃんに似てませんか？"
+            },
             "voice": "audition/story_01/heroine_07/HM_Sub_01_07_10/hm_sub_01_07_10_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "元気で、頼もしい感じとか……。\nあと、リーダーとしてケルッコたちをまとめてるところも。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "元気で、頼もしい感じとか……。\nあと、リーダーとしてケルッコたちをまとめてるところも。"
+            },
             "voice": "audition/story_01/heroine_07/HM_Sub_01_07_10/hm_sub_01_07_10_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "ふふっ。\nあいり、とっても似てると思うんです。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "ふふっ。\nあいり、とっても似てると思うんです。"
+            },
             "voice": "audition/story_01/heroine_07/HM_Sub_01_07_10/hm_sub_01_07_10_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "それに、みんなが乗ってるあの飛行機……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "それに、みんなが乗ってるあの飛行機……。"
+            },
             "voice": "audition/story_01/heroine_07/HM_Sub_01_07_10/hm_sub_01_07_10_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "悠希ちゃんがあの世界にいたら、喜んで操縦するんだろうなぁ。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "悠希ちゃんがあの世界にいたら、喜んで操縦するんだろうなぁ。"
+            },
             "voice": "audition/story_01/heroine_07/HM_Sub_01_07_10/hm_sub_01_07_10_005.mp3"
         }
     ]

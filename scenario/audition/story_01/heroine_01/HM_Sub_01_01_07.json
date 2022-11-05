@@ -6,8 +6,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "今回オーディション受けるグレイゼファーなんですけど、\n子どもの頃見てたアニメに少し似てるなって。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "今回オーディション受けるグレイゼファーなんですけど、\n子どもの頃見てたアニメに少し似てるなって。"
+            },
             "voice": "audition/story_01/heroine_01/HM_Sub_01_01_07/hm_sub_01_01_07_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "マネージャーさんには話したことありましたっけ？",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "マネージャーさんには話したことありましたっけ？"
+            },
             "voice": "audition/story_01/heroine_01/HM_Sub_01_01_07/hm_sub_01_01_07_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "わたしが声優を目指そうと思ったきっかけのアニメ……。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "わたしが声優を目指そうと思ったきっかけのアニメ……。"
+            },
             "voice": "audition/story_01/heroine_01/HM_Sub_01_01_07/hm_sub_01_01_07_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "ふふっ。なんだかもう1回見たくなっちゃいました。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "ふふっ。なんだかもう1回見たくなっちゃいました。"
+            },
             "voice": "audition/story_01/heroine_01/HM_Sub_01_01_07/hm_sub_01_01_07_004.mp3"
         }
     ]

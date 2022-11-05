@@ -6,8 +6,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "うーん、こうじゃないんだよなあ……。\nでも、だとすると……。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "うーん、こうじゃないんだよなあ……。\nでも、だとすると……。"
+            },
             "voice": "audition/story_01/heroine_04/HM_Cast_01_04_02_02/hm_cast_01_04_02_02_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "どうしたの、舞花？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "どうしたの、舞花？"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "あ、マネージャー。\nこのキャラの心情が、イマイチピンとこないんすよ。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "あ、マネージャー。\nこのキャラの心情が、イマイチピンとこないんすよ。"
+            },
             "voice": "audition/story_01/heroine_04/HM_Cast_01_04_02_02/hm_cast_01_04_02_02_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "ここまで死ぬ気で頑張ってきたのに、急に全部諦めちゃうなんて。\nなんでなんすかね？",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "ここまで死ぬ気で頑張ってきたのに、急に全部諦めちゃうなんて。\nなんでなんすかね？"
+            },
             "voice": "audition/story_01/heroine_04/HM_Cast_01_04_02_02/hm_cast_01_04_02_02_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "あー確かに、これは舞花とはかけ離れた考え方だもんね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "あー確かに、これは舞花とはかけ離れた考え方だもんね。"
+            },
             "voice": ""
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "そうなんすよ！\n直前になって諦めちゃうなんて、もったいないじゃないですか。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "そうなんすよ！\n直前になって諦めちゃうなんて、もったいないじゃないですか。"
+            },
             "voice": "audition/story_01/heroine_04/HM_Cast_01_04_02_02/hm_cast_01_04_02_02_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "うーん……。なんでこんなにウジウジしてるんだろ。\nあー、モヤモヤするなーもう。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "うーん……。なんでこんなにウジウジしてるんだろ。\nあー、モヤモヤするなーもう。"
+            },
             "voice": "audition/story_01/heroine_04/HM_Cast_01_04_02_02/hm_cast_01_04_02_02_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "……もうちょっと、\nここで考えてから帰ります。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "……もうちょっと、\nここで考えてから帰ります。"
+            },
             "voice": "audition/story_01/heroine_04/HM_Cast_01_04_02_02/hm_cast_01_04_02_02_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "え、ここで？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "え、ここで？"
+            },
             "voice": ""
         }
     ]

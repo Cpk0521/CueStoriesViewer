@@ -6,8 +6,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "うー、悔しい～～～！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "うー、悔しい～～～！"
+            },
             "voice": "audition/story_01/heroine_05/HM_Others_01_05_01/hm_others_01_05_01_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "あたしの力もまだまだってことだね。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "あたしの力もまだまだってことだね。"
+            },
             "voice": "audition/story_01/heroine_05/HM_Others_01_05_01/hm_others_01_05_01_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "オーディションは相性と運。\nこういう時もあるよ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "オーディションは相性と運。\nこういう時もあるよ。"
+            },
             "voice": ""
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "わかった！\n次のオーディションは、絶対合格するよ、マネージャー！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "わかった！\n次のオーディションは、絶対合格するよ、マネージャー！"
+            },
             "voice": "audition/story_01/heroine_05/HM_Others_01_05_01/hm_others_01_05_01_004.mp3"
         }
     ]

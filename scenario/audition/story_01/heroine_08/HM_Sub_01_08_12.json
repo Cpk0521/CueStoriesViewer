@@ -6,8 +6,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "ねえ、マネージャー。\n私、グレイゼファーのロケーションについて考えてみたの。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "ねえ、マネージャー。\n私、グレイゼファーのロケーションについて考えてみたの。"
+            },
             "voice": "audition/story_01/heroine_08/HM_Sub_01_08_12/hm_sub_01_08_12_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "もしかしてここ、\nリゾートに向いてるんじゃないかしら。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "もしかしてここ、\nリゾートに向いてるんじゃないかしら。"
+            },
             "voice": "audition/story_01/heroine_08/HM_Sub_01_08_12/hm_sub_01_08_12_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "海に囲まれた小さな島。\n気候も、スヴェンたちの服装を見ると、寒くはなさそうだし。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "海に囲まれた小さな島。\n気候も、スヴェンたちの服装を見ると、寒くはなさそうだし。"
+            },
             "voice": "audition/story_01/heroine_08/HM_Sub_01_08_12/hm_sub_01_08_12_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "うふふ、ちょっとパタヤのビーチを思い出しちゃった。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "うふふ、ちょっとパタヤのビーチを思い出しちゃった。"
+            },
             "voice": "audition/story_01/heroine_08/HM_Sub_01_08_12/hm_sub_01_08_12_004.mp3"
         }
     ]

@@ -61,8 +61,8 @@ const genStory = (curr) => {
                         inner += `<img src="./Image/CharIcon/CharaIcon_${i.toString().padStart(2, '0')}.png"/>`
                 })
                 inner += `</div>`
-                inner += `<div class='dialogue-name'>${d.name}</div>`
-                inner += `<div class='dialogue-meg'>${d.message}</div>`
+                inner += `<div class='dialogue-name'>${d.name.default}</div>`
+                inner += `<div class='dialogue-meg'>${d.message.default}</div>`
                 inner += `<div class='dialogue-voice'>`
                 if(d.voice != "")
                     inner += `<img src='./Image/Scenario_VoiceButton.png' onclick="playaudio('${d.voice}')"></img>`

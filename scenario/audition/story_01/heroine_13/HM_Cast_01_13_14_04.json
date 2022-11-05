@@ -6,8 +6,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "……え、どうしたの。\nその大きなタッパー。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "……え、どうしたの。\nその大きなタッパー。"
+            },
             "voice": ""
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "……少し、作りすぎました。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "……少し、作りすぎました。"
+            },
             "voice": "audition/story_01/heroine_13/HM_Cast_01_13_14_04/hm_cast_01_13_14_04_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そうなの？　慣れた、って言ってた気がしたけど。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そうなの？　慣れた、って言ってた気がしたけど。"
+            },
             "voice": ""
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "今日のお昼は、利恵もいたんです。\n2人分作ろうとしたら、つい作りすぎて。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "今日のお昼は、利恵もいたんです。\n2人分作ろうとしたら、つい作りすぎて。"
+            },
             "voice": "audition/story_01/heroine_13/HM_Cast_01_13_14_04/hm_cast_01_13_14_04_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "でも、さすがに1人じゃ食べ切れないので。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "でも、さすがに1人じゃ食べ切れないので。"
+            },
             "voice": "audition/story_01/heroine_13/HM_Cast_01_13_14_04/hm_cast_01_13_14_04_007.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "マネージャーさんも、いかがですか？",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "マネージャーさんも、いかがですか？"
+            },
             "voice": "audition/story_01/heroine_13/HM_Cast_01_13_14_04/hm_cast_01_13_14_04_008.mp3"
         }
     ]

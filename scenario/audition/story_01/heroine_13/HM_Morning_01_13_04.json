@@ -6,8 +6,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "あ、マネージャー。\nおはよう。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "あ、マネージャー。\nおはよう。"
+            },
             "voice": "audition/story_01/heroine_13/HM_Morning_01_13_04/hm_morning_01_13_04_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "昨日、初対面の人に話が上手いねって褒められたんだ。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "昨日、初対面の人に話が上手いねって褒められたんだ。"
+            },
             "voice": "audition/story_01/heroine_13/HM_Morning_01_13_04/hm_morning_01_13_04_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "なんでも褒められるとやっぱり嬉しいよね。\nクックックッ、我が盟友も我輩の話術に酔いしれるが良い。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "なんでも褒められるとやっぱり嬉しいよね。\nクックックッ、我が盟友も我輩の話術に酔いしれるが良い。"
+            },
             "voice": "audition/story_01/heroine_13/HM_Morning_01_13_04/hm_morning_01_13_04_003.mp3"
         }
     ]

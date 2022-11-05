@@ -6,8 +6,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "お疲れ様です。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "お疲れ様です。"
+            },
             "voice": "audition/story_01/heroine_14/HM_Cast_01_14_16_01/hm_cast_01_14_16_01_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "お疲れ様。\nあ、鳴、さっきのメッセ見た？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "お疲れ様。\nあ、鳴、さっきのメッセ見た？"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "はい。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "はい。"
+            },
             "voice": "audition/story_01/heroine_14/HM_Cast_01_14_16_01/hm_cast_01_14_16_01_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "うん。聡里と一緒の現場。\n次はスタジオがいつもの場所じゃないから、間違えないようにね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "うん。聡里と一緒の現場。\n次はスタジオがいつもの場所じゃないから、間違えないようにね。"
+            },
             "voice": ""
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "わかりました。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "わかりました。"
+            },
             "voice": "audition/story_01/heroine_14/HM_Cast_01_14_16_01/hm_cast_01_14_16_01_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "急な変更でごめんね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "急な変更でごめんね。"
+            },
             "voice": ""
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "はい。\nもっと早めに知りたかったです。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "はい。\nもっと早めに知りたかったです。"
+            },
             "voice": "audition/story_01/heroine_14/HM_Cast_01_14_16_01/hm_cast_01_14_16_01_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "色々と予定が狂うので。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "色々と予定が狂うので。"
+            },
             "voice": "audition/story_01/heroine_14/HM_Cast_01_14_16_01/hm_cast_01_14_16_01_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "うん、気を付けるよ。\n聡里にも同じこと言われたしね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "うん、気を付けるよ。\n聡里にも同じこと言われたしね。"
+            },
             "voice": ""
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "そうですか。\nよろしくお願いします。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "そうですか。\nよろしくお願いします。"
+            },
             "voice": "audition/story_01/heroine_14/HM_Cast_01_14_16_01/hm_cast_01_14_16_01_010.mp3"
         }
     ]

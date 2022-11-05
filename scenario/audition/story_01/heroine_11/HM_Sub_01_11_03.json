@@ -6,8 +6,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "最近、観葉植物を買ったんだけど、\nなんか愛着湧いてきちゃったんだよね。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "最近、観葉植物を買ったんだけど、\nなんか愛着湧いてきちゃったんだよね。"
+            },
             "voice": "audition/story_01/heroine_11/HM_Sub_01_11_03/hm_sub_01_11_03_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "最初はポラスタのためだったんだけど、\n世話し続けてたら、ついね。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "最初はポラスタのためだったんだけど、\n世話し続けてたら、ついね。"
+            },
             "voice": "audition/story_01/heroine_11/HM_Sub_01_11_03/hm_sub_01_11_03_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "へぇ、水やりとかしてるんだ？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "へぇ、水やりとかしてるんだ？"
+            },
             "voice": ""
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "当たり前でしょ。\nやりすぎると根腐れするし、あげなさすぎると枯れるし。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "当たり前でしょ。\nやりすぎると根腐れするし、あげなさすぎると枯れるし。"
+            },
             "voice": "audition/story_01/heroine_11/HM_Sub_01_11_03/hm_sub_01_11_03_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "結構、加減が難しいんだよね。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "結構、加減が難しいんだよね。"
+            },
             "voice": "audition/story_01/heroine_11/HM_Sub_01_11_03/hm_sub_01_11_03_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "まぁ、わからないことは千紗にでも聞けばわかるから、\nそれでなんとかしてる感じ。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "まぁ、わからないことは千紗にでも聞けばわかるから、\nそれでなんとかしてる感じ。"
+            },
             "voice": "audition/story_01/heroine_11/HM_Sub_01_11_03/hm_sub_01_11_03_006.mp3"
         }
     ]

@@ -6,8 +6,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "グレイゼファーに出てくる飛行機って、\nどれもスタイリッシュでクールよね。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "グレイゼファーに出てくる飛行機って、\nどれもスタイリッシュでクールよね。"
+            },
             "voice": "audition/story_01/heroine_08/HM_Sub_01_08_05/hm_sub_01_08_05_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "楽しそうだし、私も乗ってみたいなって思ったの。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "楽しそうだし、私も乗ってみたいなって思ったの。"
+            },
             "voice": "audition/story_01/heroine_08/HM_Sub_01_08_05/hm_sub_01_08_05_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "あ、そうだわ。作ってもらえばいいのよ。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "あ、そうだわ。作ってもらえばいいのよ。"
+            },
             "voice": "audition/story_01/heroine_08/HM_Sub_01_08_05/hm_sub_01_08_05_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "うふふ、ユーキもとっても喜ぶと思うの！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "うふふ、ユーキもとっても喜ぶと思うの！"
+            },
             "voice": "audition/story_01/heroine_08/HM_Sub_01_08_05/hm_sub_01_08_05_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "みんなで乗ったら、\nエリシュたちみたいに冒険出来そうよね！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "みんなで乗ったら、\nエリシュたちみたいに冒険出来そうよね！"
+            },
             "voice": "audition/story_01/heroine_08/HM_Sub_01_08_05/hm_sub_01_08_05_005.mp3"
         }
     ]

@@ -6,8 +6,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "スヴェンたちって、かっこいい飛行機に乗るじゃん。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "スヴェンたちって、かっこいい飛行機に乗るじゃん。"
+            },
             "voice": "audition/story_01/heroine_12/HM_Sub_01_12_11/hm_sub_01_12_11_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "ああいうのの操縦って、どんな感じなんだろね。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "ああいうのの操縦って、どんな感じなんだろね。"
+            },
             "voice": "audition/story_01/heroine_12/HM_Sub_01_12_11/hm_sub_01_12_11_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "莉子は運転出来そうだね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "莉子は運転出来そうだね。"
+            },
             "voice": ""
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "あはは、そうかな？\nでも楽しそうだよね！",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "あはは、そうかな？\nでも楽しそうだよね！"
+            },
             "voice": "audition/story_01/heroine_12/HM_Sub_01_12_11/hm_sub_01_12_11_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "バイクと同じ要領なら、あたしもいける気がする！",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "バイクと同じ要領なら、あたしもいける気がする！"
+            },
             "voice": "audition/story_01/heroine_12/HM_Sub_01_12_11/hm_sub_01_12_11_005.mp3"
         }
     ]

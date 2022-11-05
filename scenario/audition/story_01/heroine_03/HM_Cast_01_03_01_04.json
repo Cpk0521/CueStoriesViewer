@@ -6,8 +6,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "お疲れー。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "お疲れー。"
+            },
             "voice": "audition/story_01/heroine_03/HM_Cast_01_03_01_04/hm_cast_01_03_01_04_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "お疲れ様です。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "お疲れ様です。"
+            },
             "voice": "audition/story_01/heroine_03/HM_Cast_01_03_01_04/hm_cast_01_03_01_04_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "ねぇ、志穂ちゃん、今度のお休みなんだけど、\n一緒にお買い物いかない？　天気もいいらしいよ。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "ねぇ、志穂ちゃん、今度のお休みなんだけど、\n一緒にお買い物いかない？　天気もいいらしいよ。"
+            },
             "voice": "audition/story_01/heroine_03/HM_Cast_01_03_01_04/hm_cast_01_03_01_04_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "休みの日は寝るつもり。\nもちろん二度寝も譲れない。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "休みの日は寝るつもり。\nもちろん二度寝も譲れない。"
+            },
             "voice": "audition/story_01/heroine_03/HM_Cast_01_03_01_04/hm_cast_01_03_01_04_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "そっか……。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "そっか……。"
+            },
             "voice": "audition/story_01/heroine_03/HM_Cast_01_03_01_04/hm_cast_01_03_01_04_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "お昼くらいからならいい。\nランチでもするか。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "お昼くらいからならいい。\nランチでもするか。"
+            },
             "voice": "audition/story_01/heroine_03/HM_Cast_01_03_01_04/hm_cast_01_03_01_04_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "本当？　じゃあ、その後、お茶もしよう。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "本当？　じゃあ、その後、お茶もしよう。"
+            },
             "voice": "audition/story_01/heroine_03/HM_Cast_01_03_01_04/hm_cast_01_03_01_04_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "うむ。次のオフの予定は空けておこう。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "うむ。次のオフの予定は空けておこう。"
+            },
             "voice": "audition/story_01/heroine_03/HM_Cast_01_03_01_04/hm_cast_01_03_01_04_008.mp3"
         }
     ]

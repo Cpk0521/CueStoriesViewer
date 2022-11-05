@@ -6,8 +6,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "『あなたなんて、大っ嫌い！』",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "『あなたなんて、大っ嫌い！』"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_20/main_01_01_20_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "『嫌いでもいい。』",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "『嫌いでもいい。』"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_20/main_01_01_20_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "『二度と顔も見たくない！』",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "『二度と顔も見たくない！』"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_20/main_01_01_20_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "『それでも、僕は君に会いに行く。\n何度でも、何度でも。』",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "『それでも、僕は君に会いに行く。\n何度でも、何度でも。』"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_20/main_01_01_20_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "（相変わらず、志穂は上手いな……。）",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "（相変わらず、志穂は上手いな……。）"
+            },
             "voice": ""
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "『どうしてそこまでするの？』",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "『どうしてそこまでするの？』"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_20/main_01_01_20_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "『決まってるじゃないか。\n僕は君を……。君を……。』",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "『決まってるじゃないか。\n僕は君を……。君を……。』"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_20/main_01_01_20_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "あれ？",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "あれ？"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_20/main_01_01_20_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "どうしたの？",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "どうしたの？"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_20/main_01_01_20_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "（急に止まっちゃった……。\nどうしたんだろ……？）",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "（急に止まっちゃった……。\nどうしたんだろ……？）"
+            },
             "voice": ""
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "……。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "……。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_20/main_01_01_20_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 103
             ],
-            "name": "由良桐香",
-            "message": "はい、ここまで。\n一旦止めます。",
+            "name": {
+                "default": "由良桐香"
+            },
+            "message": {
+                "default": "はい、ここまで。\n一旦止めます。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_20/main_01_01_20_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "すみません。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "すみません。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_20/main_01_01_20_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 103
             ],
-            "name": "由良桐香",
-            "message": "鹿野さん、どうしたの？",
+            "name": {
+                "default": "由良桐香"
+            },
+            "message": {
+                "default": "鹿野さん、どうしたの？"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_20/main_01_01_20_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "言えない。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "言えない。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_20/main_01_01_20_015.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 103
             ],
-            "name": "由良桐香",
-            "message": "言えない？\nセリフが言えないってこと？",
+            "name": {
+                "default": "由良桐香"
+            },
+            "message": {
+                "default": "言えない？\nセリフが言えないってこと？"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_20/main_01_01_20_016.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "このキャラがこんなこと言うのおかしい。\nあり得ない。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "このキャラがこんなこと言うのおかしい。\nあり得ない。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_20/main_01_01_20_017.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "（キャラのセリフに納得できないってこと……？）",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "（キャラのセリフに納得できないってこと……？）"
+            },
             "voice": ""
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "だからって、セリフを言わないのはダメでしょ。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "だからって、セリフを言わないのはダメでしょ。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_20/main_01_01_20_019.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "ほのかと違って、こだわりがある。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "ほのかと違って、こだわりがある。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_20/main_01_01_20_020.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "わたしにはこだわりが無いってこと？",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "わたしにはこだわりが無いってこと？"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_20/main_01_01_20_021.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "ちょっと……。\nやめなよ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "ちょっと……。\nやめなよ。"
+            },
             "voice": ""
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "ジャーマネは黙ってて。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "ジャーマネは黙ってて。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_20/main_01_01_20_023.mp3"
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "桐香先生、すみません……。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "桐香先生、すみません……。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_20/main_01_01_20_024.mp3"
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "あの2人、いま喧嘩中で。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "あの2人、いま喧嘩中で。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_20/main_01_01_20_025.mp3"
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 103
             ],
-            "name": "由良桐香",
-            "message": "ふふっ……。",
+            "name": {
+                "default": "由良桐香"
+            },
+            "message": {
+                "default": "ふふっ……。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_20/main_01_01_20_026.mp3"
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "（桐香先生が笑った……？）",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "（桐香先生が笑った……？）"
+            },
             "voice": ""
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 103
             ],
-            "name": "由良桐香",
-            "message": "セリフが言えない？　そこがこだわり？\n冗談でしょ？　そんなのはただの我がままよ。",
+            "name": {
+                "default": "由良桐香"
+            },
+            "message": {
+                "default": "セリフが言えない？　そこがこだわり？\n冗談でしょ？　そんなのはただの我がままよ。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_20/main_01_01_20_028.mp3"
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "我がまま？",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "我がまま？"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_20/main_01_01_20_029.mp3"
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 103
             ],
-            "name": "由良桐香",
-            "message": "声優の仕事は、与えられたセリフに命を吹き込むこと。\nあなたは仕事を放棄してるだけ。",
+            "name": {
+                "default": "由良桐香"
+            },
+            "message": {
+                "default": "声優の仕事は、与えられたセリフに命を吹き込むこと。\nあなたは仕事を放棄してるだけ。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_20/main_01_01_20_030.mp3"
         },
         {
@@ -276,8 +396,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "でも……。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "でも……。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_20/main_01_01_20_031.mp3"
         },
         {
@@ -285,8 +409,12 @@
             "heroineId": [
                 103
             ],
-            "name": "由良桐香",
-            "message": "でも？",
+            "name": {
+                "default": "由良桐香"
+            },
+            "message": {
+                "default": "でも？"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_20/main_01_01_20_032.mp3"
         },
         {
@@ -294,8 +422,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "私の声に合ってない……。\nこの声じゃこのセリフは言えない。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "私の声に合ってない……。\nこの声じゃこのセリフは言えない。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_20/main_01_01_20_033.mp3"
         },
         {
@@ -303,8 +435,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "（それが本当の理由か……。）",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "（それが本当の理由か……。）"
+            },
             "voice": ""
         },
         {
@@ -312,8 +448,12 @@
             "heroineId": [
                 103
             ],
-            "name": "由良桐香",
-            "message": "あなたには素晴らしい声がある。\nテクニックもある。でもそれがネックになってる。",
+            "name": {
+                "default": "由良桐香"
+            },
+            "message": {
+                "default": "あなたには素晴らしい声がある。\nテクニックもある。でもそれがネックになってる。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_20/main_01_01_20_035.mp3"
         },
         {
@@ -321,8 +461,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "ネック……？",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "ネック……？"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_20/main_01_01_20_036.mp3"
         },
         {
@@ -330,8 +474,12 @@
             "heroineId": [
                 103
             ],
-            "name": "由良桐香",
-            "message": "声やテクニックに頼っちゃダメ……。\n心で演じるの。",
+            "name": {
+                "default": "由良桐香"
+            },
+            "message": {
+                "default": "声やテクニックに頼っちゃダメ……。\n心で演じるの。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_20/main_01_01_20_037.mp3"
         },
         {
@@ -339,8 +487,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "心で演じる……？",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "心で演じる……？"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_20/main_01_01_20_038.mp3"
         },
         {
@@ -348,8 +500,12 @@
             "heroineId": [
                 103
             ],
-            "name": "由良桐香",
-            "message": "そのために、キャラクターの心と向き合いなさい。\nそうすれば、どんなセリフも言えるはずよ。",
+            "name": {
+                "default": "由良桐香"
+            },
+            "message": {
+                "default": "そのために、キャラクターの心と向き合いなさい。\nそうすれば、どんなセリフも言えるはずよ。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_20/main_01_01_20_039.mp3"
         },
         {
@@ -357,8 +513,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "……。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "……。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_20/main_01_01_20_040.mp3"
         },
         {
@@ -366,8 +526,12 @@
             "heroineId": [
                 103
             ],
-            "name": "由良桐香",
-            "message": "次回までの宿題にするわ。\n考えておいて。",
+            "name": {
+                "default": "由良桐香"
+            },
+            "message": {
+                "default": "次回までの宿題にするわ。\n考えておいて。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_20/main_01_01_20_041.mp3"
         },
         {
@@ -375,8 +539,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "お疲れ様～。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "お疲れ様～。"
+            },
             "voice": ""
         },
         {
@@ -384,8 +552,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "マネージャーさん。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "マネージャーさん。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_20/main_01_01_20_044.mp3"
         },
         {
@@ -393,8 +565,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "あれから志穂とほのかの様子はどう？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "あれから志穂とほのかの様子はどう？"
+            },
             "voice": ""
         },
         {
@@ -402,8 +578,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "心配して来てくれたんですか？",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "心配して来てくれたんですか？"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_20/main_01_01_20_046.mp3"
         },
         {
@@ -411,8 +591,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "全然ダメ。\n2人とも部屋に閉じこもって話もしない。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "全然ダメ。\n2人とも部屋に閉じこもって話もしない。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_20/main_01_01_20_047.mp3"
         },
         {
@@ -420,8 +604,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そっか……。\nちょっと話をしてみるよ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そっか……。\nちょっと話をしてみるよ。"
+            },
             "voice": ""
         },
         {
@@ -429,8 +617,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "志穂、いる？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "志穂、いる？"
+            },
             "voice": ""
         },
         {
@@ -438,8 +630,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "志穂。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "志穂。"
+            },
             "voice": ""
         },
         {
@@ -447,8 +643,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "いません。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "いません。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_20/main_01_01_20_054.mp3"
         },
         {
@@ -456,8 +656,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "いませんて。\n……思いっ切り居留守じゃん。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "いませんて。\n……思いっ切り居留守じゃん。"
+            },
             "voice": ""
         },
         {
@@ -465,8 +669,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "ご用件のかたはメッセージをどうぞ。\nピー。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "ご用件のかたはメッセージをどうぞ。\nピー。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_20/main_01_01_20_056.mp3"
         },
         {
@@ -474,8 +682,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "留守電じゃないんだから。\n……ちょっと出てきてよ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "留守電じゃないんだから。\n……ちょっと出てきてよ。"
+            },
             "voice": ""
         },
         {
@@ -483,8 +695,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "新聞なら間に合ってる。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "新聞なら間に合ってる。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_20/main_01_01_20_059.mp3"
         },
         {
@@ -492,8 +708,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "……そんなこと言わずに、洗剤もつけますから。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "……そんなこと言わずに、洗剤もつけますから。"
+            },
             "voice": ""
         },
         {
@@ -501,8 +721,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "はぁ？",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "はぁ？"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_20/main_01_01_20_061.mp3"
         },
         {
@@ -510,8 +734,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "仕掛けてきたのはそっちでしょ！",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "仕掛けてきたのはそっちでしょ！"
+            },
             "voice": ""
         },
         {
@@ -519,8 +747,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "今、忙しい。\nジャーマネとコントをやってる時間ない。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "今、忙しい。\nジャーマネとコントをやってる時間ない。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_20/main_01_01_20_063.mp3"
         },
         {
@@ -528,8 +760,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "（こっちだって好きでやってるわけじゃないよ……。）",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "（こっちだって好きでやってるわけじゃないよ……。）"
+            },
             "voice": ""
         },
         {
@@ -537,8 +773,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "忙しいって……、何してたの？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "忙しいって……、何してたの？"
+            },
             "voice": ""
         },
         {
@@ -546,8 +786,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "あくび。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "あくび。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_20/main_01_01_20_066.mp3"
         },
         {
@@ -555,8 +799,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "思いっ切りヒマじゃん！",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "思いっ切りヒマじゃん！"
+            },
             "voice": ""
         },
         {
@@ -564,8 +812,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "時限爆弾の解除。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "時限爆弾の解除。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_20/main_01_01_20_068.mp3"
         },
         {
@@ -573,8 +825,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "いや、忙しいってレベルじゃないでしょ！",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "いや、忙しいってレベルじゃないでしょ！"
+            },
             "voice": ""
         },
         {
@@ -582,8 +838,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "悪いけど、ジャーマネと漫才してる時間ない。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "悪いけど、ジャーマネと漫才してる時間ない。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_20/main_01_01_20_070.mp3"
         },
         {
@@ -591,8 +851,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "本当は何してたの……？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "本当は何してたの……？"
+            },
             "voice": ""
         },
         {
@@ -600,8 +864,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "宿題。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "宿題。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_20/main_01_01_20_072.mp3"
         },
         {
@@ -609,8 +877,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "宿題って……。\n今日のレッスンの？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "宿題って……。\n今日のレッスンの？"
+            },
             "voice": ""
         },
         {
@@ -618,8 +890,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "難しい。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "難しい。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_20/main_01_01_20_074.mp3"
         },
         {
@@ -627,8 +903,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "確かに難しい話だったね……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "確かに難しい話だったね……。"
+            },
             "voice": ""
         },
         {
@@ -636,8 +916,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "わけわからん。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "わけわからん。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_20/main_01_01_20_076.mp3"
         },
         {
@@ -645,8 +929,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "例えば、ほのかと話してみたらどう？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "例えば、ほのかと話してみたらどう？"
+            },
             "voice": ""
         },
         {
@@ -654,8 +942,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "何で？",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "何で？"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_20/main_01_01_20_078.mp3"
         },
         {
@@ -663,8 +955,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "桐香先生が言うように、自分の心と向き合うんだよ。\nわだかまりを吐き出すんだ。そうすれば、何か分かるかもしれない。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "桐香先生が言うように、自分の心と向き合うんだよ。\nわだかまりを吐き出すんだ。そうすれば、何か分かるかもしれない。"
+            },
             "voice": ""
         },
         {
@@ -672,8 +968,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "……。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "……。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_20/main_01_01_20_080.mp3"
         }
     ]

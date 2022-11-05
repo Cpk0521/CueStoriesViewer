@@ -6,8 +6,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "お疲れ様です。\n……あの、暖房つけてもいいですか？",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "お疲れ様です。\n……あの、暖房つけてもいいですか？"
+            },
             "voice": "audition/story_01/heroine_16/HM_Sub_01_16_17/hm_sub_01_16_17_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "大丈夫だよ。\n鳴って寒いの苦手なんだっけ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "大丈夫だよ。\n鳴って寒いの苦手なんだっけ。"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "はい。寒いのも暑いのも苦手です。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "はい。寒いのも暑いのも苦手です。"
+            },
             "voice": "audition/story_01/heroine_16/HM_Sub_01_16_17/hm_sub_01_16_17_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "部屋は適温じゃないと。\nパフォーマンスに影響します。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "部屋は適温じゃないと。\nパフォーマンスに影響します。"
+            },
             "voice": "audition/story_01/heroine_16/HM_Sub_01_16_17/hm_sub_01_16_17_004.mp3"
         }
     ]

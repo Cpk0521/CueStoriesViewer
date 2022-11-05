@@ -6,8 +6,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "さてさて様子はどうかな？\nそろそろ収穫出来そうな気がするんだけど……。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "さてさて様子はどうかな？\nそろそろ収穫出来そうな気がするんだけど……。"
+            },
             "voice": "card/Card_06/Card_3060011_2/card_3060011_2_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "うんうん。元気に育ってる。\n良かった良かった。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "うんうん。元気に育ってる。\n良かった良かった。"
+            },
             "voice": "card/Card_06/Card_3060011_2/card_3060011_2_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "ふふっ。約束通り、みんなにも連絡しなきゃね。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "ふふっ。約束通り、みんなにも連絡しなきゃね。"
+            },
             "voice": "card/Card_06/Card_3060011_2/card_3060011_2_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "チサ！　ついに収穫出来るってホント？",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "チサ！　ついに収穫出来るってホント？"
+            },
             "voice": "card/Card_06/Card_3060011_2/card_3060011_2_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "収穫……、楽しみだなー。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "収穫……、楽しみだなー。"
+            },
             "voice": "card/Card_06/Card_3060011_2/card_3060011_2_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "ふふっ、2人ともいらっしゃい。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "ふふっ、2人ともいらっしゃい。"
+            },
             "voice": "card/Card_06/Card_3060011_2/card_3060011_2_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "って、あら？　悠希はどうしたの？",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "って、あら？　悠希はどうしたの？"
+            },
             "voice": "card/Card_06/Card_3060011_2/card_3060011_2_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "ユーキはまだ学校から帰ってきてないわ。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "ユーキはまだ学校から帰ってきてないわ。"
+            },
             "voice": "card/Card_06/Card_3060011_2/card_3060011_2_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "ちょっと遅れるみたいだよ。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "ちょっと遅れるみたいだよ。"
+            },
             "voice": "card/Card_06/Card_3060011_2/card_3060011_2_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "そうなんだ……。じゃあ、仕方ない。\n先、始めちゃおうか。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "そうなんだ……。じゃあ、仕方ない。\n先、始めちゃおうか。"
+            },
             "voice": "card/Card_06/Card_3060011_2/card_3060011_2_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "待ってましたー！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "待ってましたー！"
+            },
             "voice": "card/Card_06/Card_3060011_2/card_3060011_2_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "はーい。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "はーい。"
+            },
             "voice": "card/Card_06/Card_3060011_2/card_3060011_2_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "じゃあ、このハサミを使ってね。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "じゃあ、このハサミを使ってね。"
+            },
             "voice": "card/Card_06/Card_3060011_2/card_3060011_2_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "このハサミ、指ぐらい簡単にパチンっていっちゃうから。\n気をつけなきゃダメよ。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "このハサミ、指ぐらい簡単にパチンっていっちゃうから。\n気をつけなきゃダメよ。"
+            },
             "voice": "card/Card_06/Card_3060011_2/card_3060011_2_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "ええ？　こわーい。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "ええ？　こわーい。"
+            },
             "voice": "card/Card_06/Card_3060011_2/card_3060011_2_015.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "大丈夫。ちゃんと気をつけて使えば何もこわくないから。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "大丈夫。ちゃんと気をつけて使えば何もこわくないから。"
+            },
             "voice": "card/Card_06/Card_3060011_2/card_3060011_2_016.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "あいりも気をつけてね。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "あいりも気をつけてね。"
+            },
             "voice": "card/Card_06/Card_3060011_2/card_3060011_2_017.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "うん。ちゃんと気をつけるよ。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "うん。ちゃんと気をつけるよ。"
+            },
             "voice": "card/Card_06/Card_3060011_2/card_3060011_2_018.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "ねえ、この辺にハサミを入れればいいの？",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "ねえ、この辺にハサミを入れればいいの？"
+            },
             "voice": "card/Card_06/Card_3060011_2/card_3060011_2_019.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "そうよ。\nあ、ほら、反対の手でしっかり実を持たないと落とすからね。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "そうよ。\nあ、ほら、反対の手でしっかり実を持たないと落とすからね。"
+            },
             "voice": "card/Card_06/Card_3060011_2/card_3060011_2_020.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "はーい。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "はーい。"
+            },
             "voice": "card/Card_06/Card_3060011_2/card_3060011_2_021.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "おおー……。ずっしり重い。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "おおー……。ずっしり重い。"
+            },
             "voice": "card/Card_06/Card_3060011_2/card_3060011_2_022.mp3"
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "ねぇ、千紗ちゃん。このトマトでいい？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "ねぇ、千紗ちゃん。このトマトでいい？"
+            },
             "voice": "card/Card_06/Card_3060011_2/card_3060011_2_023.mp3"
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "うーん、そのトマトはまだ青いところがあるから、\n今日収穫するのはやめときましょ。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "うーん、そのトマトはまだ青いところがあるから、\n今日収穫するのはやめときましょ。"
+            },
             "voice": "card/Card_06/Card_3060011_2/card_3060011_2_024.mp3"
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "それの上の方は取っていいよ。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "それの上の方は取っていいよ。"
+            },
             "voice": "card/Card_06/Card_3060011_2/card_3060011_2_025.mp3"
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "はーい。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "はーい。"
+            },
             "voice": "card/Card_06/Card_3060011_2/card_3060011_2_026.mp3"
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "お野菜って、こうやって収穫するんだね。\nすごいなあ。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "お野菜って、こうやって収穫するんだね。\nすごいなあ。"
+            },
             "voice": "card/Card_06/Card_3060011_2/card_3060011_2_027.mp3"
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "あいりは野菜を収穫したのは初めて？",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "あいりは野菜を収穫したのは初めて？"
+            },
             "voice": "card/Card_06/Card_3060011_2/card_3060011_2_028.mp3"
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "うん。目の前でお野菜が育ってるところ、\nこんな近くで見たことなかったから。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "うん。目の前でお野菜が育ってるところ、\nこんな近くで見たことなかったから。"
+            },
             "voice": "card/Card_06/Card_3060011_2/card_3060011_2_029.mp3"
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "ふふっ。あいり、楽しい？",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "ふふっ。あいり、楽しい？"
+            },
             "voice": "card/Card_06/Card_3060011_2/card_3060011_2_030.mp3"
         },
         {
@@ -276,8 +396,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "うん。とっても楽しいよ。千紗ちゃん。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "うん。とっても楽しいよ。千紗ちゃん。"
+            },
             "voice": "card/Card_06/Card_3060011_2/card_3060011_2_031.mp3"
         },
         {
@@ -285,8 +409,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "わー。このプチトマト……。\n粒がツヤツヤしていて、おいしそう……。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "わー。このプチトマト……。\n粒がツヤツヤしていて、おいしそう……。"
+            },
             "voice": "card/Card_06/Card_3060011_2/card_3060011_2_032.mp3"
         },
         {
@@ -294,8 +422,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "このキュウリも、とてもキレイ……。\nサンドイッチとか、サラダとかにしてみたらおいしいかな？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "このキュウリも、とてもキレイ……。\nサンドイッチとか、サラダとかにしてみたらおいしいかな？"
+            },
             "voice": "card/Card_06/Card_3060011_2/card_3060011_2_033.mp3"
         },
         {
@@ -303,8 +435,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "うん？　それなら、そのまま食べてもおいしいわよ。\n食べてみて？",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "うん？　それなら、そのまま食べてもおいしいわよ。\n食べてみて？"
+            },
             "voice": "card/Card_06/Card_3060011_2/card_3060011_2_034.mp3"
         },
         {
@@ -312,8 +448,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "う、うん。\n……んー、おいしい！",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "う、うん。\n……んー、おいしい！"
+            },
             "voice": "card/Card_06/Card_3060011_2/card_3060011_2_035.mp3"
         },
         {
@@ -321,8 +461,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "でしょ？　今回もおいしく育ってくれて良かったな。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "でしょ？　今回もおいしく育ってくれて良かったな。"
+            },
             "voice": "card/Card_06/Card_3060011_2/card_3060011_2_036.mp3"
         },
         {
@@ -330,8 +474,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "ふふっ。ホント、こういうのって楽しいわね。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "ふふっ。ホント、こういうのって楽しいわね。"
+            },
             "voice": "card/Card_06/Card_3060011_2/card_3060011_2_037.mp3"
         },
         {
@@ -339,8 +487,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "じゃあ、今度から収穫の時は声かけようか？\nこっちも人手が多いほうが助かるし。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "じゃあ、今度から収穫の時は声かけようか？\nこっちも人手が多いほうが助かるし。"
+            },
             "voice": "card/Card_06/Card_3060011_2/card_3060011_2_038.mp3"
         },
         {
@@ -348,8 +500,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "うん。また今度も手伝うよ。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "うん。また今度も手伝うよ。"
+            },
             "voice": "card/Card_06/Card_3060011_2/card_3060011_2_039.mp3"
         },
         {
@@ -357,8 +513,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "もう収穫しちゃってる！？",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "もう収穫しちゃってる！？"
+            },
             "voice": "card/Card_06/Card_3060011_2/card_3060011_2_040.mp3"
         },
         {
@@ -366,8 +526,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "あ、悠希ちゃん。お疲れ様。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "あ、悠希ちゃん。お疲れ様。"
+            },
             "voice": "card/Card_06/Card_3060011_2/card_3060011_2_041.mp3"
         },
         {
@@ -375,8 +539,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "えへへ、見て、ユーキ。\nこれ、私たちが収穫したのよ。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "えへへ、見て、ユーキ。\nこれ、私たちが収穫したのよ。"
+            },
             "voice": "card/Card_06/Card_3060011_2/card_3060011_2_042.mp3"
         },
         {
@@ -384,8 +552,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "わー、いいな、いいなー！\nあたしの分、まだ残ってる！？",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "わー、いいな、いいなー！\nあたしの分、まだ残ってる！？"
+            },
             "voice": "card/Card_06/Card_3060011_2/card_3060011_2_043.mp3"
         },
         {
@@ -393,8 +565,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "はいはい。あわてないの。\nまだあるから、このハサミを使って……。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "はいはい。あわてないの。\nまだあるから、このハサミを使って……。"
+            },
             "voice": "card/Card_06/Card_3060011_2/card_3060011_2_044.mp3"
         },
         {
@@ -402,8 +578,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "よーし！　やるぞー！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "よーし！　やるぞー！"
+            },
             "voice": "card/Card_06/Card_3060011_2/card_3060011_2_045.mp3"
         },
         {
@@ -411,8 +591,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "悠希！　あんたは特に気をつけてよね。\nハサミって危ないんだから。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "悠希！　あんたは特に気をつけてよね。\nハサミって危ないんだから。"
+            },
             "voice": "card/Card_06/Card_3060011_2/card_3060011_2_046.mp3"
         },
         {
@@ -420,8 +604,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "任せといてよ。\nニッパーみたいなもんでしょ。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "任せといてよ。\nニッパーみたいなもんでしょ。"
+            },
             "voice": "card/Card_06/Card_3060011_2/card_3060011_2_047.mp3"
         },
         {
@@ -429,8 +617,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "それとは違うけど……。\nほんと、怪我しないでよね？",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "それとは違うけど……。\nほんと、怪我しないでよね？"
+            },
             "voice": "card/Card_06/Card_3060011_2/card_3060011_2_048.mp3"
         },
         {
@@ -438,8 +630,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "ねえ、千紗ちゃん……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "ねえ、千紗ちゃん……。"
+            },
             "voice": "card/Card_06/Card_3060011_2/card_3060011_2_049.mp3"
         },
         {
@@ -447,8 +643,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "なあに？",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "なあに？"
+            },
             "voice": "card/Card_06/Card_3060011_2/card_3060011_2_050.mp3"
         },
         {
@@ -456,8 +656,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "この子たち、動いたり喋ったりは出来ないけど、\nでも、ちゃんと生きてるんだよね？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "この子たち、動いたり喋ったりは出来ないけど、\nでも、ちゃんと生きてるんだよね？"
+            },
             "voice": "card/Card_06/Card_3060011_2/card_3060011_2_051.mp3"
         },
         {
@@ -465,8 +669,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "そうよ。野菜や果物、植物だって生きてるの。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "そうよ。野菜や果物、植物だって生きてるの。"
+            },
             "voice": "card/Card_06/Card_3060011_2/card_3060011_2_052.mp3"
         },
         {
@@ -474,8 +682,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "だからみんな、ご飯の前には、\nちゃんといただきますって言わないとダメよ？ ",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "だからみんな、ご飯の前には、\nちゃんといただきますって言わないとダメよ？ "
+            },
             "voice": "card/Card_06/Card_3060011_2/card_3060011_2_053.mp3"
         },
         {
@@ -483,8 +695,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "うん。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "うん。"
+            },
             "voice": "card/Card_06/Card_3060011_2/card_3060011_2_054.mp3"
         },
         {
@@ -492,8 +708,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "はーい！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "はーい！"
+            },
             "voice": "card/Card_06/Card_3060011_2/card_3060011_2_055.mp3"
         },
         {
@@ -501,8 +721,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "んー、千紗。\nそれじゃ、美晴たちのアニメじゃん。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "んー、千紗。\nそれじゃ、美晴たちのアニメじゃん。"
+            },
             "voice": "card/Card_06/Card_3060011_2/card_3060011_2_056.mp3"
         },
         {
@@ -510,8 +734,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "あたしたちならこう！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "あたしたちならこう！"
+            },
             "voice": "card/Card_06/Card_3060011_2/card_3060011_2_057.mp3"
         },
         {
@@ -519,8 +747,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "早く収穫しないと、\nいつまでたっても定時に帰れないでしょーがー！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "早く収穫しないと、\nいつまでたっても定時に帰れないでしょーがー！"
+            },
             "voice": "card/Card_06/Card_3060011_2/card_3060011_2_058.mp3"
         },
         {
@@ -528,8 +760,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "何言ってんだか、まったく……。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "何言ってんだか、まったく……。"
+            },
             "voice": "card/Card_06/Card_3060011_2/card_3060011_2_059.mp3"
         },
         {
@@ -537,8 +773,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "でも、そうね。早く収穫して、\n今日はみんなで晩ご飯の準備しよっか。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "でも、そうね。早く収穫して、\n今日はみんなで晩ご飯の準備しよっか。"
+            },
             "voice": "card/Card_06/Card_3060011_2/card_3060011_2_060.mp3"
         },
         {
@@ -548,8 +788,12 @@
                 7,
                 5
             ],
-            "name": "3人",
-            "message": "はーい！",
+            "name": {
+                "default": "3人"
+            },
+            "message": {
+                "default": "はーい！"
+            },
             "voice": "card/Card_06/Card_3060011_2/card_3060011_2_061.mp3"
         }
     ]

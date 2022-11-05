@@ -6,8 +6,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "着いたっ、海！　",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "着いたっ、海！　"
+            },
             "voice": "event/Event_012/Event_012_02/event_012_02_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "うーん、潮の香りがする！　気持ちいい！　",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "うーん、潮の香りがする！　気持ちいい！　"
+            },
             "voice": "event/Event_012/Event_012_02/event_012_02_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "お昼前に着けたね。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "お昼前に着けたね。"
+            },
             "voice": "event/Event_012/Event_012_02/event_012_02_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "なんだかんだで、来てしまったな。　",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "なんだかんだで、来てしまったな。　"
+            },
             "voice": "event/Event_012/Event_012_02/event_012_02_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "さて、これからどうするの、ほのか？　",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "さて、これからどうするの、ほのか？　"
+            },
             "voice": "event/Event_012/Event_012_02/event_012_02_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "え？　えーっと……、特には考えてきてないんだよね。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "え？　えーっと……、特には考えてきてないんだよね。"
+            },
             "voice": "event/Event_012/Event_012_02/event_012_02_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "え？　そうなの？　",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "え？　そうなの？　"
+            },
             "voice": "event/Event_012/Event_012_02/event_012_02_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "舞花は、何か考えてたりする？　",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "舞花は、何か考えてたりする？　"
+            },
             "voice": "event/Event_012/Event_012_02/event_012_02_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "いやいや、何も考えてきてないよ。　",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "いやいや、何も考えてきてないよ。　"
+            },
             "voice": "event/Event_012/Event_012_02/event_012_02_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "ていうか、ほのかが海に行こうって言ったんじゃん。\nだから、なんか考えてたんじゃないの？",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "ていうか、ほのかが海に行こうって言ったんじゃん。\nだから、なんか考えてたんじゃないの？"
+            },
             "voice": "event/Event_012/Event_012_02/event_012_02_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "うーん……。わたしはとりあえず、\n海に来たかっただけなんだよね。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "うーん……。わたしはとりあえず、\n海に来たかっただけなんだよね。"
+            },
             "voice": "event/Event_012/Event_012_02/event_012_02_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "やっぱ夏って言ったら、海でしょ？ 　",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "やっぱ夏って言ったら、海でしょ？ 　"
+            },
             "voice": "event/Event_012/Event_012_02/event_012_02_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "うん、それはわかるけど……。\nじゃあ、ノリと勢いで来たってこと？",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "うん、それはわかるけど……。\nじゃあ、ノリと勢いで来たってこと？"
+            },
             "voice": "event/Event_012/Event_012_02/event_012_02_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "あはは……。\nそうなる、かな。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "あはは……。\nそうなる、かな。"
+            },
             "voice": "event/Event_012/Event_012_02/event_012_02_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "えー、じゃあ、これからどうするのさ……。　",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "えー、じゃあ、これからどうするのさ……。　"
+            },
             "voice": "event/Event_012/Event_012_02/event_012_02_015.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "んー、どうしようか……。　",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "んー、どうしようか……。　"
+            },
             "voice": "event/Event_012/Event_012_02/event_012_02_016.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "やれやれ、仕方がない。\n私が案内してやろう。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "やれやれ、仕方がない。\n私が案内してやろう。"
+            },
             "voice": "event/Event_012/Event_012_02/event_012_02_017.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "志穂ちゃん、この辺、知ってるって言ってたもんね。　",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "志穂ちゃん、この辺、知ってるって言ってたもんね。　"
+            },
             "voice": "event/Event_012/Event_012_02/event_012_02_018.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "まぁな。いくつか当てはある。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "まぁな。いくつか当てはある。"
+            },
             "voice": "event/Event_012/Event_012_02/event_012_02_019.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "ほんと！？　",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "ほんと！？　"
+            },
             "voice": "event/Event_012/Event_012_02/event_012_02_020.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "志穂、ナイス！　",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "志穂、ナイス！　"
+            },
             "voice": "event/Event_012/Event_012_02/event_012_02_021.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "まずここから更に電車に乗っていくだろ。\nそうすると、由緒あるお寺がたくさんある。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "まずここから更に電車に乗っていくだろ。\nそうすると、由緒あるお寺がたくさんある。"
+            },
             "voice": "event/Event_012/Event_012_02/event_012_02_022.mp3"
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "え？　電車？　",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "え？　電車？　"
+            },
             "voice": "event/Event_012/Event_012_02/event_012_02_023.mp3"
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "お寺？　",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "お寺？　"
+            },
             "voice": "event/Event_012/Event_012_02/event_012_02_024.mp3"
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "うむ。やはり有名なのは、かの大仏様がある……。　",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "うむ。やはり有名なのは、かの大仏様がある……。　"
+            },
             "voice": "event/Event_012/Event_012_02/event_012_02_025.mp3"
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "ちょ、ちょっと待って。\nそこって、結構遠くない？",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "ちょ、ちょっと待って。\nそこって、結構遠くない？"
+            },
             "voice": "event/Event_012/Event_012_02/event_012_02_026.mp3"
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "海からは離れるが、そこまで遠くはないぞ。　",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "海からは離れるが、そこまで遠くはないぞ。　"
+            },
             "voice": "event/Event_012/Event_012_02/event_012_02_027.mp3"
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "えー、ここから更に移動するのはちょっとなー。　",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "えー、ここから更に移動するのはちょっとなー。　"
+            },
             "voice": "event/Event_012/Event_012_02/event_012_02_028.mp3"
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "うん……。\nわたしも、出来れば、海を感じられるこの辺がいいな。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "うん……。\nわたしも、出来れば、海を感じられるこの辺がいいな。"
+            },
             "voice": "event/Event_012/Event_012_02/event_012_02_029.mp3"
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "む……、せっかくプランを考えてやったのに。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "む……、せっかくプランを考えてやったのに。"
+            },
             "voice": "event/Event_012/Event_012_02/event_012_02_030.mp3"
         },
         {
@@ -276,8 +396,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "あはは……。\nそこはまたの機会にしよっか？",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "あはは……。\nそこはまたの機会にしよっか？"
+            },
             "voice": "event/Event_012/Event_012_02/event_012_02_031.mp3"
         },
         {
@@ -285,8 +409,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "でも、それならどうするんだ？\nこのまま海を眺めるのか？",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "でも、それならどうするんだ？\nこのまま海を眺めるのか？"
+            },
             "voice": "event/Event_012/Event_012_02/event_012_02_032.mp3"
         },
         {
@@ -294,8 +422,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "眺めてるだけってのはないけどさ。　",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "眺めてるだけってのはないけどさ。　"
+            },
             "voice": "event/Event_012/Event_012_02/event_012_02_033.mp3"
         },
         {
@@ -303,8 +435,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "海……、海……。うーん。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "海……、海……。うーん。"
+            },
             "voice": "event/Event_012/Event_012_02/event_012_02_034.mp3"
         },
         {
@@ -312,8 +448,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "じゃあ、砂浜でも走ろうか？\n砂浜の負荷って、結構いいんだよ！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "じゃあ、砂浜でも走ろうか？\n砂浜の負荷って、結構いいんだよ！"
+            },
             "voice": "event/Event_012/Event_012_02/event_012_02_035.mp3"
         },
         {
@@ -321,8 +461,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "なんで、遊びに来たのにトレーニングするのさ……。　",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "なんで、遊びに来たのにトレーニングするのさ……。　"
+            },
             "voice": "event/Event_012/Event_012_02/event_012_02_036.mp3"
         },
         {
@@ -330,8 +474,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "私もそれは遠慮しておく。　",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "私もそれは遠慮しておく。　"
+            },
             "voice": "event/Event_012/Event_012_02/event_012_02_037.mp3"
         },
         {
@@ -339,8 +487,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "ええと、どこかに案内所とか……、ないかなあ。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "ええと、どこかに案内所とか……、ないかなあ。"
+            },
             "voice": "event/Event_012/Event_012_02/event_012_02_038.mp3"
         },
         {
@@ -348,8 +500,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "あ、思い切って、駅まで戻ってみない？\nそうすればきっと……。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "あ、思い切って、駅まで戻ってみない？\nそうすればきっと……。"
+            },
             "voice": "event/Event_012/Event_012_02/event_012_02_039.mp3"
         },
         {
@@ -357,8 +513,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "ん？　ちょっと待って。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "ん？　ちょっと待って。"
+            },
             "voice": "event/Event_012/Event_012_02/event_012_02_040.mp3"
         },
         {
@@ -366,8 +526,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "どうしたの？　舞花ちゃん。　",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "どうしたの？　舞花ちゃん。　"
+            },
             "voice": "event/Event_012/Event_012_02/event_012_02_041.mp3"
         },
         {
@@ -375,8 +539,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "ねえ、あれって海の家じゃない？　",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "ねえ、あれって海の家じゃない？　"
+            },
             "voice": "event/Event_012/Event_012_02/event_012_02_042.mp3"
         },
         {
@@ -384,8 +552,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "え、どこ？　",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "え、どこ？　"
+            },
             "voice": "event/Event_012/Event_012_02/event_012_02_043.mp3"
         },
         {
@@ -393,8 +565,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "ほら、向こうの方……。　",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "ほら、向こうの方……。　"
+            },
             "voice": "event/Event_012/Event_012_02/event_012_02_044.mp3"
         },
         {
@@ -402,8 +578,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "ほんとだ！　なんか、人もいっぱいいる！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "ほんとだ！　なんか、人もいっぱいいる！"
+            },
             "voice": "event/Event_012/Event_012_02/event_012_02_045.mp3"
         },
         {
@@ -411,8 +591,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "とりあえず、あそこに行ってみようよ！　",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "とりあえず、あそこに行ってみようよ！　"
+            },
             "voice": "event/Event_012/Event_012_02/event_012_02_046.mp3"
         },
         {
@@ -420,8 +604,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "遠くないか？　",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "遠くないか？　"
+            },
             "voice": "event/Event_012/Event_012_02/event_012_02_047.mp3"
         },
         {
@@ -429,8 +617,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "遠くない遠くない！　ほら、行こう！",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "遠くない遠くない！　ほら、行こう！"
+            },
             "voice": "event/Event_012/Event_012_02/event_012_02_048.mp3"
         }
     ]

@@ -6,8 +6,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "この時は、まだ普通の1日だった。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "この時は、まだ普通の1日だった。"
+            },
             "voice": "lesson/Lesson_30607/lesson_30607_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "頑張ってね、凛音。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "頑張ってね、凛音。"
+            },
             "voice": "lesson/Lesson_30607/lesson_30607_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "うん！　頑張ってくる！！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "うん！　頑張ってくる！！"
+            },
             "voice": "lesson/Lesson_30607/lesson_30607_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "これからオーディション？　気合入ってるね。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "これからオーディション？　気合入ってるね。"
+            },
             "voice": "lesson/Lesson_30607/lesson_30607_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "さとちん！　うん、気合十分だよ！\nさとちんはどこか行ってきたの？",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "さとちん！　うん、気合十分だよ！\nさとちんはどこか行ってきたの？"
+            },
             "voice": "lesson/Lesson_30607/lesson_30607_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "うん。図書館に行こうって思ったけど、この霧だし雷も鳴るし、\n引き返してきた。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "うん。図書館に行こうって思ったけど、この霧だし雷も鳴るし、\n引き返してきた。"
+            },
             "voice": "lesson/Lesson_30607/lesson_30607_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "そうなんだー……。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "そうなんだー……。"
+            },
             "voice": "lesson/Lesson_30607/lesson_30607_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "マネージャーさんは来てくれるの？",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "マネージャーさんは来てくれるの？"
+            },
             "voice": "lesson/Lesson_30607/lesson_30607_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "うん。スタジオで待ち合わせしてる。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "うん。スタジオで待ち合わせしてる。"
+            },
             "voice": "lesson/Lesson_30607/lesson_30607_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "霧のせいで見通しが悪いから、気をつけてね。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "霧のせいで見通しが悪いから、気をつけてね。"
+            },
             "voice": "lesson/Lesson_30607/lesson_30607_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "うん！　ありがとう！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "うん！　ありがとう！"
+            },
             "voice": "lesson/Lesson_30607/lesson_30607_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "あ、マネージャーさん。おはようございます。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "あ、マネージャーさん。おはようございます。"
+            },
             "voice": "lesson/Lesson_30607/lesson_30607_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "おはよう。なんだか気合入ってるね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "おはよう。なんだか気合入ってるね。"
+            },
             "voice": ""
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "この作品には、どうしても出たいですから！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "この作品には、どうしても出たいですから！"
+            },
             "voice": "lesson/Lesson_30607/lesson_30607_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "絶対に、主役の座を手にしてみせます！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "絶対に、主役の座を手にしてみせます！"
+            },
             "voice": "lesson/Lesson_30607/lesson_30607_015.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "凛音がそこまで闘志をむき出しにするの珍しいね。\n頑張って。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "凛音がそこまで闘志をむき出しにするの珍しいね。\n頑張って。"
+            },
             "voice": ""
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "オーディションを受けるのは、わたしだけですか？",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "オーディションを受けるのは、わたしだけですか？"
+            },
             "voice": "lesson/Lesson_30607/lesson_30607_017.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "あと3人いるはずだよ？\nまだ時間が早いから。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "あと3人いるはずだよ？\nまだ時間が早いから。"
+            },
             "voice": ""
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "ライバルは3人かぁ。\n頑張ろっと！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "ライバルは3人かぁ。\n頑張ろっと！"
+            },
             "voice": "lesson/Lesson_30607/lesson_30607_019.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "あ、監督さんが来た。挨拶して。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "あ、監督さんが来た。挨拶して。"
+            },
             "voice": ""
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "はい！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "はい！"
+            },
             "voice": "lesson/Lesson_30607/lesson_30607_021.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "エールブルー所属、明神凛音です。\nよろしくお願いします！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "エールブルー所属、明神凛音です。\nよろしくお願いします！"
+            },
             "voice": "lesson/Lesson_30607/lesson_30607_022.mp3"
         }
     ]

@@ -6,8 +6,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "ね、あいり、早く帰って早速作ろうよ。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "ね、あいり、早く帰って早速作ろうよ。"
+            },
             "voice": "lesson/Lesson_31110/lesson_31110_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "ええ？　もう作るの？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "ええ？　もう作るの？"
+            },
             "voice": "lesson/Lesson_31110/lesson_31110_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "そのプラモ、あいりに買ってあげたものなんでしょ？\n悠希が作りたいだけじゃない。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "そのプラモ、あいりに買ってあげたものなんでしょ？\n悠希が作りたいだけじゃない。"
+            },
             "voice": "lesson/Lesson_31110/lesson_31110_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "まあ、それはそうなんだけどさ。\nプラモってのは鮮度が命なんだよ。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "まあ、それはそうなんだけどさ。\nプラモってのは鮮度が命なんだよ。"
+            },
             "voice": "lesson/Lesson_31110/lesson_31110_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "はいはい。\nそれじゃ、悠希、あいり、ちょっと先に帰ってて。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "はいはい。\nそれじゃ、悠希、あいり、ちょっと先に帰ってて。"
+            },
             "voice": "lesson/Lesson_31110/lesson_31110_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "え？　どうして？　　",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "え？　どうして？　　"
+            },
             "voice": "lesson/Lesson_31110/lesson_31110_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "私と柚葉はちょっと買い物してくるから。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "私と柚葉はちょっと買い物してくるから。"
+            },
             "voice": "lesson/Lesson_31110/lesson_31110_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "え？　",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "え？　"
+            },
             "voice": "lesson/Lesson_31110/lesson_31110_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "カネコのバイク、欲しいんでしょ？\n探しに行きましょ。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "カネコのバイク、欲しいんでしょ？\n探しに行きましょ。"
+            },
             "voice": "lesson/Lesson_31110/lesson_31110_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "いいの？　",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "いいの？　"
+            },
             "voice": "lesson/Lesson_31110/lesson_31110_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "ええ。　",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "ええ。　"
+            },
             "voice": "lesson/Lesson_31110/lesson_31110_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "なんだ。それ早く言ってくれればいいのに。\nあたしも行く！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "なんだ。それ早く言ってくれればいいのに。\nあたしも行く！"
+            },
             "voice": "lesson/Lesson_31110/lesson_31110_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "うん。あいりも。　",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "うん。あいりも。　"
+            },
             "voice": "lesson/Lesson_31110/lesson_31110_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "あ、電話。私みたい。　",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "あ、電話。私みたい。　"
+            },
             "voice": "lesson/Lesson_31110/lesson_31110_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "え？　柚葉？\n嫌な予感がするんだけど……。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "え？　柚葉？\n嫌な予感がするんだけど……。"
+            },
             "voice": "lesson/Lesson_31110/lesson_31110_015.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "ノープロブレム。今日は大丈夫よチサ。\nこのコール、パパからだから。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "ノープロブレム。今日は大丈夫よチサ。\nこのコール、パパからだから。"
+            },
             "voice": "lesson/Lesson_31110/lesson_31110_016.mp3"
         }
     ]

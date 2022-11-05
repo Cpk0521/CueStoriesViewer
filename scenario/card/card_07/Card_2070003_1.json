@@ -6,8 +6,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "ごめんなさい……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "ごめんなさい……。"
+            },
             "voice": "card/Card_07/Card_2070003_1/card_2070003_1_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 103
             ],
-            "name": "由良桐香",
-            "message": "恵庭さん……。\nその、すぐ謝るクセ、なんとかならない？",
+            "name": {
+                "default": "由良桐香"
+            },
+            "message": {
+                "default": "恵庭さん……。\nその、すぐ謝るクセ、なんとかならない？"
+            },
             "voice": "card/Card_07/Card_2070003_1/card_2070003_1_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "ごめんなさいっ。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "ごめんなさいっ。"
+            },
             "voice": "card/Card_07/Card_2070003_1/card_2070003_1_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 103
             ],
-            "name": "由良桐香",
-            "message": "そのクセよ。",
+            "name": {
+                "default": "由良桐香"
+            },
+            "message": {
+                "default": "そのクセよ。"
+            },
             "voice": "card/Card_07/Card_2070003_1/card_2070003_1_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "はっ……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "はっ……。"
+            },
             "voice": "card/Card_07/Card_2070003_1/card_2070003_1_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 103
             ],
-            "name": "由良桐香",
-            "message": "演技には正解も不正解もないんだから、\n自信を持ってやりなさい。",
+            "name": {
+                "default": "由良桐香"
+            },
+            "message": {
+                "default": "演技には正解も不正解もないんだから、\n自信を持ってやりなさい。"
+            },
             "voice": "card/Card_07/Card_2070003_1/card_2070003_1_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "はい……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "はい……。"
+            },
             "voice": "card/Card_07/Card_2070003_1/card_2070003_1_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "あいりの「ごめんなさい」は、標準装備だよね。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "あいりの「ごめんなさい」は、標準装備だよね。"
+            },
             "voice": "card/Card_07/Card_2070003_1/card_2070003_1_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "アイリの為に作られた言葉なんじゃない？",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "アイリの為に作られた言葉なんじゃない？"
+            },
             "voice": "card/Card_07/Card_2070003_1/card_2070003_1_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "そんなはずないでしょう。\nねえ？　あいり。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "そんなはずないでしょう。\nねえ？　あいり。"
+            },
             "voice": "card/Card_07/Card_2070003_1/card_2070003_1_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "すみません。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "すみません。"
+            },
             "voice": "card/Card_07/Card_2070003_1/card_2070003_1_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "ほらぁ、\nすみませんだって言えるんだし。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "ほらぁ、\nすみませんだって言えるんだし。"
+            },
             "voice": "card/Card_07/Card_2070003_1/card_2070003_1_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 103
             ],
-            "name": "由良桐香",
-            "message": "謝ることが念頭にあると、どうしても演技がかすむのよ。\n真実に届く前に諦めているようで。なんとか、改善してみて。",
+            "name": {
+                "default": "由良桐香"
+            },
+            "message": {
+                "default": "謝ることが念頭にあると、どうしても演技がかすむのよ。\n真実に届く前に諦めているようで。なんとか、改善してみて。"
+            },
             "voice": "card/Card_07/Card_2070003_1/card_2070003_1_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "はぁ……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "はぁ……。"
+            },
             "voice": "card/Card_07/Card_2070003_1/card_2070003_1_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "思い切ってさ、キャラ変えてこうよ。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "思い切ってさ、キャラ変えてこうよ。"
+            },
             "voice": "card/Card_07/Card_2070003_1/card_2070003_1_015.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "どうやって？",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "どうやって？"
+            },
             "voice": "card/Card_07/Card_2070003_1/card_2070003_1_016.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "とにかく、すれ違う人みんなに、\nメンチ切るとか。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "とにかく、すれ違う人みんなに、\nメンチ切るとか。"
+            },
             "voice": "card/Card_07/Card_2070003_1/card_2070003_1_017.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "メンチ切る？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "メンチ切る？"
+            },
             "voice": "card/Card_07/Card_2070003_1/card_2070003_1_018.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "睨みつけるんだよ。\nガム噛みながら、ポケットに手突っ込んで。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "睨みつけるんだよ。\nガム噛みながら、ポケットに手突っ込んで。"
+            },
             "voice": "card/Card_07/Card_2070003_1/card_2070003_1_019.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "無理だよぉ。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "無理だよぉ。"
+            },
             "voice": "card/Card_07/Card_2070003_1/card_2070003_1_020.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "でもアイリ、変身もの好きじゃない？",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "でもアイリ、変身もの好きじゃない？"
+            },
             "voice": "card/Card_07/Card_2070003_1/card_2070003_1_021.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "あいりが好きなのは正義のヒロインでしょ。\nヒロインが街中でメンチ切ることってある？",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "あいりが好きなのは正義のヒロインでしょ。\nヒロインが街中でメンチ切ることってある？"
+            },
             "voice": "card/Card_07/Card_2070003_1/card_2070003_1_022.mp3"
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "握手会で、誰も握手に来なかった……、とか？",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "握手会で、誰も握手に来なかった……、とか？"
+            },
             "voice": "card/Card_07/Card_2070003_1/card_2070003_1_023.mp3"
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "大喜利やってんじゃないのよ。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "大喜利やってんじゃないのよ。"
+            },
             "voice": "card/Card_07/Card_2070003_1/card_2070003_1_024.mp3"
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "とりあえず、肩で風切って街中をあるいてみようよ。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "とりあえず、肩で風切って街中をあるいてみようよ。"
+            },
             "voice": "card/Card_07/Card_2070003_1/card_2070003_1_025.mp3"
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "なにか見えるかもよ。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "なにか見えるかもよ。"
+            },
             "voice": "card/Card_07/Card_2070003_1/card_2070003_1_027.mp3"
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "えぇ……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "えぇ……。"
+            },
             "voice": "card/Card_07/Card_2070003_1/card_2070003_1_026.mp3"
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "（肩で風切るっていっても……。）",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "（肩で風切るっていっても……。）"
+            },
             "voice": "card/Card_07/Card_2070003_1/card_2070003_1_028.mp3"
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "もっと胸張って、顔上げて。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "もっと胸張って、顔上げて。"
+            },
             "voice": "card/Card_07/Card_2070003_1/card_2070003_1_029.mp3"
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "あ、すみません。\nあ、ごめんなさい。あ、すみません。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "あ、すみません。\nあ、ごめんなさい。あ、すみません。"
+            },
             "voice": "card/Card_07/Card_2070003_1/card_2070003_1_030.mp3"
         },
         {
@@ -276,8 +396,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "普段より謝ってる。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "普段より謝ってる。"
+            },
             "voice": "card/Card_07/Card_2070003_1/card_2070003_1_031.mp3"
         },
         {
@@ -285,8 +409,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "目線あげたから、他人が目に入っちゃったのね。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "目線あげたから、他人が目に入っちゃったのね。"
+            },
             "voice": "card/Card_07/Card_2070003_1/card_2070003_1_032.mp3"
         },
         {
@@ -294,8 +422,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "ちょっと……、休憩してもいい？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "ちょっと……、休憩してもいい？"
+            },
             "voice": "card/Card_07/Card_2070003_1/card_2070003_1_033.mp3"
         },
         {
@@ -303,8 +435,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "相手から目を離さないで。もっとフットワーク使ってこう。\n大丈夫、最後まで立ち続けた方の勝ちだ。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "相手から目を離さないで。もっとフットワーク使ってこう。\n大丈夫、最後まで立ち続けた方の勝ちだ。"
+            },
             "voice": "card/Card_07/Card_2070003_1/card_2070003_1_034.mp3"
         },
         {
@@ -312,8 +448,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "ボクシングやってるんじゃないんだから。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "ボクシングやってるんじゃないんだから。"
+            },
             "voice": "card/Card_07/Card_2070003_1/card_2070003_1_035.mp3"
         },
         {
@@ -321,8 +461,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "（ほんとに……、意味あるのかなぁ。）",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "（ほんとに……、意味あるのかなぁ。）"
+            },
             "voice": "card/Card_07/Card_2070003_1/card_2070003_1_036.mp3"
         }
     ]

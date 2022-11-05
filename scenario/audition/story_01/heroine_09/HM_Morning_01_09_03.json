@@ -6,8 +6,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "あら、マネージャーさん？\n奇遇ですね。おはようございます。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "あら、マネージャーさん？\n奇遇ですね。おはようございます。"
+            },
             "voice": "audition/story_01/heroine_09/HM_Morning_01_09_03/hm_morning_01_09_03_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "今日、わたし、とても体の調子がいいんですよ。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "今日、わたし、とても体の調子がいいんですよ。"
+            },
             "voice": "audition/story_01/heroine_09/HM_Morning_01_09_03/hm_morning_01_09_03_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "うふふ。\n昨日、とてもおいしいお酒をいただいたおかげかもしれません。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "うふふ。\n昨日、とてもおいしいお酒をいただいたおかげかもしれません。"
+            },
             "voice": "audition/story_01/heroine_09/HM_Morning_01_09_03/hm_morning_01_09_03_003.mp3"
         }
     ]

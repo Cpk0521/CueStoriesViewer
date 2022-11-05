@@ -6,8 +6,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "あ、ユーキ、もう駅に着いてるみたい！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "あ、ユーキ、もう駅に着いてるみたい！"
+            },
             "voice": "card/Card_07/Card_3070013_2/card_3070013_2_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "うん。あいりたちも急ごっか。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "うん。あいりたちも急ごっか。"
+            },
             "voice": "card/Card_07/Card_3070013_2/card_3070013_2_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "そういえば、悠希ちゃん、学校大丈夫だったかなあ。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "そういえば、悠希ちゃん、学校大丈夫だったかなあ。"
+            },
             "voice": "card/Card_07/Card_3070013_2/card_3070013_2_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "ホームワーク、持ってくの忘れてたりして！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "ホームワーク、持ってくの忘れてたりして！"
+            },
             "voice": "card/Card_07/Card_3070013_2/card_3070013_2_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "昨日の夜、一緒に確認しながら鞄に入れたから、\nそれは大丈夫だと思うよ。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "昨日の夜、一緒に確認しながら鞄に入れたから、\nそれは大丈夫だと思うよ。"
+            },
             "voice": "card/Card_07/Card_3070013_2/card_3070013_2_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "……あ！　あそこに立っているの、悠希ちゃんじゃないかな？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "……あ！　あそこに立っているの、悠希ちゃんじゃないかな？"
+            },
             "voice": "card/Card_07/Card_3070013_2/card_3070013_2_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "ホントだ！　ユーキー！ ",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "ホントだ！　ユーキー！ "
+            },
             "voice": "card/Card_07/Card_3070013_2/card_3070013_2_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "おっ、柚葉ー！　あいりー！\nこっちこっちー！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "おっ、柚葉ー！　あいりー！\nこっちこっちー！"
+            },
             "voice": "card/Card_07/Card_3070013_2/card_3070013_2_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "ごめんね悠希ちゃん、\n待たせちゃったよね。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "ごめんね悠希ちゃん、\n待たせちゃったよね。"
+            },
             "voice": "card/Card_07/Card_3070013_2/card_3070013_2_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "ううん、いま来たとこだから、大丈夫だよ！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "ううん、いま来たとこだから、大丈夫だよ！"
+            },
             "voice": "card/Card_07/Card_3070013_2/card_3070013_2_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "ふふっ。\nそれじゃ、行きましょ。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "ふふっ。\nそれじゃ、行きましょ。"
+            },
             "voice": "card/Card_07/Card_3070013_2/card_3070013_2_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "いやー、だんだん新学期感が高まってきてるね！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "いやー、だんだん新学期感が高まってきてるね！"
+            },
             "voice": "card/Card_07/Card_3070013_2/card_3070013_2_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "うん、今日から学校だもんね。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "うん、今日から学校だもんね。"
+            },
             "voice": "card/Card_07/Card_3070013_2/card_3070013_2_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "それがさー、朝は全然実感がなかったんだけど……。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "それがさー、朝は全然実感がなかったんだけど……。"
+            },
             "voice": "card/Card_07/Card_3070013_2/card_3070013_2_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "学校終わったら、\nなんだか一気に「新学期だー！」って気がしてきたんだよね！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "学校終わったら、\nなんだか一気に「新学期だー！」って気がしてきたんだよね！"
+            },
             "voice": "card/Card_07/Card_3070013_2/card_3070013_2_015.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "あ、終わってからなんだね……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "あ、終わってからなんだね……。"
+            },
             "voice": "card/Card_07/Card_3070013_2/card_3070013_2_016.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "ふふっ、やっぱりユーキはユニークね！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "ふふっ、やっぱりユーキはユニークね！"
+            },
             "voice": "card/Card_07/Card_3070013_2/card_3070013_2_017.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "えー、そうかなあ？",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "えー、そうかなあ？"
+            },
             "voice": "card/Card_07/Card_3070013_2/card_3070013_2_018.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "あ、そうそう！\n今日良いことあったんだよ！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "あ、そうそう！\n今日良いことあったんだよ！"
+            },
             "voice": "card/Card_07/Card_3070013_2/card_3070013_2_019.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "良いこと？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "良いこと？"
+            },
             "voice": "card/Card_07/Card_3070013_2/card_3070013_2_020.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "そう！\n今日さ、避難訓練があったんだよね！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "そう！\n今日さ、避難訓練があったんだよね！"
+            },
             "voice": "card/Card_07/Card_3070013_2/card_3070013_2_021.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "あれって、なんかワクワクしない？\n緊急事態に備えた避難の訓練、って感じで！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "あれって、なんかワクワクしない？\n緊急事態に備えた避難の訓練、って感じで！"
+            },
             "voice": "card/Card_07/Card_3070013_2/card_3070013_2_022.mp3"
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "それ、言葉そのままじゃないかな……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "それ、言葉そのままじゃないかな……。"
+            },
             "voice": "card/Card_07/Card_3070013_2/card_3070013_2_023.mp3"
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "つまり、スペシャルトレーニングってことね！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "つまり、スペシャルトレーニングってことね！"
+            },
             "voice": "card/Card_07/Card_3070013_2/card_3070013_2_024.mp3"
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "そう！　もちろん使う日なんて、来ないほうがいいんだけどさー。\nいざという時のために行う訓練って、ロマンあるじゃん！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "そう！　もちろん使う日なんて、来ないほうがいいんだけどさー。\nいざという時のために行う訓練って、ロマンあるじゃん！"
+            },
             "voice": "card/Card_07/Card_3070013_2/card_3070013_2_025.mp3"
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "どうせなら、避難はしごもやりたかったなー。\nあそこでグーを出していれば……！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "どうせなら、避難はしごもやりたかったなー。\nあそこでグーを出していれば……！"
+            },
             "voice": "card/Card_07/Card_3070013_2/card_3070013_2_026.mp3"
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "ヒナンハシゴ？　何それ？",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "ヒナンハシゴ？　何それ？"
+            },
             "voice": "card/Card_07/Card_3070013_2/card_3070013_2_027.mp3"
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "緊急時の避難に使うはしごだよね。\n普段は教室の隅とかに折りたたんであったりするの。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "緊急時の避難に使うはしごだよね。\n普段は教室の隅とかに折りたたんであったりするの。"
+            },
             "voice": "card/Card_07/Card_3070013_2/card_3070013_2_028.mp3"
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "そう、それ！\nじゃんけんで勝った選ばれし者だけが、やれるんだよ！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "そう、それ！\nじゃんけんで勝った選ばれし者だけが、やれるんだよ！"
+            },
             "voice": "card/Card_07/Card_3070013_2/card_3070013_2_029.mp3"
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "へぇー、面白そう！\n私もやってみたい！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "へぇー、面白そう！\n私もやってみたい！"
+            },
             "voice": "card/Card_07/Card_3070013_2/card_3070013_2_030.mp3"
         },
         {
@@ -276,8 +396,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "でしょ！？　やっぱり柚葉はわかってるなあ。\nじゃあ事務所でやれるか、真咲さんに相談してみよっか！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "でしょ！？　やっぱり柚葉はわかってるなあ。\nじゃあ事務所でやれるか、真咲さんに相談してみよっか！"
+            },
             "voice": "card/Card_07/Card_3070013_2/card_3070013_2_031.mp3"
         },
         {
@@ -285,8 +409,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "ナイスアイディアね！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "ナイスアイディアね！"
+            },
             "voice": "card/Card_07/Card_3070013_2/card_3070013_2_032.mp3"
         },
         {
@@ -294,8 +422,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "大丈夫かな……？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "大丈夫かな……？"
+            },
             "voice": "card/Card_07/Card_3070013_2/card_3070013_2_033.mp3"
         },
         {
@@ -303,8 +435,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "大丈夫だって！\n新学期の始まりは、訓練とともに始まるんだから！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "大丈夫だって！\n新学期の始まりは、訓練とともに始まるんだから！"
+            },
             "voice": "card/Card_07/Card_3070013_2/card_3070013_2_034.mp3"
         },
         {
@@ -312,8 +448,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "えっと、心配しているのはそこじゃなくて……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "えっと、心配しているのはそこじゃなくて……。"
+            },
             "voice": "card/Card_07/Card_3070013_2/card_3070013_2_035.mp3"
         },
         {
@@ -321,8 +461,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "大丈夫大丈夫！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "大丈夫大丈夫！"
+            },
             "voice": "card/Card_07/Card_3070013_2/card_3070013_2_036.mp3"
         },
         {
@@ -330,8 +474,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "えぇ……、あっ！？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "えぇ……、あっ！？"
+            },
             "voice": "card/Card_07/Card_3070013_2/card_3070013_2_037.mp3"
         },
         {
@@ -339,8 +487,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "ん？　どしたの？",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "ん？　どしたの？"
+            },
             "voice": "card/Card_07/Card_3070013_2/card_3070013_2_038.mp3"
         },
         {
@@ -348,8 +500,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "じ、時間が……！\nレッスン、始まっちゃうよ！",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "じ、時間が……！\nレッスン、始まっちゃうよ！"
+            },
             "voice": "card/Card_07/Card_3070013_2/card_3070013_2_039.mp3"
         },
         {
@@ -357,8 +513,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "え、ウソ！？\nヤバいヤバい！　よーし、ダッシュで急ごう！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "え、ウソ！？\nヤバいヤバい！　よーし、ダッシュで急ごう！"
+            },
             "voice": "card/Card_07/Card_3070013_2/card_3070013_2_040.mp3"
         },
         {
@@ -366,8 +526,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "オッケー！　走りましょ！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "オッケー！　走りましょ！"
+            },
             "voice": "card/Card_07/Card_3070013_2/card_3070013_2_041.mp3"
         },
         {
@@ -375,8 +539,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "あ！　待ってよ、悠希ちゃん！　柚葉ちゃーん！",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "あ！　待ってよ、悠希ちゃん！　柚葉ちゃーん！"
+            },
             "voice": "card/Card_07/Card_3070013_2/card_3070013_2_042.mp3"
         }
     ]

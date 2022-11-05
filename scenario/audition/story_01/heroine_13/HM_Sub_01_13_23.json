@@ -6,8 +6,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "お疲れ様。マネージャー。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "お疲れ様。マネージャー。"
+            },
             "voice": "audition/story_01/heroine_13/HM_Sub_01_13_23/hm_sub_01_13_23_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "今日、ここに来る時、バイト中の千紗とばったり会ったんだけど。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "今日、ここに来る時、バイト中の千紗とばったり会ったんだけど。"
+            },
             "voice": "audition/story_01/heroine_13/HM_Sub_01_13_23/hm_sub_01_13_23_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "あそこのお店の制服かわいいんだよね。\n我輩もちょっと憧れたことがあるの。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "あそこのお店の制服かわいいんだよね。\n我輩もちょっと憧れたことがあるの。"
+            },
             "voice": "audition/story_01/heroine_13/HM_Sub_01_13_23/hm_sub_01_13_23_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "いいんじゃない？\n千紗に借りて、着させてもらったら？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "いいんじゃない？\n千紗に借りて、着させてもらったら？"
+            },
             "voice": ""
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "そ、それはちょっと恥ずかしいな……。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "そ、それはちょっと恥ずかしいな……。"
+            },
             "voice": "audition/story_01/heroine_13/HM_Sub_01_13_23/hm_sub_01_13_23_005.mp3"
         }
     ]

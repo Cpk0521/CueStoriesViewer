@@ -6,8 +6,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "お疲れ様ー……。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "お疲れ様ー……。"
+            },
             "voice": "audition/story_01/heroine_08/HM_Cast_01_08_05_01/hm_cast_01_08_05_01_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "お疲れ様デース……。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "お疲れ様デース……。"
+            },
             "voice": "audition/story_01/heroine_08/HM_Cast_01_08_05_01/hm_cast_01_08_05_01_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "お疲れ様。\nえ？　どうしたの、2人とも。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "お疲れ様。\nえ？　どうしたの、2人とも。"
+            },
             "voice": ""
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "うう……もう無理だ、一歩も歩けねえ。\n助けてくれ、マネージャー……がくっ。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "うう……もう無理だ、一歩も歩けねえ。\n助けてくれ、マネージャー……がくっ。"
+            },
             "voice": "audition/story_01/heroine_08/HM_Cast_01_08_05_01/hm_cast_01_08_05_01_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "ユーキ、しっかりして！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "ユーキ、しっかりして！"
+            },
             "voice": "audition/story_01/heroine_08/HM_Cast_01_08_05_01/hm_cast_01_08_05_01_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "えっと……そんなに大変だったの？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "えっと……そんなに大変だったの？"
+            },
             "voice": ""
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "そうなの。私、もうクタクタ。\nね、ユーキ？",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "そうなの。私、もうクタクタ。\nね、ユーキ？"
+            },
             "voice": "audition/story_01/heroine_08/HM_Cast_01_08_05_01/hm_cast_01_08_05_01_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "そうそう。めっちゃハードだった！\nこりゃ明日は筋肉痛かなー。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "そうそう。めっちゃハードだった！\nこりゃ明日は筋肉痛かなー。"
+            },
             "voice": "audition/story_01/heroine_08/HM_Cast_01_08_05_01/hm_cast_01_08_05_01_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "さ、そろそろ帰りましょ？\n今日はチサ特製オムライスよ！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "さ、そろそろ帰りましょ？\n今日はチサ特製オムライスよ！"
+            },
             "voice": "audition/story_01/heroine_08/HM_Cast_01_08_05_01/hm_cast_01_08_05_01_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "おおっ！　よし、今すぐ帰ろう！\nじゃ、お先に失礼しまーす！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "おおっ！　よし、今すぐ帰ろう！\nじゃ、お先に失礼しまーす！"
+            },
             "voice": "audition/story_01/heroine_08/HM_Cast_01_08_05_01/hm_cast_01_08_05_01_010.mp3"
         }
     ]

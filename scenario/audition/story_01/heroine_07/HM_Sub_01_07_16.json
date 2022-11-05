@@ -6,8 +6,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "マネージャーさん、お疲れ様です。\nあの……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "マネージャーさん、お疲れ様です。\nあの……。"
+            },
             "voice": "audition/story_01/heroine_07/HM_Sub_01_07_16/hm_sub_01_07_16_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "そこのテーブル、あいりたちで使ってもいいですか？\n柚葉ちゃんが、差し入れにクレープを持ってきてくれて……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "そこのテーブル、あいりたちで使ってもいいですか？\n柚葉ちゃんが、差し入れにクレープを持ってきてくれて……。"
+            },
             "voice": "audition/story_01/heroine_07/HM_Sub_01_07_16/hm_sub_01_07_16_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そうなんだ。\nもちろん大丈夫だよ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そうなんだ。\nもちろん大丈夫だよ。"
+            },
             "voice": ""
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "ありがとうございます！\nあの、マネージャーさんの分もあるみたいなんです。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "ありがとうございます！\nあの、マネージャーさんの分もあるみたいなんです。"
+            },
             "voice": "audition/story_01/heroine_07/HM_Sub_01_07_16/hm_sub_01_07_16_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "よかったら、あいりたちと一緒に休憩しませんか？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "よかったら、あいりたちと一緒に休憩しませんか？"
+            },
             "voice": "audition/story_01/heroine_07/HM_Sub_01_07_16/hm_sub_01_07_16_005.mp3"
         }
     ]

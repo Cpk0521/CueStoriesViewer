@@ -6,8 +6,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "コタツで寝るってこと？",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "コタツで寝るってこと？"
+            },
             "voice": "audition/story_01/heroine_01/HM_Main_01_01_98/hm_main_01_01_98_016.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "寝るだけじゃない。\nコタツで生活する。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "寝るだけじゃない。\nコタツで生活する。"
+            },
             "voice": "audition/story_01/heroine_01/HM_Main_01_01_98/hm_main_01_01_98_017.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "部屋から出なくなりそう……。\n夏はどうするの？",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "部屋から出なくなりそう……。\n夏はどうするの？"
+            },
             "voice": "audition/story_01/heroine_01/HM_Main_01_01_98/hm_main_01_01_98_018.mp3"
         }
     ]

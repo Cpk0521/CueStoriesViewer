@@ -6,8 +6,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "お疲れ様です、マネージャーさん。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "お疲れ様です、マネージャーさん。"
+            },
             "voice": "audition/story_01/heroine_01/HM_Main_01_01_02/hm_main_01_01_02_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "オーディションまでに、わたしが出来ること。\nわたしがやらなきゃいけないこと。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "オーディションまでに、わたしが出来ること。\nわたしがやらなきゃいけないこと。"
+            },
             "voice": "audition/story_01/heroine_01/HM_Main_01_01_02/hm_main_01_01_02_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "本当にたくさんありますね。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "本当にたくさんありますね。"
+            },
             "voice": "audition/story_01/heroine_01/HM_Main_01_01_02/hm_main_01_01_02_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "あはは……。やっぱり少し、焦っちゃいます。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "あはは……。やっぱり少し、焦っちゃいます。"
+            },
             "voice": "audition/story_01/heroine_01/HM_Main_01_01_02/hm_main_01_01_02_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "資料はもう読んだ？　",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "資料はもう読んだ？　"
+            },
             "voice": ""
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "はい、もちろんです！",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "はい、もちろんです！"
+            },
             "voice": "audition/story_01/heroine_01/HM_Main_01_01_02/hm_main_01_01_02_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "世界から追われる少年たちと少女の物語……。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "世界から追われる少年たちと少女の物語……。"
+            },
             "voice": "audition/story_01/heroine_01/HM_Main_01_01_02/hm_main_01_01_02_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "世界から追われるって、どんな気持ちなんでしょうか……。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "世界から追われるって、どんな気持ちなんでしょうか……。"
+            },
             "voice": "audition/story_01/heroine_01/HM_Main_01_01_02/hm_main_01_01_02_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "確かに、陽菜の性格だと……、\nそういう状況を想像するのは難しいかもね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "確かに、陽菜の性格だと……、\nそういう状況を想像するのは難しいかもね。"
+            },
             "voice": ""
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "追われるってきっと、とてもこわいことだとは思うんですけど……。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "追われるってきっと、とてもこわいことだとは思うんですけど……。"
+            },
             "voice": "audition/story_01/heroine_01/HM_Main_01_01_02/hm_main_01_01_02_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "チームの仲間に相談してみたらいいんじゃない？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "チームの仲間に相談してみたらいいんじゃない？"
+            },
             "voice": ""
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "チームの仲間……。\nうん、そうですね……。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "チームの仲間……。\nうん、そうですね……。"
+            },
             "voice": "audition/story_01/heroine_01/HM_Main_01_01_02/hm_main_01_01_02_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "はい。舞花ちゃんならきっと、立ち止まらないんだろうなぁ。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "はい。舞花ちゃんならきっと、立ち止まらないんだろうなぁ。"
+            },
             "voice": "audition/story_01/heroine_01/HM_Main_01_01_02/hm_main_01_01_02_014.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "うふふっ、きっと志穂ちゃんらしい答えが返ってきそう。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "うふふっ、きっと志穂ちゃんらしい答えが返ってきそう。"
+            },
             "voice": "audition/story_01/heroine_01/HM_Main_01_01_02/hm_main_01_01_02_016.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "はい。ほのかちゃんならきっと、\n自分の答え、持ってるはずですもんね。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "はい。ほのかちゃんならきっと、\n自分の答え、持ってるはずですもんね。"
+            },
             "voice": "audition/story_01/heroine_01/HM_Main_01_01_02/hm_main_01_01_02_018.mp3"
         }
     ]

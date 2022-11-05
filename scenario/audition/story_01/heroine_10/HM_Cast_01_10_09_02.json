@@ -6,8 +6,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "お疲れ様です。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "お疲れ様です。"
+            },
             "voice": "audition/story_01/heroine_10/HM_Cast_01_10_09_02/hm_cast_01_10_09_02_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "うふふ、お疲れ様です。\nマネージャーさん。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "うふふ、お疲れ様です。\nマネージャーさん。"
+            },
             "voice": "audition/story_01/heroine_10/HM_Cast_01_10_09_02/hm_cast_01_10_09_02_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "お疲れ様。\n何か楽しそうに話してたけど、どうしたの？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "お疲れ様。\n何か楽しそうに話してたけど、どうしたの？"
+            },
             "voice": ""
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "絢と一緒に行ったケーキ屋さんのお話をしてたんです。\nね、絢？",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "絢と一緒に行ったケーキ屋さんのお話をしてたんです。\nね、絢？"
+            },
             "voice": "audition/story_01/heroine_10/HM_Cast_01_10_09_02/hm_cast_01_10_09_02_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "うん、すごくいいお店だった。\nもう一回行きたいな。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "うん、すごくいいお店だった。\nもう一回行きたいな。"
+            },
             "voice": "audition/story_01/heroine_10/HM_Cast_01_10_09_02/hm_cast_01_10_09_02_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "あそこのザッハトルテ、とってもおいしかったでしょ？",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "あそこのザッハトルテ、とってもおいしかったでしょ？"
+            },
             "voice": "audition/story_01/heroine_10/HM_Cast_01_10_09_02/hm_cast_01_10_09_02_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "うん。甘いんだけど、ちょっとビターで。\nあんずジャムもすごい効いてたよね。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "うん。甘いんだけど、ちょっとビターで。\nあんずジャムもすごい効いてたよね。"
+            },
             "voice": "audition/story_01/heroine_10/HM_Cast_01_10_09_02/hm_cast_01_10_09_02_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "でも……私はそれより、美晴と話した事のほうが、\n記憶に残ってる。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "でも……私はそれより、美晴と話した事のほうが、\n記憶に残ってる。"
+            },
             "voice": "audition/story_01/heroine_10/HM_Cast_01_10_09_02/hm_cast_01_10_09_02_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "あら、どのお話？",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "あら、どのお話？"
+            },
             "voice": "audition/story_01/heroine_10/HM_Cast_01_10_09_02/hm_cast_01_10_09_02_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "前に私がおすすめした漫画の話。\n美晴、ちゃんと読んでくれてたから。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "前に私がおすすめした漫画の話。\n美晴、ちゃんと読んでくれてたから。"
+            },
             "voice": "audition/story_01/heroine_10/HM_Cast_01_10_09_02/hm_cast_01_10_09_02_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "うふふ、そうね。\nわたしもお話、すごく楽しかったわ。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "うふふ、そうね。\nわたしもお話、すごく楽しかったわ。"
+            },
             "voice": "audition/story_01/heroine_10/HM_Cast_01_10_09_02/hm_cast_01_10_09_02_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "また絢の好きな漫画、教えてもらえるかしら？",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "また絢の好きな漫画、教えてもらえるかしら？"
+            },
             "voice": "audition/story_01/heroine_10/HM_Cast_01_10_09_02/hm_cast_01_10_09_02_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "うん。また貸すね。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "うん。また貸すね。"
+            },
             "voice": "audition/story_01/heroine_10/HM_Cast_01_10_09_02/hm_cast_01_10_09_02_013.mp3"
         }
     ]

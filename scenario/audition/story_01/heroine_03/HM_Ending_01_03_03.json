@@ -6,8 +6,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "落ちたか。\nまぁ、今回は縁がなかったということだ。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "落ちたか。\nまぁ、今回は縁がなかったということだ。"
+            },
             "voice": "audition/story_01/heroine_03/HM_Ending_01_03_03/hm_ending_01_03_03_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "何事も縁だからな。\n役と縁が結べないことだってあるだろ。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "何事も縁だからな。\n役と縁が結べないことだってあるだろ。"
+            },
             "voice": "audition/story_01/heroine_03/HM_Ending_01_03_03/hm_ending_01_03_03_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "だから、次の良縁を期待しようじゃないか。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "だから、次の良縁を期待しようじゃないか。"
+            },
             "voice": "audition/story_01/heroine_03/HM_Ending_01_03_03/hm_ending_01_03_03_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "まぁ、やりたかったけどな……。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "まぁ、やりたかったけどな……。"
+            },
             "voice": "audition/story_01/heroine_03/HM_Ending_01_03_03/hm_ending_01_03_03_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "また頼んだぞ、ジャーマネ。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "また頼んだぞ、ジャーマネ。"
+            },
             "voice": "audition/story_01/heroine_03/HM_Ending_01_03_03/hm_ending_01_03_03_005.mp3"
         }
     ]

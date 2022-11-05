@@ -6,8 +6,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "お疲れ様です、マネージャーさん。\n……ふわぁ。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "お疲れ様です、マネージャーさん。\n……ふわぁ。"
+            },
             "voice": "audition/story_01/heroine_06/HM_Cast_01_06_07_04/hm_cast_01_06_07_04_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "お疲れ様、あいり。\n眠そうだけど、大丈夫？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "お疲れ様、あいり。\n眠そうだけど、大丈夫？"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "あ、すみません！\nだ、大丈夫です！",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "あ、すみません！\nだ、大丈夫です！"
+            },
             "voice": "audition/story_01/heroine_06/HM_Cast_01_06_07_04/hm_cast_01_06_07_04_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "どうしたの、寝不足？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "どうしたの、寝不足？"
+            },
             "voice": ""
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "あ、いえ、そういうわけじゃないんです。\n今日はその、4時に起きちゃって……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "あ、いえ、そういうわけじゃないんです。\n今日はその、4時に起きちゃって……。"
+            },
             "voice": "audition/story_01/heroine_06/HM_Cast_01_06_07_04/hm_cast_01_06_07_04_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "4時！？\nそれは早いね……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "4時！？\nそれは早いね……。"
+            },
             "voice": ""
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "もう1度寝ようとしたんですけど、全然ダメで……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "もう1度寝ようとしたんですけど、全然ダメで……。"
+            },
             "voice": "audition/story_01/heroine_06/HM_Cast_01_06_07_04/hm_cast_01_06_07_04_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "だから、その分、今日はちょっと凝ったお弁当を作りました！！",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "だから、その分、今日はちょっと凝ったお弁当を作りました！！"
+            },
             "voice": "audition/story_01/heroine_06/HM_Cast_01_06_07_04/hm_cast_01_06_07_04_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "ウィンナーをタコさんの形にしたんです。\n黒ゴマで、ちゃんと目も付けたんですよ。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "ウィンナーをタコさんの形にしたんです。\n黒ゴマで、ちゃんと目も付けたんですよ。"
+            },
             "voice": "audition/story_01/heroine_06/HM_Cast_01_06_07_04/hm_cast_01_06_07_04_009.mp3"
         }
     ]

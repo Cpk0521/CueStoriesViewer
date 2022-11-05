@@ -6,8 +6,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "結構時間かかるね。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "結構時間かかるね。"
+            },
             "voice": "card/Card_16/Card_4160014_3/card_4160014_3_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "わたし退屈しちゃったなー。\nねえねえ、なるちゃん、しりとりしようか？",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "わたし退屈しちゃったなー。\nねえねえ、なるちゃん、しりとりしようか？"
+            },
             "voice": "card/Card_16/Card_4160014_3/card_4160014_3_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "凛音さん。私ねむりたい。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "凛音さん。私ねむりたい。"
+            },
             "voice": "card/Card_16/Card_4160014_3/card_4160014_3_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "そっかそっかー。\nやっぱり寝るのが一番なのかなー。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "そっかそっかー。\nやっぱり寝るのが一番なのかなー。"
+            },
             "voice": "card/Card_16/Card_4160014_3/card_4160014_3_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "なるちゃんは時間の使い方が上手だねー。\nわたし、こういう時何していいかわかんないよー。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "なるちゃんは時間の使い方が上手だねー。\nわたし、こういう時何していいかわかんないよー。"
+            },
             "voice": "card/Card_16/Card_4160014_3/card_4160014_3_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "寝たほうがいいよ。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "寝たほうがいいよ。"
+            },
             "voice": "card/Card_16/Card_4160014_3/card_4160014_3_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "うーん。でもわたしねむくないからなー。\nマネージャーさん、しりとりする？",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "うーん。でもわたしねむくないからなー。\nマネージャーさん、しりとりする？"
+            },
             "voice": "card/Card_16/Card_4160014_3/card_4160014_3_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "ごめん凛音、ちょっと各所に急ぎで連絡しなきゃいけないから、\nしばらくパソコンと向き合うね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "ごめん凛音、ちょっと各所に急ぎで連絡しなきゃいけないから、\nしばらくパソコンと向き合うね。"
+            },
             "voice": ""
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "そっかー。\nじゃあ1人でしりとりしようかなー。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "そっかー。\nじゃあ1人でしりとりしようかなー。"
+            },
             "voice": "card/Card_16/Card_4160014_3/card_4160014_3_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 0
             ],
-            "name": "女の子",
-            "message": "もうやだー。",
+            "name": {
+                "default": "女の子"
+            },
+            "message": {
+                "default": "もうやだー。"
+            },
             "voice": ""
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "あれ？",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "あれ？"
+            },
             "voice": "card/Card_16/Card_4160014_3/card_4160014_3_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 0
             ],
-            "name": "お母さん",
-            "message": "もう少しの我慢だから、ね。少し我慢しようね。",
+            "name": {
+                "default": "お母さん"
+            },
+            "message": {
+                "default": "もう少しの我慢だから、ね。少し我慢しようね。"
+            },
             "voice": ""
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 0
             ],
-            "name": "女の子",
-            "message": "お家帰りたい。お家帰りたいよー。\nぐすん。",
+            "name": {
+                "default": "女の子"
+            },
+            "message": {
+                "default": "お家帰りたい。お家帰りたいよー。\nぐすん。"
+            },
             "voice": ""
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "子どもの声だねー。\nどうかしたのかな？",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "子どもの声だねー。\nどうかしたのかな？"
+            },
             "voice": "card/Card_16/Card_4160014_3/card_4160014_3_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 0
             ],
-            "name": "女の子",
-            "message": "えーん。もう帰りたいー。うわーん。",
+            "name": {
+                "default": "女の子"
+            },
+            "message": {
+                "default": "えーん。もう帰りたいー。うわーん。"
+            },
             "voice": ""
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 0
             ],
-            "name": "お母さん",
-            "message": "もう少し我慢しましょ？　ね？",
+            "name": {
+                "default": "お母さん"
+            },
+            "message": {
+                "default": "もう少し我慢しましょ？　ね？"
+            },
             "voice": ""
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "あらら、ぐずっちゃった。新幹線、ずっと止まったままだもん。\n泣きたくもなっちゃうよねー。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "あらら、ぐずっちゃった。新幹線、ずっと止まったままだもん。\n泣きたくもなっちゃうよねー。"
+            },
             "voice": "card/Card_16/Card_4160014_3/card_4160014_3_017.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "わたし、なんか出来ることないかな？",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "わたし、なんか出来ることないかな？"
+            },
             "voice": "card/Card_16/Card_4160014_3/card_4160014_3_018.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "何するつもり？",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "何するつもり？"
+            },
             "voice": "card/Card_16/Card_4160014_3/card_4160014_3_019.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "えへへー。あの女の子が笑顔になってくれればいいなって。\nなんかお菓子でもあればいいけど……。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "えへへー。あの女の子が笑顔になってくれればいいなって。\nなんかお菓子でもあればいいけど……。"
+            },
             "voice": "card/Card_16/Card_4160014_3/card_4160014_3_020.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "……。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "……。"
+            },
             "voice": "card/Card_16/Card_4160014_3/card_4160014_3_021.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "凛音さん、これ。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "凛音さん、これ。"
+            },
             "voice": "card/Card_16/Card_4160014_3/card_4160014_3_022.mp3"
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "え？　\nそれリエンヌへのお土産じゃないの？",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "え？　\nそれリエンヌへのお土産じゃないの？"
+            },
             "voice": "card/Card_16/Card_4160014_3/card_4160014_3_023.mp3"
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "そう。\nでも、利恵にお土産を買う機会はこの先もあるから。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "そう。\nでも、利恵にお土産を買う機会はこの先もあるから。"
+            },
             "voice": "card/Card_16/Card_4160014_3/card_4160014_3_024.mp3"
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "そっかそっかー。うん。わかった。\nじゃあ、ちょっとこのお菓子、あの女の子にあげてくるね。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "そっかそっかー。うん。わかった。\nじゃあ、ちょっとこのお菓子、あの女の子にあげてくるね。"
+            },
             "voice": "card/Card_16/Card_4160014_3/card_4160014_3_025.mp3"
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "うん。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "うん。"
+            },
             "voice": "card/Card_16/Card_4160014_3/card_4160014_3_026.mp3"
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "なるちゃんのお菓子、すごくおいしそうに食べてたよ。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "なるちゃんのお菓子、すごくおいしそうに食べてたよ。"
+            },
             "voice": "card/Card_16/Card_4160014_3/card_4160014_3_027.mp3"
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "そう。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "そう。"
+            },
             "voice": "card/Card_16/Card_4160014_3/card_4160014_3_028.mp3"
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "おかげですっかり笑顔になったみたい。\nなるちゃんのおかげだね。ありがとう！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "おかげですっかり笑顔になったみたい。\nなるちゃんのおかげだね。ありがとう！"
+            },
             "voice": "card/Card_16/Card_4160014_3/card_4160014_3_029.mp3"
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "凛音さんはお菓子とか買ってなかったの？",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "凛音さんはお菓子とか買ってなかったの？"
+            },
             "voice": "card/Card_16/Card_4160014_3/card_4160014_3_030.mp3"
         },
         {
@@ -276,8 +396,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "うん。わたし、さとちんへのお土産はタペストリーだから。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "うん。わたし、さとちんへのお土産はタペストリーだから。"
+            },
             "voice": "card/Card_16/Card_4160014_3/card_4160014_3_031.mp3"
         },
         {
@@ -285,8 +409,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "タペストリー？　なんの？",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "タペストリー？　なんの？"
+            },
             "voice": "card/Card_16/Card_4160014_3/card_4160014_3_032.mp3"
         },
         {
@@ -294,8 +422,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "えへへー、もちろん黒部ダムー。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "えへへー、もちろん黒部ダムー。"
+            },
             "voice": "card/Card_16/Card_4160014_3/card_4160014_3_033.mp3"
         },
         {
@@ -303,8 +435,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "そう。\n聡里さん、喜んでくれたらいいね。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "そう。\n聡里さん、喜んでくれたらいいね。"
+            },
             "voice": "card/Card_16/Card_4160014_3/card_4160014_3_034.mp3"
         },
         {
@@ -312,8 +448,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "うん！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "うん！"
+            },
             "voice": "card/Card_16/Card_4160014_3/card_4160014_3_035.mp3"
         },
         {
@@ -321,8 +461,12 @@
             "heroineId": [
                 0
             ],
-            "name": "車掌",
-            "message": "まもなく終点、東京に定刻より4時間遅れで到着いたします。",
+            "name": {
+                "default": "車掌"
+            },
+            "message": {
+                "default": "まもなく終点、東京に定刻より4時間遅れで到着いたします。"
+            },
             "voice": ""
         },
         {
@@ -330,8 +474,12 @@
             "heroineId": [
                 0
             ],
-            "name": "車掌",
-            "message": "本日は降雪により運行ダイヤが大きく乱れまして、\n大変ご迷惑をおかけいたしました……。",
+            "name": {
+                "default": "車掌"
+            },
+            "message": {
+                "default": "本日は降雪により運行ダイヤが大きく乱れまして、\n大変ご迷惑をおかけいたしました……。"
+            },
             "voice": ""
         },
         {
@@ -339,8 +487,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "はあ、やっと着いた。\n2人とも本当にお疲れ様。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "はあ、やっと着いた。\n2人とも本当にお疲れ様。"
+            },
             "voice": ""
         },
         {
@@ -348,8 +500,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "あ、リエンヌだー！\nね、なるちゃん、リエンヌ待っててくれたんじゃない？",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "あ、リエンヌだー！\nね、なるちゃん、リエンヌ待っててくれたんじゃない？"
+            },
             "voice": "card/Card_16/Card_4160014_3/card_4160014_3_039.mp3"
         },
         {
@@ -357,8 +513,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "うん。\nこのあと、約束してるから。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "うん。\nこのあと、約束してるから。"
+            },
             "voice": "card/Card_16/Card_4160014_3/card_4160014_3_040.mp3"
         },
         {
@@ -366,8 +526,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そっかー。じゃあ鳴、自分と凛音は一緒に帰るから、\n利恵のところに行ってあげたら？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そっかー。じゃあ鳴、自分と凛音は一緒に帰るから、\n利恵のところに行ってあげたら？"
+            },
             "voice": ""
         },
         {
@@ -375,8 +539,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "いいの？",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "いいの？"
+            },
             "voice": "card/Card_16/Card_4160014_3/card_4160014_3_042.mp3"
         },
         {
@@ -384,8 +552,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "もちろんだよー。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "もちろんだよー。"
+            },
             "voice": "card/Card_16/Card_4160014_3/card_4160014_3_043.mp3"
         },
         {
@@ -393,8 +565,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "わかった。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "わかった。"
+            },
             "voice": "card/Card_16/Card_4160014_3/card_4160014_3_044.mp3"
         },
         {
@@ -402,8 +578,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "利恵。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "利恵。"
+            },
             "voice": "card/Card_16/Card_4160014_3/card_4160014_3_045.mp3"
         },
         {
@@ -411,8 +591,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "おお、鳴。お疲れ様。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "おお、鳴。お疲れ様。"
+            },
             "voice": "card/Card_16/Card_4160014_3/card_4160014_3_046.mp3"
         },
         {
@@ -420,8 +604,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "うん。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "うん。"
+            },
             "voice": "card/Card_16/Card_4160014_3/card_4160014_3_047.mp3"
         },
         {
@@ -429,8 +617,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "大変だったね。\n疲れてない？",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "大変だったね。\n疲れてない？"
+            },
             "voice": "card/Card_16/Card_4160014_3/card_4160014_3_048.mp3"
         },
         {
@@ -438,8 +630,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "うん。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "うん。"
+            },
             "voice": "card/Card_16/Card_4160014_3/card_4160014_3_049.mp3"
         },
         {
@@ -447,8 +643,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "利恵。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "利恵。"
+            },
             "voice": "card/Card_16/Card_4160014_3/card_4160014_3_050.mp3"
         },
         {
@@ -456,8 +656,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "何？",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "何？"
+            },
             "voice": "card/Card_16/Card_4160014_3/card_4160014_3_051.mp3"
         },
         {
@@ -465,8 +669,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "富山のお菓子、お土産に買った。\nでも……。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "富山のお菓子、お土産に買った。\nでも……。"
+            },
             "voice": "card/Card_16/Card_4160014_3/card_4160014_3_052.mp3"
         },
         {
@@ -474,8 +682,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "でも？",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "でも？"
+            },
             "voice": "card/Card_16/Card_4160014_3/card_4160014_3_053.mp3"
         },
         {
@@ -483,8 +695,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "新幹線で泣いてた女の子にあげたよ。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "新幹線で泣いてた女の子にあげたよ。"
+            },
             "voice": "card/Card_16/Card_4160014_3/card_4160014_3_054.mp3"
         },
         {
@@ -492,8 +708,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "そっか。\nそれで、子どもは泣き止んだ？",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "そっか。\nそれで、子どもは泣き止んだ？"
+            },
             "voice": "card/Card_16/Card_4160014_3/card_4160014_3_055.mp3"
         },
         {
@@ -501,8 +721,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "うん。凛音さんがあやしてた。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "うん。凛音さんがあやしてた。"
+            },
             "voice": "card/Card_16/Card_4160014_3/card_4160014_3_056.mp3"
         },
         {
@@ -510,8 +734,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "それで良かったでしょ？",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "それで良かったでしょ？"
+            },
             "voice": "card/Card_16/Card_4160014_3/card_4160014_3_057.mp3"
         },
         {
@@ -519,8 +747,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "ああ。もちろんだ。\nお菓子はいつだって食べられるしね。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "ああ。もちろんだ。\nお菓子はいつだって食べられるしね。"
+            },
             "voice": "card/Card_16/Card_4160014_3/card_4160014_3_058.mp3"
         },
         {
@@ -528,8 +760,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "うん。そう言うと思ったから。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "うん。そう言うと思ったから。"
+            },
             "voice": "card/Card_16/Card_4160014_3/card_4160014_3_059.mp3"
         },
         {
@@ -537,8 +773,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "ふふっ。\nなんだか面白いね。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "ふふっ。\nなんだか面白いね。"
+            },
             "voice": "card/Card_16/Card_4160014_3/card_4160014_3_060.mp3"
         },
         {
@@ -546,8 +786,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "面白い？　何が？",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "面白い？　何が？"
+            },
             "voice": "card/Card_16/Card_4160014_3/card_4160014_3_061.mp3"
         },
         {
@@ -555,8 +799,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "寒いところから帰って来た鳴に、\n温かいスープを飲んで欲しかったのに。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "寒いところから帰って来た鳴に、\n温かいスープを飲んで欲しかったのに。"
+            },
             "voice": "card/Card_16/Card_4160014_3/card_4160014_3_062.mp3"
         },
         {
@@ -564,8 +812,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "ほら、すっかり我輩のほうが冷えちゃったし……。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "ほら、すっかり我輩のほうが冷えちゃったし……。"
+            },
             "voice": "card/Card_16/Card_4160014_3/card_4160014_3_063.mp3"
         },
         {
@@ -573,8 +825,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "うん。利恵のお菓子もなくなっちゃった。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "うん。利恵のお菓子もなくなっちゃった。"
+            },
             "voice": "card/Card_16/Card_4160014_3/card_4160014_3_064.mp3"
         },
         {
@@ -582,8 +838,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "ふふ。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "ふふ。"
+            },
             "voice": "card/Card_16/Card_4160014_3/card_4160014_3_065.mp3"
         },
         {
@@ -591,8 +851,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "利恵。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "利恵。"
+            },
             "voice": "card/Card_16/Card_4160014_3/card_4160014_3_066.mp3"
         },
         {
@@ -600,8 +864,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "何？",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "何？"
+            },
             "voice": "card/Card_16/Card_4160014_3/card_4160014_3_067.mp3"
         },
         {
@@ -609,8 +877,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "星は、今日も見える？",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "星は、今日も見える？"
+            },
             "voice": "card/Card_16/Card_4160014_3/card_4160014_3_068.mp3"
         },
         {
@@ -618,8 +890,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "そうだね。きっと、見えるんじゃないかな。\nこっちの空は、晴れてるから、ね。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "そうだね。きっと、見えるんじゃないかな。\nこっちの空は、晴れてるから、ね。"
+            },
             "voice": "card/Card_16/Card_4160014_3/card_4160014_3_069.mp3"
         }
     ]

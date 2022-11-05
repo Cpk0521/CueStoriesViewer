@@ -6,8 +6,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "この間、お友達から花かんむりを貰ったんです！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "この間、お友達から花かんむりを貰ったんです！"
+            },
             "voice": "audition/story_01/heroine_15/HM_Sub_01_15_17/hm_sub_01_15_17_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "ほら、これ！\nすごくかわいくないですか。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "ほら、これ！\nすごくかわいくないですか。"
+            },
             "voice": "audition/story_01/heroine_15/HM_Sub_01_15_17/hm_sub_01_15_17_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "お花いっぱいにしたり、綺麗に編み込んでたり！\nすーっごく楽しいんです！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "お花いっぱいにしたり、綺麗に編み込んでたり！\nすーっごく楽しいんです！"
+            },
             "voice": "audition/story_01/heroine_15/HM_Sub_01_15_17/hm_sub_01_15_17_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "今度マネージャーさんにも、\nわたしの花かんむりあげますね！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "今度マネージャーさんにも、\nわたしの花かんむりあげますね！"
+            },
             "voice": "audition/story_01/heroine_15/HM_Sub_01_15_17/hm_sub_01_15_17_004.mp3"
         }
     ]

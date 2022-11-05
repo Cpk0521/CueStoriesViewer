@@ -6,8 +6,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "ジャーマネ、お疲れ様。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "ジャーマネ、お疲れ様。"
+            },
             "voice": "audition/story_01/heroine_03/HM_Sub_01_03_02/hm_sub_01_03_02_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "お疲れ様。\nなんか今日は荷物多いね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "お疲れ様。\nなんか今日は荷物多いね。"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "この中に大学の課題が入ってる。\nあとは着彩して終わりだから、帰ってやるつもり。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "この中に大学の課題が入ってる。\nあとは着彩して終わりだから、帰ってやるつもり。"
+            },
             "voice": "audition/story_01/heroine_03/HM_Sub_01_03_02/hm_sub_01_03_02_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そうなんだ。何作ってるの？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そうなんだ。何作ってるの？"
+            },
             "voice": ""
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "ま、楽しみにしていてくれ。\n見せる予定は無いがな。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "ま、楽しみにしていてくれ。\n見せる予定は無いがな。"
+            },
             "voice": "audition/story_01/heroine_03/HM_Sub_01_03_02/hm_sub_01_03_02_005.mp3"
         }
     ]

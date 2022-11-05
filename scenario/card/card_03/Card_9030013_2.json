@@ -6,8 +6,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "あ……！　雨、上がってるね。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "あ……！　雨、上がってるね。"
+            },
             "voice": "card/Card_03/Card_9030013_2/card_9030013_2_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "まったく、突然すぎる雨だった。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "まったく、突然すぎる雨だった。"
+            },
             "voice": "card/Card_03/Card_9030013_2/card_9030013_2_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "うふふ。ほんと、そうだね。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "うふふ。ほんと、そうだね。"
+            },
             "voice": "card/Card_03/Card_9030013_2/card_9030013_2_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "あ、志穂……、たくさん買ったね。\n何買ったの？",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "あ、志穂……、たくさん買ったね。\n何買ったの？"
+            },
             "voice": "card/Card_03/Card_9030013_2/card_9030013_2_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "お菓子だ。色々とめずらしい物があったからな。\nほれ。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "お菓子だ。色々とめずらしい物があったからな。\nほれ。"
+            },
             "voice": "card/Card_03/Card_9030013_2/card_9030013_2_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "え、それって……、さっきの辛そうなお菓子じゃん！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "え、それって……、さっきの辛そうなお菓子じゃん！"
+            },
             "voice": "card/Card_03/Card_9030013_2/card_9030013_2_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "せっかくだからな。みんなで食べよう。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "せっかくだからな。みんなで食べよう。"
+            },
             "voice": "card/Card_03/Card_9030013_2/card_9030013_2_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "その辛そうなのは、わたしはいいかな……。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "その辛そうなのは、わたしはいいかな……。"
+            },
             "voice": "card/Card_03/Card_9030013_2/card_9030013_2_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "怖気づいたか？",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "怖気づいたか？"
+            },
             "voice": "card/Card_03/Card_9030013_2/card_9030013_2_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "普通、その見た目で遠慮するって。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "普通、その見た目で遠慮するって。"
+            },
             "voice": "card/Card_03/Card_9030013_2/card_9030013_2_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "まぁ、皿に出してしまえば、そんな先入観もなくなるだろう。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "まぁ、皿に出してしまえば、そんな先入観もなくなるだろう。"
+            },
             "voice": "card/Card_03/Card_9030013_2/card_9030013_2_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "いやいや……。\n他のお菓子と混ぜて、出さないでよ。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "いやいや……。\n他のお菓子と混ぜて、出さないでよ。"
+            },
             "voice": "card/Card_03/Card_9030013_2/card_9030013_2_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "刺激的だぞ。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "刺激的だぞ。"
+            },
             "voice": "card/Card_03/Card_9030013_2/card_9030013_2_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "だから！　そういうのはいいから。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "だから！　そういうのはいいから。"
+            },
             "voice": "card/Card_03/Card_9030013_2/card_9030013_2_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "残念だな。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "残念だな。"
+            },
             "voice": "card/Card_03/Card_9030013_2/card_9030013_2_015.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "口に入れるまで、どんな物なのかわからない……。\nそういう出会いが、楽しいのに。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "口に入れるまで、どんな物なのかわからない……。\nそういう出会いが、楽しいのに。"
+            },
             "voice": "card/Card_03/Card_9030013_2/card_9030013_2_016.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "出会い、ね……。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "出会い、ね……。"
+            },
             "voice": "card/Card_03/Card_9030013_2/card_9030013_2_017.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "私は、常に楽しみにしてるんだ。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "私は、常に楽しみにしてるんだ。"
+            },
             "voice": "card/Card_03/Card_9030013_2/card_9030013_2_018.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "興味深い物。美しい物。\nインスピレーションが刺激されるような、ワクワクするような物。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "興味深い物。美しい物。\nインスピレーションが刺激されるような、ワクワクするような物。"
+            },
             "voice": "card/Card_03/Card_9030013_2/card_9030013_2_019.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "そういう物に、出会えることを。\nそれから……。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "そういう物に、出会えることを。\nそれから……。"
+            },
             "voice": "card/Card_03/Card_9030013_2/card_9030013_2_020.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "それから？",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "それから？"
+            },
             "voice": "card/Card_03/Card_9030013_2/card_9030013_2_021.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "変な物を買って帰った時の、\nみんなの反応とかな。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "変な物を買って帰った時の、\nみんなの反応とかな。"
+            },
             "voice": "card/Card_03/Card_9030013_2/card_9030013_2_022.mp3"
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "あはははは……。\nまぁ、いつも驚かされるけどね。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "あはははは……。\nまぁ、いつも驚かされるけどね。"
+            },
             "voice": "card/Card_03/Card_9030013_2/card_9030013_2_023.mp3"
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "……あ、あれも買って行こう。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "……あ、あれも買って行こう。"
+            },
             "voice": "card/Card_03/Card_9030013_2/card_9030013_2_024.mp3"
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "あれ？",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "あれ？"
+            },
             "voice": "card/Card_03/Card_9030013_2/card_9030013_2_025.mp3"
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "あの露店で売ってるヤツ。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "あの露店で売ってるヤツ。"
+            },
             "voice": "card/Card_03/Card_9030013_2/card_9030013_2_026.mp3"
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "何？　あぁ……！　パイナップル棒？\n新宿とかで見かけたことはあるけど、食べたことはないなー。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "何？　あぁ……！　パイナップル棒？\n新宿とかで見かけたことはあるけど、食べたことはないなー。"
+            },
             "voice": "card/Card_03/Card_9030013_2/card_9030013_2_027.mp3"
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "これを2本だ。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "これを2本だ。"
+            },
             "voice": "card/Card_03/Card_9030013_2/card_9030013_2_028.mp3"
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "え、うん……。\nって、いや、奢らないよ？",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "え、うん……。\nって、いや、奢らないよ？"
+            },
             "voice": "card/Card_03/Card_9030013_2/card_9030013_2_029.mp3"
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "残念。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "残念。"
+            },
             "voice": "card/Card_03/Card_9030013_2/card_9030013_2_030.mp3"
         },
         {
@@ -276,8 +396,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "うむ……、普通にうまいな。酸味もほど良い。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "うむ……、普通にうまいな。酸味もほど良い。"
+            },
             "voice": "card/Card_03/Card_9030013_2/card_9030013_2_031.mp3"
         },
         {
@@ -285,8 +409,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "うん、ほんとだ……！\n外で食べるフルーツっておいしいね。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "うん、ほんとだ……！\n外で食べるフルーツっておいしいね。"
+            },
             "voice": "card/Card_03/Card_9030013_2/card_9030013_2_032.mp3"
         },
         {
@@ -294,8 +422,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "そういえば、パイナップルって、美容にいいんだよ。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "そういえば、パイナップルって、美容にいいんだよ。"
+            },
             "voice": "card/Card_03/Card_9030013_2/card_9030013_2_033.mp3"
         },
         {
@@ -303,8 +435,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "ほー、そうかそうか。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "ほー、そうかそうか。"
+            },
             "voice": "card/Card_03/Card_9030013_2/card_9030013_2_034.mp3"
         },
         {
@@ -312,8 +448,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "美肌効果のあるグルコシルセラミドが、\n豊富に含まれてるんだよね。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "美肌効果のあるグルコシルセラミドが、\n豊富に含まれてるんだよね。"
+            },
             "voice": "card/Card_03/Card_9030013_2/card_9030013_2_035.mp3"
         },
         {
@@ -321,8 +461,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "ほう、そうかそうか。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "ほう、そうかそうか。"
+            },
             "voice": "card/Card_03/Card_9030013_2/card_9030013_2_036.mp3"
         },
         {
@@ -330,8 +474,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "……なんか、興味なさそうだね。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "……なんか、興味なさそうだね。"
+            },
             "voice": "card/Card_03/Card_9030013_2/card_9030013_2_037.mp3"
         },
         {
@@ -339,8 +487,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "そんなことないぞ。\nただもっと重要なことがある。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "そんなことないぞ。\nただもっと重要なことがある。"
+            },
             "voice": "card/Card_03/Card_9030013_2/card_9030013_2_038.mp3"
         },
         {
@@ -348,8 +500,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "重要なこと？",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "重要なこと？"
+            },
             "voice": "card/Card_03/Card_9030013_2/card_9030013_2_039.mp3"
         },
         {
@@ -357,8 +513,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "うまいか、うまくないか。\nこの世の真理を分かつのは、この2つだけだ。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "うまいか、うまくないか。\nこの世の真理を分かつのは、この2つだけだ。"
+            },
             "voice": "card/Card_03/Card_9030013_2/card_9030013_2_040.mp3"
         },
         {
@@ -366,8 +526,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "無駄に壮大だね……。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "無駄に壮大だね……。"
+            },
             "voice": "card/Card_03/Card_9030013_2/card_9030013_2_041.mp3"
         },
         {
@@ -375,8 +539,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "うむ……、ん？\nなんか書いてあるな。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "うむ……、ん？\nなんか書いてあるな。"
+            },
             "voice": "card/Card_03/Card_9030013_2/card_9030013_2_042.mp3"
         },
         {
@@ -384,8 +552,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "うん？",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "うん？"
+            },
             "voice": "card/Card_03/Card_9030013_2/card_9030013_2_043.mp3"
         },
         {
@@ -393,8 +565,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "パイナップル棒の、割り箸のところ。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "パイナップル棒の、割り箸のところ。"
+            },
             "voice": "card/Card_03/Card_9030013_2/card_9030013_2_044.mp3"
         },
         {
@@ -402,8 +578,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "え？　あ、ほんとだ……。\n袋に隠れて気付かなかった。えーと……。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "え？　あ、ほんとだ……。\n袋に隠れて気付かなかった。えーと……。"
+            },
             "voice": "card/Card_03/Card_9030013_2/card_9030013_2_045.mp3"
         },
         {
@@ -411,8 +591,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "……Have a nice day、だな。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "……Have a nice day、だな。"
+            },
             "voice": "card/Card_03/Card_9030013_2/card_9030013_2_046.mp3"
         },
         {
@@ -420,8 +604,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "……良い1日を、か。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "……良い1日を、か。"
+            },
             "voice": "card/Card_03/Card_9030013_2/card_9030013_2_047.mp3"
         },
         {
@@ -429,8 +617,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "まぁ、今日も色々と出会えたからな。\n良い1日になった。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "まぁ、今日も色々と出会えたからな。\n良い1日になった。"
+            },
             "voice": "card/Card_03/Card_9030013_2/card_9030013_2_048.mp3"
         },
         {
@@ -438,8 +630,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "うん、ちょっとした冒険だったね。\n色々と刺激を受けたかも。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "うん、ちょっとした冒険だったね。\n色々と刺激を受けたかも。"
+            },
             "voice": "card/Card_03/Card_9030013_2/card_9030013_2_049.mp3"
         },
         {
@@ -447,8 +643,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "うむ……。帰ったら、もっと刺激を受けるかもしれないしな。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "うむ……。帰ったら、もっと刺激を受けるかもしれないしな。"
+            },
             "voice": "card/Card_03/Card_9030013_2/card_9030013_2_050.mp3"
         },
         {
@@ -456,8 +656,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "いや、だから……、食べないからね？",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "いや、だから……、食べないからね？"
+            },
             "voice": "card/Card_03/Card_9030013_2/card_9030013_2_051.mp3"
         }
     ]

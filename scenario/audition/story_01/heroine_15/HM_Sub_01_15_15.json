@@ -6,8 +6,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "今日は帰ったら、リエンヌの儀式があるんです！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "今日は帰ったら、リエンヌの儀式があるんです！"
+            },
             "voice": "audition/story_01/heroine_15/HM_Sub_01_15_15/hm_sub_01_15_15_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "昨日もリエンヌ、買い物袋を持って、\nポーズ決めてました！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "昨日もリエンヌ、買い物袋を持って、\nポーズ決めてました！"
+            },
             "voice": "audition/story_01/heroine_15/HM_Sub_01_15_15/hm_sub_01_15_15_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "きっと、すごく楽しい儀式なんですよ！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "きっと、すごく楽しい儀式なんですよ！"
+            },
             "voice": "audition/story_01/heroine_15/HM_Sub_01_15_15/hm_sub_01_15_15_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "でも、なんの儀式なんだろう？",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "でも、なんの儀式なんだろう？"
+            },
             "voice": "audition/story_01/heroine_15/HM_Sub_01_15_15/hm_sub_01_15_15_004.mp3"
         }
     ]

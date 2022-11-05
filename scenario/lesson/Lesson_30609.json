@@ -6,8 +6,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "みんな、オーディションに受かりたかったんだよね……。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "みんな、オーディションに受かりたかったんだよね……。"
+            },
             "voice": "lesson/Lesson_30609/lesson_30609_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "だから緊張してたんだ……。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "だから緊張してたんだ……。"
+            },
             "voice": "lesson/Lesson_30609/lesson_30609_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "マネージャーさんに、電話してみよう。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "マネージャーさんに、電話してみよう。"
+            },
             "voice": "lesson/Lesson_30609/lesson_30609_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "はい。もしもし。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "はい。もしもし。"
+            },
             "voice": ""
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "あ、夜遅くにすみません、マネージャーさん！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "あ、夜遅くにすみません、マネージャーさん！"
+            },
             "voice": "lesson/Lesson_30609/lesson_30609_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そんなに遅くないから大丈夫だよ。\nどうしたの？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そんなに遅くないから大丈夫だよ。\nどうしたの？"
+            },
             "voice": ""
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "今日はすみませんでした！\nオーディション、大失敗しちゃって。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "今日はすみませんでした！\nオーディション、大失敗しちゃって。"
+            },
             "voice": "lesson/Lesson_30609/lesson_30609_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "気合が空回りしたみたいだね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "気合が空回りしたみたいだね。"
+            },
             "voice": ""
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "あれじゃ、不合格ですよね……？",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "あれじゃ、不合格ですよね……？"
+            },
             "voice": "lesson/Lesson_30609/lesson_30609_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "どうだろう……。明日になってみないと分からないよ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "どうだろう……。明日になってみないと分からないよ。"
+            },
             "voice": ""
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "わたしだけじゃなくて……、みんな、緊張してましたよね。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "わたしだけじゃなくて……、みんな、緊張してましたよね。"
+            },
             "voice": "lesson/Lesson_30609/lesson_30609_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "うん。ガチガチに緊張してたね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "うん。ガチガチに緊張してたね。"
+            },
             "voice": ""
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "皆、あの作品が大好きなんだって。\n他のマネージャーさんたちから聞いたよ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "皆、あの作品が大好きなんだって。\n他のマネージャーさんたちから聞いたよ。"
+            },
             "voice": ""
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "（やっぱりそうなんだ……。）",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "（やっぱりそうなんだ……。）"
+            },
             "voice": "lesson/Lesson_30609/lesson_30609_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "「うちも一緒ですよ」って言ったよ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "「うちも一緒ですよ」って言ったよ。"
+            },
             "voice": ""
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "（わたしと一緒なんだ……。）",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "（わたしと一緒なんだ……。）"
+            },
             "voice": "lesson/Lesson_30609/lesson_30609_016.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "凛音？　どうかしたの？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "凛音？　どうかしたの？"
+            },
             "voice": ""
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "あ、いえ、ありがとうございます！\n聞きたいことは聞けました！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "あ、いえ、ありがとうございます！\n聞きたいことは聞けました！"
+            },
             "voice": "lesson/Lesson_30609/lesson_30609_018.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そう？　とにかく、今日はもう寝なよ。\n明日結果が分かったらすぐ連絡するから。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そう？　とにかく、今日はもう寝なよ。\n明日結果が分かったらすぐ連絡するから。"
+            },
             "voice": ""
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "はい！　おやすみなさーい！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "はい！　おやすみなさーい！"
+            },
             "voice": "lesson/Lesson_30609/lesson_30609_020.mp3"
         }
     ]

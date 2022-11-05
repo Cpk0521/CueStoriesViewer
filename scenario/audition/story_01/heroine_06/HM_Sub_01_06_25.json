@@ -6,8 +6,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "マネージャー、お疲れ様です！\nふふっ。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "マネージャー、お疲れ様です！\nふふっ。"
+            },
             "voice": "audition/story_01/heroine_06/HM_Sub_01_06_25/hm_sub_01_06_25_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "お疲れ様。\n何か良い事でもあったの？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "お疲れ様。\n何か良い事でもあったの？"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "え？　……やっぱりわかります？",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "え？　……やっぱりわかります？"
+            },
             "voice": "audition/story_01/heroine_06/HM_Sub_01_06_25/hm_sub_01_06_25_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "実は、今日のバイト中……\nお客様に「声がかわいいですね」って言われて。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "実は、今日のバイト中……\nお客様に「声がかわいいですね」って言われて。"
+            },
             "voice": "audition/story_01/heroine_06/HM_Sub_01_06_25/hm_sub_01_06_25_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "声優やってる身としては、\nやっぱり声を褒められるのって嬉しいですね。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "声優やってる身としては、\nやっぱり声を褒められるのって嬉しいですね。"
+            },
             "voice": "audition/story_01/heroine_06/HM_Sub_01_06_25/hm_sub_01_06_25_005.mp3"
         }
     ]

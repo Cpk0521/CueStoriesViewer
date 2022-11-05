@@ -6,8 +6,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "ほんとだ……。\nバイクに乗った女の人がいる……。",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "ほんとだ……。\nバイクに乗った女の人がいる……。"
+            },
             "voice": "card/Card_15/Card_4150005_3/card_4150005_3_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "すみません、お待たせしちゃって。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "すみません、お待たせしちゃって。"
+            },
             "voice": "card/Card_15/Card_4150005_3/card_4150005_3_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "乗せてくれてありがとうございました。\nこれ、お礼です。受け取ってください。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "乗せてくれてありがとうございました。\nこれ、お礼です。受け取ってください。"
+            },
             "voice": "card/Card_15/Card_4150005_3/card_4150005_3_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 0
             ],
-            "name": "バイク乗りの女性",
-            "message": "そんなの受取れないわ。",
+            "name": {
+                "default": "バイク乗りの女性"
+            },
+            "message": {
+                "default": "そんなの受取れないわ。"
+            },
             "voice": ""
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "受け取ってください。\n控室にあった飴ちゃんですけど。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "受け取ってください。\n控室にあった飴ちゃんですけど。"
+            },
             "voice": "card/Card_15/Card_4150005_3/card_4150005_3_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "飴ちゃんて……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "飴ちゃんて……。"
+            },
             "voice": ""
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 0
             ],
-            "name": "バイク乗りの女性",
-            "message": "ふふっ。これならいただくわ。\nありがとう。",
+            "name": {
+                "default": "バイク乗りの女性"
+            },
+            "message": {
+                "default": "ふふっ。これならいただくわ。\nありがとう。"
+            },
             "voice": ""
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "ホントでしたね……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "ホントでしたね……。"
+            },
             "voice": ""
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "そうね……。",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "そうね……。"
+            },
             "voice": "card/Card_15/Card_4150005_3/card_4150005_3_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "見て、今度はすっごく大きな外車がやってきた……。",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "見て、今度はすっごく大きな外車がやってきた……。"
+            },
             "voice": "card/Card_15/Card_4150005_3/card_4150005_3_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "リムジンてやつですね……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "リムジンてやつですね……。"
+            },
             "voice": ""
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "車からおばあちゃんが出て来た……。",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "車からおばあちゃんが出て来た……。"
+            },
             "voice": "card/Card_15/Card_4150005_3/card_4150005_3_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 0
             ],
-            "name": "優しそうなお婆さん",
-            "message": "親切なお嬢さん、先ほどはどうも。",
+            "name": {
+                "default": "優しそうなお婆さん"
+            },
+            "message": {
+                "default": "親切なお嬢さん、先ほどはどうも。"
+            },
             "voice": ""
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "お友達のおうちを探してたおばあちゃん！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "お友達のおうちを探してたおばあちゃん！"
+            },
             "voice": "card/Card_15/Card_4150005_3/card_4150005_3_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "あの話も本当だったんだ……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "あの話も本当だったんだ……。"
+            },
             "voice": ""
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 0
             ],
-            "name": "優しそうなお婆さん",
-            "message": "もしかして、このスマホはあなたのかしら？",
+            "name": {
+                "default": "優しそうなお婆さん"
+            },
+            "message": {
+                "default": "もしかして、このスマホはあなたのかしら？"
+            },
             "voice": ""
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "あ、わたしのスマホ！\nどうして！？",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "あ、わたしのスマホ！\nどうして！？"
+            },
             "voice": "card/Card_15/Card_4150005_3/card_4150005_3_017.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 0
             ],
-            "name": "優しそうなお婆さん",
-            "message": "お友達の家の近くに落ちてたの。\nもしかしたらって思って。",
+            "name": {
+                "default": "優しそうなお婆さん"
+            },
+            "message": {
+                "default": "お友達の家の近くに落ちてたの。\nもしかしたらって思って。"
+            },
             "voice": ""
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "そっか！\n家の前でタクシーを呼んだとき落としたんだ！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "そっか！\n家の前でタクシーを呼んだとき落としたんだ！"
+            },
             "voice": "card/Card_15/Card_4150005_3/card_4150005_3_019.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "タクシーってことは、もしかして……。",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "タクシーってことは、もしかして……。"
+            },
             "voice": "card/Card_15/Card_4150005_3/card_4150005_3_020.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "あ、もう1台、車が来ますよ？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "あ、もう1台、車が来ますよ？"
+            },
             "voice": ""
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "今度は何……？",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "今度は何……？"
+            },
             "voice": "card/Card_15/Card_4150005_3/card_4150005_3_022.mp3"
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 0
             ],
-            "name": "？？？",
-            "message": "あなたが、凛音さん？\nあなたが助けてくれた、妊婦の姉です。",
+            "name": {
+                "default": "？？？"
+            },
+            "message": {
+                "default": "あなたが、凛音さん？\nあなたが助けてくれた、妊婦の姉です。"
+            },
             "voice": ""
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "あ、妊婦さんの！\nどうなりました？",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "あ、妊婦さんの！\nどうなりました？"
+            },
             "voice": "card/Card_15/Card_4150005_3/card_4150005_3_024.mp3"
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 0
             ],
-            "name": "妊婦の姉",
-            "message": "無事、生まれました。\n元気な女の子です。",
+            "name": {
+                "default": "妊婦の姉"
+            },
+            "message": {
+                "default": "無事、生まれました。\n元気な女の子です。"
+            },
             "voice": ""
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "よかった！\nおめでとうございます！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "よかった！\nおめでとうございます！"
+            },
             "voice": "card/Card_15/Card_4150005_3/card_4150005_3_026.mp3"
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 0
             ],
-            "name": "妊婦の姉",
-            "message": "妹が、あなたのことをとても気に入っていてね。\n娘の名前を、あなたと同じ、凛音にしたいっていうの。",
+            "name": {
+                "default": "妊婦の姉"
+            },
+            "message": {
+                "default": "妹が、あなたのことをとても気に入っていてね。\n娘の名前を、あなたと同じ、凛音にしたいっていうの。"
+            },
             "voice": ""
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "タクシーの中で聞きました！\n嬉しいです！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "タクシーの中で聞きました！\n嬉しいです！"
+            },
             "voice": "card/Card_15/Card_4150005_3/card_4150005_3_028.mp3"
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 0
             ],
-            "name": "妊婦の姉",
-            "message": "妹も喜ぶわ。\nありがとう。",
+            "name": {
+                "default": "妊婦の姉"
+            },
+            "message": {
+                "default": "妹も喜ぶわ。\nありがとう。"
+            },
             "voice": ""
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "社長、どうしましょう……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "社長、どうしましょう……。"
+            },
             "voice": ""
         },
         {
@@ -276,8 +396,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "どうもこうもないわ。\n今回の遅刻は許すしかないでしょう？",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "どうもこうもないわ。\n今回の遅刻は許すしかないでしょう？"
+            },
             "voice": "card/Card_15/Card_4150005_3/card_4150005_3_031.mp3"
         },
         {
@@ -285,8 +409,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "ですよね……。",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "ですよね……。"
+            },
             "voice": "card/Card_15/Card_4150005_3/card_4150005_3_032.mp3"
         },
         {
@@ -294,8 +422,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "凛音！\nそろそろライブの準備に入りなさい！",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "凛音！\nそろそろライブの準備に入りなさい！"
+            },
             "voice": "card/Card_15/Card_4150005_3/card_4150005_3_033.mp3"
         },
         {
@@ -303,8 +435,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "はーい！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "はーい！"
+            },
             "voice": "card/Card_15/Card_4150005_3/card_4150005_3_034.mp3"
         },
         {
@@ -312,8 +448,12 @@
             "heroineId": [
                 0
             ],
-            "name": "優しそうなお婆さん",
-            "message": "頑張って！\n客席から観させてもらうわ！",
+            "name": {
+                "default": "優しそうなお婆さん"
+            },
+            "message": {
+                "default": "頑張って！\n客席から観させてもらうわ！"
+            },
             "voice": ""
         },
         {
@@ -321,8 +461,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "ありがとうございます！\nよ～し！　今日も頑張っちゃうよー！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "ありがとうございます！\nよ～し！　今日も頑張っちゃうよー！"
+            },
             "voice": "card/Card_15/Card_4150005_3/card_4150005_3_036.mp3"
         }
     ]

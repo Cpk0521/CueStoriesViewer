@@ -6,8 +6,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "お疲れ様ーっす！",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "お疲れ様ーっす！"
+            },
             "voice": "audition/story_01/com/HM_Com_01_02_01/hm_com_01_02_01_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "お疲れ様、舞花。\n今日はレッスンに来るの早かったね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "お疲れ様、舞花。\n今日はレッスンに来るの早かったね。"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "今日はって……。いつもそれくらいに来てるはずなんすけど。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "今日はって……。いつもそれくらいに来てるはずなんすけど。"
+            },
             "voice": "audition/story_01/com/HM_Com_01_02_01/hm_com_01_02_01_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そう？\nでも、ここ最近は早く来れてなかったでしょ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そう？\nでも、ここ最近は早く来れてなかったでしょ。"
+            },
             "voice": ""
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "うっ！　ま、まぁ、それはその……、\n避けては通れない事情があると言いますか……。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "うっ！　ま、まぁ、それはその……、\n避けては通れない事情があると言いますか……。"
+            },
             "voice": "audition/story_01/com/HM_Com_01_02_01/hm_com_01_02_01_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "はいはい。\nでも、補習ばっかだと、レッスンも少なくなっちゃうよ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "はいはい。\nでも、補習ばっかだと、レッスンも少なくなっちゃうよ。"
+            },
             "voice": ""
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "それは大丈夫っすよ。\n残りは明日と明後日と……、あと週明けだったっけな？",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "それは大丈夫っすよ。\n残りは明日と明後日と……、あと週明けだったっけな？"
+            },
             "voice": "audition/story_01/com/HM_Com_01_02_01/hm_com_01_02_01_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "まぁ、それだけやっちゃえば、補習期間も終わりですから！",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "まぁ、それだけやっちゃえば、補習期間も終わりですから！"
+            },
             "voice": "audition/story_01/com/HM_Com_01_02_01/hm_com_01_02_01_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "うん……。まぁ、そもそも、\n補習なんてないほうがいいんだからね？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "うん……。まぁ、そもそも、\n補習なんてないほうがいいんだからね？"
+            },
             "voice": ""
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "あはは……。それは、その、頑張ります……。はい。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "あはは……。それは、その、頑張ります……。はい。"
+            },
             "voice": "audition/story_01/com/HM_Com_01_02_01/hm_com_01_02_01_010.mp3"
         }
     ]

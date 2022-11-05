@@ -6,8 +6,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "うん……。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "うん……。"
+            },
             "voice": "event/Event_012/Event_012_10/event_012_10_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "どうした？",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "どうした？"
+            },
             "voice": "event/Event_012/Event_012_10/event_012_10_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "えーとね……、うーん……。うん！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "えーとね……、うーん……。うん！"
+            },
             "voice": "event/Event_012/Event_012_10/event_012_10_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "ふむ……？",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "ふむ……？"
+            },
             "voice": "event/Event_012/Event_012_10/event_012_10_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "ねぇ、志穂。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "ねぇ、志穂。"
+            },
             "voice": "event/Event_012/Event_012_10/event_012_10_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "なんだ？",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "なんだ？"
+            },
             "voice": "event/Event_012/Event_012_10/event_012_10_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "一緒にトレーニングしない！？",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "一緒にトレーニングしない！？"
+            },
             "voice": "event/Event_012/Event_012_10/event_012_10_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "……は？",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "……は？"
+            },
             "voice": "event/Event_012/Event_012_10/event_012_10_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "ね？　今度から、一緒にやろうよ！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "ね？　今度から、一緒にやろうよ！"
+            },
             "voice": "event/Event_012/Event_012_10/event_012_10_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "それ、私に言ってるのか？",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "それ、私に言ってるのか？"
+            },
             "voice": "event/Event_012/Event_012_10/event_012_10_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "うん！　もちろん！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "うん！　もちろん！"
+            },
             "voice": "event/Event_012/Event_012_10/event_012_10_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "謎だ。謎すぎる。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "謎だ。謎すぎる。"
+            },
             "voice": "event/Event_012/Event_012_10/event_012_10_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "ほら。志穂って、いつもマイペースだからさ！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "ほら。志穂って、いつもマイペースだからさ！"
+            },
             "voice": "event/Event_012/Event_012_10/event_012_10_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "太らない体質って言っても、体力は大事だし！\n一緒にトレーニングやったらどうかなって！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "太らない体質って言っても、体力は大事だし！\n一緒にトレーニングやったらどうかなって！"
+            },
             "voice": "event/Event_012/Event_012_10/event_012_10_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "……。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "……。"
+            },
             "voice": "event/Event_012/Event_012_10/event_012_10_015.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "……。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "……。"
+            },
             "voice": "event/Event_012/Event_012_10/event_012_10_016.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "……ふむ。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "……ふむ。"
+            },
             "voice": "event/Event_012/Event_012_10/event_012_10_017.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "もし私がほのかと同じようにトレーニングしたとしよう。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "もし私がほのかと同じようにトレーニングしたとしよう。"
+            },
             "voice": "event/Event_012/Event_012_10/event_012_10_018.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "う、うん。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "う、うん。"
+            },
             "voice": "event/Event_012/Event_012_10/event_012_10_019.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "果たして、それはもう鹿野志穂と言えるのだろうか？",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "果たして、それはもう鹿野志穂と言えるのだろうか？"
+            },
             "voice": "event/Event_012/Event_012_10/event_012_10_020.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "え、どういうこと？",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "え、どういうこと？"
+            },
             "voice": "event/Event_012/Event_012_10/event_012_10_021.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "私が私らしくなくなったら、それはもはや私ではない。\nでは、いったい何になる……？",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "私が私らしくなくなったら、それはもはや私ではない。\nでは、いったい何になる……？"
+            },
             "voice": "event/Event_012/Event_012_10/event_012_10_022.mp3"
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "え、え？　なんの話？",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "え、え？　なんの話？"
+            },
             "voice": "event/Event_012/Event_012_10/event_012_10_023.mp3"
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "ほのかの提案が、それだけ意味不明だったということ。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "ほのかの提案が、それだけ意味不明だったということ。"
+            },
             "voice": "event/Event_012/Event_012_10/event_012_10_024.mp3"
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "そんなことないよ！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "そんなことないよ！"
+            },
             "voice": "event/Event_012/Event_012_10/event_012_10_025.mp3"
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "ほら。そうやって、話をはぐらかそうとするんだから。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "ほら。そうやって、話をはぐらかそうとするんだから。"
+            },
             "voice": "event/Event_012/Event_012_10/event_012_10_026.mp3"
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "はぐらかしてない。\n事実を述べただけ。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "はぐらかしてない。\n事実を述べただけ。"
+            },
             "voice": "event/Event_012/Event_012_10/event_012_10_027.mp3"
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "でも、そうやって避けようとしてるじゃん。\nあ、そうだ！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "でも、そうやって避けようとしてるじゃん。\nあ、そうだ！"
+            },
             "voice": "event/Event_012/Event_012_10/event_012_10_028.mp3"
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "今から舞花たちのところまで走ろう！\nいつの間にか、ずいぶん離れちゃったし！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "今から舞花たちのところまで走ろう！\nいつの間にか、ずいぶん離れちゃったし！"
+            },
             "voice": "event/Event_012/Event_012_10/event_012_10_029.mp3"
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "おい、背中を押すな。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "おい、背中を押すな。"
+            },
             "voice": "event/Event_012/Event_012_10/event_012_10_030.mp3"
         },
         {
@@ -276,8 +396,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "まあまあ、そう言わずに。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "まあまあ、そう言わずに。"
+            },
             "voice": "event/Event_012/Event_012_10/event_012_10_031.mp3"
         },
         {
@@ -285,8 +409,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "さっきも舞花に押されたし……、今日はこんなのばっかりだ。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "さっきも舞花に押されたし……、今日はこんなのばっかりだ。"
+            },
             "voice": "event/Event_012/Event_012_10/event_012_10_032.mp3"
         },
         {
@@ -294,8 +422,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "あははっ、志穂は軽いから押しやすいんじゃない？",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "あははっ、志穂は軽いから押しやすいんじゃない？"
+            },
             "voice": "event/Event_012/Event_012_10/event_012_10_033.mp3"
         },
         {
@@ -303,8 +435,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "軽いのはいいが、押されまくるのは勘弁だな。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "軽いのはいいが、押されまくるのは勘弁だな。"
+            },
             "voice": "event/Event_012/Event_012_10/event_012_10_034.mp3"
         },
         {
@@ -312,8 +448,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "じゃあ、足腰を鍛えようよ！\nそれと体幹も鍛えて、ちゃんと構えれば……。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "じゃあ、足腰を鍛えようよ！\nそれと体幹も鍛えて、ちゃんと構えれば……。"
+            },
             "voice": "event/Event_012/Event_012_10/event_012_10_035.mp3"
         },
         {
@@ -321,8 +461,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "待て。なんで、トレーニングの話になっている。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "待て。なんで、トレーニングの話になっている。"
+            },
             "voice": "event/Event_012/Event_012_10/event_012_10_036.mp3"
         },
         {
@@ -330,8 +474,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "だって、押されるのは嫌なんでしょ？\nだったら、鍛えるのが1番だって。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "だって、押されるのは嫌なんでしょ？\nだったら、鍛えるのが1番だって。"
+            },
             "voice": "event/Event_012/Event_012_10/event_012_10_037.mp3"
         },
         {
@@ -339,8 +487,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "いや、だから、押す人間が押さなければいいだけで……。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "いや、だから、押す人間が押さなければいいだけで……。"
+            },
             "voice": "event/Event_012/Event_012_10/event_012_10_038.mp3"
         },
         {
@@ -348,8 +500,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "って、そんなこと言ってる間に、\n本当に2人が見えなくなっちゃったよ！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "って、そんなこと言ってる間に、\n本当に2人が見えなくなっちゃったよ！"
+            },
             "voice": "event/Event_012/Event_012_10/event_012_10_039.mp3"
         },
         {
@@ -357,8 +513,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "ほら、行くよ、志穂！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "ほら、行くよ、志穂！"
+            },
             "voice": "event/Event_012/Event_012_10/event_012_10_040.mp3"
         },
         {
@@ -366,8 +526,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "だから、押すなー……！",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "だから、押すなー……！"
+            },
             "voice": "event/Event_012/Event_012_10/event_012_10_041.mp3"
         }
     ]

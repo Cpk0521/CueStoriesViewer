@@ -6,8 +6,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "お疲れ様です、マネージャーさん。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "お疲れ様です、マネージャーさん。"
+            },
             "voice": "audition/story_01/heroine_07/HM_Cast_01_07_05_02/hm_cast_01_07_05_02_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "あ、お疲れ様。\nよかったら、悠希を回収していってもらえると……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "あ、お疲れ様。\nよかったら、悠希を回収していってもらえると……。"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "えっ？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "えっ？"
+            },
             "voice": "audition/story_01/heroine_07/HM_Cast_01_07_05_02/hm_cast_01_07_05_02_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "……。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "……。"
+            },
             "voice": "audition/story_01/heroine_07/HM_Cast_01_07_05_02/hm_cast_01_07_05_02_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "悠希ちゃん！？\nこんなところで寝ちゃダメだよ……！",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "悠希ちゃん！？\nこんなところで寝ちゃダメだよ……！"
+            },
             "voice": "audition/story_01/heroine_07/HM_Cast_01_07_05_02/hm_cast_01_07_05_02_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "んー……あいりー……。\n獣皇武尽フォームに……アーマーチェンジだ……。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "んー……あいりー……。\n獣皇武尽フォームに……アーマーチェンジだ……。"
+            },
             "voice": "audition/story_01/heroine_07/HM_Cast_01_07_05_02/hm_cast_01_07_05_02_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "あいりはロボットじゃないよぉ。\n起きて、悠希ちゃん！",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "あいりはロボットじゃないよぉ。\n起きて、悠希ちゃん！"
+            },
             "voice": "audition/story_01/heroine_07/HM_Cast_01_07_05_02/hm_cast_01_07_05_02_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "んん……？\nあ、あいり。どしたの？",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "んん……？\nあ、あいり。どしたの？"
+            },
             "voice": "audition/story_01/heroine_07/HM_Cast_01_07_05_02/hm_cast_01_07_05_02_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "どうしたのって……。\n悠希ちゃん、もうこんな時間だよ。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "どうしたのって……。\n悠希ちゃん、もうこんな時間だよ。"
+            },
             "voice": "audition/story_01/heroine_07/HM_Cast_01_07_05_02/hm_cast_01_07_05_02_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "うわ、ほんとだ！\n一緒に帰ろ、あいり！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "うわ、ほんとだ！\n一緒に帰ろ、あいり！"
+            },
             "voice": "audition/story_01/heroine_07/HM_Cast_01_07_05_02/hm_cast_01_07_05_02_010.mp3"
         }
     ]

@@ -6,8 +6,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "この状況では誰を信じていいか不安になるのは分かります。\nでも、今、こうやって私に声をかけた。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "この状況では誰を信じていいか不安になるのは分かります。\nでも、今、こうやって私に声をかけた。"
+            },
             "voice": "event/Event_018/Event_018_07/event_018_07_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "それは少なくとも私になにか聞いてほしいことがあったから、\nではありませんか？",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "それは少なくとも私になにか聞いてほしいことがあったから、\nではありませんか？"
+            },
             "voice": "event/Event_018/Event_018_07/event_018_07_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "……はい。実は、その……。\n父の遺言は私が聞いております。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "……はい。実は、その……。\n父の遺言は私が聞いております。"
+            },
             "voice": "event/Event_018/Event_018_07/event_018_07_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "え？　それは確かなのですか？",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "え？　それは確かなのですか？"
+            },
             "voice": "event/Event_018/Event_018_07/event_018_07_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "はい。父は万が一を案じてわたくしに言いつけたようです。\n忘れないように、紙にも書いて仕舞ってあります。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "はい。父は万が一を案じてわたくしに言いつけたようです。\n忘れないように、紙にも書いて仕舞ってあります。"
+            },
             "voice": "event/Event_018/Event_018_07/event_018_07_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "それは誰かに言いましたか？",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "それは誰かに言いましたか？"
+            },
             "voice": "event/Event_018/Event_018_07/event_018_07_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "いえ。誰にも。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "いえ。誰にも。"
+            },
             "voice": "event/Event_018/Event_018_07/event_018_07_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "それはいつの話です？",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "それはいつの話です？"
+            },
             "voice": "event/Event_018/Event_018_07/event_018_07_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "まだ嵯峨野さんと粟田口さんが山荘に着くちょうど前日です。\n先に此処に着いていた若宮さんはその場に一緒にいました。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "まだ嵯峨野さんと粟田口さんが山荘に着くちょうど前日です。\n先に此処に着いていた若宮さんはその場に一緒にいました。"
+            },
             "voice": "event/Event_018/Event_018_07/event_018_07_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "その場にいた……。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "その場にいた……。"
+            },
             "voice": "event/Event_018/Event_018_07/event_018_07_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "若宮も遺言の内容を知っているということですか？",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "若宮も遺言の内容を知っているということですか？"
+            },
             "voice": "event/Event_018/Event_018_07/event_018_07_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "いえ。父の言葉までは聞こえてないはずです。\n父は私にだけそっと告げましたから。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "いえ。父の言葉までは聞こえてないはずです。\n父は私にだけそっと告げましたから。"
+            },
             "voice": "event/Event_018/Event_018_07/event_018_07_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "なるほど……。でも、それなら、\n五葉さんが遺言を預かっていると若宮は知っていたということ。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "なるほど……。でも、それなら、\n五葉さんが遺言を預かっていると若宮は知っていたということ。"
+            },
             "voice": "event/Event_018/Event_018_07/event_018_07_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "となると、確かに若宮が先生の部屋で遺書を探すのはおかしいな。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "となると、確かに若宮が先生の部屋で遺書を探すのはおかしいな。"
+            },
             "voice": "event/Event_018/Event_018_07/event_018_07_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "はい。わたくしに直接聞きに来ればいいのですから。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "はい。わたくしに直接聞きに来ればいいのですから。"
+            },
             "voice": "event/Event_018/Event_018_07/event_018_07_015.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "すると若宮が探していたのは遺書ではない……？",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "すると若宮が探していたのは遺書ではない……？"
+            },
             "voice": "event/Event_018/Event_018_07/event_018_07_016.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "いえ。\nわたくしが父の言葉を紙に書き取って、",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "いえ。\nわたくしが父の言葉を紙に書き取って、"
+            },
             "voice": "event/Event_018/Event_018_07/event_018_07_017.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "本当に必要な時が来るまで、\n大切にしまっておこうとしていたのを、若宮さんは知っています。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "本当に必要な時が来るまで、\n大切にしまっておこうとしていたのを、若宮さんは知っています。"
+            },
             "voice": "event/Event_018/Event_018_07/event_018_07_018.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "わたくしにも、誰にも知られず、\n父の遺志を記した紙切れを探そうとしたのなら……。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "わたくしにも、誰にも知られず、\n父の遺志を記した紙切れを探そうとしたのなら……。"
+            },
             "voice": "event/Event_018/Event_018_07/event_018_07_019.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "あと、父は若宮さんにも何かを語っていました。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "あと、父は若宮さんにも何かを語っていました。"
+            },
             "voice": "event/Event_018/Event_018_07/event_018_07_020.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "若宮にも？\nそれは五葉さんに語ったのと同じ内容でしょうか？",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "若宮にも？\nそれは五葉さんに語ったのと同じ内容でしょうか？"
+            },
             "voice": "event/Event_018/Event_018_07/event_018_07_021.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "何を話していたか、わたくしには聞こえませんでしたが……、\n若宮さんは、ずいぶん思いつめた顔をしていたのを覚えています。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "何を話していたか、わたくしには聞こえませんでしたが……、\n若宮さんは、ずいぶん思いつめた顔をしていたのを覚えています。"
+            },
             "voice": "event/Event_018/Event_018_07/event_018_07_022.mp3"
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "なるほど……。ひとまず見せてもらえますか。\nその、五葉さんが紙に残した、先生の遺言を。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "なるほど……。ひとまず見せてもらえますか。\nその、五葉さんが紙に残した、先生の遺言を。"
+            },
             "voice": "event/Event_018/Event_018_07/event_018_07_023.mp3"
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "はい。わたくしの自室に来ていただけますか。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "はい。わたくしの自室に来ていただけますか。"
+            },
             "voice": "event/Event_018/Event_018_07/event_018_07_024.mp3"
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "ただ……。わたくしには全然理解できない内容で……。\nどうやら父は最後に謎掛けをして遊ぶつもりのようでした。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "ただ……。わたくしには全然理解できない内容で……。\nどうやら父は最後に謎掛けをして遊ぶつもりのようでした。"
+            },
             "voice": "event/Event_018/Event_018_07/event_018_07_025.mp3"
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "あれ？　ない……。\n確かにここに仕舞っていたはずなのに。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "あれ？　ない……。\n確かにここに仕舞っていたはずなのに。"
+            },
             "voice": "event/Event_018/Event_018_07/event_018_07_026.mp3"
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "おい。2人で何をしている？\nまさかお前達、最初から手を組んで……。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "おい。2人で何をしている？\nまさかお前達、最初から手を組んで……。"
+            },
             "voice": "event/Event_018/Event_018_07/event_018_07_027.mp3"
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "嵯峨野さんこそ。\nわたくしの部屋に勝手に入ったんじゃないんですか？",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "嵯峨野さんこそ。\nわたくしの部屋に勝手に入ったんじゃないんですか？"
+            },
             "voice": "event/Event_018/Event_018_07/event_018_07_028.mp3"
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "俺が？　どういうことだ？",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "俺が？　どういうことだ？"
+            },
             "voice": "event/Event_018/Event_018_07/event_018_07_029.mp3"
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "父の遺言がないか、ずっと探していたそうですね。\nだからわたくしの部屋まで勝手に入って……。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "父の遺言がないか、ずっと探していたそうですね。\nだからわたくしの部屋まで勝手に入って……。"
+            },
             "voice": "event/Event_018/Event_018_07/event_018_07_030.mp3"
         },
         {
@@ -276,8 +396,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "返してください。先生の遺言。\n嵯峨野さんが盗ったんじゃありませんか？",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "返してください。先生の遺言。\n嵯峨野さんが盗ったんじゃありませんか？"
+            },
             "voice": "event/Event_018/Event_018_07/event_018_07_031.mp3"
         },
         {
@@ -285,8 +409,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "おい、何を言っている。俺は……。\nいや、ん？　それはつまり……。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "おい、何を言っている。俺は……。\nいや、ん？　それはつまり……。"
+            },
             "voice": "event/Event_018/Event_018_07/event_018_07_032.mp3"
         },
         {
@@ -294,8 +422,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "先生の遺書は五葉が隠し持っていたということか？\nそして誰かが五葉の部屋から持っていった……。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "先生の遺書は五葉が隠し持っていたということか？\nそして誰かが五葉の部屋から持っていった……。"
+            },
             "voice": "event/Event_018/Event_018_07/event_018_07_033.mp3"
         },
         {
@@ -303,8 +435,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "ああ。そういうことだ。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "ああ。そういうことだ。"
+            },
             "voice": "event/Event_018/Event_018_07/event_018_07_034.mp3"
         },
         {
@@ -312,8 +448,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "そしてそれが俺じゃないかと疑っている。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "そしてそれが俺じゃないかと疑っている。"
+            },
             "voice": "event/Event_018/Event_018_07/event_018_07_035.mp3"
         },
         {
@@ -321,8 +461,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "そうです。だってこんなことするの嵯峨野さんくらいしか。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "そうです。だってこんなことするの嵯峨野さんくらいしか。"
+            },
             "voice": "event/Event_018/Event_018_07/event_018_07_036.mp3"
         },
         {
@@ -330,8 +474,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "そう思われていたとは心外だが……。\n残念ながら俺じゃない。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "そう思われていたとは心外だが……。\n残念ながら俺じゃない。"
+            },
             "voice": "event/Event_018/Event_018_07/event_018_07_037.mp3"
         },
         {
@@ -339,8 +487,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "とすると……若宮が？　本当に？",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "とすると……若宮が？　本当に？"
+            },
             "voice": "event/Event_018/Event_018_07/event_018_07_038.mp3"
         },
         {
@@ -348,8 +500,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "お前らが手を組んで俺をたぶらかそうとしているんじゃなければ、そうなるな。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "お前らが手を組んで俺をたぶらかそうとしているんじゃなければ、そうなるな。"
+            },
             "voice": "event/Event_018/Event_018_07/event_018_07_039.mp3"
         },
         {
@@ -357,8 +513,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "若宮さんが？\nもしかして父に毒を盛ったのも？",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "若宮さんが？\nもしかして父に毒を盛ったのも？"
+            },
             "voice": "event/Event_018/Event_018_07/event_018_07_040.mp3"
         },
         {
@@ -366,8 +526,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "まだ決まったわけじゃない、が……。\nひとまず若宮を探そう。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "まだ決まったわけじゃない、が……。\nひとまず若宮を探そう。"
+            },
             "voice": "event/Event_018/Event_018_07/event_018_07_041.mp3"
         },
         {
@@ -375,8 +539,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "ああ。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "ああ。"
+            },
             "voice": "event/Event_018/Event_018_07/event_018_07_042.mp3"
         }
     ]

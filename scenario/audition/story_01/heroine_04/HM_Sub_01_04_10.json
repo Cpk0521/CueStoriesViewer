@@ -6,8 +6,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "お疲れ様です、マネージャー。\n今、ちょっといいですか？",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "お疲れ様です、マネージャー。\n今、ちょっといいですか？"
+            },
             "voice": "audition/story_01/heroine_04/HM_Sub_01_04_10/hm_sub_01_04_10_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "えっと、このセリフがちょっと言いにくくて、\nここだけ甘噛みしちゃってる気がするんです。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "えっと、このセリフがちょっと言いにくくて、\nここだけ甘噛みしちゃってる気がするんです。"
+            },
             "voice": "audition/story_01/heroine_04/HM_Sub_01_04_10/hm_sub_01_04_10_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "でも、ここは大事なセリフだし、\n自然に言えるようにならないといけなくて。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "でも、ここは大事なセリフだし、\n自然に言えるようにならないといけなくて。"
+            },
             "voice": "audition/story_01/heroine_04/HM_Sub_01_04_10/hm_sub_01_04_10_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "だから、ちょっと付き合ってほしいです。\nお願いします、マネージャー。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "だから、ちょっと付き合ってほしいです。\nお願いします、マネージャー。"
+            },
             "voice": "audition/story_01/heroine_04/HM_Sub_01_04_10/hm_sub_01_04_10_004.mp3"
         }
     ]

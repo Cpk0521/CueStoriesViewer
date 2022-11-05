@@ -6,8 +6,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "あれ、マネージャー。お菓子食べてんの？\n一口ちょうだい！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "あれ、マネージャー。お菓子食べてんの？\n一口ちょうだい！"
+            },
             "voice": "audition/story_01/heroine_05/HM_Sub_01_05_20/hm_sub_01_05_20_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "この前もさ、マネージャーがお菓子くれたじゃん？\nあれみんなで分けて、食べたんだけど。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "この前もさ、マネージャーがお菓子くれたじゃん？\nあれみんなで分けて、食べたんだけど。"
+            },
             "voice": "audition/story_01/heroine_05/HM_Sub_01_05_20/hm_sub_01_05_20_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "なんかケンカになっちゃったんだよね。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "なんかケンカになっちゃったんだよね。"
+            },
             "voice": "audition/story_01/heroine_05/HM_Sub_01_05_20/hm_sub_01_05_20_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "あたしはどっちも好きなんだけどなー。\n椎茸の山と破竹の里。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "あたしはどっちも好きなんだけどなー。\n椎茸の山と破竹の里。"
+            },
             "voice": "audition/story_01/heroine_05/HM_Sub_01_05_20/hm_sub_01_05_20_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "ねぇ、マネージャーはどっちが好きとかある？",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "ねぇ、マネージャーはどっちが好きとかある？"
+            },
             "voice": "audition/story_01/heroine_05/HM_Sub_01_05_20/hm_sub_01_05_20_005.mp3"
         }
     ]

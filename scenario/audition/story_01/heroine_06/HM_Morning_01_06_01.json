@@ -6,8 +6,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "おはようございます、マネージャー！",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "おはようございます、マネージャー！"
+            },
             "voice": "audition/story_01/heroine_06/HM_Morning_01_06_01/hm_morning_01_06_01_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "今日は喉の調子がすごく良いんです。\n昨日飲んだレモネードのおかげかも。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "今日は喉の調子がすごく良いんです。\n昨日飲んだレモネードのおかげかも。"
+            },
             "voice": "audition/story_01/heroine_06/HM_Morning_01_06_01/hm_morning_01_06_01_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "ふふっ、歌のレッスンも上手くいきそう！\n行ってきますね！",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "ふふっ、歌のレッスンも上手くいきそう！\n行ってきますね！"
+            },
             "voice": "audition/story_01/heroine_06/HM_Morning_01_06_01/hm_morning_01_06_01_003.mp3"
         }
     ]

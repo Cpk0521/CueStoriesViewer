@@ -6,8 +6,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "はい、ということで、四人の冒険はひとまず終わり。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "はい、ということで、四人の冒険はひとまず終わり。"
+            },
             "voice": ""
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "あー、楽しかった！\n死んじゃったけど。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "あー、楽しかった！\n死んじゃったけど。"
+            },
             "voice": "event/Event_009/Event_009_11/event_009_11_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "舞花、まさかあそこでやられるとは思わなかったよ。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "舞花、まさかあそこでやられるとは思わなかったよ。"
+            },
             "voice": "event/Event_009/Event_009_11/event_009_11_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "自分だってそうだよ！",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "自分だってそうだよ！"
+            },
             "voice": "event/Event_009/Event_009_11/event_009_11_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "いや、忍び足に失敗して転がったのが一番笑えたな。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "いや、忍び足に失敗して転がったのが一番笑えたな。"
+            },
             "voice": "event/Event_009/Event_009_11/event_009_11_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "なんだよ。失敗ばっかりしてるみたいじゃん、自分。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "なんだよ。失敗ばっかりしてるみたいじゃん、自分。"
+            },
             "voice": "event/Event_009/Event_009_11/event_009_11_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "ふふふ。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "ふふふ。"
+            },
             "voice": "event/Event_009/Event_009_11/event_009_11_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "でも、陽菜もノッてたね。\nファンタジー世界の住人になりきってた。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "でも、陽菜もノッてたね。\nファンタジー世界の住人になりきってた。"
+            },
             "voice": "event/Event_009/Event_009_11/event_009_11_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "うん。ついつい入り込んじゃった。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "うん。ついつい入り込んじゃった。"
+            },
             "voice": "event/Event_009/Event_009_11/event_009_11_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "いやー、皆が楽しんでくれて良かった。\nテーブルトークRPG面白いでしょ？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "いやー、皆が楽しんでくれて良かった。\nテーブルトークRPG面白いでしょ？"
+            },
             "voice": ""
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "はい。最高です！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "はい。最高です！"
+            },
             "voice": "event/Event_009/Event_009_11/event_009_11_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "皆ファンタジーの勉強になったかな？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "皆ファンタジーの勉強になったかな？"
+            },
             "voice": ""
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "もちろんです。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "もちろんです。"
+            },
             "voice": "event/Event_009/Event_009_11/event_009_11_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "演技の勉強にも？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "演技の勉強にも？"
+            },
             "voice": ""
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "なったなった！",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "なったなった！"
+            },
             "voice": "event/Event_009/Event_009_11/event_009_11_015.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "よし。じゃあ、大成功ということで……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "よし。じゃあ、大成功ということで……。"
+            },
             "voice": ""
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "今度から正式なカリキュラムに入れてもらうよう、\n社長にお願いしよう！",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "今度から正式なカリキュラムに入れてもらうよう、\n社長にお願いしよう！"
+            },
             "voice": ""
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "マネージャーさん、次の冒険はいつやりますか？",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "マネージャーさん、次の冒険はいつやりますか？"
+            },
             "voice": "event/Event_009/Event_009_11/event_009_11_018.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "そうだよ。自分を蘇らせに行く冒険！",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "そうだよ。自分を蘇らせに行く冒険！"
+            },
             "voice": "event/Event_009/Event_009_11/event_009_11_019.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "すっかりハマったみたいだね。\nじゃあ、また近々開催しよう！",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "すっかりハマったみたいだね。\nじゃあ、また近々開催しよう！"
+            },
             "voice": ""
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "こういうレッスンなら、朝から晩まででもいいな。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "こういうレッスンなら、朝から晩まででもいいな。"
+            },
             "voice": "event/Event_009/Event_009_11/event_009_11_021.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "うんうん。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "うんうん。"
+            },
             "voice": "event/Event_009/Event_009_11/event_009_11_022.mp3"
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "でもまずは収録、頑張らないとね！",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "でもまずは収録、頑張らないとね！"
+            },
             "voice": ""
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "まお国も、皆の最高の演技で息を吹き込んで、\n最高のアニメにしよう！",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "まお国も、皆の最高の演技で息を吹き込んで、\n最高のアニメにしよう！"
+            },
             "voice": ""
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "はい。任せてください。マネージャーさん！",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "はい。任せてください。マネージャーさん！"
+            },
             "voice": "event/Event_009/Event_009_11/event_009_11_025.mp3"
         }
     ]

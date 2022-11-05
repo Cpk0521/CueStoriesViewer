@@ -6,8 +6,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "やった！　おめでとう、美晴！",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "やった！　おめでとう、美晴！"
+            },
             "voice": ""
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "わたしが合格……。うふふ、ありがとうございます。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "わたしが合格……。うふふ、ありがとうございます。"
+            },
             "voice": "audition/story_01/heroine_09/HM_Ending_01_09_01/hm_ending_01_09_01_000.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "あはは、今日はお祝いしないとね。\n何か食べたい物とかある？　あ、飲みたい物でもいいよ！ ",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "あはは、今日はお祝いしないとね。\n何か食べたい物とかある？　あ、飲みたい物でもいいよ！ "
+            },
             "voice": ""
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "……じゃあ、マネージャーさん。\n1つお願いしていいですか？",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "……じゃあ、マネージャーさん。\n1つお願いしていいですか？"
+            },
             "voice": "audition/story_01/heroine_09/HM_Ending_01_09_01/hm_ending_01_09_01_000.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "うん、なんでもいいよ！　あ、もちろん自分に出来る範囲だけどね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "うん、なんでもいいよ！　あ、もちろん自分に出来る範囲だけどね。"
+            },
             "voice": ""
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "うふふ。じゃあ、わたしを褒めてもらえますか。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "うふふ。じゃあ、わたしを褒めてもらえますか。"
+            },
             "voice": "audition/story_01/heroine_09/HM_Ending_01_09_01/hm_ending_01_09_01_000.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "え、褒める？　そんなことでいいの？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "え、褒める？　そんなことでいいの？"
+            },
             "voice": ""
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "はい。そんなことでいいんです。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "はい。そんなことでいいんです。"
+            },
             "voice": "audition/story_01/heroine_09/HM_Ending_01_09_01/hm_ending_01_09_01_000.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そ、そう……。それじゃあ……、\nよくやったね。美晴が頑張ったおかげだよ！",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そ、そう……。それじゃあ……、\nよくやったね。美晴が頑張ったおかげだよ！"
+            },
             "voice": ""
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "うふふ、ありがとうございます。\nマネージャーさん。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "うふふ、ありがとうございます。\nマネージャーさん。"
+            },
             "voice": "audition/story_01/heroine_09/HM_Ending_01_09_01/hm_ending_01_09_01_000.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "オーディション……。合格したんですね。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "オーディション……。合格したんですね。"
+            },
             "voice": "audition/story_01/heroine_09/HM_Ending_01_09_01/hm_ending_01_09_01_001.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "うん。本当、よくやったよ、美晴。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "うん。本当、よくやったよ、美晴。"
+            },
             "voice": ""
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "うふふ、ありがとうございます。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "うふふ、ありがとうございます。"
+            },
             "voice": "audition/story_01/heroine_09/HM_Ending_01_09_01/hm_ending_01_09_01_003.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "合格、か……。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "合格、か……。"
+            },
             "voice": "audition/story_01/heroine_09/HM_Ending_01_09_01/hm_ending_01_09_01_004.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "どうしたの？　そればっかり繰り返して。\n現実味が湧かないとか？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "どうしたの？　そればっかり繰り返して。\n現実味が湧かないとか？"
+            },
             "voice": ""
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "うふふ、そうですね……。\nそれも少しありますけど、それとはまた別のことです。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "うふふ、そうですね……。\nそれも少しありますけど、それとはまた別のことです。"
+            },
             "voice": "audition/story_01/heroine_09/HM_Ending_01_09_01/hm_ending_01_09_01_006.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "……。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "……。"
+            },
             "voice": "audition/story_01/heroine_09/HM_Ending_01_09_01/hm_ending_01_09_01_007.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "ねぇ、マネージャーさん。\nわたし、今、幸せなんですよ。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "ねぇ、マネージャーさん。\nわたし、今、幸せなんですよ。"
+            },
             "voice": "audition/story_01/heroine_09/HM_Ending_01_09_01/hm_ending_01_09_01_008.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "オーディションをして、合格して、役をもらえたことが。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "オーディションをして、合格して、役をもらえたことが。"
+            },
             "voice": "audition/story_01/heroine_09/HM_Ending_01_09_01/hm_ending_01_09_01_009.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "でも、それだけじゃないんです。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "でも、それだけじゃないんです。"
+            },
             "voice": "audition/story_01/heroine_09/HM_Ending_01_09_01/hm_ending_01_09_01_010.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "この1か月間は、とても長く思えました。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "この1か月間は、とても長く思えました。"
+            },
             "voice": "audition/story_01/heroine_09/HM_Ending_01_09_01/hm_ending_01_09_01_011.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "朝起きて、レッスンをしたり、学校へ行ったり、\nお仕事をしたりして、夜を迎える繰り返し。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "朝起きて、レッスンをしたり、学校へ行ったり、\nお仕事をしたりして、夜を迎える繰り返し。"
+            },
             "voice": "audition/story_01/heroine_09/HM_Ending_01_09_01/hm_ending_01_09_01_012.mp3"
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "そして、すぐ近くにはマネージャーさん。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "そして、すぐ近くにはマネージャーさん。"
+            },
             "voice": "audition/story_01/heroine_09/HM_Ending_01_09_01/hm_ending_01_09_01_013.mp3"
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "うふふ。振り返れば、それはとても長くて、\n特別だったのかなって……。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "うふふ。振り返れば、それはとても長くて、\n特別だったのかなって……。"
+            },
             "voice": "audition/story_01/heroine_09/HM_Ending_01_09_01/hm_ending_01_09_01_014.mp3"
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "でも、そんな特別がまた当たり前のように続いていく。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "でも、そんな特別がまた当たり前のように続いていく。"
+            },
             "voice": "audition/story_01/heroine_09/HM_Ending_01_09_01/hm_ending_01_09_01_015.mp3"
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "これって、とても素敵で、幸せなことだと思いませんか？",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "これって、とても素敵で、幸せなことだと思いませんか？"
+            },
             "voice": "audition/story_01/heroine_09/HM_Ending_01_09_01/hm_ending_01_09_01_016.mp3"
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "うん、そうだね。\nでも、同じことの繰り返しじゃないでしょ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "うん、そうだね。\nでも、同じことの繰り返しじゃないでしょ。"
+            },
             "voice": ""
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "うふふ。そうですね。\n役をもらえただけで、終わりじゃない。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "うふふ。そうですね。\n役をもらえただけで、終わりじゃない。"
+            },
             "voice": "audition/story_01/heroine_09/HM_Ending_01_09_01/hm_ending_01_09_01_018.mp3"
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "いただけた役を、\nこれからずっと、わたしの声で演じられることも幸せです。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "いただけた役を、\nこれからずっと、わたしの声で演じられることも幸せです。"
+            },
             "voice": "audition/story_01/heroine_09/HM_Ending_01_09_01/hm_ending_01_09_01_019.mp3"
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "うん。やっぱり美晴には言うまでもなかったかな。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "うん。やっぱり美晴には言うまでもなかったかな。"
+            },
             "voice": ""
         },
         {
@@ -276,8 +396,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "そんなことありませんよ。\nもう、何度も言ってるじゃないですか。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "そんなことありませんよ。\nもう、何度も言ってるじゃないですか。"
+            },
             "voice": "audition/story_01/heroine_09/HM_Ending_01_09_01/hm_ending_01_09_01_021.mp3"
         },
         {
@@ -285,8 +409,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "わたし、1人だけじゃダメなんですよ？",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "わたし、1人だけじゃダメなんですよ？"
+            },
             "voice": "audition/story_01/heroine_09/HM_Ending_01_09_01/hm_ending_01_09_01_022.mp3"
         },
         {
@@ -294,8 +422,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "だから、これからもよろしくお願いしますね。\nマネージャーさん。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "だから、これからもよろしくお願いしますね。\nマネージャーさん。"
+            },
             "voice": "audition/story_01/heroine_09/HM_Ending_01_09_01/hm_ending_01_09_01_023.mp3"
         }
     ]

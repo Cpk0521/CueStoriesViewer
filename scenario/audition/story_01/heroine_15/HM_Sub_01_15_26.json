@@ -6,8 +6,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "今日はみんなが、\n寮の掃除当番、交換してくれたんです！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "今日はみんなが、\n寮の掃除当番、交換してくれたんです！"
+            },
             "voice": "audition/story_01/heroine_15/HM_Sub_01_15_26/hm_sub_01_15_26_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "みんな忙しかったり、予定がある時は、\n日にちを交換したりするんです！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "みんな忙しかったり、予定がある時は、\n日にちを交換したりするんです！"
+            },
             "voice": "audition/story_01/heroine_15/HM_Sub_01_15_26/hm_sub_01_15_26_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "……あ、でも。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "……あ、でも。"
+            },
             "voice": "audition/story_01/heroine_15/HM_Sub_01_15_26/hm_sub_01_15_26_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "この前ゆきぞーが交換しすぎて、\n1週間ずっと掃除当番になってました！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "この前ゆきぞーが交換しすぎて、\n1週間ずっと掃除当番になってました！"
+            },
             "voice": "audition/story_01/heroine_15/HM_Sub_01_15_26/hm_sub_01_15_26_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "ちーちゃんが「自業自得だから誰も手伝わないで」って、\nすごく怖い顔してましたよー。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "ちーちゃんが「自業自得だから誰も手伝わないで」って、\nすごく怖い顔してましたよー。"
+            },
             "voice": "audition/story_01/heroine_15/HM_Sub_01_15_26/hm_sub_01_15_26_005.mp3"
         }
     ]

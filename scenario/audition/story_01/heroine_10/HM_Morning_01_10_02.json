@@ -6,8 +6,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "おはようございます、マネージャー。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "おはようございます、マネージャー。"
+            },
             "voice": "audition/story_01/heroine_10/HM_Morning_01_10_02/hm_morning_01_10_02_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "今日はいつもより、\nうまく演技ができそうな気がして。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "今日はいつもより、\nうまく演技ができそうな気がして。"
+            },
             "voice": "audition/story_01/heroine_10/HM_Morning_01_10_02/hm_morning_01_10_02_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "昨日、ドラマを見て、\n気持ちが入っちゃったからかな……。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "昨日、ドラマを見て、\n気持ちが入っちゃったからかな……。"
+            },
             "voice": "audition/story_01/heroine_10/HM_Morning_01_10_02/hm_morning_01_10_02_003.mp3"
         }
     ]

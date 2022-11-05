@@ -6,8 +6,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "鳴、ちょっとなにこれ？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "鳴、ちょっとなにこれ？"
+            },
             "voice": ""
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "日焼け対策グッズです。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "日焼け対策グッズです。"
+            },
             "voice": "lesson/Lesson_20208/lesson_20208_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "これを全部使えば、\n外に出ても日光を完全にブロックする事が出来ます。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "これを全部使えば、\n外に出ても日光を完全にブロックする事が出来ます。"
+            },
             "voice": "lesson/Lesson_20208/lesson_20208_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "この巨大な袋は、なに……？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "この巨大な袋は、なに……？"
+            },
             "voice": ""
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "テントです。撮影以外の時間に控室として使用します。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "テントです。撮影以外の時間に控室として使用します。"
+            },
             "voice": "lesson/Lesson_20208/lesson_20208_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "な、なるほど……。控室ね。\nこっちの銀色の手袋はなに？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "な、なるほど……。控室ね。\nこっちの銀色の手袋はなに？"
+            },
             "voice": ""
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "MASAが開発したアームカバーです。これで腕を守ります。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "MASAが開発したアームカバーです。これで腕を守ります。"
+            },
             "voice": "lesson/Lesson_20208/lesson_20208_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "こんなの身に付けたら、暑いでしょ？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "こんなの身に付けたら、暑いでしょ？"
+            },
             "voice": ""
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "暑いです。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "暑いです。"
+            },
             "voice": "lesson/Lesson_20208/lesson_20208_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "他にはサングラスにストール、帽子に日傘と日焼け止め……。\nん？　カラーコンタクトがあるけど、これはなに？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "他にはサングラスにストール、帽子に日傘と日焼け止め……。\nん？　カラーコンタクトがあるけど、これはなに？"
+            },
             "voice": ""
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "そのカラコンもUVカット仕様なんです。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "そのカラコンもUVカット仕様なんです。"
+            },
             "voice": "lesson/Lesson_20208/lesson_20208_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "既にサングラスがあるのに？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "既にサングラスがあるのに？"
+            },
             "voice": ""
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "ダブルで使用します。目の防御は必須ですから。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "ダブルで使用します。目の防御は必須ですから。"
+            },
             "voice": "lesson/Lesson_20208/lesson_20208_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "フェイスマスクまであるじゃないか。\nまさかこれを全部身に付けて撮影する訳じゃ……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "フェイスマスクまであるじゃないか。\nまさかこれを全部身に付けて撮影する訳じゃ……。"
+            },
             "voice": ""
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "もちろん全て装着します。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "もちろん全て装着します。"
+            },
             "voice": "lesson/Lesson_20208/lesson_20208_015.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "マスクしてサングラスするの？　宣材なのに顔隠してどうするの。\n逃亡犯みたいになっちゃうよ？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "マスクしてサングラスするの？　宣材なのに顔隠してどうするの。\n逃亡犯みたいになっちゃうよ？"
+            },
             "voice": ""
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "それでも構いません。\nある意味日光から逃げているわけですから。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "それでも構いません。\nある意味日光から逃げているわけですから。"
+            },
             "voice": "lesson/Lesson_20208/lesson_20208_017.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "1枚撮るだけにしては、ちょっと凄すぎないかな……？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "1枚撮るだけにしては、ちょっと凄すぎないかな……？"
+            },
             "voice": ""
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "日光NGなので。\nこれらを身に付けて良いなら、外へ撮影しに行きます。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "日光NGなので。\nこれらを身に付けて良いなら、外へ撮影しに行きます。"
+            },
             "voice": "lesson/Lesson_20208/lesson_20208_019.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "いや……。さすがにこれじゃなぁ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "いや……。さすがにこれじゃなぁ。"
+            },
             "voice": ""
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "身体を守るために必要なんです。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "身体を守るために必要なんです。"
+            },
             "voice": "lesson/Lesson_20208/lesson_20208_021.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "参ったなぁ……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "参ったなぁ……。"
+            },
             "voice": ""
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "ん？　なにしてるの？",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "ん？　なにしてるの？"
+            },
             "voice": "lesson/Lesson_20208/lesson_20208_023.mp3"
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "あ、利恵……。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "あ、利恵……。"
+            },
             "voice": "lesson/Lesson_20208/lesson_20208_024.mp3"
         }
     ]

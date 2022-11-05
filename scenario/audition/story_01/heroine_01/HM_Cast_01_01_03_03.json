@@ -6,8 +6,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "ジャーマネ、おるかー。\nどうだ、その後の調子は？",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "ジャーマネ、おるかー。\nどうだ、その後の調子は？"
+            },
             "voice": "audition/story_01/heroine_01/HM_Cast_01_01_03_03/hm_cast_01_01_03_03_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "志穂……。\nうん、変わらず……、かな。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "志穂……。\nうん、変わらず……、かな。"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "ああ、確かに。\nこの前からずっとつかれたまま……、みたいだな。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "ああ、確かに。\nこの前からずっとつかれたまま……、みたいだな。"
+            },
             "voice": "audition/story_01/heroine_01/HM_Cast_01_01_03_03/hm_cast_01_01_03_03_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "だが、安心しろ。\nついに手に入ったからな。持ってきたぞ。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "だが、安心しろ。\nついに手に入ったからな。持ってきたぞ。"
+            },
             "voice": "audition/story_01/heroine_01/HM_Cast_01_01_03_03/hm_cast_01_01_03_03_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "何このあやしげな瓶……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "何このあやしげな瓶……。"
+            },
             "voice": ""
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "信州長野に伝わる秘伝の製法で作られた酒……。\nつかれてしまったのなら、これしかない。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "信州長野に伝わる秘伝の製法で作られた酒……。\nつかれてしまったのなら、これしかない。"
+            },
             "voice": "audition/story_01/heroine_01/HM_Cast_01_01_03_03/hm_cast_01_01_03_03_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "効き目は寺の住職のお墨付きだ。\n夜寝る前にこれをひと口飲むこと。苦くても我慢してくれ。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "効き目は寺の住職のお墨付きだ。\n夜寝る前にこれをひと口飲むこと。苦くても我慢してくれ。"
+            },
             "voice": "audition/story_01/heroine_01/HM_Cast_01_01_03_03/hm_cast_01_01_03_03_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "これを飲むだけでいいの？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "これを飲むだけでいいの？"
+            },
             "voice": ""
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "まあ、今のジャーマネのつかれ方なら、これでも十分だろ。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "まあ、今のジャーマネのつかれ方なら、これでも十分だろ。"
+            },
             "voice": "audition/story_01/heroine_01/HM_Cast_01_01_03_03/hm_cast_01_01_03_03_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "ありがとう。早速今日から飲んでみるね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "ありがとう。早速今日から飲んでみるね。"
+            },
             "voice": ""
         }
     ]

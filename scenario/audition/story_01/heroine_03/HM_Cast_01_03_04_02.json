@@ -6,8 +6,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "お疲れ様です。\nあ、ちょっとここ借りますね。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "お疲れ様です。\nあ、ちょっとここ借りますね。"
+            },
             "voice": "audition/story_01/heroine_03/HM_Cast_01_03_04_02/hm_cast_01_03_04_02_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "お疲れ様。\nどうしたの？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "お疲れ様。\nどうしたの？"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "志穂を待ってる間に、これ作りたくて……。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "志穂を待ってる間に、これ作りたくて……。"
+            },
             "voice": "audition/story_01/heroine_03/HM_Cast_01_03_04_02/hm_cast_01_03_04_02_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "見てください！\n志穂専用のトレーニングメニューです！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "見てください！\n志穂専用のトレーニングメニューです！"
+            },
             "voice": "audition/story_01/heroine_03/HM_Cast_01_03_04_02/hm_cast_01_03_04_02_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "へぇ、そんなの作ってるんだ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "へぇ、そんなの作ってるんだ。"
+            },
             "voice": ""
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "はい！　志穂から聞いてくれたんですよ！\n「楽して体力増やせないか？」って。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "はい！　志穂から聞いてくれたんですよ！\n「楽して体力増やせないか？」って。"
+            },
             "voice": "audition/story_01/heroine_03/HM_Cast_01_03_04_02/hm_cast_01_03_04_02_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そんな方法あるの？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そんな方法あるの？"
+            },
             "voice": ""
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "ありませんよ。\nだから、ちゃんとしたメニューを作ってあげるんです！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "ありませんよ。\nだから、ちゃんとしたメニューを作ってあげるんです！"
+            },
             "voice": "audition/story_01/heroine_03/HM_Cast_01_03_04_02/hm_cast_01_03_04_02_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "よーし、志穂が来る前に仕上げちゃおっと！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "よーし、志穂が来る前に仕上げちゃおっと！"
+            },
             "voice": "audition/story_01/heroine_03/HM_Cast_01_03_04_02/hm_cast_01_03_04_02_009.mp3"
         }
     ]

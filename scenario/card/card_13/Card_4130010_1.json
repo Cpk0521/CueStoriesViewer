@@ -6,8 +6,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "ククク……、マネージャーよ。\n今日がなんの日か、わかるか？",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "ククク……、マネージャーよ。\n今日がなんの日か、わかるか？"
+            },
             "voice": "card/Card_13/Card_4130010_1/card_4130010_1_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "え？　えーっと、今日は2月14日……。\nバレンタインか……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "え？　えーっと、今日は2月14日……。\nバレンタインか……。"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "そうだ……。わかっているなら話が早い。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "そうだ……。わかっているなら話が早い。"
+            },
             "voice": "card/Card_13/Card_4130010_1/card_4130010_1_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "なんの話？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "なんの話？"
+            },
             "voice": ""
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "まずは寮に来てもらおう。\n話はそれからだ。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "まずは寮に来てもらおう。\n話はそれからだ。"
+            },
             "voice": "card/Card_13/Card_4130010_1/card_4130010_1_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "あ、もしかして忙しい？　忙しいなら……。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "あ、もしかして忙しい？　忙しいなら……。"
+            },
             "voice": "card/Card_13/Card_4130010_1/card_4130010_1_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "うーん、少しくらいなら大丈夫……、かな。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "うーん、少しくらいなら大丈夫……、かな。"
+            },
             "voice": ""
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "よかった……。\nこれでなんとかなるな……。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "よかった……。\nこれでなんとかなるな……。"
+            },
             "voice": "card/Card_13/Card_4130010_1/card_4130010_1_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "え？　何？　何するつもりなの？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "え？　何？　何するつもりなの？"
+            },
             "voice": ""
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "今日はバレンタインだ。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "今日はバレンタインだ。"
+            },
             "voice": "card/Card_13/Card_4130010_1/card_4130010_1_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "う、うん、そうだけど。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "う、うん、そうだけど。"
+            },
             "voice": ""
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "ということで、マネージャーに1つ頼みがある。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "ということで、マネージャーに1つ頼みがある。"
+            },
             "voice": "card/Card_13/Card_4130010_1/card_4130010_1_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "（嫌な予感がする。）",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "（嫌な予感がする。）"
+            },
             "voice": ""
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "……なんでしょう？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "……なんでしょう？"
+            },
             "voice": ""
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "チョコ作りを、手伝って欲しいのだ。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "チョコ作りを、手伝って欲しいのだ。"
+            },
             "voice": "card/Card_13/Card_4130010_1/card_4130010_1_014.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "（やっぱり……。）",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "（やっぱり……。）"
+            },
             "voice": ""
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "……そうきましたか。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "……そうきましたか。"
+            },
             "voice": ""
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "マネージャーに頼むことじゃないのは、\nわかってるんだけど。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "マネージャーに頼むことじゃないのは、\nわかってるんだけど。"
+            },
             "voice": "card/Card_13/Card_4130010_1/card_4130010_1_016.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "こういうの頼めるの、マネージャーしかいないし。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "こういうの頼めるの、マネージャーしかいないし。"
+            },
             "voice": "card/Card_13/Card_4130010_1/card_4130010_1_017.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そう？　\n美晴や莉子なら年上だし、嫌な顔せず手伝ってくれそうだけど。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そう？　\n美晴や莉子なら年上だし、嫌な顔せず手伝ってくれそうだけど。"
+            },
             "voice": ""
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "……ずかしいでしょ！",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "……ずかしいでしょ！"
+            },
             "voice": "card/Card_13/Card_4130010_1/card_4130010_1_019.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "え？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "え？"
+            },
             "voice": ""
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "恥ずかしいでしょ！",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "恥ずかしいでしょ！"
+            },
             "voice": "card/Card_13/Card_4130010_1/card_4130010_1_021.mp3"
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "わ、我輩が！　その、チョコを手作りしてるとこ見られるなんて！\nキャラ的に！",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "わ、我輩が！　その、チョコを手作りしてるとこ見られるなんて！\nキャラ的に！"
+            },
             "voice": "card/Card_13/Card_4130010_1/card_4130010_1_022.mp3"
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "キャラ的に……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "キャラ的に……。"
+            },
             "voice": ""
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "……。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "……。"
+            },
             "voice": "card/Card_13/Card_4130010_1/card_4130010_1_024.mp3"
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "そこで、消去法で考えた結果、\n最も恥ずかしくないのがマネージャーという結論に至った。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "そこで、消去法で考えた結果、\n最も恥ずかしくないのがマネージャーという結論に至った。"
+            },
             "voice": "card/Card_13/Card_4130010_1/card_4130010_1_025.mp3"
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そうですか……。\nま、しょうがない、手伝うよ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そうですか……。\nま、しょうがない、手伝うよ。"
+            },
             "voice": ""
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "やったー！　",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "やったー！　"
+            },
             "voice": "card/Card_13/Card_4130010_1/card_4130010_1_027.mp3"
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "……じゃない。\n頼りにしておるぞ。マネージャーよ。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "……じゃない。\n頼りにしておるぞ。マネージャーよ。"
+            },
             "voice": "card/Card_13/Card_4130010_1/card_4130010_1_028.mp3"
         },
         {
@@ -276,8 +396,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "すごい板チョコの山……。\nどれだけ作る気なの？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "すごい板チョコの山……。\nどれだけ作る気なの？"
+            },
             "voice": ""
         },
         {
@@ -285,8 +409,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "有能なる指揮官は、先回りして考えておくものなのだ。\n失敗した時の事もな。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "有能なる指揮官は、先回りして考えておくものなのだ。\n失敗した時の事もな。"
+            },
             "voice": "card/Card_13/Card_4130010_1/card_4130010_1_030.mp3"
         },
         {
@@ -294,8 +422,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "つまり自信がなかったってことね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "つまり自信がなかったってことね。"
+            },
             "voice": ""
         },
         {
@@ -303,8 +435,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "……。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "……。"
+            },
             "voice": "card/Card_13/Card_4130010_1/card_4130010_1_032.mp3"
         },
         {
@@ -312,8 +448,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "こっちの山は？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "こっちの山は？"
+            },
             "voice": ""
         },
         {
@@ -321,8 +461,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "フッ……、地獄の業火に焼かれた哀れな贄たちよ……。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "フッ……、地獄の業火に焼かれた哀れな贄たちよ……。"
+            },
             "voice": "card/Card_13/Card_4130010_1/card_4130010_1_034.mp3"
         },
         {
@@ -330,8 +474,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "要するに、失敗して無駄になった可愛そうなチョコの残骸ね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "要するに、失敗して無駄になった可愛そうなチョコの残骸ね。"
+            },
             "voice": ""
         },
         {
@@ -339,8 +487,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "そうとも言う。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "そうとも言う。"
+            },
             "voice": "card/Card_13/Card_4130010_1/card_4130010_1_036.mp3"
         },
         {
@@ -348,8 +500,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "どうやったら、こんなに豪快に失敗作を量産出来るの？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "どうやったら、こんなに豪快に失敗作を量産出来るの？"
+            },
             "voice": ""
         },
         {
@@ -357,8 +513,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "それがわかったら呼んでなーい！",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "それがわかったら呼んでなーい！"
+            },
             "voice": "card/Card_13/Card_4130010_1/card_4130010_1_038.mp3"
         },
         {
@@ -366,8 +526,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "はいはい。\nじゃあ、とりあえず、一緒にやってみましょうか。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "はいはい。\nじゃあ、とりあえず、一緒にやってみましょうか。"
+            },
             "voice": ""
         },
         {
@@ -375,8 +539,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "うむ。では、フライパンにチョコを入れ、\n1億の魂を秘めたヤクロトを注ぎ……、着火！",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "うむ。では、フライパンにチョコを入れ、\n1億の魂を秘めたヤクロトを注ぎ……、着火！"
+            },
             "voice": "card/Card_13/Card_4130010_1/card_4130010_1_040.mp3"
         },
         {
@@ -384,8 +552,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "ちょ、ちょっと、フライパンで溶かすのは違うんじゃない？\n後、ヤクロトは絶対必要ないし、しかも最大火力！？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "ちょ、ちょっと、フライパンで溶かすのは違うんじゃない？\n後、ヤクロトは絶対必要ないし、しかも最大火力！？"
+            },
             "voice": ""
         },
         {
@@ -393,8 +565,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "え？　このやり方じゃダメなの？",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "え？　このやり方じゃダメなの？"
+            },
             "voice": "card/Card_13/Card_4130010_1/card_4130010_1_042.mp3"
         },
         {
@@ -402,8 +578,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "ほら、早速焦げてるから！\nまず火！　火を消してー！",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "ほら、早速焦げてるから！\nまず火！　火を消してー！"
+            },
             "voice": ""
         }
     ]

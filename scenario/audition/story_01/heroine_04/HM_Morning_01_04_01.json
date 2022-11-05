@@ -6,8 +6,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "あれ、マネージャー？\nおはようございます！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "あれ、マネージャー？\nおはようございます！"
+            },
             "voice": "audition/story_01/heroine_04/HM_Morning_01_04_01/hm_morning_01_04_01_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "これからお仕事ですか？\nじゃあ、これ、あげます。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "これからお仕事ですか？\nじゃあ、これ、あげます。"
+            },
             "voice": "audition/story_01/heroine_04/HM_Morning_01_04_01/hm_morning_01_04_01_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "最近、お気に入りのスポドリなんです。\nえへへ、これ飲むとなんか喉の調子がいいんですよ！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "最近、お気に入りのスポドリなんです。\nえへへ、これ飲むとなんか喉の調子がいいんですよ！"
+            },
             "voice": "audition/story_01/heroine_04/HM_Morning_01_04_01/hm_morning_01_04_01_003.mp3"
         }
     ]

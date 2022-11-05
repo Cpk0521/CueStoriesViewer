@@ -6,8 +6,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "マネージャーさん、マネージャーさん！\nカメラ見ませんでしたか！？　わたしのカメラ！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "マネージャーさん、マネージャーさん！\nカメラ見ませんでしたか！？　わたしのカメラ！"
+            },
             "voice": "audition/story_01/heroine_14/HM_Cast_01_14_15_03/hm_cast_01_14_15_03_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "えっ、いつも使ってるやつ？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "えっ、いつも使ってるやつ？"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "はい！\nどっかにいっちゃって、全然見つからないんです！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "はい！\nどっかにいっちゃって、全然見つからないんです！"
+            },
             "voice": "audition/story_01/heroine_14/HM_Cast_01_14_15_03/hm_cast_01_14_15_03_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "凛音、ロッカーのほうもなかった。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "凛音、ロッカーのほうもなかった。"
+            },
             "voice": "audition/story_01/heroine_14/HM_Cast_01_14_15_03/hm_cast_01_14_15_03_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "そっかぁ……。\nうわー、どうしよう！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "そっかぁ……。\nうわー、どうしよう！"
+            },
             "voice": "audition/story_01/heroine_14/HM_Cast_01_14_15_03/hm_cast_01_14_15_03_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "まずは落ち着きなさい。\nひとつひとつ思い出して辿っていけば、きっと見つかるから。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "まずは落ち着きなさい。\nひとつひとつ思い出して辿っていけば、きっと見つかるから。"
+            },
             "voice": "audition/story_01/heroine_14/HM_Cast_01_14_15_03/hm_cast_01_14_15_03_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "自分も手伝うよ。\n事務所とかレッスン室は見ておくね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "自分も手伝うよ。\n事務所とかレッスン室は見ておくね。"
+            },
             "voice": ""
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "すみません、マネージャーさん。\nほら、凛音……って、あなた。腰になにぶら下げてるの？",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "すみません、マネージャーさん。\nほら、凛音……って、あなた。腰になにぶら下げてるの？"
+            },
             "voice": "audition/story_01/heroine_14/HM_Cast_01_14_15_03/hm_cast_01_14_15_03_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "え？　これはカメラだよー！\n……って、あったー！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "え？　これはカメラだよー！\n……って、あったー！"
+            },
             "voice": "audition/story_01/heroine_14/HM_Cast_01_14_15_03/hm_cast_01_14_15_03_009.mp3"
         }
     ]

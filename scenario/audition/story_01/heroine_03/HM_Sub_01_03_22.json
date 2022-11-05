@@ -6,8 +6,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "お疲れ、ジャーマネ。\n今日はもう帰る。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "お疲れ、ジャーマネ。\n今日はもう帰る。"
+            },
             "voice": "audition/story_01/heroine_03/HM_Sub_01_03_22/hm_sub_01_03_22_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "オーディションが近いからな。\n風邪などひかないよう気を付けなければ。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "オーディションが近いからな。\n風邪などひかないよう気を付けなければ。"
+            },
             "voice": "audition/story_01/heroine_03/HM_Sub_01_03_22/hm_sub_01_03_22_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "だから、いっぱい食べていっぱい寝る。\n今日は舞花がコロッケを作るらしい。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "だから、いっぱい食べていっぱい寝る。\n今日は舞花がコロッケを作るらしい。"
+            },
             "voice": "audition/story_01/heroine_03/HM_Sub_01_03_22/hm_sub_01_03_22_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "ジャーマネも体調管理には気を付けてくれ。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "ジャーマネも体調管理には気を付けてくれ。"
+            },
             "voice": "audition/story_01/heroine_03/HM_Sub_01_03_22/hm_sub_01_03_22_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "じゃ、また明日。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "じゃ、また明日。"
+            },
             "voice": "audition/story_01/heroine_03/HM_Sub_01_03_22/hm_sub_01_03_22_005.mp3"
         }
     ]

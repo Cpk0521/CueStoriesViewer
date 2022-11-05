@@ -6,8 +6,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "収録の現場ってもちろん勉強になるんですが、\nでもそれ以上に落ち込んでしまうことも多くて……。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "収録の現場ってもちろん勉強になるんですが、\nでもそれ以上に落ち込んでしまうことも多くて……。"
+            },
             "voice": "audition/story_01/heroine_01/HM_Sub_01_01_20/hm_sub_01_01_20_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "先輩たちの演技を見させてもらうたびに、\nほんの少し持ててきた自信も、簡単に吹き飛んじゃって、",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "先輩たちの演技を見させてもらうたびに、\nほんの少し持ててきた自信も、簡単に吹き飛んじゃって、"
+            },
             "voice": "audition/story_01/heroine_01/HM_Sub_01_01_20/hm_sub_01_01_20_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "この繰り返しがいつか、本当の自信に繋がるはず……。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "この繰り返しがいつか、本当の自信に繋がるはず……。"
+            },
             "voice": "audition/story_01/heroine_01/HM_Sub_01_01_20/hm_sub_01_01_20_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "ですよね？　マネージャーさん。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "ですよね？　マネージャーさん。"
+            },
             "voice": "audition/story_01/heroine_01/HM_Sub_01_01_20/hm_sub_01_01_20_004.mp3"
         }
     ]

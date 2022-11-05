@@ -6,8 +6,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "お疲れ様です、マネージャー！\nそれじゃ、お先失礼します！",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "お疲れ様です、マネージャー！\nそれじゃ、お先失礼します！"
+            },
             "voice": "audition/story_01/heroine_06/HM_Sub_01_06_05/hm_sub_01_06_05_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "あ、千紗、ちょっと待って！",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "あ、千紗、ちょっと待って！"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "えっと……！\nすみません、今じゃなきゃダメですか？",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "えっと……！\nすみません、今じゃなきゃダメですか？"
+            },
             "voice": "audition/story_01/heroine_06/HM_Sub_01_06_05/hm_sub_01_06_05_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "華のニクマサに行かないといけなくて……！\n舞花を外に待たせちゃってるんです。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "華のニクマサに行かないといけなくて……！\n舞花を外に待たせちゃってるんです。"
+            },
             "voice": "audition/story_01/heroine_06/HM_Sub_01_06_05/hm_sub_01_06_05_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "あ、それなら明日でいいよ。\n舞花も一緒なんだね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "あ、それなら明日でいいよ。\n舞花も一緒なんだね。"
+            },
             "voice": ""
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "はい！　共同戦線張ってるので！\nお一人様3点限りの激安タマゴ、絶対にゲットしてきます！",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "はい！　共同戦線張ってるので！\nお一人様3点限りの激安タマゴ、絶対にゲットしてきます！"
+            },
             "voice": "audition/story_01/heroine_06/HM_Sub_01_06_05/hm_sub_01_06_05_006.mp3"
         }
     ]

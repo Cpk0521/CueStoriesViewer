@@ -6,8 +6,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "今日のお昼ですか？",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "今日のお昼ですか？"
+            },
             "voice": "audition/story_01/heroine_01/HM_Sub_01_01_02/hm_sub_01_01_02_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "恥ずかしいんですけど、カツサンドです……。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "恥ずかしいんですけど、カツサンドです……。"
+            },
             "voice": "audition/story_01/heroine_01/HM_Sub_01_01_02/hm_sub_01_01_02_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "おいしいですよね。「肉のバンザイ」のカツサンド。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "おいしいですよね。「肉のバンザイ」のカツサンド。"
+            },
             "voice": "audition/story_01/heroine_01/HM_Sub_01_01_02/hm_sub_01_01_02_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "マネージャーさんも好きですか？",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "マネージャーさんも好きですか？"
+            },
             "voice": "audition/story_01/heroine_01/HM_Sub_01_01_02/hm_sub_01_01_02_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "ふふっ。今度一緒に買いに行きましょう。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "ふふっ。今度一緒に買いに行きましょう。"
+            },
             "voice": "audition/story_01/heroine_01/HM_Sub_01_01_02/hm_sub_01_01_02_005.mp3"
         }
     ]

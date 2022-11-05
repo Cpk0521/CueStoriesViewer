@@ -6,8 +6,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "おはよう、マネージャー。\nちょうど良かったわ。",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "おはよう、マネージャー。\nちょうど良かったわ。"
+            },
             "voice": "audition/story_01/heroine_05/HM_Main_01_05_01/hm_main_01_05_01_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "今度、悠希をこのオーディションに出してみようと思うの。",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "今度、悠希をこのオーディションに出してみようと思うの。"
+            },
             "voice": "audition/story_01/heroine_05/HM_Main_01_05_01/hm_main_01_05_01_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "「空繰戯曲グレイゼファー」……、ですか。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "「空繰戯曲グレイゼファー」……、ですか。"
+            },
             "voice": ""
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "そう、あの子にちょうど合うと思って。",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "そう、あの子にちょうど合うと思って。"
+            },
             "voice": "audition/story_01/heroine_05/HM_Main_01_05_01/hm_main_01_05_01_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "りおにもサポートするように言ってあるから、よろしくね。",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "りおにもサポートするように言ってあるから、よろしくね。"
+            },
             "voice": "audition/story_01/heroine_05/HM_Main_01_05_01/hm_main_01_05_01_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "そういうこと！　頑張ってね！",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "そういうこと！　頑張ってね！"
+            },
             "voice": "audition/story_01/heroine_05/HM_Main_01_05_01/hm_main_01_05_01_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "うわー、テンション上がってきたー！\n「空繰戯曲グレイゼファー」！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "うわー、テンション上がってきたー！\n「空繰戯曲グレイゼファー」！"
+            },
             "voice": "audition/story_01/heroine_05/HM_Main_01_05_01/hm_main_01_05_01_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "やっぱマネージャーもわかってるね！\nあたしの乗せ方が上手いんだよなー、まったく。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "やっぱマネージャーもわかってるね！\nあたしの乗せ方が上手いんだよなー、まったく。"
+            },
             "voice": "audition/story_01/heroine_05/HM_Main_01_05_01/hm_main_01_05_01_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "社長の計らいだけどね。\nまずは2週間後の1次審査から、気合を入れて頑張ってね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "社長の計らいだけどね。\nまずは2週間後の1次審査から、気合を入れて頑張ってね。"
+            },
             "voice": ""
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "あったりまえじゃん！\nまずは1次なんて言わずに、ガンガン進んでいこうよ！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "あったりまえじゃん！\nまずは1次なんて言わずに、ガンガン進んでいこうよ！"
+            },
             "voice": "audition/story_01/heroine_05/HM_Main_01_05_01/hm_main_01_05_01_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "こうなったらあたしは止まらないよ！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "こうなったらあたしは止まらないよ！"
+            },
             "voice": "audition/story_01/heroine_05/HM_Main_01_05_01/hm_main_01_05_01_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "わかってるとは思うけど、油断しないようにね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "わかってるとは思うけど、油断しないようにね。"
+            },
             "voice": ""
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "もちろん！\n今すぐ帰って猛特訓だよ、マネージャー！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "もちろん！\n今すぐ帰って猛特訓だよ、マネージャー！"
+            },
             "voice": "audition/story_01/heroine_05/HM_Main_01_05_01/hm_main_01_05_01_013.mp3"
         }
     ]

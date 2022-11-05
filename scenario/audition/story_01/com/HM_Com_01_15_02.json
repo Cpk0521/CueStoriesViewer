@@ -6,8 +6,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "あ、マネージャーさん、いたいた。\nはいこれ、この間の。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "あ、マネージャーさん、いたいた。\nはいこれ、この間の。"
+            },
             "voice": "audition/story_01/com/HM_Com_01_15_02/hm_com_01_15_02_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "写真……。わざわざプリントしてくれたの？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "写真……。わざわざプリントしてくれたの？"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "えー？\nだってこの前約束しましたよー？　",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "えー？\nだってこの前約束しましたよー？　"
+            },
             "voice": "audition/story_01/com/HM_Com_01_15_02/hm_com_01_15_02_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そうだけど……。　",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そうだけど……。　"
+            },
             "voice": ""
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "いりませんでした？　",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "いりませんでした？　"
+            },
             "voice": "audition/story_01/com/HM_Com_01_15_02/hm_com_01_15_02_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "ううん。そうじゃない。\nそうじゃなくて……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "ううん。そうじゃない。\nそうじゃなくて……。"
+            },
             "voice": ""
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "本当にプリントしてくれるって思ってなかったから。　",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "本当にプリントしてくれるって思ってなかったから。　"
+            },
             "voice": ""
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "えー？　どうしてー？\n約束したことは守らないと。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "えー？　どうしてー？\n約束したことは守らないと。"
+            },
             "voice": "audition/story_01/com/HM_Com_01_15_02/hm_com_01_15_02_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "うん……。そうだね。\nありがとう凛音。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "うん……。そうだね。\nありがとう凛音。"
+            },
             "voice": ""
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "えへへー。\nどういたしまして。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "えへへー。\nどういたしまして。"
+            },
             "voice": "audition/story_01/com/HM_Com_01_15_02/hm_com_01_15_02_010.mp3"
         }
     ]

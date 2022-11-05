@@ -6,8 +6,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "お疲れ様です。\nあ、マネージャーってこれやったことありますか？ ",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "お疲れ様です。\nあ、マネージャーってこれやったことありますか？ "
+            },
             "voice": "audition/story_01/heroine_02/HM_Sub_01_02_09/hm_sub_01_02_09_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "これ、格ゲー？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "これ、格ゲー？"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "そうです。ロードファイターズ5。\n今、ちょうどいい対戦相手探してるんすよね……。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "そうです。ロードファイターズ5。\n今、ちょうどいい対戦相手探してるんすよね……。"
+            },
             "voice": "audition/story_01/heroine_02/HM_Sub_01_02_09/hm_sub_01_02_09_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そうなんだ。\n鳴とかどうなの？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そうなんだ。\n鳴とかどうなの？"
+            },
             "voice": ""
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "いや、鳴はちょうどよくないんっすよ。\nちょっとやっただけなのに、強過ぎるっていうか。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "いや、鳴はちょうどよくないんっすよ。\nちょっとやっただけなのに、強過ぎるっていうか。"
+            },
             "voice": "audition/story_01/heroine_02/HM_Sub_01_02_09/hm_sub_01_02_09_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "手元見てても意味分かんないとかやばくないっすか？",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "手元見てても意味分かんないとかやばくないっすか？"
+            },
             "voice": "audition/story_01/heroine_02/HM_Sub_01_02_09/hm_sub_01_02_09_006.mp3"
         }
     ]

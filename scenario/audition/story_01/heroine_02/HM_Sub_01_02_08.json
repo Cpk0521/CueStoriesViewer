@@ -6,8 +6,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "マネージャー……揚力って、空を飛ぶことなんすか？",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "マネージャー……揚力って、空を飛ぶことなんすか？"
+            },
             "voice": "audition/story_01/heroine_02/HM_Sub_01_02_08/hm_sub_01_02_08_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "このエリシュには特異揚力っていうのがあって、\nそれが物を空に飛ばす能力らしいんっすけど。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "このエリシュには特異揚力っていうのがあって、\nそれが物を空に飛ばす能力らしいんっすけど。"
+            },
             "voice": "audition/story_01/heroine_02/HM_Sub_01_02_08/hm_sub_01_02_08_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そうだね。\n揚力って、物にかかる垂直方向の力とか…だったかな？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そうだね。\n揚力って、物にかかる垂直方向の力とか…だったかな？"
+            },
             "voice": ""
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "え？　垂直？　力？\n空飛ぶって話ししてんのになんの話っすか、それ。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "え？　垂直？　力？\n空飛ぶって話ししてんのになんの話っすか、それ。"
+            },
             "voice": "audition/story_01/heroine_02/HM_Sub_01_02_08/hm_sub_01_02_08_004.mp3"
         }
     ]

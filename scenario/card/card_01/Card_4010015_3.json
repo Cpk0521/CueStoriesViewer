@@ -6,8 +6,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "それじゃ、食べよっか。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "それじゃ、食べよっか。"
+            },
             "voice": "card/Card_01/Card_4010015_3/card_4010015_3_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "陽菜、乾杯の音頭とかいいの？",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "陽菜、乾杯の音頭とかいいの？"
+            },
             "voice": "card/Card_01/Card_4010015_3/card_4010015_3_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "そうね。みんな集まってるんだし、\n企画の立案者から、ぜひとも一言欲しいわね。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "そうね。みんな集まってるんだし、\n企画の立案者から、ぜひとも一言欲しいわね。"
+            },
             "voice": "card/Card_01/Card_4010015_3/card_4010015_3_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "ええっ、何も考えてないけど……。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "ええっ、何も考えてないけど……。"
+            },
             "voice": "card/Card_01/Card_4010015_3/card_4010015_3_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "普通に乾杯の一言でいいと思う。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "普通に乾杯の一言でいいと思う。"
+            },
             "voice": "card/Card_01/Card_4010015_3/card_4010015_3_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "う、うん。わかった。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "う、うん。わかった。"
+            },
             "voice": "card/Card_01/Card_4010015_3/card_4010015_3_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "それじゃあ改めて……。\nみんな、お疲れ様です。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "それじゃあ改めて……。\nみんな、お疲れ様です。"
+            },
             "voice": "card/Card_01/Card_4010015_3/card_4010015_3_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "急に思いついた企画だったけど、\nみんなが集まってくれて、とっても嬉しいです。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "急に思いついた企画だったけど、\nみんなが集まってくれて、とっても嬉しいです。"
+            },
             "voice": "card/Card_01/Card_4010015_3/card_4010015_3_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "これからみんな、\nもっと忙しくなるかもしれないけど……。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "これからみんな、\nもっと忙しくなるかもしれないけど……。"
+            },
             "voice": "card/Card_01/Card_4010015_3/card_4010015_3_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "だからこそ、こういう時間を、\n大切にしていきたいなと思います。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "だからこそ、こういう時間を、\n大切にしていきたいなと思います。"
+            },
             "voice": "card/Card_01/Card_4010015_3/card_4010015_3_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "それでは……、メリークリスマス！",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "それでは……、メリークリスマス！"
+            },
             "voice": "card/Card_01/Card_4010015_3/card_4010015_3_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "ふぅ……、お疲れ様！\nあとは片付ければ終わりね。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "ふぅ……、お疲れ様！\nあとは片付ければ終わりね。"
+            },
             "voice": "card/Card_01/Card_4010015_3/card_4010015_3_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "りょーかい！\nあたし生ゴミまとめておくよ。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "りょーかい！\nあたし生ゴミまとめておくよ。"
+            },
             "voice": "card/Card_01/Card_4010015_3/card_4010015_3_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "洗うお皿水につけとく。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "洗うお皿水につけとく。"
+            },
             "voice": "card/Card_01/Card_4010015_3/card_4010015_3_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "手伝ってくれてありがとう。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "手伝ってくれてありがとう。"
+            },
             "voice": "card/Card_01/Card_4010015_3/card_4010015_3_015.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "でも、なんでわざわざ片付け断ったの？\nみんなやってくれるって言ってたのに。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "でも、なんでわざわざ片付け断ったの？\nみんなやってくれるって言ってたのに。"
+            },
             "voice": "card/Card_01/Card_4010015_3/card_4010015_3_016.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "えーっと……。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "えーっと……。"
+            },
             "voice": "card/Card_01/Card_4010015_3/card_4010015_3_017.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "4人で準備したクリスマス会だから……。\n片付けも4人でやりたいなって。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "4人で準備したクリスマス会だから……。\n片付けも4人でやりたいなって。"
+            },
             "voice": "card/Card_01/Card_4010015_3/card_4010015_3_018.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "文化祭後の片付け、みたいな？\n意外とそっちのほうが盛り上がったりするよね。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "文化祭後の片付け、みたいな？\n意外とそっちのほうが盛り上がったりするよね。"
+            },
             "voice": "card/Card_01/Card_4010015_3/card_4010015_3_019.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "ふふっ。\nでもそれ、ちょっとわかるかも。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "ふふっ。\nでもそれ、ちょっとわかるかも。"
+            },
             "voice": "card/Card_01/Card_4010015_3/card_4010015_3_020.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "えへへへ。\nまたみんなでこういう事やりたいね。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "えへへへ。\nまたみんなでこういう事やりたいね。"
+            },
             "voice": "card/Card_01/Card_4010015_3/card_4010015_3_021.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "そうだ、この後プチ打ち上げとかする？\nオススメの紅茶あるんだけど。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "そうだ、この後プチ打ち上げとかする？\nオススメの紅茶あるんだけど。"
+            },
             "voice": "card/Card_01/Card_4010015_3/card_4010015_3_022.mp3"
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "いいわね。\nお腹もいっぱいだし、お茶にしましょ。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "いいわね。\nお腹もいっぱいだし、お茶にしましょ。"
+            },
             "voice": "card/Card_01/Card_4010015_3/card_4010015_3_023.mp3"
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "私も。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "私も。"
+            },
             "voice": "card/Card_01/Card_4010015_3/card_4010015_3_024.mp3"
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "オッケー！\nじゃ、終わったら陽菜の部屋集合ね！",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "オッケー！\nじゃ、終わったら陽菜の部屋集合ね！"
+            },
             "voice": "card/Card_01/Card_4010015_3/card_4010015_3_025.mp3"
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "うん！",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "うん！"
+            },
             "voice": "card/Card_01/Card_4010015_3/card_4010015_3_026.mp3"
         }
     ]

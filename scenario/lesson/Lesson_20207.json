@@ -6,8 +6,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "いやです。お断りします。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "いやです。お断りします。"
+            },
             "voice": "lesson/Lesson_20207/lesson_20207_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そこをなんとか！　頼むよ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そこをなんとか！　頼むよ。"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "なんども言ったはずです、\n私そういうのNGなんです。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "なんども言ったはずです、\n私そういうのNGなんです。"
+            },
             "voice": "lesson/Lesson_20207/lesson_20207_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "うん、それは重々承知の上なんだけどね。\nでもどうしても欲しいんだよ、なんとか……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "うん、それは重々承知の上なんだけどね。\nでもどうしても欲しいんだよ、なんとか……。"
+            },
             "voice": ""
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "無理です。真咲さんにもそう伝えて下さい。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "無理です。真咲さんにもそう伝えて下さい。"
+            },
             "voice": "lesson/Lesson_20207/lesson_20207_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "1枚、1枚でいいんだけども……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "1枚、1枚でいいんだけども……。"
+            },
             "voice": ""
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "そこまでして撮る必要ってあるんですか？",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "そこまでして撮る必要ってあるんですか？"
+            },
             "voice": "lesson/Lesson_20207/lesson_20207_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "ある！　あるとエールブルーの皆が思ってる。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "ある！　あるとエールブルーの皆が思ってる。"
+            },
             "voice": ""
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "なに話してるんすか？",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "なに話してるんすか？"
+            },
             "voice": "lesson/Lesson_20207/lesson_20207_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "うん、ちょっとね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "うん、ちょっとね。"
+            },
             "voice": ""
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "外で鳴の宣材写真を撮りたいんだけど、\n中々うんと言ってくれなくて。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "外で鳴の宣材写真を撮りたいんだけど、\n中々うんと言ってくれなくて。"
+            },
             "voice": ""
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "宣材写真？　なんでそんな嫌がる必要あるの？",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "宣材写真？　なんでそんな嫌がる必要あるの？"
+            },
             "voice": "lesson/Lesson_20207/lesson_20207_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "私、日光NGなんです。\n基本的に屋外の撮影は断ってるんです。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "私、日光NGなんです。\n基本的に屋外の撮影は断ってるんです。"
+            },
             "voice": "lesson/Lesson_20207/lesson_20207_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "1枚だけで良いんだけども……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "1枚だけで良いんだけども……。"
+            },
             "voice": ""
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "窓の外を見て下さい。凶悪な日光が降り注いでいます……。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "窓の外を見て下さい。凶悪な日光が降り注いでいます……。"
+            },
             "voice": "lesson/Lesson_20207/lesson_20207_015.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "今日みたいな日に外に出たら、一瞬で丸焼きになります。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "今日みたいな日に外に出たら、一瞬で丸焼きになります。"
+            },
             "voice": "lesson/Lesson_20207/lesson_20207_016.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "ならないでしょ、太陽を恐れすぎだよ。\n明るい日差しの下にいる鳴の写真、撮らせてくれないかな？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "ならないでしょ、太陽を恐れすぎだよ。\n明るい日差しの下にいる鳴の写真、撮らせてくれないかな？"
+            },
             "voice": ""
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "日焼け止めたくさん塗ってみたら？",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "日焼け止めたくさん塗ってみたら？"
+            },
             "voice": "lesson/Lesson_20207/lesson_20207_018.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "それだけじゃ心もとないです。\n一瞬でコゲてしまいます。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "それだけじゃ心もとないです。\n一瞬でコゲてしまいます。"
+            },
             "voice": "lesson/Lesson_20207/lesson_20207_019.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "一瞬じゃならないでしょ……。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "一瞬じゃならないでしょ……。"
+            },
             "voice": "lesson/Lesson_20207/lesson_20207_020.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "じゃあ……、日傘持っても良いですか？",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "じゃあ……、日傘持っても良いですか？"
+            },
             "voice": "lesson/Lesson_20207/lesson_20207_021.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "いいよ、可愛ければ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "いいよ、可愛ければ。"
+            },
             "voice": ""
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "それは大丈夫です。あと、他の日焼け対策もいいですか？\n私の持ってる日焼け対策グッズを全部使っていいなら……、行きます。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "それは大丈夫です。あと、他の日焼け対策もいいですか？\n私の持ってる日焼け対策グッズを全部使っていいなら……、行きます。"
+            },
             "voice": "lesson/Lesson_20207/lesson_20207_023.mp3"
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "いいよいいよ！　外で撮らせてくれるなら！",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "いいよいいよ！　外で撮らせてくれるなら！"
+            },
             "voice": ""
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "じゃあ……。わかりました。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "じゃあ……。わかりました。"
+            },
             "voice": "lesson/Lesson_20207/lesson_20207_025.mp3"
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "撮らせてくれるの？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "撮らせてくれるの？"
+            },
             "voice": ""
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "今から日焼け対策グッズを全部持って来ます。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "今から日焼け対策グッズを全部持って来ます。"
+            },
             "voice": "lesson/Lesson_20207/lesson_20207_027.mp3"
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "良かったっすね～。\nじゃあ、マネージャー後は頑張ってください！",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "良かったっすね～。\nじゃあ、マネージャー後は頑張ってください！"
+            },
             "voice": "lesson/Lesson_20207/lesson_20207_028.mp3"
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "うん、頑張るよ！",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "うん、頑張るよ！"
+            },
             "voice": ""
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "お待たせしました。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "お待たせしました。"
+            },
             "voice": "lesson/Lesson_20207/lesson_20207_030.mp3"
         },
         {
@@ -276,8 +396,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "どんなのを持ってきたの……。なにこれ！？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "どんなのを持ってきたの……。なにこれ！？"
+            },
             "voice": ""
         }
     ]

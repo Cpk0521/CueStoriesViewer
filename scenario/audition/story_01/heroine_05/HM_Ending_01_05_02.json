@@ -6,8 +6,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "マネージャー！　オーディション通ったよ！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "マネージャー！　オーディション通ったよ！"
+            },
             "voice": "audition/story_01/heroine_05/HM_Ending_01_05_02/hm_ending_01_05_02_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "これもあたしの努力と、\nマネージャーのサポートのおかげってことかな。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "これもあたしの努力と、\nマネージャーのサポートのおかげってことかな。"
+            },
             "voice": "audition/story_01/heroine_05/HM_Ending_01_05_02/hm_ending_01_05_02_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "悠希、頑張ったね。\n合格祝いでもする？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "悠希、頑張ったね。\n合格祝いでもする？"
+            },
             "voice": ""
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "ううん、\nまだここはあたしにとってゴールじゃないから。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "ううん、\nまだここはあたしにとってゴールじゃないから。"
+            },
             "voice": "audition/story_01/heroine_05/HM_Ending_01_05_02/hm_ending_01_05_02_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "これだけで満足する天童悠希じゃないよ！\nもっと先に、前に進んでかないと！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "これだけで満足する天童悠希じゃないよ！\nもっと先に、前に進んでかないと！"
+            },
             "voice": "audition/story_01/heroine_05/HM_Ending_01_05_02/hm_ending_01_05_02_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "うん。そうだね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "うん。そうだね。"
+            },
             "voice": ""
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "そうとわかれば、まだまだ行くよ！\n貰った資料、早速頭に叩き込んでくる！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "そうとわかれば、まだまだ行くよ！\n貰った資料、早速頭に叩き込んでくる！"
+            },
             "voice": "audition/story_01/heroine_05/HM_Ending_01_05_02/hm_ending_01_05_02_007.mp3"
         }
     ]

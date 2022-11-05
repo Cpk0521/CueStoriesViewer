@@ -6,8 +6,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "ね、まほろ。絢なんだけどさ、\n最近、妙にスマホいじってる時間が増えた気がするんだけど。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "ね、まほろ。絢なんだけどさ、\n最近、妙にスマホいじってる時間が増えた気がするんだけど。"
+            },
             "voice": "lesson/Lesson_30810/lesson_30810_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "そう？",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "そう？"
+            },
             "voice": "lesson/Lesson_30810/lesson_30810_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "それも、ただ見てるって言うよりも、\n何か入力してるっていうか、何かを書いてる感じなんだよね。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "それも、ただ見てるって言うよりも、\n何か入力してるっていうか、何かを書いてる感じなんだよね。"
+            },
             "voice": "lesson/Lesson_30810/lesson_30810_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "ふーん。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "ふーん。"
+            },
             "voice": "lesson/Lesson_30810/lesson_30810_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "あれかな？　まほろに影響されてSNSにハマったとかかな？",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "あれかな？　まほろに影響されてSNSにハマったとかかな？"
+            },
             "voice": "lesson/Lesson_30810/lesson_30810_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "さぁね。\nっていうか、別にSNSにハマってたっていいでしょ。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "さぁね。\nっていうか、別にSNSにハマってたっていいでしょ。"
+            },
             "voice": "lesson/Lesson_30810/lesson_30810_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "いや、いいんだけどさ、なんか絢が自撮りしたりしてるのとか、\nちょっと想像つかないなって思って。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "いや、いいんだけどさ、なんか絢が自撮りしたりしてるのとか、\nちょっと想像つかないなって思って。"
+            },
             "voice": "lesson/Lesson_30810/lesson_30810_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "まほろみたいにならないか、お姉さんは心配だよ。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "まほろみたいにならないか、お姉さんは心配だよ。"
+            },
             "voice": "lesson/Lesson_30810/lesson_30810_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "何よそれ、どういう意味？",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "何よそれ、どういう意味？"
+            },
             "voice": "lesson/Lesson_30810/lesson_30810_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "いやいや、絢がまほろみたいになるなんてちょっと心配でしょ。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "いやいや、絢がまほろみたいになるなんてちょっと心配でしょ。"
+            },
             "voice": "lesson/Lesson_30810/lesson_30810_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "だから、その前提が失礼だって言ってるんだけど。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "だから、その前提が失礼だって言ってるんだけど。"
+            },
             "voice": "lesson/Lesson_30810/lesson_30810_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "それに絢だって自分の世界ってのがあるんだから、\nあんまり首突っ込むのやめなさいよ。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "それに絢だって自分の世界ってのがあるんだから、\nあんまり首突っ込むのやめなさいよ。"
+            },
             "voice": "lesson/Lesson_30810/lesson_30810_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "わかってるって。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "わかってるって。"
+            },
             "voice": "lesson/Lesson_30810/lesson_30810_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "でもほら、SNSとかだったらさ、\n今の御時世、色々心配じゃん？",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "でもほら、SNSとかだったらさ、\n今の御時世、色々心配じゃん？"
+            },
             "voice": "lesson/Lesson_30810/lesson_30810_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "なんかさ、あんたも美晴も、妙に絢を子ども扱いするけど、\n絢だって大人なんだから大丈夫でしょ。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "なんかさ、あんたも美晴も、妙に絢を子ども扱いするけど、\n絢だって大人なんだから大丈夫でしょ。"
+            },
             "voice": "lesson/Lesson_30810/lesson_30810_015.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "それ、まほろが言う？",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "それ、まほろが言う？"
+            },
             "voice": "lesson/Lesson_30810/lesson_30810_016.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "はぁ？　まほろは別に絢を子ども扱いなんかしてないけど。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "はぁ？　まほろは別に絢を子ども扱いなんかしてないけど。"
+            },
             "voice": "lesson/Lesson_30810/lesson_30810_017.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "まほろは周りのことはよく見えてるのに、\n自分のこととなると全然だよね。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "まほろは周りのことはよく見えてるのに、\n自分のこととなると全然だよね。"
+            },
             "voice": "lesson/Lesson_30810/lesson_30810_018.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "どういう意味よ。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "どういう意味よ。"
+            },
             "voice": "lesson/Lesson_30810/lesson_30810_019.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "あはは。あたし、ちょっと絢のとこ行ってくるねー。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "あはは。あたし、ちょっと絢のとこ行ってくるねー。"
+            },
             "voice": "lesson/Lesson_30810/lesson_30810_020.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "ちょっと、莉子、こら、待て。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "ちょっと、莉子、こら、待て。"
+            },
             "voice": "lesson/Lesson_30810/lesson_30810_021.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "それじゃあねー。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "それじゃあねー。"
+            },
             "voice": "lesson/Lesson_30810/lesson_30810_022.mp3"
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "おーい、絢―。　",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "おーい、絢―。　"
+            },
             "voice": "lesson/Lesson_30810/lesson_30810_023.mp3"
         }
     ]

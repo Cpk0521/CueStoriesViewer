@@ -6,8 +6,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "失礼しまーす。　",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "失礼しまーす。　"
+            },
             "voice": "card/Card_01/Card_4010010_3/card_4010010_3_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "お邪魔します。　",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "お邪魔します。　"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "やっぱり誰もいないね……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "やっぱり誰もいないね……。"
+            },
             "voice": ""
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "そうですね。　",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "そうですね。　"
+            },
             "voice": "card/Card_01/Card_4010010_3/card_4010010_3_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "3年生がいなくなってから、新年度が始まるまでのほんの数週間……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "3年生がいなくなってから、新年度が始まるまでのほんの数週間……。"
+            },
             "voice": ""
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "ここは、つまり……、主が不在の教室ってわけだね。　",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "ここは、つまり……、主が不在の教室ってわけだね。　"
+            },
             "voice": ""
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "そう言われると、少し寂しい気がしますね。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "そう言われると、少し寂しい気がしますね。"
+            },
             "voice": "card/Card_01/Card_4010010_3/card_4010010_3_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "うん。そうだね。　",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "うん。そうだね。　"
+            },
             "voice": ""
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "ほら、マネージャーさん。見てください。　",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "ほら、マネージャーさん。見てください。　"
+            },
             "voice": "card/Card_01/Card_4010010_3/card_4010010_3_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "黒板いっぱいに、先輩たちのメッセージ。　",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "黒板いっぱいに、先輩たちのメッセージ。　"
+            },
             "voice": "card/Card_01/Card_4010010_3/card_4010010_3_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "あはは、こういうのっていつの時代もずっと変わんないんだね。　",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "あはは、こういうのっていつの時代もずっと変わんないんだね。　"
+            },
             "voice": ""
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "このメッセージって……。\n誰に向けて残されたもの……、なんでしょうか？",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "このメッセージって……。\n誰に向けて残されたもの……、なんでしょうか？"
+            },
             "voice": "card/Card_01/Card_4010010_3/card_4010010_3_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "わたしたち在校生……？　それとも、自分たち……？",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "わたしたち在校生……？　それとも、自分たち……？"
+            },
             "voice": "card/Card_01/Card_4010010_3/card_4010010_3_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "大体こういうのは、卒業していく自分たち向けだと思うけど。　",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "大体こういうのは、卒業していく自分たち向けだと思うけど。　"
+            },
             "voice": ""
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "そうなんですね。　",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "そうなんですね。　"
+            },
             "voice": "card/Card_01/Card_4010010_3/card_4010010_3_015.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "……。 　",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "……。 　"
+            },
             "voice": "card/Card_01/Card_4010010_3/card_4010010_3_016.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "新学期までには、きっとこの黒板も綺麗になって。　",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "新学期までには、きっとこの黒板も綺麗になって。　"
+            },
             "voice": "card/Card_01/Card_4010010_3/card_4010010_3_017.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "何事もなかったかのように、消えてなくなって。　",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "何事もなかったかのように、消えてなくなって。　"
+            },
             "voice": "card/Card_01/Card_4010010_3/card_4010010_3_018.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "誰も使うことのない教室に残されるメッセージ。\n消されるまで、少しの間の……。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "誰も使うことのない教室に残されるメッセージ。\n消されるまで、少しの間の……。"
+            },
             "voice": "card/Card_01/Card_4010010_3/card_4010010_3_019.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "そこに……、どんな想いが込められてるのかな……。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "そこに……、どんな想いが込められてるのかな……。"
+            },
             "voice": "card/Card_01/Card_4010010_3/card_4010010_3_020.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "うーん。どんなだろう……。　",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "うーん。どんなだろう……。　"
+            },
             "voice": ""
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "マネージャーさんは、どんな気持ちでした？\n卒業する時。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "マネージャーさんは、どんな気持ちでした？\n卒業する時。"
+            },
             "voice": "card/Card_01/Card_4010010_3/card_4010010_3_022.mp3"
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "さて……。どんな気持ちだったかなあ……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "さて……。どんな気持ちだったかなあ……。"
+            },
             "voice": ""
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "忘れちゃったんですか？　",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "忘れちゃったんですか？　"
+            },
             "voice": "card/Card_01/Card_4010010_3/card_4010010_3_024.mp3"
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そうかも。　",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そうかも。　"
+            },
             "voice": ""
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "ふふっ。　",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "ふふっ。　"
+            },
             "voice": "card/Card_01/Card_4010010_3/card_4010010_3_026.mp3"
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "あれ？　",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "あれ？　"
+            },
             "voice": "card/Card_01/Card_4010010_3/card_4010010_3_027.mp3"
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "日直のところ……、名前残ってますね。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "日直のところ……、名前残ってますね。"
+            },
             "voice": "card/Card_01/Card_4010010_3/card_4010010_3_028.mp3"
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "本当だ。岡崎さんと古河さん、最後の日直だったのかな？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "本当だ。岡崎さんと古河さん、最後の日直だったのかな？"
+            },
             "voice": ""
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "卒業式の日まで、日直ってこともないでしょうから。\nもしかしてこれも……、メッセージだったのかも。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "卒業式の日まで、日直ってこともないでしょうから。\nもしかしてこれも……、メッセージだったのかも。"
+            },
             "voice": "card/Card_01/Card_4010010_3/card_4010010_3_030.mp3"
         },
         {
@@ -276,8 +396,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "ん？　というと？　",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "ん？　というと？　"
+            },
             "voice": ""
         },
         {
@@ -285,8 +409,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "例えば……、本当は違うクラスだったのに、\n一緒のクラスだったかのような些細な夢を、",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "例えば……、本当は違うクラスだったのに、\n一緒のクラスだったかのような些細な夢を、"
+            },
             "voice": "card/Card_01/Card_4010010_3/card_4010010_3_032.mp3"
         },
         {
@@ -294,8 +422,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "最後に少し……、残したかったのかな、なんて。　",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "最後に少し……、残したかったのかな、なんて。　"
+            },
             "voice": "card/Card_01/Card_4010010_3/card_4010010_3_033.mp3"
         },
         {
@@ -303,8 +435,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "陽菜、なかなかロマンチストだね。　",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "陽菜、なかなかロマンチストだね。　"
+            },
             "voice": ""
         },
         {
@@ -312,8 +448,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "ふふっ。本当のところはわかりませんけど。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "ふふっ。本当のところはわかりませんけど。"
+            },
             "voice": "card/Card_01/Card_4010010_3/card_4010010_3_035.mp3"
         },
         {
@@ -321,8 +461,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "わたしは何を残すんだろう……。\nあと1年で、何か、残したいことが出来るかな？",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "わたしは何を残すんだろう……。\nあと1年で、何か、残したいことが出来るかな？"
+            },
             "voice": "card/Card_01/Card_4010010_3/card_4010010_3_036.mp3"
         },
         {
@@ -330,8 +474,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "……。 　",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "……。 　"
+            },
             "voice": "card/Card_01/Card_4010010_3/card_4010010_3_037.mp3"
         },
         {
@@ -339,8 +487,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "あの、マネージャーさん。　",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "あの、マネージャーさん。　"
+            },
             "voice": "card/Card_01/Card_4010010_3/card_4010010_3_038.mp3"
         },
         {
@@ -348,8 +500,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "何？　",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "何？　"
+            },
             "voice": ""
         },
         {
@@ -357,8 +513,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "あの、わたし小学生の頃……。\n学校に行けなくなったことがありました。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "あの、わたし小学生の頃……。\n学校に行けなくなったことがありました。"
+            },
             "voice": "card/Card_01/Card_4010010_3/card_4010010_3_040.mp3"
         },
         {
@@ -366,8 +526,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "うん、聞いてるよ。　",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "うん、聞いてるよ。　"
+            },
             "voice": ""
         },
         {
@@ -375,8 +539,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "でも、あのアニメと出会って、勇気をもらった。\n憧れの人が演じるキャラクターに……、ね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "でも、あのアニメと出会って、勇気をもらった。\n憧れの人が演じるキャラクターに……、ね。"
+            },
             "voice": ""
         },
         {
@@ -384,8 +552,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "はい。　",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "はい。　"
+            },
             "voice": "card/Card_01/Card_4010010_3/card_4010010_3_043.mp3"
         },
         {
@@ -393,8 +565,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "だけど、やっぱりわたし、人より少し学校生活は得意じゃなくて……。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "だけど、やっぱりわたし、人より少し学校生活は得意じゃなくて……。"
+            },
             "voice": "card/Card_01/Card_4010010_3/card_4010010_3_044.mp3"
         },
         {
@@ -402,8 +578,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "でも……。それでも、今、\nみんなと同じように高校生をしていられるのは……。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "でも……。それでも、今、\nみんなと同じように高校生をしていられるのは……。"
+            },
             "voice": "card/Card_01/Card_4010010_3/card_4010010_3_045.mp3"
         },
         {
@@ -411,8 +591,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "うん。　",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "うん。　"
+            },
             "voice": ""
         },
         {
@@ -420,8 +604,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "それは、きっと、他の居場所が出来たからかもって思うんです。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "それは、きっと、他の居場所が出来たからかもって思うんです。"
+            },
             "voice": "card/Card_01/Card_4010010_3/card_4010010_3_047.mp3"
         },
         {
@@ -429,8 +617,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "舞花ちゃんや志穂ちゃん、ほのかちゃん……。\n他にも、エールブルーのみんな。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "舞花ちゃんや志穂ちゃん、ほのかちゃん……。\n他にも、エールブルーのみんな。"
+            },
             "voice": "card/Card_01/Card_4010010_3/card_4010010_3_048.mp3"
         },
         {
@@ -438,8 +630,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "後、真咲さんや桐香先生、りおさん。　",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "後、真咲さんや桐香先生、りおさん。　"
+            },
             "voice": "card/Card_01/Card_4010010_3/card_4010010_3_049.mp3"
         },
         {
@@ -447,8 +643,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "そして、マネージャーさん。　",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "そして、マネージャーさん。　"
+            },
             "voice": "card/Card_01/Card_4010010_3/card_4010010_3_050.mp3"
         },
         {
@@ -456,8 +656,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "みんながいてくれるから、\nわたしは今、ここにこうしていられます。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "みんながいてくれるから、\nわたしは今、ここにこうしていられます。"
+            },
             "voice": "card/Card_01/Card_4010010_3/card_4010010_3_051.mp3"
         },
         {
@@ -465,8 +669,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "風……。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "風……。"
+            },
             "voice": "card/Card_01/Card_4010010_3/card_4010010_3_052.mp3"
         },
         {
@@ -474,8 +682,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "春の便り……、かな。　",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "春の便り……、かな。　"
+            },
             "voice": ""
         },
         {
@@ -483,8 +695,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "桜の花びら……。\n風に乗って……、中に……。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "桜の花びら……。\n風に乗って……、中に……。"
+            },
             "voice": "card/Card_01/Card_4010010_3/card_4010010_3_054.mp3"
         },
         {
@@ -492,8 +708,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "本当だね。　",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "本当だね。　"
+            },
             "voice": ""
         },
         {
@@ -501,8 +721,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "ふふ。　",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "ふふ。　"
+            },
             "voice": "card/Card_01/Card_4010010_3/card_4010010_3_056.mp3"
         },
         {
@@ -510,8 +734,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "マネージャーさん、頭のうしろに……、花びら。　",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "マネージャーさん、頭のうしろに……、花びら。　"
+            },
             "voice": "card/Card_01/Card_4010010_3/card_4010010_3_057.mp3"
         },
         {
@@ -519,8 +747,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "え？　ほんと？　　",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "え？　ほんと？　　"
+            },
             "voice": ""
         },
         {
@@ -528,8 +760,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "取ってあげますね……。\nほら。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "取ってあげますね……。\nほら。"
+            },
             "voice": "card/Card_01/Card_4010010_3/card_4010010_3_059.mp3"
         },
         {
@@ -537,8 +773,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そんなこと言ってる陽菜も、髪についてるよ。　",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そんなこと言ってる陽菜も、髪についてるよ。　"
+            },
             "voice": ""
         },
         {
@@ -546,8 +786,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "え？　",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "え？　"
+            },
             "voice": "card/Card_01/Card_4010010_3/card_4010010_3_061.mp3"
         },
         {
@@ -555,8 +799,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "ほら。　",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "ほら。　"
+            },
             "voice": ""
         },
         {
@@ -564,8 +812,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "ふふ。　",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "ふふ。　"
+            },
             "voice": "card/Card_01/Card_4010010_3/card_4010010_3_063.mp3"
         },
         {
@@ -573,8 +825,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "桜の花びら、髪についたままでも可愛かったと思うけど。　",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "桜の花びら、髪についたままでも可愛かったと思うけど。　"
+            },
             "voice": ""
         },
         {
@@ -582,8 +838,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "え？　もう。からかわないでください。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "え？　もう。からかわないでください。"
+            },
             "voice": "card/Card_01/Card_4010010_3/card_4010010_3_065.mp3"
         },
         {
@@ -591,8 +851,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "……あの、マネージャーさん。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "……あの、マネージャーさん。"
+            },
             "voice": "card/Card_01/Card_4010010_3/card_4010010_3_066.mp3"
         },
         {
@@ -600,8 +864,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "わたしが、今こうしていられることが奇跡なのだとしたら……。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "わたしが、今こうしていられることが奇跡なのだとしたら……。"
+            },
             "voice": "card/Card_01/Card_4010010_3/card_4010010_3_067.mp3"
         },
         {
@@ -609,8 +877,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "え？　そんな、おおげさな。\n奇跡なんかじゃないと思うよ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "え？　そんな、おおげさな。\n奇跡なんかじゃないと思うよ。"
+            },
             "voice": ""
         },
         {
@@ -618,8 +890,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "ふふ。奇跡でもなんでも。\nただ…、ありがとうございますって、そう言いたいんです。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "ふふ。奇跡でもなんでも。\nただ…、ありがとうございますって、そう言いたいんです。"
+            },
             "voice": "card/Card_01/Card_4010010_3/card_4010010_3_069.mp3"
         },
         {
@@ -627,8 +903,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "今だからこそ……。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "今だからこそ……。"
+            },
             "voice": "card/Card_01/Card_4010010_3/card_4010010_3_070.mp3"
         },
         {
@@ -636,8 +916,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "マネージャーさん、ありがとうございます！　",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "マネージャーさん、ありがとうございます！　"
+            },
             "voice": "card/Card_01/Card_4010010_3/card_4010010_3_071.mp3"
         }
     ]

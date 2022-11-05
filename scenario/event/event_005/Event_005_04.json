@@ -6,8 +6,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "皆おはよう！　\n今日もよろしくね！",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "皆おはよう！　\n今日もよろしくね！"
+            },
             "voice": ""
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "ふああ、眠い。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "ふああ、眠い。"
+            },
             "voice": "event/Event_005/Event_005_04/event_005_04_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "はい、これ、進行台本。\nそれほど長くは撮らないけど、軽く目を通しておいてね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "はい、これ、進行台本。\nそれほど長くは撮らないけど、軽く目を通しておいてね。"
+            },
             "voice": ""
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "撮影許可貰えたから、まずはこちらのホテルのフロントで、\nオープニングを撮りたいと思います。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "撮影許可貰えたから、まずはこちらのホテルのフロントで、\nオープニングを撮りたいと思います。"
+            },
             "voice": ""
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "はい。頑張ります！",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "はい。頑張ります！"
+            },
             "voice": "event/Event_005/Event_005_04/event_005_04_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "まったく、落ち着いて台本読む時間もないわ。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "まったく、落ち着いて台本読む時間もないわ。"
+            },
             "voice": "event/Event_005/Event_005_04/event_005_04_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "簡単な進行台本とはいえ、ちゃんと頭に入れとかないとね……。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "簡単な進行台本とはいえ、ちゃんと頭に入れとかないとね……。"
+            },
             "voice": "event/Event_005/Event_005_04/event_005_04_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "うふふ。立派な心がけ。莉子は偉いね。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "うふふ。立派な心がけ。莉子は偉いね。"
+            },
             "voice": "event/Event_005/Event_005_04/event_005_04_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "じゃあ、自分は技術スタッフさんたちとの打ち合わせに参加してきますので。\nあ、メイクさん来た！　よろしくお願いしまーす！",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "じゃあ、自分は技術スタッフさんたちとの打ち合わせに参加してきますので。\nあ、メイクさん来た！　よろしくお願いしまーす！"
+            },
             "voice": ""
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "ずっとバタバタしてて、なんだか落ち着かない……。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "ずっとバタバタしてて、なんだか落ち着かない……。"
+            },
             "voice": "event/Event_005/Event_005_04/event_005_04_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "台本も大事だけど、今日1日のスケジュールが知りたくない？\nこのロケ、香盤表もないの？",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "台本も大事だけど、今日1日のスケジュールが知りたくない？\nこのロケ、香盤表もないの？"
+            },
             "voice": "event/Event_005/Event_005_04/event_005_04_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "……。\nあれ？",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "……。\nあれ？"
+            },
             "voice": "event/Event_005/Event_005_04/event_005_04_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "どうしたの莉子？",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "どうしたの莉子？"
+            },
             "voice": "event/Event_005/Event_005_04/event_005_04_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "あの人……、昨日……。\n新幹線の斜め前の席の……、あたしがぶつかっちゃった人だ。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "あの人……、昨日……。\n新幹線の斜め前の席の……、あたしがぶつかっちゃった人だ。"
+            },
             "voice": "event/Event_005/Event_005_04/event_005_04_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "あの人もスタッフの1人だったのかな……。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "あの人もスタッフの1人だったのかな……。"
+            },
             "voice": "event/Event_005/Event_005_04/event_005_04_015.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "そうなの？　\nでも……、それじゃあ、何で1人だけ……？",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "そうなの？　\nでも……、それじゃあ、何で1人だけ……？"
+            },
             "voice": "event/Event_005/Event_005_04/event_005_04_016.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "それに……、\nやっぱり、今日のスタッフさんだったんだ。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "それに……、\nやっぱり、今日のスタッフさんだったんだ。"
+            },
             "voice": "event/Event_005/Event_005_04/event_005_04_017.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "昨日マネージャーと一緒に新幹線に乗ってた人たち……。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "昨日マネージャーと一緒に新幹線に乗ってた人たち……。"
+            },
             "voice": "event/Event_005/Event_005_04/event_005_04_018.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "……。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "……。"
+            },
             "voice": "event/Event_005/Event_005_04/event_005_04_019.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "じゃあ、本番いこうか。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "じゃあ、本番いこうか。"
+            },
             "voice": ""
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "はーい。みんな、いい表情してね！",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "はーい。みんな、いい表情してね！"
+            },
             "voice": "event/Event_005/Event_005_04/event_005_04_021.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "オープニングだから、明るく元気な感じでお願いね！　\nじゃ、ディレクターさん、後はよろしくお願いします！",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "オープニングだから、明るく元気な感じでお願いね！　\nじゃ、ディレクターさん、後はよろしくお願いします！"
+            },
             "voice": ""
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "あれ？　ディレクターさん……、\n昨日と違う人なんですか？",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "あれ？　ディレクターさん……、\n昨日と違う人なんですか？"
+            },
             "voice": "event/Event_005/Event_005_04/event_005_04_023.mp3"
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "え？　あ、えーっと……。\n番組のディレクターさんは途中で交代したりとかよくあるから……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "え？　あ、えーっと……。\n番組のディレクターさんは途中で交代したりとかよくあるから……。"
+            },
             "voice": ""
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "ふーん……。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "ふーん……。"
+            },
             "voice": "event/Event_005/Event_005_04/event_005_04_025.mp3"
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "はい、今回も始まりました。アニメ「トッケン」出演声優による、\n全国ミステリースポット巡り「ミステリーTUBE」！",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "はい、今回も始まりました。アニメ「トッケン」出演声優による、\n全国ミステリースポット巡り「ミステリーTUBE」！"
+            },
             "voice": "event/Event_005/Event_005_04/event_005_04_026.mp3"
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "MCは私、劇中ではカオリ役の日名倉莉子。\nそして？",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "MCは私、劇中ではカオリ役の日名倉莉子。\nそして？"
+            },
             "voice": "event/Event_005/Event_005_04/event_005_04_027.mp3"
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "サチ役の夜峰美晴です。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "サチ役の夜峰美晴です。"
+            },
             "voice": "event/Event_005/Event_005_04/event_005_04_028.mp3"
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "タオ役の神室絢と。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "タオ役の神室絢と。"
+            },
             "voice": "event/Event_005/Event_005_04/event_005_04_029.mp3"
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "はい、主人公のアカネを演じる、\n私、宮路まほろの4人で、お届けいたします！",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "はい、主人公のアカネを演じる、\n私、宮路まほろの4人で、お届けいたします！"
+            },
             "voice": "event/Event_005/Event_005_04/event_005_04_030.mp3"
         },
         {
@@ -276,8 +396,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "今日はですね、前回お伝えしたように、なんと青森に来ています！",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "今日はですね、前回お伝えしたように、なんと青森に来ています！"
+            },
             "voice": "event/Event_005/Event_005_04/event_005_04_031.mp3"
         },
         {
@@ -285,8 +409,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "青森だよ！　どう思うみんな？",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "青森だよ！　どう思うみんな？"
+            },
             "voice": "event/Event_005/Event_005_04/event_005_04_032.mp3"
         },
         {
@@ -294,8 +422,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "私、青森は初めて。\nやっぱり寒いかな。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "私、青森は初めて。\nやっぱり寒いかな。"
+            },
             "voice": "event/Event_005/Event_005_04/event_005_04_033.mp3"
         },
         {
@@ -303,8 +435,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "でも、新幹線の移動とか楽しかったよねー！",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "でも、新幹線の移動とか楽しかったよねー！"
+            },
             "voice": "event/Event_005/Event_005_04/event_005_04_034.mp3"
         },
         {
@@ -312,8 +448,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "ふふっ。\n楽しかったとか言って、ずっと寝てたの誰だったかなー？",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "ふふっ。\n楽しかったとか言って、ずっと寝てたの誰だったかなー？"
+            },
             "voice": "event/Event_005/Event_005_04/event_005_04_035.mp3"
         },
         {
@@ -321,8 +461,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "もう、言わないでよー。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "もう、言わないでよー。"
+            },
             "voice": "event/Event_005/Event_005_04/event_005_04_036.mp3"
         },
         {
@@ -330,8 +474,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "美晴の寝顔、すごくかわいかったよ！　\n写真撮ればよかったなぁ～。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "美晴の寝顔、すごくかわいかったよ！　\n写真撮ればよかったなぁ～。"
+            },
             "voice": "event/Event_005/Event_005_04/event_005_04_037.mp3"
         },
         {
@@ -339,8 +487,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "あ、私、撮ってるよ。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "あ、私、撮ってるよ。"
+            },
             "voice": "event/Event_005/Event_005_04/event_005_04_038.mp3"
         },
         {
@@ -348,8 +500,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "え？　見せて見せて？",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "え？　見せて見せて？"
+            },
             "voice": "event/Event_005/Event_005_04/event_005_04_039.mp3"
         },
         {
@@ -357,8 +513,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "やだー。絢、いつの間に？　",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "やだー。絢、いつの間に？　"
+            },
             "voice": "event/Event_005/Event_005_04/event_005_04_040.mp3"
         },
         {
@@ -366,8 +526,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "って寝てる間に決まってるわよね。\nうふふ。やだ、もう。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "って寝てる間に決まってるわよね。\nうふふ。やだ、もう。"
+            },
             "voice": "event/Event_005/Event_005_04/event_005_04_041.mp3"
         },
         {
@@ -375,8 +539,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "はい、というわけで、今回もこの4人でお送りいたします！",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "はい、というわけで、今回もこの4人でお送りいたします！"
+            },
             "voice": "event/Event_005/Event_005_04/event_005_04_042.mp3"
         },
         {
@@ -384,8 +552,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "カット！　ごめんなさい。皆さん、一旦カットです！",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "カット！　ごめんなさい。皆さん、一旦カットです！"
+            },
             "voice": ""
         },
         {
@@ -393,8 +565,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "え？　何で？　あたし、何かまずかったです？",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "え？　何で？　あたし、何かまずかったです？"
+            },
             "voice": "event/Event_005/Event_005_04/event_005_04_044.mp3"
         },
         {
@@ -402,8 +578,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "いや、そういうわけじゃないんだけど……。\nどうもカメラの調子が悪いみたいで……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "いや、そういうわけじゃないんだけど……。\nどうもカメラの調子が悪いみたいで……。"
+            },
             "voice": ""
         },
         {
@@ -411,8 +591,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "どういうこと？",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "どういうこと？"
+            },
             "voice": "event/Event_005/Event_005_04/event_005_04_046.mp3"
         },
         {
@@ -420,8 +604,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "いや、何と言うか……。\nスタッフさんもこんなはずないって言ってるんだけど……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "いや、何と言うか……。\nスタッフさんもこんなはずないって言ってるんだけど……。"
+            },
             "voice": ""
         },
         {
@@ -429,8 +617,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "うーん、おかしいな……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "うーん、おかしいな……。"
+            },
             "voice": ""
         },
         {
@@ -438,8 +630,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "え？　何？\nどうしたんですか……？",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "え？　何？\nどうしたんですか……？"
+            },
             "voice": "event/Event_005/Event_005_04/event_005_04_049.mp3"
         },
         {
@@ -447,8 +643,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "それが……、音と……、画がね……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "それが……、音と……、画がね……。"
+            },
             "voice": ""
         },
         {
@@ -456,8 +656,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "音と……、画が……？",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "音と……、画が……？"
+            },
             "voice": "event/Event_005/Event_005_04/event_005_04_051.mp3"
         },
         {
@@ -465,8 +669,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "うん。音と画が……。\n異常……、なんだよ……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "うん。音と画が……。\n異常……、なんだよ……。"
+            },
             "voice": ""
         }
     ]

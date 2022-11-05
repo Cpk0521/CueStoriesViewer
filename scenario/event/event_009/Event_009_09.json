@@ -6,8 +6,12 @@
             "heroineId": [
                 0
             ],
-            "name": "エリカ",
-            "message": "「遺跡に着いた……、\nが、本当にここにいるだろうか？」",
+            "name": {
+                "default": "エリカ"
+            },
+            "message": {
+                "default": "「遺跡に着いた……、\nが、本当にここにいるだろうか？」"
+            },
             "voice": ""
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "ここくらいしか行く当てもないだろうし、いるんじゃないか？",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "ここくらいしか行く当てもないだろうし、いるんじゃないか？"
+            },
             "voice": "event/Event_009/Event_009_09/event_009_09_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "ホノカ、ちょっと声かけてみなよ。\n出て来るかもよ？",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "ホノカ、ちょっと声かけてみなよ。\n出て来るかもよ？"
+            },
             "voice": "event/Event_009/Event_009_09/event_009_09_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "え？　わたしが？　なんて言ったらいいかな……。\nうん。わかった。任せて。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "え？　わたしが？　なんて言ったらいいかな……。\nうん。わかった。任せて。"
+            },
             "voice": "event/Event_009/Event_009_09/event_009_09_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "おい。もう終わりだ。お前の親父さんにも会って来たぞ！\n親父さん、悲しんでたぞ。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "おい。もう終わりだ。お前の親父さんにも会って来たぞ！\n親父さん、悲しんでたぞ。"
+            },
             "voice": "event/Event_009/Event_009_09/event_009_09_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "もうこんなことはやめて、潔く出てこい！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "もうこんなことはやめて、潔く出てこい！"
+            },
             "voice": "event/Event_009/Event_009_09/event_009_09_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "ホノカちゃん……、\n刑事モノになってるよ……？",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "ホノカちゃん……、\n刑事モノになってるよ……？"
+            },
             "voice": "event/Event_009/Event_009_09/event_009_09_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "すると遺跡の柱の後ろから男が顔を出した。\nもちろん、見たことのある男だね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "すると遺跡の柱の後ろから男が顔を出した。\nもちろん、見たことのある男だね。"
+            },
             "voice": ""
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "あ、本当に出て来た。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "あ、本当に出て来た。"
+            },
             "voice": "event/Event_009/Event_009_09/event_009_09_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "その男、ラウルス・シオンは狼狽えた様子でこう叫ぶよ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "その男、ラウルス・シオンは狼狽えた様子でこう叫ぶよ。"
+            },
             "voice": ""
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 0
             ],
-            "name": "ラウルス・シオン",
-            "message": "「くそっ。こんなとこで終わってたまるかよ！\nまだ何も始まってないんだ！」",
+            "name": {
+                "default": "ラウルス・シオン"
+            },
+            "message": {
+                "default": "「くそっ。こんなとこで終わってたまるかよ！\nまだ何も始まってないんだ！」"
+            },
             "voice": ""
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 0
             ],
-            "name": "ラウルス・シオン",
-            "message": "「俺が作った道具で妖魔を操り、村を襲ったのはただの実験。\nこれからが真の計画の始まりなのに……。」",
+            "name": {
+                "default": "ラウルス・シオン"
+            },
+            "message": {
+                "default": "「俺が作った道具で妖魔を操り、村を襲ったのはただの実験。\nこれからが真の計画の始まりなのに……。」"
+            },
             "voice": ""
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "おいおい。ベタな悪役だな……。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "おいおい。ベタな悪役だな……。"
+            },
             "voice": "event/Event_009/Event_009_09/event_009_09_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "そんな計画なんて、始まる前に終わらせてみせる！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "そんな計画なんて、始まる前に終わらせてみせる！"
+            },
             "voice": "event/Event_009/Event_009_09/event_009_09_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 0
             ],
-            "name": "ラウルス・シオン",
-            "message": "「うるさい！　俺の夢はまだ終わらない！\n止められるものなら止めてみろ！」",
+            "name": {
+                "default": "ラウルス・シオン"
+            },
+            "message": {
+                "default": "「うるさい！　俺の夢はまだ終わらない！\n止められるものなら止めてみろ！」"
+            },
             "voice": ""
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "シオンの声とともに、遺跡を囲むように妖魔たちが現れる。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "シオンの声とともに、遺跡を囲むように妖魔たちが現れる。"
+            },
             "voice": ""
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "来たね。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "来たね。"
+            },
             "voice": "event/Event_009/Event_009_09/event_009_09_017.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "神よ。我らに祝福を……。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "神よ。我らに祝福を……。"
+            },
             "voice": "event/Event_009/Event_009_09/event_009_09_018.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "ゴブリン、いったい何匹いるんだろ？",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "ゴブリン、いったい何匹いるんだろ？"
+            },
             "voice": "event/Event_009/Event_009_09/event_009_09_019.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "いや、ちょっと待て、ゴーレムもいる。\nあんなものまで操ってるのか？",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "いや、ちょっと待て、ゴーレムもいる。\nあんなものまで操ってるのか？"
+            },
             "voice": "event/Event_009/Event_009_09/event_009_09_020.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 0
             ],
-            "name": "ラウルス・シオン",
-            "message": "「未だのうのうと名家の地位におさまり続ける貴族たちへの復讐。\nそして、この不公平な世界への復讐……。」",
+            "name": {
+                "default": "ラウルス・シオン"
+            },
+            "message": {
+                "default": "「未だのうのうと名家の地位におさまり続ける貴族たちへの復讐。\nそして、この不公平な世界への復讐……。」"
+            },
             "voice": ""
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 0
             ],
-            "name": "ラウルス・シオン",
-            "message": "「邪魔はさせんぞ！」",
+            "name": {
+                "default": "ラウルス・シオン"
+            },
+            "message": {
+                "default": "「邪魔はさせんぞ！」"
+            },
             "voice": ""
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "無茶苦茶な言い分だよ……。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "無茶苦茶な言い分だよ……。"
+            },
             "voice": "event/Event_009/Event_009_09/event_009_09_023.mp3"
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "世の中に不満があるなら、自分自身を変えればいい！\nそれが嫌なら……。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "世の中に不満があるなら、自分自身を変えればいい！\nそれが嫌なら……。"
+            },
             "voice": "event/Event_009/Event_009_09/event_009_09_024.mp3"
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "それが嫌なら？",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "それが嫌なら？"
+            },
             "voice": "event/Event_009/Event_009_09/event_009_09_025.mp3"
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "えーっと、それが嫌なら……、\nわたしと勝負だ！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "えーっと、それが嫌なら……、\nわたしと勝負だ！"
+            },
             "voice": "event/Event_009/Event_009_09/event_009_09_026.mp3"
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "どういう意味だよ。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "どういう意味だよ。"
+            },
             "voice": "event/Event_009/Event_009_09/event_009_09_027.mp3"
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "ふふふ。やっぱり器が大きいな。ホノカちゃんは。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "ふふふ。やっぱり器が大きいな。ホノカちゃんは。"
+            },
             "voice": "event/Event_009/Event_009_09/event_009_09_028.mp3"
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "え？　そう？",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "え？　そう？"
+            },
             "voice": "event/Event_009/Event_009_09/event_009_09_029.mp3"
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "今回は持久戦になるかもね……。\nみんな頑張ってね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "今回は持久戦になるかもね……。\nみんな頑張ってね。"
+            },
             "voice": ""
         },
         {
@@ -276,8 +396,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "敵の数は、ゴブリンが全部で12体。\nホブゴブリンが4体。泥ゴーレムが4体。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "敵の数は、ゴブリンが全部で12体。\nホブゴブリンが4体。泥ゴーレムが4体。"
+            },
             "voice": ""
         },
         {
@@ -285,8 +409,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "なかなか多いな。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "なかなか多いな。"
+            },
             "voice": "event/Event_009/Event_009_09/event_009_09_032.mp3"
         },
         {
@@ -294,8 +422,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "まずゴブリンが3体ずつホノカとエリカに向かう。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "まずゴブリンが3体ずつホノカとエリカに向かう。"
+            },
             "voice": ""
         },
         {
@@ -303,8 +435,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "カノとハルナは下がって、わたしたちの援護を。\nマイカ、二人の護衛をお願い。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "カノとハルナは下がって、わたしたちの援護を。\nマイカ、二人の護衛をお願い。"
+            },
             "voice": "event/Event_009/Event_009_09/event_009_09_034.mp3"
         },
         {
@@ -312,8 +448,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "わかった！",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "わかった！"
+            },
             "voice": "event/Event_009/Event_009_09/event_009_09_035.mp3"
         },
         {
@@ -321,8 +461,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "了解。炎の剣の魔法を。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "了解。炎の剣の魔法を。"
+            },
             "voice": "event/Event_009/Event_009_09/event_009_09_036.mp3"
         },
         {
@@ -330,8 +474,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "わたしも、みんなに防御の祝福魔法をかけるね。\nみんな、気をつけてね。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "わたしも、みんなに防御の祝福魔法をかけるね。\nみんな、気をつけてね。"
+            },
             "voice": "event/Event_009/Event_009_09/event_009_09_037.mp3"
         },
         {
@@ -339,8 +487,12 @@
             "heroineId": [
                 0
             ],
-            "name": "ラウルス・シオン",
-            "message": "「お前たち、あまり俺をなめるなよ……。\nふふ。この杖は火の矢の魔法を撃てるのだ。」",
+            "name": {
+                "default": "ラウルス・シオン"
+            },
+            "message": {
+                "default": "「お前たち、あまり俺をなめるなよ……。\nふふ。この杖は火の矢の魔法を撃てるのだ。」"
+            },
             "voice": ""
         },
         {
@@ -348,8 +500,12 @@
             "heroineId": [
                 0
             ],
-            "name": "ラウルス・シオン",
-            "message": "「そこの小賢しい盗賊に、まずは先に沈んでもらおうか。\nいでよ火の矢、そして射抜け。」",
+            "name": {
+                "default": "ラウルス・シオン"
+            },
+            "message": {
+                "default": "「そこの小賢しい盗賊に、まずは先に沈んでもらおうか。\nいでよ火の矢、そして射抜け。」"
+            },
             "voice": ""
         },
         {
@@ -357,8 +513,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "おわっ。いきなり狙われた！\nいてて。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "おわっ。いきなり狙われた！\nいてて。"
+            },
             "voice": "event/Event_009/Event_009_09/event_009_09_040.mp3"
         },
         {
@@ -366,8 +526,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "大丈夫？",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "大丈夫？"
+            },
             "voice": "event/Event_009/Event_009_09/event_009_09_041.mp3"
         },
         {
@@ -375,8 +539,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "うん。\nこれくらいならまだまだ平気。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "うん。\nこれくらいならまだまだ平気。"
+            },
             "voice": "event/Event_009/Event_009_09/event_009_09_042.mp3"
         },
         {
@@ -384,8 +552,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "盗賊って言われたのは気になるけど……。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "盗賊って言われたのは気になるけど……。"
+            },
             "voice": "event/Event_009/Event_009_09/event_009_09_043.mp3"
         },
         {
@@ -393,8 +565,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "それはもういいだろ……。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "それはもういいだろ……。"
+            },
             "voice": "event/Event_009/Event_009_09/event_009_09_044.mp3"
         },
         {
@@ -402,8 +578,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "じゃあ、このターンからゴブリンたちと接敵するね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "じゃあ、このターンからゴブリンたちと接敵するね。"
+            },
             "voice": ""
         },
         {
@@ -411,8 +591,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "まずはわたし、目の前のゴブリンからいくよ。\nうおりゃああっ！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "まずはわたし、目の前のゴブリンからいくよ。\nうおりゃああっ！"
+            },
             "voice": "event/Event_009/Event_009_09/event_009_09_046.mp3"
         },
         {
@@ -420,8 +604,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "おお。一撃で倒した。やるな、ホノカ。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "おお。一撃で倒した。やるな、ホノカ。"
+            },
             "voice": "event/Event_009/Event_009_09/event_009_09_047.mp3"
         },
         {
@@ -429,8 +617,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "いい剣をもらったからね！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "いい剣をもらったからね！"
+            },
             "voice": "event/Event_009/Event_009_09/event_009_09_048.mp3"
         },
         {
@@ -438,8 +630,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "じゃあ、私もやるか。\nまだ後ろにいるゴブリンたちを狙って……。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "じゃあ、私もやるか。\nまだ後ろにいるゴブリンたちを狙って……。"
+            },
             "voice": "event/Event_009/Event_009_09/event_009_09_049.mp3"
         },
         {
@@ -447,8 +643,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "マナよりいでし火球よ、炸裂せよ。\nファイアボール！！",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "マナよりいでし火球よ、炸裂せよ。\nファイアボール！！"
+            },
             "voice": "event/Event_009/Event_009_09/event_009_09_050.mp3"
         },
         {
@@ -456,8 +656,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "3体か……、まだまだだな。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "3体か……、まだまだだな。"
+            },
             "voice": "event/Event_009/Event_009_09/event_009_09_051.mp3"
         },
         {
@@ -465,8 +669,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "敵も負けてはいないよ。\nゴブリンが3体ずつ、ホノカとエリカに攻撃。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "敵も負けてはいないよ。\nゴブリンが3体ずつ、ホノカとエリカに攻撃。"
+            },
             "voice": ""
         },
         {
@@ -474,8 +682,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "うん。全然平気だよっ！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "うん。全然平気だよっ！"
+            },
             "voice": "event/Event_009/Event_009_09/event_009_09_053.mp3"
         },
         {
@@ -483,8 +695,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "ホブゴブリンが2体、ホノカたちを迂回するようにして、\nハルナたち後衛に向かって移動し始めた。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "ホブゴブリンが2体、ホノカたちを迂回するようにして、\nハルナたち後衛に向かって移動し始めた。"
+            },
             "voice": ""
         },
         {
@@ -492,8 +708,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "弓で狙うよ、そんなの。\n少しでも傷を与えておかないと。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "弓で狙うよ、そんなの。\n少しでも傷を与えておかないと。"
+            },
             "voice": "event/Event_009/Event_009_09/event_009_09_055.mp3"
         },
         {
@@ -501,8 +721,12 @@
             "heroineId": [
                 0
             ],
-            "name": "ラウルス・シオン",
-            "message": "「なかなかしぶといな。\nもう一発、火の矢を喰らえ。」",
+            "name": {
+                "default": "ラウルス・シオン"
+            },
+            "message": {
+                "default": "「なかなかしぶといな。\nもう一発、火の矢を喰らえ。」"
+            },
             "voice": ""
         },
         {
@@ -510,8 +734,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "あいたたた。\nこれ、長引くとまずいかも……。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "あいたたた。\nこれ、長引くとまずいかも……。"
+            },
             "voice": "event/Event_009/Event_009_09/event_009_09_057.mp3"
         },
         {
@@ -519,8 +747,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "わたしに任せて。\n神よ、癒やしを！",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "わたしに任せて。\n神よ、癒やしを！"
+            },
             "voice": "event/Event_009/Event_009_09/event_009_09_058.mp3"
         },
         {
@@ -528,8 +760,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "ありがとう、ハルナ！",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "ありがとう、ハルナ！"
+            },
             "voice": "event/Event_009/Event_009_09/event_009_09_059.mp3"
         },
         {
@@ -537,8 +773,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "マイカ、少しの間、こらえて！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "マイカ、少しの間、こらえて！"
+            },
             "voice": "event/Event_009/Event_009_09/event_009_09_060.mp3"
         },
         {
@@ -546,8 +786,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "早めに頼むよホノカ！\nなんとかヤツらから、2人を守ってみせるからさ！",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "早めに頼むよホノカ！\nなんとかヤツらから、2人を守ってみせるからさ！"
+            },
             "voice": "event/Event_009/Event_009_09/event_009_09_061.mp3"
         }
     ]

@@ -6,8 +6,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "……今回は縁がなかったみたい。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "……今回は縁がなかったみたい。"
+            },
             "voice": "audition/story_01/heroine_11/HM_Others_01_11_01/hm_others_01_11_01_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そうだね。\nでも、次はきっと……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そうだね。\nでも、次はきっと……。"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "うん、次は絶対勝ち取る。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "うん、次は絶対勝ち取る。"
+            },
             "voice": "audition/story_01/heroine_11/HM_Others_01_11_01/hm_others_01_11_01_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "ほんと、ちゃんと実力出せてたら、\nまほろが落ちるわけがないんだから。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "ほんと、ちゃんと実力出せてたら、\nまほろが落ちるわけがないんだから。"
+            },
             "voice": "audition/story_01/heroine_11/HM_Others_01_11_01/hm_others_01_11_01_004.mp3"
         }
     ]

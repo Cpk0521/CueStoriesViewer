@@ -6,8 +6,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "お疲れ様です。\n借りたディスク、ありがとうございました。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "お疲れ様です。\n借りたディスク、ありがとうございました。"
+            },
             "voice": "audition/story_01/heroine_16/HM_Sub_01_16_23/hm_sub_01_16_23_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "どういたしまして。このアニメ、\n「世界で1番大切な時間はなんだ？」って台詞があったよね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "どういたしまして。このアニメ、\n「世界で1番大切な時間はなんだ？」って台詞があったよね。"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "はい。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "はい。"
+            },
             "voice": "audition/story_01/heroine_16/HM_Sub_01_16_23/hm_sub_01_16_23_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "自分的に、あの台詞が刺さってさ。\n鳴にとって、1番大切な時間って考えたことある？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "自分的に、あの台詞が刺さってさ。\n鳴にとって、1番大切な時間って考えたことある？"
+            },
             "voice": ""
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "ありません。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "ありません。"
+            },
             "voice": "audition/story_01/heroine_16/HM_Sub_01_16_23/hm_sub_01_16_23_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "もう答えは出てるので。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "もう答えは出てるので。"
+            },
             "voice": "audition/story_01/heroine_16/HM_Sub_01_16_23/hm_sub_01_16_23_006.mp3"
         }
     ]

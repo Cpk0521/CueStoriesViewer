@@ -6,8 +6,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "ねえ、ここらへんってどんな名物があるの？\n有名な食べ物とかある？",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "ねえ、ここらへんってどんな名物があるの？\n有名な食べ物とかある？"
+            },
             "voice": "lesson/Lesson_31207/lesson_31207_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "え？　さっきお昼食べたばかりじゃん。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "え？　さっきお昼食べたばかりじゃん。"
+            },
             "voice": "lesson/Lesson_31207/lesson_31207_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "もうお腹が空いたのか？",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "もうお腹が空いたのか？"
+            },
             "voice": "lesson/Lesson_31207/lesson_31207_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "いや、海の家で食べたけど、\nかき氷や焼きそばが名物ってわけじゃないでしょ。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "いや、海の家で食べたけど、\nかき氷や焼きそばが名物ってわけじゃないでしょ。"
+            },
             "voice": "lesson/Lesson_31207/lesson_31207_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "どうせなら、ここの名物も食べてみたいじゃん。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "どうせなら、ここの名物も食べてみたいじゃん。"
+            },
             "voice": "lesson/Lesson_31207/lesson_31207_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "ふむ、そういうことなら……。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "ふむ、そういうことなら……。"
+            },
             "voice": "lesson/Lesson_31207/lesson_31207_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "有名なのは、やはりしらす。\n「しらすまん」とか、「しらすバーガー」もある。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "有名なのは、やはりしらす。\n「しらすまん」とか、「しらすバーガー」もある。"
+            },
             "voice": "lesson/Lesson_31207/lesson_31207_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "しらすバーガー！？",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "しらすバーガー！？"
+            },
             "voice": "lesson/Lesson_31207/lesson_31207_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "しらすまんは、ちょっと興味あるかも。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "しらすまんは、ちょっと興味あるかも。"
+            },
             "voice": "lesson/Lesson_31207/lesson_31207_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "あと名物といったら「龍」がたくさんいる。\n食べ物ではないがな。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "あと名物といったら「龍」がたくさんいる。\n食べ物ではないがな。"
+            },
             "voice": "lesson/Lesson_31207/lesson_31207_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "りゅう……、って、あの干支とかに出てくる龍？",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "りゅう……、って、あの干支とかに出てくる龍？"
+            },
             "voice": "lesson/Lesson_31207/lesson_31207_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "そう、その龍。\nあの島の至るところに、龍が飾ってある。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "そう、その龍。\nあの島の至るところに、龍が飾ってある。"
+            },
             "voice": "lesson/Lesson_31207/lesson_31207_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "へえー。志穂って結構、詳しいんだね。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "へえー。志穂って結構、詳しいんだね。"
+            },
             "voice": "lesson/Lesson_31207/lesson_31207_013.mp3"
         }
     ]

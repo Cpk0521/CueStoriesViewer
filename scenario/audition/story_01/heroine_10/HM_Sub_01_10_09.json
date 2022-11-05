@@ -6,8 +6,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "この前、陽菜と猫カフェに行ったんです。\n可愛かったなぁ……。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "この前、陽菜と猫カフェに行ったんです。\n可愛かったなぁ……。"
+            },
             "voice": "audition/story_01/heroine_10/HM_Sub_01_10_09/hm_sub_01_10_09_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "陽菜とは結構仲がよくて。\nたまに勉強とか聞かれたりもして。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "陽菜とは結構仲がよくて。\nたまに勉強とか聞かれたりもして。"
+            },
             "voice": "audition/story_01/heroine_10/HM_Sub_01_10_09/hm_sub_01_10_09_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "絢のほうがお姉さんだしね。\nチームだと最年少だから、意外な組み合わせだね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "絢のほうがお姉さんだしね。\nチームだと最年少だから、意外な組み合わせだね。"
+            },
             "voice": ""
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "そうですね、ちょっと新鮮かも。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "そうですね、ちょっと新鮮かも。"
+            },
             "voice": "audition/story_01/heroine_10/HM_Sub_01_10_09/hm_sub_01_10_09_004.mp3"
         }
     ]

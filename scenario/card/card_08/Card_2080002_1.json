@@ -6,8 +6,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "隣の客がよく柿食う客だという情報をいつ手に入れた？\n見たんかい！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "隣の客がよく柿食う客だという情報をいつ手に入れた？\n見たんかい！"
+            },
             "voice": "card/Card_08/Card_2080002_1/card_2080002_1_003.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "どうしたの柚葉。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "どうしたの柚葉。"
+            },
             "voice": "card/Card_08/Card_2080002_1/card_2080002_1_004.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "早口言葉、そんな苦手だったっけ？",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "早口言葉、そんな苦手だったっけ？"
+            },
             "voice": "card/Card_08/Card_2080002_1/card_2080002_1_005.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "生麦と、生米と、生卵……、で？",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "生麦と、生米と、生卵……、で？"
+            },
             "voice": "card/Card_08/Card_2080002_1/card_2080002_1_006.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "っで？\nと言われても。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "っで？\nと言われても。"
+            },
             "voice": "card/Card_08/Card_2080002_1/card_2080002_1_007.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "文脈であるわけ？　\n日常会話に。ないでしょ？",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "文脈であるわけ？　\n日常会話に。ないでしょ？"
+            },
             "voice": "card/Card_08/Card_2080002_1/card_2080002_1_008.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "柚葉、それは言葉遊びみたいなものでさ……。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "柚葉、それは言葉遊びみたいなものでさ……。"
+            },
             "voice": "card/Card_08/Card_2080002_1/card_2080002_1_009.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "お彩が親にお謝る必要はない！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "お彩が親にお謝る必要はない！"
+            },
             "voice": "card/Card_08/Card_2080002_1/card_2080002_1_010.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "真向否定ね。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "真向否定ね。"
+            },
             "voice": "card/Card_08/Card_2080002_1/card_2080002_1_011.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "欧米の考え方がそうさせるのか？",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "欧米の考え方がそうさせるのか？"
+            },
             "voice": "card/Card_08/Card_2080002_1/card_2080002_1_012.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "柚葉ちゃんは、シンガポール生まれだよ。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "柚葉ちゃんは、シンガポール生まれだよ。"
+            },
             "voice": "card/Card_08/Card_2080002_1/card_2080002_1_013.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "世界中転々としてたんでしょ？",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "世界中転々としてたんでしょ？"
+            },
             "voice": "card/Card_08/Card_2080002_1/card_2080002_1_014.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "かれこれ地球を7周半はしてるわ。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "かれこれ地球を7周半はしてるわ。"
+            },
             "voice": "card/Card_08/Card_2080002_1/card_2080002_1_015.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "すげっ。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "すげっ。"
+            },
             "voice": "card/Card_08/Card_2080002_1/card_2080002_1_016.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "その私が言うんだから。\nこんなセリフは間違ってる。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "その私が言うんだから。\nこんなセリフは間違ってる。"
+            },
             "voice": "card/Card_08/Card_2080002_1/card_2080002_1_017.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "なんで、そんな地球回ってるの？",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "なんで、そんな地球回ってるの？"
+            },
             "voice": "card/Card_08/Card_2080002_1/card_2080002_1_018.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "両親とも、世界的な資産家なんだって。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "両親とも、世界的な資産家なんだって。"
+            },
             "voice": "card/Card_08/Card_2080002_1/card_2080002_1_019.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "ブルジョアかぁ。\nあこがれるなぁ。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "ブルジョアかぁ。\nあこがれるなぁ。"
+            },
             "voice": "card/Card_08/Card_2080002_1/card_2080002_1_020.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "ねえ、柚葉。\n買い物する時ってさ、値札見る？",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "ねえ、柚葉。\n買い物する時ってさ、値札見る？"
+            },
             "voice": "card/Card_08/Card_2080002_1/card_2080002_1_021.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "値札？\nなにそれ？",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "値札？\nなにそれ？"
+            },
             "voice": "card/Card_08/Card_2080002_1/card_2080002_1_022.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "値札知らないの！",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "値札知らないの！"
+            },
             "voice": "card/Card_08/Card_2080002_1/card_2080002_1_023.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "本物だね……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "本物だね……。"
+            },
             "voice": "card/Card_08/Card_2080002_1/card_2080002_1_024.mp3"
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "赤巻紙青巻紙黄巻紙っていうのは、\n3色の巻紙があるってことよね？",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "赤巻紙青巻紙黄巻紙っていうのは、\n3色の巻紙があるってことよね？"
+            },
             "voice": "card/Card_08/Card_2080002_1/card_2080002_1_025.mp3"
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "そうだね。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "そうだね。"
+            },
             "voice": "card/Card_08/Card_2080002_1/card_2080002_1_026.mp3"
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "まあ、これはいいわ。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "まあ、これはいいわ。"
+            },
             "voice": "card/Card_08/Card_2080002_1/card_2080002_1_027.mp3"
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "言えてたからな。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "言えてたからな。"
+            },
             "voice": "card/Card_08/Card_2080002_1/card_2080002_1_028.mp3"
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "完全にいちゃもんよね。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "完全にいちゃもんよね。"
+            },
             "voice": "card/Card_08/Card_2080002_1/card_2080002_1_029.mp3"
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "違う。\n言えることは言えるの、みんな。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "違う。\n言えることは言えるの、みんな。"
+            },
             "voice": "card/Card_08/Card_2080002_1/card_2080002_1_030.mp3"
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "うん。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "うん。"
+            },
             "voice": "card/Card_08/Card_2080002_1/card_2080002_1_031.mp3"
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "でもわけわかんないことを唱えるのって苦痛でしょ？",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "でもわけわかんないことを唱えるのって苦痛でしょ？"
+            },
             "voice": "card/Card_08/Card_2080002_1/card_2080002_1_032.mp3"
         },
         {
@@ -276,8 +396,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "そういうもん？",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "そういうもん？"
+            },
             "voice": "card/Card_08/Card_2080002_1/card_2080002_1_033.mp3"
         },
         {
@@ -285,8 +409,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "他の国にもあったでしょ？\n早口言葉って。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "他の国にもあったでしょ？\n早口言葉って。"
+            },
             "voice": "card/Card_08/Card_2080002_1/card_2080002_1_034.mp3"
         },
         {
@@ -294,8 +422,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "フランスのは意味がわかるの。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "フランスのは意味がわかるの。"
+            },
             "voice": "card/Card_08/Card_2080002_1/card_2080002_1_035.mp3"
         },
         {
@@ -303,8 +435,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "「大公婦人の靴下は乾いてる？　はい、すごく乾いてます」\nみたいな。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "「大公婦人の靴下は乾いてる？　はい、すごく乾いてます」\nみたいな。"
+            },
             "voice": "card/Card_08/Card_2080002_1/card_2080002_1_036.mp3"
         },
         {
@@ -312,8 +448,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "おお、確かに意味がある。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "おお、確かに意味がある。"
+            },
             "voice": "card/Card_08/Card_2080002_1/card_2080002_1_037.mp3"
         },
         {
@@ -321,8 +461,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "英語だって、「彼女は海岸で貝殻を売っています」とかよ。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "英語だって、「彼女は海岸で貝殻を売っています」とかよ。"
+            },
             "voice": "card/Card_08/Card_2080002_1/card_2080002_1_038.mp3"
         },
         {
@@ -330,8 +474,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "なるほど。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "なるほど。"
+            },
             "voice": "card/Card_08/Card_2080002_1/card_2080002_1_039.mp3"
         },
         {
@@ -339,8 +487,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "それが日本だと、全然意味が分からない。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "それが日本だと、全然意味が分からない。"
+            },
             "voice": "card/Card_08/Card_2080002_1/card_2080002_1_040.mp3"
         },
         {
@@ -348,8 +500,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "「鹿島灘や、播磨灘、などでは、戸棚の中に、\nバナナ、なども、あるという」とかよ。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "「鹿島灘や、播磨灘、などでは、戸棚の中に、\nバナナ、なども、あるという」とかよ。"
+            },
             "voice": "card/Card_08/Card_2080002_1/card_2080002_1_041.mp3"
         },
         {
@@ -357,8 +513,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "慎重にしゃべったね。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "慎重にしゃべったね。"
+            },
             "voice": "card/Card_08/Card_2080002_1/card_2080002_1_042.mp3"
         },
         {
@@ -366,8 +526,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "よくないか？\n戸棚にバナナあったって。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "よくないか？\n戸棚にバナナあったって。"
+            },
             "voice": "card/Card_08/Card_2080002_1/card_2080002_1_043.mp3"
         },
         {
@@ -375,8 +539,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "ウラ取れてるの？\n鹿島灘と播磨灘で統計取ったの？",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "ウラ取れてるの？\n鹿島灘と播磨灘で統計取ったの？"
+            },
             "voice": "card/Card_08/Card_2080002_1/card_2080002_1_044.mp3"
         },
         {
@@ -384,8 +552,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "なにがあったのよ、柚葉。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "なにがあったのよ、柚葉。"
+            },
             "voice": "card/Card_08/Card_2080002_1/card_2080002_1_045.mp3"
         }
     ]

@@ -6,8 +6,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "おはよう、マネージャー。\nちょうど良かったわ。",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "おはよう、マネージャー。\nちょうど良かったわ。"
+            },
             "voice": "audition/story_01/heroine_06/HM_Main_01_06_01/hm_main_01_06_01_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "今度、千紗をこのオーディションに出してみようと思うの。",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "今度、千紗をこのオーディションに出してみようと思うの。"
+            },
             "voice": "audition/story_01/heroine_06/HM_Main_01_06_01/hm_main_01_06_01_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "「空繰戯曲グレイゼファー」……、ですか。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "「空繰戯曲グレイゼファー」……、ですか。"
+            },
             "voice": ""
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "そう、あの子にちょうど合うと思って。",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "そう、あの子にちょうど合うと思って。"
+            },
             "voice": "audition/story_01/heroine_06/HM_Main_01_06_01/hm_main_01_06_01_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "りおにもサポートするように言ってあるから、よろしくね。",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "りおにもサポートするように言ってあるから、よろしくね。"
+            },
             "voice": "audition/story_01/heroine_06/HM_Main_01_06_01/hm_main_01_06_01_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "そういうこと！　頑張ってね！",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "そういうこと！　頑張ってね！"
+            },
             "voice": "audition/story_01/heroine_06/HM_Main_01_06_01/hm_main_01_06_01_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "え！　新しいオーディション！？",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "え！　新しいオーディション！？"
+            },
             "voice": "audition/story_01/heroine_06/HM_Main_01_06_01/hm_main_01_06_01_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "『空繰戯曲グレイゼファー』……。\nどんなお話なんですか？",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "『空繰戯曲グレイゼファー』……。\nどんなお話なんですか？"
+            },
             "voice": "audition/story_01/heroine_06/HM_Main_01_06_01/hm_main_01_06_01_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "きっと千紗も気に入ると思うよ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "きっと千紗も気に入ると思うよ。"
+            },
             "voice": ""
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "本当ですか？　ふふっ、楽しみ。\n寮に帰ったら、すぐに読んでみます！",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "本当ですか？　ふふっ、楽しみ。\n寮に帰ったら、すぐに読んでみます！"
+            },
             "voice": "audition/story_01/heroine_06/HM_Main_01_06_01/hm_main_01_06_01_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "せっかく貰えたチャンス、絶対に掴んでみせますから！",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "せっかく貰えたチャンス、絶対に掴んでみせますから！"
+            },
             "voice": "audition/story_01/heroine_06/HM_Main_01_06_01/hm_main_01_06_01_011.mp3"
         }
     ]

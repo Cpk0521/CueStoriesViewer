@@ -6,8 +6,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "あ、マネージャーさん、おはようございます。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "あ、マネージャーさん、おはようございます。"
+            },
             "voice": "audition/story_01/heroine_01/HM_Morning_01_01_03/hm_morning_01_01_03_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "今日はなんだか体の調子が良くて……。\n少し苦手なダンスのレッスンも上手く出来そうな気がします！",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "今日はなんだか体の調子が良くて……。\n少し苦手なダンスのレッスンも上手く出来そうな気がします！"
+            },
             "voice": "audition/story_01/heroine_01/HM_Morning_01_01_03/hm_morning_01_01_03_002.mp3"
         }
     ]

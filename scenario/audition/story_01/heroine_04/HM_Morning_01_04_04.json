@@ -6,8 +6,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "あ、マネージャー！\nおはようございます。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "あ、マネージャー！\nおはようございます。"
+            },
             "voice": "audition/story_01/heroine_04/HM_Morning_01_04_04/hm_morning_01_04_04_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "昨日、ちょっといいことがあったんですよ！\n友だちに、わたしと話すのって楽しいって言われたんです。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "昨日、ちょっといいことがあったんですよ！\n友だちに、わたしと話すのって楽しいって言われたんです。"
+            },
             "voice": "audition/story_01/heroine_04/HM_Morning_01_04_04/hm_morning_01_04_04_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "えへへ、こういうのってうれしいことですよね！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "えへへ、こういうのってうれしいことですよね！"
+            },
             "voice": "audition/story_01/heroine_04/HM_Morning_01_04_04/hm_morning_01_04_04_003.mp3"
         }
     ]

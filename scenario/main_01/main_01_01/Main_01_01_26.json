@@ -6,8 +6,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "で、なんで陽菜の部屋？",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "で、なんで陽菜の部屋？"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_26/main_01_01_26_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "陽菜が話したいことあるらしい。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "陽菜が話したいことあるらしい。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_26/main_01_01_26_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "ふーん。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "ふーん。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_26/main_01_01_26_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "あ、志穂お菓子食べる？\nやっぱ食べきれなくて……。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "あ、志穂お菓子食べる？\nやっぱ食べきれなくて……。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_26/main_01_01_26_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "舞花が人に分けるなんて、珍しい。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "舞花が人に分けるなんて、珍しい。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_26/main_01_01_26_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "ねぇみんな。\nわたし今走りたい気分なんだけど、ちょっと行ってきちゃダメかな？",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "ねぇみんな。\nわたし今走りたい気分なんだけど、ちょっと行ってきちゃダメかな？"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_26/main_01_01_26_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "ダメだ。\n陽菜が話をすると言ってた。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "ダメだ。\n陽菜が話をすると言ってた。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_26/main_01_01_26_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "うん。\nみんなに聞いてほしい話なの。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "うん。\nみんなに聞いてほしい話なの。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_26/main_01_01_26_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "わたしが……、声優を目指すきっかけのお話し。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "わたしが……、声優を目指すきっかけのお話し。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_26/main_01_01_26_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "わたしね、学校では居場所がなかったんだ。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "わたしね、学校では居場所がなかったんだ。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_26/main_01_01_26_012.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "学校ではいつも一人で、\n友達もいないから、家に帰っては部屋に籠ってアニメばっか見てた。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "学校ではいつも一人で、\n友達もいないから、家に帰っては部屋に籠ってアニメばっか見てた。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_26/main_01_01_26_013.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "なんとなく学校に通って、なんとなく先生の話聞いて、\nなんとなく一日を過ごして……。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "なんとなく学校に通って、なんとなく先生の話聞いて、\nなんとなく一日を過ごして……。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_26/main_01_01_26_014.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "全然、楽しくもなんともなかった。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "全然、楽しくもなんともなかった。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_26/main_01_01_26_015.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "でも……。\nそんな時に、あるアニメのキャラクターがこういったの。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "でも……。\nそんな時に、あるアニメのキャラクターがこういったの。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_26/main_01_01_26_016.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "「誰にでも、羽ばたける空がある」",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "「誰にでも、羽ばたける空がある」"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_26/main_01_01_26_017.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "それ、前も言ってたな。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "それ、前も言ってたな。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_26/main_01_01_26_019.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "それってアニメのセリフだったんだ。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "それってアニメのセリフだったんだ。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_26/main_01_01_26_020.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "うん。\nわたし、体中に電気が走ったの。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "うん。\nわたし、体中に電気が走ったの。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_26/main_01_01_26_021.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "気付いたら涙が流れていて、\n「あぁ、わたしも羽ばたきたいな」って思った。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "気付いたら涙が流れていて、\n「あぁ、わたしも羽ばたきたいな」って思った。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_26/main_01_01_26_022.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "それで、声優に……？",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "それで、声優に……？"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_26/main_01_01_26_023.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "うん。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "うん。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_26/main_01_01_26_024.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "みんな、今日はずーっとそわそわしてるよね。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "みんな、今日はずーっとそわそわしてるよね。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_26/main_01_01_26_025.mp3"
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "きっと、\nオーディションを目の前にしてるからなのかなって思ったの。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "きっと、\nオーディションを目の前にしてるからなのかなって思ったの。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_26/main_01_01_26_026.mp3"
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "頑張らなきゃ、成功するかな？　失敗しないようにしなきゃ…。\n考えすぎて、みんな落ち着かなかったんだよね？",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "頑張らなきゃ、成功するかな？　失敗しないようにしなきゃ…。\n考えすぎて、みんな落ち着かなかったんだよね？"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_26/main_01_01_26_027.mp3"
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "わたしも不安で、亀井さんに相談したの。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "わたしも不安で、亀井さんに相談したの。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_26/main_01_01_26_028.mp3"
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "お話しすると落ち着くよ～って言われて、みんなのところに行ったら、\nみんないつもと違ってて、びっくりした。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "お話しすると落ち着くよ～って言われて、みんなのところに行ったら、\nみんないつもと違ってて、びっくりした。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_26/main_01_01_26_029.mp3"
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "そしたらさっき、亀井さんと志穂ちゃんがお話ししてて、\nこの話をみんなに言おうって思ったの。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "そしたらさっき、亀井さんと志穂ちゃんがお話ししてて、\nこの話をみんなに言おうって思ったの。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_26/main_01_01_26_030.mp3"
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "わたし達ならきっと大丈夫。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "わたし達ならきっと大丈夫。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_26/main_01_01_26_031.mp3"
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "根拠なんてないけど……。\nでも、今日まで頑張ってきたから、きっと明日も大丈夫。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "根拠なんてないけど……。\nでも、今日まで頑張ってきたから、きっと明日も大丈夫。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_26/main_01_01_26_032.mp3"
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "陽菜……。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "陽菜……。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_26/main_01_01_26_033.mp3"
         },
         {
@@ -276,8 +396,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "そうだね。陽菜の言うとおり！\nなんか話聞いてたら気が楽になったよ。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "そうだね。陽菜の言うとおり！\nなんか話聞いてたら気が楽になったよ。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_26/main_01_01_26_034.mp3"
         },
         {
@@ -285,8 +409,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "やっぱ、陽菜がリーダーで正解だったね。\nどこかの誰かさんより、ずーっとみんなのこと見てる。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "やっぱ、陽菜がリーダーで正解だったね。\nどこかの誰かさんより、ずーっとみんなのこと見てる。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_26/main_01_01_26_035.mp3"
         },
         {
@@ -294,8 +422,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "舞花、なにか言った？",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "舞花、なにか言った？"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_26/main_01_01_26_036.mp3"
         },
         {
@@ -303,8 +435,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "べ～～～っつに～？",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "べ～～～っつに～？"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_26/main_01_01_26_037.mp3"
         },
         {
@@ -312,8 +448,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "ぷっ。あははは。\n舞花、その顔サイッコー。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "ぷっ。あははは。\n舞花、その顔サイッコー。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_26/main_01_01_26_038.mp3"
         },
         {
@@ -321,8 +461,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "はははっ。\nほのかもサイコーだよ。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "はははっ。\nほのかもサイコーだよ。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_26/main_01_01_26_039.mp3"
         },
         {
@@ -330,8 +474,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "陽菜はたいようだな。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "陽菜はたいようだな。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_26/main_01_01_26_040.mp3"
         },
         {
@@ -339,8 +487,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "えっ？\n太陽？",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "えっ？\n太陽？"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_26/main_01_01_26_041.mp3"
         },
         {
@@ -348,8 +500,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "うむ。\nたいようは漢字で何と書く。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "うむ。\nたいようは漢字で何と書く。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_26/main_01_01_26_042.mp3"
         },
         {
@@ -357,8 +513,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "えっと……。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "えっと……。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_26/main_01_01_26_043.mp3"
         },
         {
@@ -366,8 +526,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "太陽の陽は宗教でも陰陽として使われる。\n陽は即ち明るい存在。みんなを照らす太陽。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "太陽の陽は宗教でも陰陽として使われる。\n陽は即ち明るい存在。みんなを照らす太陽。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_26/main_01_01_26_044.mp3"
         },
         {
@@ -375,8 +539,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "名前に恥じない、良い性格だ。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "名前に恥じない、良い性格だ。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_26/main_01_01_26_045.mp3"
         },
         {
@@ -384,8 +552,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "陽……？",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "陽……？"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_26/main_01_01_26_046.mp3"
         },
         {
@@ -393,8 +565,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "あっ……。\nもしかして、陽菜の「陽」……？",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "あっ……。\nもしかして、陽菜の「陽」……？"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_26/main_01_01_26_047.mp3"
         },
         {
@@ -402,8 +578,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "志穂良いこと言うじゃん！\nほんと、陽菜は自分らの太陽だね！",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "志穂良いこと言うじゃん！\nほんと、陽菜は自分らの太陽だね！"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_26/main_01_01_26_048.mp3"
         },
         {
@@ -411,8 +591,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "うん。これからも沢山迷惑かけちゃうかもしれないけど、\nよろしくね、リーダー。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "うん。これからも沢山迷惑かけちゃうかもしれないけど、\nよろしくね、リーダー。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_26/main_01_01_26_049.mp3"
         },
         {
@@ -420,8 +604,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "みんな……。\nありがとう。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "みんな……。\nありがとう。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_26/main_01_01_26_050.mp3"
         },
         {
@@ -429,8 +617,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "お礼を言うのはこっちだよね。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "お礼を言うのはこっちだよね。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_26/main_01_01_26_051.mp3"
         },
         {
@@ -438,8 +630,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "ソワソワ治った。\nおなか減ったからお菓子食べるぞ。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "ソワソワ治った。\nおなか減ったからお菓子食べるぞ。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_26/main_01_01_26_052.mp3"
         },
         {
@@ -447,8 +643,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "ダメ！　あげない！\nお菓子は一日1個だけなの！",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "ダメ！　あげない！\nお菓子は一日1個だけなの！"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_26/main_01_01_26_053.mp3"
         },
         {
@@ -456,8 +656,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "さっきあげるって言ってただろ。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "さっきあげるって言ってただろ。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_26/main_01_01_26_054.mp3"
         },
         {
@@ -465,8 +669,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "あー、やっぱダメなの！\nこれは自分のなの！",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "あー、やっぱダメなの！\nこれは自分のなの！"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_26/main_01_01_26_055.mp3"
         },
         {
@@ -474,8 +682,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "いつもの舞花に戻ったな。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "いつもの舞花に戻ったな。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_26/main_01_01_26_056.mp3"
         },
         {
@@ -483,8 +695,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "よーし！\nじゃあ今日は、みんなで前夜祭だー！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "よーし！\nじゃあ今日は、みんなで前夜祭だー！"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_26/main_01_01_26_057.mp3"
         },
         {
@@ -492,8 +708,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "賛成。\nほのか。肉買ってこい。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "賛成。\nほのか。肉買ってこい。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_26/main_01_01_26_058.mp3"
         },
         {
@@ -501,8 +721,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "なんでわたしが買い出し役なのよ！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "なんでわたしが買い出し役なのよ！"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_26/main_01_01_26_059.mp3"
         },
         {
@@ -510,8 +734,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "肉は贅沢だからダメだ！\nねえ、買い出し、みんなで行こ！",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "肉は贅沢だからダメだ！\nねえ、買い出し、みんなで行こ！"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_26/main_01_01_26_060.mp3"
         },
         {
@@ -519,8 +747,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "いいね、行こう！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "いいね、行こう！"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_26/main_01_01_26_061.mp3"
         },
         {
@@ -528,8 +760,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "さんせー。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "さんせー。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_26/main_01_01_26_062.mp3"
         },
         {
@@ -537,8 +773,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "では、皆の者―！\nついてこーい！",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "では、皆の者―！\nついてこーい！"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_26/main_01_01_26_063.mp3"
         },
         {
@@ -546,8 +786,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "おー！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "おー！"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_26/main_01_01_26_064.mp3"
         },
         {
@@ -555,8 +799,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "ま、まって！\nみんなー！",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "ま、まって！\nみんなー！"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_26/main_01_01_26_065.mp3"
         }
     ]

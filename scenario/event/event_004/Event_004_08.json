@@ -6,8 +6,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "（お兄ちゃんが女の人を助けないと、物語が成立しないし……。）",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "（お兄ちゃんが女の人を助けないと、物語が成立しないし……。）"
+            },
             "voice": "event/Event_004/Event_004_08/event_004_08_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "（なんとか、弟のアントニオだけを、教会に行かせないと……。）",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "（なんとか、弟のアントニオだけを、教会に行かせないと……。）"
+            },
             "voice": "event/Event_004/Event_004_08/event_004_08_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "（ん？　だれかのスマホが鳴ってる。）",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "（ん？　だれかのスマホが鳴ってる。）"
+            },
             "voice": "event/Event_004/Event_004_08/event_004_08_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "アイリ、アイリ。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "アイリ、アイリ。"
+            },
             "voice": "event/Event_004/Event_004_08/event_004_08_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "なに？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "なに？"
+            },
             "voice": "event/Event_004/Event_004_08/event_004_08_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "Sorry，私の電話。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "Sorry，私の電話。"
+            },
             "voice": "event/Event_004/Event_004_08/event_004_08_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "緊急だと思うの。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "緊急だと思うの。"
+            },
             "voice": "event/Event_004/Event_004_08/event_004_08_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "じゃあ……、仕方ないかぁ。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "じゃあ……、仕方ないかぁ。"
+            },
             "voice": "event/Event_004/Event_004_08/event_004_08_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "こらっ、仕方ないわけないでしょっ。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "こらっ、仕方ないわけないでしょっ。"
+            },
             "voice": "event/Event_004/Event_004_08/event_004_08_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "『アントニオ。\nお兄ちゃんに提案がある』",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "『アントニオ。\nお兄ちゃんに提案がある』"
+            },
             "voice": "event/Event_004/Event_004_08/event_004_08_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "『なんだい？』",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "『なんだい？』"
+            },
             "voice": "event/Event_004/Event_004_08/event_004_08_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "『ここで祈ろう。\nそして鐘を鳴らしてハッピーエンドだ』",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "『ここで祈ろう。\nそして鐘を鳴らしてハッピーエンドだ』"
+            },
             "voice": "event/Event_004/Event_004_08/event_004_08_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "雑！\n終わらせ方、雑よ！",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "雑！\n終わらせ方、雑よ！"
+            },
             "voice": "event/Event_004/Event_004_08/event_004_08_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "『お兄ちゃん、3人で一緒に教会に行かないか？』",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "『お兄ちゃん、3人で一緒に教会に行かないか？』"
+            },
             "voice": "event/Event_004/Event_004_08/event_004_08_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "（……え？　どういうこと？）",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "（……え？　どういうこと？）"
+            },
             "voice": "event/Event_004/Event_004_08/event_004_08_015.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "『そうすればお兄ちゃんもパーティーに参加できるし』",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "『そうすればお兄ちゃんもパーティーに参加できるし』"
+            },
             "voice": "event/Event_004/Event_004_08/event_004_08_016.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "『教会には大人がたくさんいるから、\nそのおばちゃんだって悪さはできない』",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "『教会には大人がたくさんいるから、\nそのおばちゃんだって悪さはできない』"
+            },
             "voice": "event/Event_004/Event_004_08/event_004_08_017.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 0
             ],
-            "name": "子どもたち",
-            "message": "そうだ！　そうだ！　いいぞー！",
+            "name": {
+                "default": "子どもたち"
+            },
+            "message": {
+                "default": "そうだ！　そうだ！　いいぞー！"
+            },
             "voice": ""
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "『お姉ちゃん、悪い人じゃないんだけど！』",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "『お姉ちゃん、悪い人じゃないんだけど！』"
+            },
             "voice": "event/Event_004/Event_004_08/event_004_08_019.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "『悪者はみんなそう言うんだ』",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "『悪者はみんなそう言うんだ』"
+            },
             "voice": "event/Event_004/Event_004_08/event_004_08_020.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "『とりあえず、今は無理ってメールしとく』",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "『とりあえず、今は無理ってメールしとく』"
+            },
             "voice": "event/Event_004/Event_004_08/event_004_08_021.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "『なんだって？』",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "『なんだって？』"
+            },
             "voice": "event/Event_004/Event_004_08/event_004_08_022.mp3"
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "『お兄ちゃんも、教会のパーティーに行くことにするよ』",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "『お兄ちゃんも、教会のパーティーに行くことにするよ』"
+            },
             "voice": "event/Event_004/Event_004_08/event_004_08_023.mp3"
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "『わたし、病気で苦しいんだけど……』",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "『わたし、病気で苦しいんだけど……』"
+            },
             "voice": "event/Event_004/Event_004_08/event_004_08_024.mp3"
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "『2人でおぶっていくよ』",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "『2人でおぶっていくよ』"
+            },
             "voice": "event/Event_004/Event_004_08/event_004_08_025.mp3"
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "『僕たちは今までずっと、力を合わせて2人きりでやってきたんだ。\nこれからもずっとそうさ！』",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "『僕たちは今までずっと、力を合わせて2人きりでやってきたんだ。\nこれからもずっとそうさ！』"
+            },
             "voice": "event/Event_004/Event_004_08/event_004_08_026.mp3"
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "（どうしよう……、物語がぐちゃぐちゃになってく……。\nせっかくあんなにナレーションの特訓したのにぃ。）",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "（どうしよう……、物語がぐちゃぐちゃになってく……。\nせっかくあんなにナレーションの特訓したのにぃ。）"
+            },
             "voice": "event/Event_004/Event_004_08/event_004_08_027.mp3"
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "あいり……、あいり……！\n大丈夫だよ。このままいこう。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "あいり……、あいり……！\n大丈夫だよ。このままいこう。"
+            },
             "voice": "event/Event_004/Event_004_08/event_004_08_028.mp3"
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "千紗ちゃん……。でもどうやって？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "千紗ちゃん……。でもどうやって？"
+            },
             "voice": "event/Event_004/Event_004_08/event_004_08_029.mp3"
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "あいりはナレーションなんだから。神の声なんだから。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "あいりはナレーションなんだから。神の声なんだから。"
+            },
             "voice": "event/Event_004/Event_004_08/event_004_08_030.mp3"
         },
         {
@@ -276,8 +396,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "あいりが言った言葉には逆らえない。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "あいりが言った言葉には逆らえない。"
+            },
             "voice": "event/Event_004/Event_004_08/event_004_08_031.mp3"
         },
         {
@@ -285,8 +409,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "ずっと逆らわれてるけど。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "ずっと逆らわれてるけど。"
+            },
             "voice": "event/Event_004/Event_004_08/event_004_08_032.mp3"
         },
         {
@@ -294,8 +422,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "大丈夫、きっとうまくいくはず……！\nこのまま進むわよ。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "大丈夫、きっとうまくいくはず……！\nこのまま進むわよ。"
+            },
             "voice": "event/Event_004/Event_004_08/event_004_08_033.mp3"
         },
         {
@@ -303,8 +435,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "う、うん……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "う、うん……。"
+            },
             "voice": "event/Event_004/Event_004_08/event_004_08_034.mp3"
         }
     ]

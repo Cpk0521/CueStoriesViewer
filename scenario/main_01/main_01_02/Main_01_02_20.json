@@ -6,8 +6,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "ごめん！　ヘリの音が大きくてよく聞こえなくて！\nなに？　ユーキ！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "ごめん！　ヘリの音が大きくてよく聞こえなくて！\nなに？　ユーキ！"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_20/main_01_02_20_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "あのさ！\n晩御飯どうするの！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "あのさ！\n晩御飯どうするの！"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_20/main_01_02_20_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "ああ！　帰ってから食べる！\nラップして冷蔵庫いれといて！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "ああ！　帰ってから食べる！\nラップして冷蔵庫いれといて！"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_20/main_01_02_20_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "カレーだからさ！\n温めなおして食べてね！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "カレーだからさ！\n温めなおして食べてね！"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_20/main_01_02_20_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "わかった！\nそうだ！　ユーキ！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "わかった！\nそうだ！　ユーキ！"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_20/main_01_02_20_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "あの、その前にさ！\nヘリコプターの人がライフルであたしのこと狙ってるんだけど！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "あの、その前にさ！\nヘリコプターの人がライフルであたしのこと狙ってるんだけど！"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_20/main_01_02_20_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "本当？\nHey, Ms!",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "本当？\nHey, Ms!"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_20/main_01_02_20_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 0
             ],
-            "name": "女性SP",
-            "message": "What?",
+            "name": {
+                "default": "女性SP"
+            },
+            "message": {
+                "default": "What?"
+            },
             "voice": ""
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "Move the Heli somewhere!",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "Move the Heli somewhere!"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_20/main_01_02_20_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 0
             ],
-            "name": "女性SP",
-            "message": "Lady,  Got it. ",
+            "name": {
+                "default": "女性SP"
+            },
+            "message": {
+                "default": "Lady,  Got it. "
+            },
             "voice": ""
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "ごめん、もう大丈夫だから。\nユーキ、ヘリに向かって挑発するのやめて！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "ごめん、もう大丈夫だから。\nユーキ、ヘリに向かって挑発するのやめて！"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_20/main_01_02_20_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "了解。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "了解。"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_20/main_01_02_20_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "なにこれ？\nなにかのパーティー？",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "なにこれ？\nなにかのパーティー？"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_20/main_01_02_20_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "はぁ、そうなの。パパの付き合いで。\nもう、やんなっちゃう。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "はぁ、そうなの。パパの付き合いで。\nもう、やんなっちゃう。"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_20/main_01_02_20_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "ちょっと時間ないんだけどさ、\nユーキ、リーダー就任おめでとう！　アイリから聞いたよ。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "ちょっと時間ないんだけどさ、\nユーキ、リーダー就任おめでとう！　アイリから聞いたよ。"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_20/main_01_02_20_015.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "ありがとう。あたしもなんか言うことあったんだけど忘れた。\nリビングで待ってるから。遅くならないうちに帰ってね。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "ありがとう。あたしもなんか言うことあったんだけど忘れた。\nリビングで待ってるから。遅くならないうちに帰ってね。"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_20/main_01_02_20_016.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "うん、じゃあね。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "うん、じゃあね。"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_20/main_01_02_20_017.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "アラブの王子様がプライベートで来日してるそうよ。",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "アラブの王子様がプライベートで来日してるそうよ。"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_20/main_01_02_20_018.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "柚葉の、おばあさんからお聞きしました。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "柚葉の、おばあさんからお聞きしました。"
+            },
             "voice": ""
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "彼女はその、6番目の妻として、\n求婚されてるんですって。",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "彼女はその、6番目の妻として、\n求婚されてるんですって。"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_20/main_01_02_20_020.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "ほんもののプリンセスだ……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "ほんもののプリンセスだ……。"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_20/main_01_02_20_021.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "お蕎麦の食べ方なんかで、注意するんじゃなかった……。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "お蕎麦の食べ方なんかで、注意するんじゃなかった……。"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_20/main_01_02_20_022.mp3"
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "柚葉ちゃん……、いなくなっちゃうんですか？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "柚葉ちゃん……、いなくなっちゃうんですか？"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_20/main_01_02_20_023.mp3"
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "分からない。\n彼女次第ね。",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "分からない。\n彼女次第ね。"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_20/main_01_02_20_024.mp3"
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "ただいまぁ。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "ただいまぁ。"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_20/main_01_02_20_025.mp3"
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "あっ。柚葉おかえり。\nカレー温める？",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "あっ。柚葉おかえり。\nカレー温める？"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_20/main_01_02_20_026.mp3"
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "ありがとう、おねがい。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "ありがとう、おねがい。"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_20/main_01_02_20_027.mp3"
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "ちょっと、柚葉。みんなに謝るのが先でしょ？\n真咲さんもいらっしゃるんだから。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "ちょっと、柚葉。みんなに謝るのが先でしょ？\n真咲さんもいらっしゃるんだから。"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_20/main_01_02_20_028.mp3"
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "ごめんなさい。\n急なことで、連絡も出来なくて。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "ごめんなさい。\n急なことで、連絡も出来なくて。"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_20/main_01_02_20_029.mp3"
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "理由がどうあれ反省して頂戴。とにかく無事で良かった。\nマネージャー、悪いけどあとよろしくね、私も人を待たせてるから。",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "理由がどうあれ反省して頂戴。とにかく無事で良かった。\nマネージャー、悪いけどあとよろしくね、私も人を待たせてるから。"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_20/main_01_02_20_030.mp3"
         },
         {
@@ -276,8 +396,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "はい、わかりました。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "はい、わかりました。"
+            },
             "voice": ""
         },
         {
@@ -285,8 +409,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "柚葉ちゃん……、結婚するの？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "柚葉ちゃん……、結婚するの？"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_20/main_01_02_20_032.mp3"
         },
         {
@@ -294,8 +422,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "結婚？\nするわけないでしょ。断ってきたよ。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "結婚？\nするわけないでしょ。断ってきたよ。"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_20/main_01_02_20_033.mp3"
         },
         {
@@ -303,8 +435,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "なんでよ。\nアラブの王子なんでしょ？　もったいない。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "なんでよ。\nアラブの王子なんでしょ？　もったいない。"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_20/main_01_02_20_034.mp3"
         },
         {
@@ -312,8 +448,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "そんなことないよ～。\nだってそれが嫌で、ここに逃げ込んだんだよ？",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "そんなことないよ～。\nだってそれが嫌で、ここに逃げ込んだんだよ？"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_20/main_01_02_20_035.mp3"
         },
         {
@@ -321,8 +461,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "はぁ？\n逃げ込んだ？",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "はぁ？\n逃げ込んだ？"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_20/main_01_02_20_036.mp3"
         },
         {
@@ -330,8 +474,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "しつこいのよ。とにかく。パパは政略的に後押ししようとするし。\nだから直接会って、断ってきたの。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "しつこいのよ。とにかく。パパは政略的に後押ししようとするし。\nだから直接会って、断ってきたの。"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_20/main_01_02_20_037.mp3"
         },
         {
@@ -339,8 +487,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "街の、商店街で？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "街の、商店街で？"
+            },
             "voice": ""
         },
         {
@@ -348,8 +500,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "どこだって、君のためなら飛んでいくっていうから。\nほんとに飛んできちゃったのよね。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "どこだって、君のためなら飛んでいくっていうから。\nほんとに飛んできちゃったのよね。"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_20/main_01_02_20_039.mp3"
         },
         {
@@ -357,8 +513,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "ちょっとその前に、確認しておきたいことがあるんだけど。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "ちょっとその前に、確認しておきたいことがあるんだけど。"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_20/main_01_02_20_040.mp3"
         },
         {
@@ -366,8 +526,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "えっ？\nお蕎麦はちゃんとすすって食べるようにしてるけど。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "えっ？\nお蕎麦はちゃんとすすって食べるようにしてるけど。"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_20/main_01_02_20_041.mp3"
         },
         {
@@ -375,8 +539,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "そんなことじゃなくて。\nここに逃げ込んで来たとおっしゃいましたよね？",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "そんなことじゃなくて。\nここに逃げ込んで来たとおっしゃいましたよね？"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_20/main_01_02_20_042.mp3"
         },
         {
@@ -384,8 +552,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "うん。\nおっしゃった。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "うん。\nおっしゃった。"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_20/main_01_02_20_043.mp3"
         },
         {
@@ -393,8 +565,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "なに？　あんたにとって声優って、\n腰掛のアルバイトみたいな感じなの？",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "なに？　あんたにとって声優って、\n腰掛のアルバイトみたいな感じなの？"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_20/main_01_02_20_044.mp3"
         },
         {
@@ -402,8 +578,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "えっ？　違うよ。\nおもしろそうだからやりたいのよ。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "えっ？　違うよ。\nおもしろそうだからやりたいのよ。"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_20/main_01_02_20_045.mp3"
         },
         {
@@ -411,8 +591,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "はぁ？\nおもしろそう？",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "はぁ？\nおもしろそう？"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_20/main_01_02_20_046.mp3"
         }
     ]

@@ -6,8 +6,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "マネージャー、お疲れ様！\nうわ、もうこんな時間かー。早く帰らないと。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "マネージャー、お疲れ様！\nうわ、もうこんな時間かー。早く帰らないと。"
+            },
             "voice": "audition/story_01/heroine_12/HM_Sub_01_12_26/hm_sub_01_12_26_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "この後、なにか用事でもあるの？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "この後、なにか用事でもあるの？"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "ううん、寮に帰るだけだよ。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "ううん、寮に帰るだけだよ。"
+            },
             "voice": "audition/story_01/heroine_12/HM_Sub_01_12_26/hm_sub_01_12_26_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "あたし、昨日も帰りが遅かったんだけどさ……。\n美晴たちがね、夕飯食べるの待っててくれたんだ。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "あたし、昨日も帰りが遅かったんだけどさ……。\n美晴たちがね、夕飯食べるの待っててくれたんだ。"
+            },
             "voice": "audition/story_01/heroine_12/HM_Sub_01_12_26/hm_sub_01_12_26_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "本当にありがたいよねー。\nってわけで、あたしはダッシュで帰ります！",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "本当にありがたいよねー。\nってわけで、あたしはダッシュで帰ります！"
+            },
             "voice": "audition/story_01/heroine_12/HM_Sub_01_12_26/hm_sub_01_12_26_005.mp3"
         }
     ]

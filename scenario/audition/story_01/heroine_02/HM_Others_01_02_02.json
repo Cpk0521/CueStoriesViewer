@@ -6,8 +6,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "一次審査頑張ってね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "一次審査頑張ってね。"
+            },
             "voice": ""
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "はい！　任せてください。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "はい！　任せてください。"
+            },
             "voice": "audition/story_01/heroine_02/HM_Others_01_02_02/hm_others_01_02_02_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "この先は長いんだし、こんなところで躓けないっすよ。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "この先は長いんだし、こんなところで躓けないっすよ。"
+            },
             "voice": "audition/story_01/heroine_02/HM_Others_01_02_02/hm_others_01_02_02_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "それにマネージャーにも手伝ってもらって\n準備、バッチリっす！",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "それにマネージャーにも手伝ってもらって\n準備、バッチリっす！"
+            },
             "voice": "audition/story_01/heroine_02/HM_Others_01_02_02/hm_others_01_02_02_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "それじゃ、行ってきまーす。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "それじゃ、行ってきまーす。"
+            },
             "voice": "audition/story_01/heroine_02/HM_Others_01_02_02/hm_others_01_02_02_005.mp3"
         }
     ]

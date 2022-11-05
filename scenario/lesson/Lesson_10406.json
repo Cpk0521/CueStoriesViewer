@@ -6,8 +6,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "何て言うか、つまり……。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "何て言うか、つまり……。"
+            },
             "voice": "lesson/Lesson_10406/lesson_10406_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "ハッキリ言いなさい……。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "ハッキリ言いなさい……。"
+            },
             "voice": "lesson/Lesson_10406/lesson_10406_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "母さんのアドバイスをもらいたいの！",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "母さんのアドバイスをもらいたいの！"
+            },
             "voice": "lesson/Lesson_10406/lesson_10406_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "……言えたじゃない。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "……言えたじゃない。"
+            },
             "voice": "lesson/Lesson_10406/lesson_10406_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "母さん、何てアドバイスするかな？",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "母さん、何てアドバイスするかな？"
+            },
             "voice": "lesson/Lesson_10406/lesson_10406_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "そんなの分かんないよ。\n電話して確かめてみたら？",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "そんなの分かんないよ。\n電話して確かめてみたら？"
+            },
             "voice": "lesson/Lesson_10406/lesson_10406_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "そうする。\nありがとね。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "そうする。\nありがとね。"
+            },
             "voice": "lesson/Lesson_10406/lesson_10406_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "あれ？\nマネージャー、いたんだ？",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "あれ？\nマネージャー、いたんだ？"
+            },
             "voice": "lesson/Lesson_10406/lesson_10406_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "さっき、何か大きな声出してなかった？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "さっき、何か大きな声出してなかった？"
+            },
             "voice": ""
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "ああ……。\nあれはまぁ、いろいろあって。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "ああ……。\nあれはまぁ、いろいろあって。"
+            },
             "voice": "lesson/Lesson_10406/lesson_10406_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "鳴、電話したよ。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "鳴、電話したよ。"
+            },
             "voice": "lesson/Lesson_10406/lesson_10406_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "え、もう終わったの？\n……早いね。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "え、もう終わったの？\n……早いね。"
+            },
             "voice": "lesson/Lesson_10406/lesson_10406_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "誰に電話したの？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "誰に電話したの？"
+            },
             "voice": ""
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "母さんです。\nアドバイスをもらおうと思って。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "母さんです。\nアドバイスをもらおうと思って。"
+            },
             "voice": "lesson/Lesson_10406/lesson_10406_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "言っていいの？",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "言っていいの？"
+            },
             "voice": "lesson/Lesson_10406/lesson_10406_015.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "マネージャーさんなら、いいよ。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "マネージャーさんなら、いいよ。"
+            },
             "voice": "lesson/Lesson_10406/lesson_10406_016.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "お母さんのアドバイス、何だったの？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "お母さんのアドバイス、何だったの？"
+            },
             "voice": ""
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "何もアドバイスくれませんでした。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "何もアドバイスくれませんでした。"
+            },
             "voice": "lesson/Lesson_10406/lesson_10406_018.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "えっ？\nくれなかったの？",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "えっ？\nくれなかったの？"
+            },
             "voice": "lesson/Lesson_10406/lesson_10406_019.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "母さんは、今までいっぱい失敗してきた。\nその中で、たくさんのことを学んだ。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "母さんは、今までいっぱい失敗してきた。\nその中で、たくさんのことを学んだ。"
+            },
             "voice": "lesson/Lesson_10406/lesson_10406_020.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "だから、簡単にアドバイスなんか求めないで、自分で学べって。\nいっぱい失敗しろって。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "だから、簡単にアドバイスなんか求めないで、自分で学べって。\nいっぱい失敗しろって。"
+            },
             "voice": "lesson/Lesson_10406/lesson_10406_021.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "そうなんだ……。\n電話しなきゃよかったね。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "そうなんだ……。\n電話しなきゃよかったね。"
+            },
             "voice": "lesson/Lesson_10406/lesson_10406_022.mp3"
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "いや、電話してよかったよ。\nだって母さんは、私を声優として認めてくれたってことでしょ？",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "いや、電話してよかったよ。\nだって母さんは、私を声優として認めてくれたってことでしょ？"
+            },
             "voice": "lesson/Lesson_10406/lesson_10406_023.mp3"
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "うん。\nそう思う。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "うん。\nそう思う。"
+            },
             "voice": ""
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "どんなアドバイスより、ありがたい言葉だったよ。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "どんなアドバイスより、ありがたい言葉だったよ。"
+            },
             "voice": "lesson/Lesson_10406/lesson_10406_025.mp3"
         }
     ]

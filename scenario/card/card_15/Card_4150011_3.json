@@ -6,8 +6,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "うん。みんな、もう大丈夫だよ！\nすぐ元どおりにしてあげる！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "うん。みんな、もう大丈夫だよ！\nすぐ元どおりにしてあげる！"
+            },
             "voice": "card/Card_15/Card_4150011_3/card_4150011_3_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "え？　元どおりに……、って、どういうこと？",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "え？　元どおりに……、って、どういうこと？"
+            },
             "voice": "card/Card_15/Card_4150011_3/card_4150011_3_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "これ、しほりんから借りた数珠。\nあとお経もいくつか教えてもらってきた！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "これ、しほりんから借りた数珠。\nあとお経もいくつか教えてもらってきた！"
+            },
             "voice": "card/Card_15/Card_4150011_3/card_4150011_3_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "しほりんは、\n悪霊なんていない、気のせいだとかなんとか言ってたけど！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "しほりんは、\n悪霊なんていない、気のせいだとかなんとか言ってたけど！"
+            },
             "voice": "card/Card_15/Card_4150011_3/card_4150011_3_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "わたしはこれしかないって思ったから！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "わたしはこれしかないって思ったから！"
+            },
             "voice": "card/Card_15/Card_4150011_3/card_4150011_3_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "えーっと……。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "えーっと……。"
+            },
             "voice": "card/Card_15/Card_4150011_3/card_4150011_3_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "今からお経唱えるから、ちょっと苦しいかもしれないけど、\nみんなのためだから！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "今からお経唱えるから、ちょっと苦しいかもしれないけど、\nみんなのためだから！"
+            },
             "voice": "card/Card_15/Card_4150011_3/card_4150011_3_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "我慢だよ？　ね、我慢。お願いだよ？",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "我慢だよ？　ね、我慢。お願いだよ？"
+            },
             "voice": "card/Card_15/Card_4150011_3/card_4150011_3_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "こ、これは……。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "こ、これは……。"
+            },
             "voice": "card/Card_15/Card_4150011_3/card_4150011_3_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "こんな斜め上の方向に行くなんて……。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "こんな斜め上の方向に行くなんて……。"
+            },
             "voice": "card/Card_15/Card_4150011_3/card_4150011_3_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "どうしよう。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "どうしよう。"
+            },
             "voice": "card/Card_15/Card_4150011_3/card_4150011_3_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "じゃあ、いくよ。\nえーっと、まずはこれから唱えれば……。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "じゃあ、いくよ。\nえーっと、まずはこれから唱えれば……。"
+            },
             "voice": "card/Card_15/Card_4150011_3/card_4150011_3_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "凛音！　ハッピーバースデー！",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "凛音！　ハッピーバースデー！"
+            },
             "voice": ""
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "え？　マネージャーさん！？",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "え？　マネージャーさん！？"
+            },
             "voice": "card/Card_15/Card_4150011_3/card_4150011_3_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "利恵。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "利恵。"
+            },
             "voice": "card/Card_15/Card_4150011_3/card_4150011_3_015.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "やっと来た！",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "やっと来た！"
+            },
             "voice": "card/Card_15/Card_4150011_3/card_4150011_3_016.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "行くよ。せーの。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "行くよ。せーの。"
+            },
             "voice": "card/Card_15/Card_4150011_3/card_4150011_3_017.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "わ！　わわっ！　",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "わ！　わわっ！　"
+            },
             "voice": "card/Card_15/Card_4150011_3/card_4150011_3_018.mp3"
         },
         {
@@ -170,8 +242,12 @@
                 13,
                 16
             ],
-            "name": "3人",
-            "message": "ハッピーバースデー！！",
+            "name": {
+                "default": "3人"
+            },
+            "message": {
+                "default": "ハッピーバースデー！！"
+            },
             "voice": "card/Card_15/Card_4150011_3/card_4150011_3_019.mp3"
         },
         {
@@ -179,8 +255,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "え？　え？　どういうこと？",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "え？　え？　どういうこと？"
+            },
             "voice": "card/Card_15/Card_4150011_3/card_4150011_3_020.mp3"
         },
         {
@@ -188,8 +268,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "みんな、悪霊に取り憑かれてたんじゃ……。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "みんな、悪霊に取り憑かれてたんじゃ……。"
+            },
             "voice": "card/Card_15/Card_4150011_3/card_4150011_3_021.mp3"
         },
         {
@@ -197,8 +281,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "そ、そのことなんだけど、ごめんね！　凛音。\n我輩たち、ちょっと凛音を驚かそうと思って。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "そ、そのことなんだけど、ごめんね！　凛音。\n我輩たち、ちょっと凛音を驚かそうと思って。"
+            },
             "voice": "card/Card_15/Card_4150011_3/card_4150011_3_022.mp3"
         },
         {
@@ -206,8 +294,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "ごめんなさい。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "ごめんなさい。"
+            },
             "voice": "card/Card_15/Card_4150011_3/card_4150011_3_023.mp3"
         },
         {
@@ -215,8 +307,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "感情の差が激しいほうがより喜んでもらえると思って。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "感情の差が激しいほうがより喜んでもらえると思って。"
+            },
             "voice": "card/Card_15/Card_4150011_3/card_4150011_3_024.mp3"
         },
         {
@@ -224,8 +320,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "えーっと……、じゃあ、悪霊に取り憑かれてたわけじゃない？ ",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "えーっと……、じゃあ、悪霊に取り憑かれてたわけじゃない？ "
+            },
             "voice": "card/Card_15/Card_4150011_3/card_4150011_3_025.mp3"
         },
         {
@@ -233,8 +333,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "そう。ほんと、ごめんね。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "そう。ほんと、ごめんね。"
+            },
             "voice": "card/Card_15/Card_4150011_3/card_4150011_3_026.mp3"
         },
         {
@@ -242,8 +346,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "……良かった。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "……良かった。"
+            },
             "voice": "card/Card_15/Card_4150011_3/card_4150011_3_027.mp3"
         },
         {
@@ -251,8 +359,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "凛音？",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "凛音？"
+            },
             "voice": "card/Card_15/Card_4150011_3/card_4150011_3_028.mp3"
         },
         {
@@ -260,8 +372,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "本当に良かったよー！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "本当に良かったよー！"
+            },
             "voice": "card/Card_15/Card_4150011_3/card_4150011_3_029.mp3"
         },
         {
@@ -269,8 +385,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "わたし、しほりんから数珠とか借りてきたけど、\nホントに出来るか自信なかったからー！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "わたし、しほりんから数珠とか借りてきたけど、\nホントに出来るか自信なかったからー！"
+            },
             "voice": "card/Card_15/Card_4150011_3/card_4150011_3_030.mp3"
         },
         {
@@ -278,8 +398,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "良かったー……、ホントに良かったよー！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "良かったー……、ホントに良かったよー！"
+            },
             "voice": "card/Card_15/Card_4150011_3/card_4150011_3_031.mp3"
         },
         {
@@ -287,8 +411,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "ホント、悪霊じゃなくて良かったー！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "ホント、悪霊じゃなくて良かったー！"
+            },
             "voice": "card/Card_15/Card_4150011_3/card_4150011_3_032.mp3"
         },
         {
@@ -296,8 +424,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "えっ？　悪霊？　っていうか、なんで凛音は泣いてるの？\n頼まれていたケーキとご馳走持ってきたけど……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "えっ？　悪霊？　っていうか、なんで凛音は泣いてるの？\n頼まれていたケーキとご馳走持ってきたけど……。"
+            },
             "voice": ""
         },
         {
@@ -305,8 +437,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "あっ、マネージャーさん、ありがとうございます。\nほら、凛音。ケーキとご馳走食べよう。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "あっ、マネージャーさん、ありがとうございます。\nほら、凛音。ケーキとご馳走食べよう。"
+            },
             "voice": "card/Card_15/Card_4150011_3/card_4150011_3_034.mp3"
         },
         {
@@ -314,8 +450,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "ぐすっ……、うん！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "ぐすっ……、うん！"
+            },
             "voice": "card/Card_15/Card_4150011_3/card_4150011_3_035.mp3"
         },
         {
@@ -323,8 +463,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "あ、凛音。これを肩にかけてね。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "あ、凛音。これを肩にかけてね。"
+            },
             "voice": "card/Card_15/Card_4150011_3/card_4150011_3_036.mp3"
         },
         {
@@ -332,8 +476,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "これって？",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "これって？"
+            },
             "voice": "card/Card_15/Card_4150011_3/card_4150011_3_037.mp3"
         },
         {
@@ -341,8 +489,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "凛音さんが主役だから。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "凛音さんが主役だから。"
+            },
             "voice": "card/Card_15/Card_4150011_3/card_4150011_3_038.mp3"
         },
         {
@@ -350,8 +502,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "おおー！　すごーい！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "おおー！　すごーい！"
+            },
             "voice": "card/Card_15/Card_4150011_3/card_4150011_3_039.mp3"
         },
         {
@@ -359,8 +515,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "それじゃ改めて。凛音、誕生日おめでとう。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "それじゃ改めて。凛音、誕生日おめでとう。"
+            },
             "voice": "card/Card_15/Card_4150011_3/card_4150011_3_040.mp3"
         },
         {
@@ -368,8 +528,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "凛音さん、おめでとう。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "凛音さん、おめでとう。"
+            },
             "voice": "card/Card_15/Card_4150011_3/card_4150011_3_041.mp3"
         },
         {
@@ -377,8 +541,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "おめでとう。凛音。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "おめでとう。凛音。"
+            },
             "voice": "card/Card_15/Card_4150011_3/card_4150011_3_042.mp3"
         },
         {
@@ -386,8 +554,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "誕生日おめでとう。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "誕生日おめでとう。"
+            },
             "voice": ""
         },
         {
@@ -395,8 +567,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "えへへ！　みんな、ありがとう！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "えへへ！　みんな、ありがとう！"
+            },
             "voice": "card/Card_15/Card_4150011_3/card_4150011_3_044.mp3"
         },
         {
@@ -404,8 +580,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "一応、成功……、なのかな？",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "一応、成功……、なのかな？"
+            },
             "voice": "card/Card_15/Card_4150011_3/card_4150011_3_045.mp3"
         },
         {
@@ -413,8 +593,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "うん。でも……。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "うん。でも……。"
+            },
             "voice": "card/Card_15/Card_4150011_3/card_4150011_3_046.mp3"
         },
         {
@@ -422,8 +606,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "えぇ。二度とやらないわ。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "えぇ。二度とやらないわ。"
+            },
             "voice": "card/Card_15/Card_4150011_3/card_4150011_3_047.mp3"
         },
         {
@@ -431,8 +619,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "えへへー。ありがとう！　ありがとうー！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "えへへー。ありがとう！　ありがとうー！"
+            },
             "voice": "card/Card_15/Card_4150011_3/card_4150011_3_048.mp3"
         }
     ]

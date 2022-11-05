@@ -6,8 +6,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "繰り返される毎日から脱出するため、\nなるちゃんが提案したこと。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "繰り返される毎日から脱出するため、\nなるちゃんが提案したこと。"
+            },
             "voice": "event/Event_006/Event_006_07/event_006_07_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "わたしは早速、行動を起こすことにしたんだ。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "わたしは早速、行動を起こすことにしたんだ。"
+            },
             "voice": "event/Event_006/Event_006_07/event_006_07_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "おっはよー、さとちん！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "おっはよー、さとちん！"
+            },
             "voice": "event/Event_006/Event_006_07/event_006_07_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "おはよう、聡里さん。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "おはよう、聡里さん。"
+            },
             "voice": "event/Event_006/Event_006_07/event_006_07_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "おはよう。珍しいね。2人で起きてくるなんて。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "おはよう。珍しいね。2人で起きてくるなんて。"
+            },
             "voice": "event/Event_006/Event_006_07/event_006_07_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "ねぇ、利恵は卵焼き作ってる？",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "ねぇ、利恵は卵焼き作ってる？"
+            },
             "voice": "event/Event_006/Event_006_07/event_006_07_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "うん？　今、朝ご飯を作ってくれてるよ。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "うん？　今、朝ご飯を作ってくれてるよ。"
+            },
             "voice": "event/Event_006/Event_006_07/event_006_07_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "凛音、鳴、おはよう。\n2人も我輩の特製卵焼き、食べる？",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "凛音、鳴、おはよう。\n2人も我輩の特製卵焼き、食べる？"
+            },
             "voice": "event/Event_006/Event_006_07/event_006_07_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "隠し味の白だしはもう入れた？",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "隠し味の白だしはもう入れた？"
+            },
             "voice": "event/Event_006/Event_006_07/event_006_07_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "え？　なんで知ってるの？\n今から入れるところだよ。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "え？　なんで知ってるの？\n今から入れるところだよ。"
+            },
             "voice": "event/Event_006/Event_006_07/event_006_07_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "冷蔵庫に同じ容器がもう1つあるから気を付けて。\n手前のやつ。中身はせんぶり茶だから。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "冷蔵庫に同じ容器がもう1つあるから気を付けて。\n手前のやつ。中身はせんぶり茶だから。"
+            },
             "voice": "event/Event_006/Event_006_07/event_006_07_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "あれ、せんぶり茶だったの？\n危うく入れるところだったよ。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "あれ、せんぶり茶だったの？\n危うく入れるところだったよ。"
+            },
             "voice": "event/Event_006/Event_006_07/event_006_07_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "はいこれ。リエンヌのお母さんの特製白だし。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "はいこれ。リエンヌのお母さんの特製白だし。"
+            },
             "voice": "event/Event_006/Event_006_07/event_006_07_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "これで、おいしい卵焼きを作ってよ。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "これで、おいしい卵焼きを作ってよ。"
+            },
             "voice": "event/Event_006/Event_006_07/event_006_07_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "う、うん。もちろん。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "う、うん。もちろん。"
+            },
             "voice": "event/Event_006/Event_006_07/event_006_07_015.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "私も食べるから。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "私も食べるから。"
+            },
             "voice": "event/Event_006/Event_006_07/event_006_07_016.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "え？　鳴も食べるの？\n普段、朝ご飯食べないのに、珍しいね。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "え？　鳴も食べるの？\n普段、朝ご飯食べないのに、珍しいね。"
+            },
             "voice": "event/Event_006/Event_006_07/event_006_07_017.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "そうだね。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "そうだね。"
+            },
             "voice": "event/Event_006/Event_006_07/event_006_07_018.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "卵焼き、出来たよ～。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "卵焼き、出来たよ～。"
+            },
             "voice": "event/Event_006/Event_006_07/event_006_07_019.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "ありがとう。運ぶの手伝うよ。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "ありがとう。運ぶの手伝うよ。"
+            },
             "voice": "event/Event_006/Event_006_07/event_006_07_020.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "たっまごやき！　たっまごやき！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "たっまごやき！　たっまごやき！"
+            },
             "voice": "event/Event_006/Event_006_07/event_006_07_021.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "あ！ ",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "あ！ "
+            },
             "voice": "event/Event_006/Event_006_07/event_006_07_022.mp3"
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "……よっと！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "……よっと！"
+            },
             "voice": "event/Event_006/Event_006_07/event_006_07_023.mp3"
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "凛音、すごい！　空中で卵焼きをキャッチした！",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "凛音、すごい！　空中で卵焼きをキャッチした！"
+            },
             "voice": "event/Event_006/Event_006_07/event_006_07_024.mp3"
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "はい、さとちん。気をつけて。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "はい、さとちん。気をつけて。"
+            },
             "voice": "event/Event_006/Event_006_07/event_006_07_025.mp3"
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "あ、ありがとう。助かったよ。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "あ、ありがとう。助かったよ。"
+            },
             "voice": "event/Event_006/Event_006_07/event_006_07_026.mp3"
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "ふふんっ。　じゃ、食べよう。いただきま～す！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "ふふんっ。　じゃ、食べよう。いただきま～す！"
+            },
             "voice": "event/Event_006/Event_006_07/event_006_07_027.mp3"
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "いただきます。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "いただきます。"
+            },
             "voice": "event/Event_006/Event_006_07/event_006_07_028.mp3"
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "いただきます。\n……うん、おいしいね、卵焼き！",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "いただきます。\n……うん、おいしいね、卵焼き！"
+            },
             "voice": "event/Event_006/Event_006_07/event_006_07_029.mp3"
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "白だしが利いてるね。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "白だしが利いてるね。"
+            },
             "voice": "event/Event_006/Event_006_07/event_006_07_030.mp3"
         },
         {
@@ -276,8 +396,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "うー！　初めてリエンヌのおいしい卵焼き食べたよー。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "うー！　初めてリエンヌのおいしい卵焼き食べたよー。"
+            },
             "voice": "event/Event_006/Event_006_07/event_006_07_031.mp3"
         },
         {
@@ -285,8 +409,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "人聞きの悪いこと言わないでよ。\n我輩の卵焼き食べるの初めてでしょ。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "人聞きの悪いこと言わないでよ。\n我輩の卵焼き食べるの初めてでしょ。"
+            },
             "voice": "event/Event_006/Event_006_07/event_006_07_032.mp3"
         },
         {
@@ -294,8 +422,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "えへへ、そうだったー。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "えへへ、そうだったー。"
+            },
             "voice": "event/Event_006/Event_006_07/event_006_07_033.mp3"
         },
         {
@@ -303,8 +435,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "本当にこれで、何かが変わるの？",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "本当にこれで、何かが変わるの？"
+            },
             "voice": "event/Event_006/Event_006_07/event_006_07_034.mp3"
         },
         {
@@ -312,8 +448,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "わからない。でも可能性はある。\nバタフライ効果って知ってる？",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "わからない。でも可能性はある。\nバタフライ効果って知ってる？"
+            },
             "voice": "event/Event_006/Event_006_07/event_006_07_035.mp3"
         },
         {
@@ -321,8 +461,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "バタフライ効果……？",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "バタフライ効果……？"
+            },
             "voice": "event/Event_006/Event_006_07/event_006_07_036.mp3"
         },
         {
@@ -330,8 +474,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "ほんのわずかな変化が、大きな変化につながるってこと。\n目には見えない因果関係が、めぐりめぐってる。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "ほんのわずかな変化が、大きな変化につながるってこと。\n目には見えない因果関係が、めぐりめぐってる。"
+            },
             "voice": "event/Event_006/Event_006_07/event_006_07_037.mp3"
         },
         {
@@ -339,8 +487,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "利恵のまずい卵焼きが、おいしい卵焼きに変わる。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "利恵のまずい卵焼きが、おいしい卵焼きに変わる。"
+            },
             "voice": "event/Event_006/Event_006_07/event_006_07_038.mp3"
         },
         {
@@ -348,8 +500,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "それだけで、今後の展開に、大きな変化があるかもしれない。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "それだけで、今後の展開に、大きな変化があるかもしれない。"
+            },
             "voice": "event/Event_006/Event_006_07/event_006_07_039.mp3"
         },
         {
@@ -357,8 +513,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "そうなんだー。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "そうなんだー。"
+            },
             "voice": "event/Event_006/Event_006_07/event_006_07_040.mp3"
         },
         {
@@ -366,8 +526,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "……雷が鳴るのは何時だっけ？",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "……雷が鳴るのは何時だっけ？"
+            },
             "voice": "event/Event_006/Event_006_07/event_006_07_041.mp3"
         },
         {
@@ -375,8 +539,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "雷はえっと、9時40分かな。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "雷はえっと、9時40分かな。"
+            },
             "voice": "event/Event_006/Event_006_07/event_006_07_042.mp3"
         },
         {
@@ -384,8 +552,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "てことは……、あれ？　もう過ぎてる！\n停電にもなってない！　こんなの初めて！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "てことは……、あれ？　もう過ぎてる！\n停電にもなってない！　こんなの初めて！"
+            },
             "voice": "event/Event_006/Event_006_07/event_006_07_043.mp3"
         },
         {
@@ -393,8 +565,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "リエンヌの卵焼きがおいしくなったせいで、\n雷がなくなったってこと！？",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "リエンヌの卵焼きがおいしくなったせいで、\n雷がなくなったってこと！？"
+            },
             "voice": "event/Event_006/Event_006_07/event_006_07_044.mp3"
         },
         {
@@ -402,8 +578,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "そうだね。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "そうだね。"
+            },
             "voice": "event/Event_006/Event_006_07/event_006_07_045.mp3"
         },
         {
@@ -411,8 +591,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "じゃあ、これで同じ毎日を脱出出来るってこと？\n明日が来るの？",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "じゃあ、これで同じ毎日を脱出出来るってこと？\n明日が来るの？"
+            },
             "voice": "event/Event_006/Event_006_07/event_006_07_046.mp3"
         },
         {
@@ -420,8 +604,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "どうだろう。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "どうだろう。"
+            },
             "voice": "event/Event_006/Event_006_07/event_006_07_047.mp3"
         },
         {
@@ -429,8 +617,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "さとちん、どこ行くの？",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "さとちん、どこ行くの？"
+            },
             "voice": "event/Event_006/Event_006_07/event_006_07_048.mp3"
         },
         {
@@ -438,8 +630,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "図書館よ。\n霧が晴れてないから、行くかどうか迷ったけど。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "図書館よ。\n霧が晴れてないから、行くかどうか迷ったけど。"
+            },
             "voice": "event/Event_006/Event_006_07/event_006_07_049.mp3"
         },
         {
@@ -447,8 +643,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "そっか、雷が鳴らないから、\nさとちんは図書館に行けるんだ。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "そっか、雷が鳴らないから、\nさとちんは図書館に行けるんだ。"
+            },
             "voice": "event/Event_006/Event_006_07/event_006_07_050.mp3"
         },
         {
@@ -456,8 +656,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "ん？　なんの話？",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "ん？　なんの話？"
+            },
             "voice": "event/Event_006/Event_006_07/event_006_07_051.mp3"
         },
         {
@@ -465,8 +669,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "ううん、なんでもない！\nさとちん、いってらっしゃーい！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "ううん、なんでもない！\nさとちん、いってらっしゃーい！"
+            },
             "voice": "event/Event_006/Event_006_07/event_006_07_052.mp3"
         },
         {
@@ -474,8 +682,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "うん、いってきます。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "うん、いってきます。"
+            },
             "voice": "event/Event_006/Event_006_07/event_006_07_053.mp3"
         },
         {
@@ -483,8 +695,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "色々と、変化が起きてるみたいだね。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "色々と、変化が起きてるみたいだね。"
+            },
             "voice": "event/Event_006/Event_006_07/event_006_07_054.mp3"
         },
         {
@@ -492,8 +708,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "うん！　これでタイムループが終わればいいけど。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "うん！　これでタイムループが終わればいいけど。"
+            },
             "voice": "event/Event_006/Event_006_07/event_006_07_055.mp3"
         },
         {
@@ -501,8 +721,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "そうだね。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "そうだね。"
+            },
             "voice": "event/Event_006/Event_006_07/event_006_07_056.mp3"
         },
         {
@@ -510,8 +734,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "こんにちは。すごい霧だね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "こんにちは。すごい霧だね。"
+            },
             "voice": ""
         },
         {
@@ -519,8 +747,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "あれ？　マネージャーさん、どうしたんですか？",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "あれ？　マネージャーさん、どうしたんですか？"
+            },
             "voice": "event/Event_006/Event_006_07/event_006_07_058.mp3"
         },
         {
@@ -528,8 +760,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "うん……、実は凛音に話があって。\n電話より、直接話した方がいいと思ったから。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "うん……、実は凛音に話があって。\n電話より、直接話した方がいいと思ったから。"
+            },
             "voice": ""
         },
         {
@@ -537,8 +773,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "そうなんですか？　何があったんですか？",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "そうなんですか？　何があったんですか？"
+            },
             "voice": "event/Event_006/Event_006_07/event_006_07_060.mp3"
         },
         {
@@ -546,8 +786,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "今日のオーディション……、急きょなしになった。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "今日のオーディション……、急きょなしになった。"
+            },
             "voice": ""
         },
         {
@@ -555,8 +799,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "えぇ！？",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "えぇ！？"
+            },
             "voice": "event/Event_006/Event_006_07/event_006_07_062.mp3"
         },
         {
@@ -564,8 +812,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "どうしてですか？",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "どうしてですか？"
+            },
             "voice": "event/Event_006/Event_006_07/event_006_07_063.mp3"
         },
         {
@@ -573,8 +825,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "それがわかんないんだよね。\n先方からいきなり電話があって。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "それがわかんないんだよね。\n先方からいきなり電話があって。"
+            },
             "voice": ""
         },
         {
@@ -582,8 +838,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "そ、そんな……。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "そ、そんな……。"
+            },
             "voice": "event/Event_006/Event_006_07/event_006_07_065.mp3"
         }
     ]

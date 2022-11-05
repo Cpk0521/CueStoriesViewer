@@ -6,8 +6,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "お疲れ様でーす……って、あれ？\nマネージャー、志穂見てないっすか？",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "お疲れ様でーす……って、あれ？\nマネージャー、志穂見てないっすか？"
+            },
             "voice": "audition/story_01/heroine_03/HM_Cast_01_03_02_03/hm_cast_01_03_02_03_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "お疲れ、舞花。\nあぁ、志穂ならそこに……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "お疲れ、舞花。\nあぁ、志穂ならそこに……。"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "……。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "……。"
+            },
             "voice": "audition/story_01/heroine_03/HM_Cast_01_03_02_03/hm_cast_01_03_02_03_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "え、寝てんの？",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "え、寝てんの？"
+            },
             "voice": "audition/story_01/heroine_03/HM_Cast_01_03_02_03/hm_cast_01_03_02_03_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "うん。さっきまでは起きてたんだけどね。\n疲れてるのかも。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "うん。さっきまでは起きてたんだけどね。\n疲れてるのかも。"
+            },
             "voice": ""
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "そうすっか……。\nうーん、待たせちゃったかな。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "そうすっか……。\nうーん、待たせちゃったかな。"
+            },
             "voice": "audition/story_01/heroine_03/HM_Cast_01_03_02_03/hm_cast_01_03_02_03_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "でも、こうやって寝てる志穂って、なんかかわいいっすよね。\nへへ、家のこと思い出すっていうか。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "でも、こうやって寝てる志穂って、なんかかわいいっすよね。\nへへ、家のこと思い出すっていうか。"
+            },
             "voice": "audition/story_01/heroine_03/HM_Cast_01_03_02_03/hm_cast_01_03_02_03_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "……起きててもかわいいだろ。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "……起きててもかわいいだろ。"
+            },
             "voice": "audition/story_01/heroine_03/HM_Cast_01_03_02_03/hm_cast_01_03_02_03_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "うわあっ！？　びっくりしたぁ……。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "うわあっ！？　びっくりしたぁ……。"
+            },
             "voice": "audition/story_01/heroine_03/HM_Cast_01_03_02_03/hm_cast_01_03_02_03_009.mp3"
         }
     ]

@@ -6,8 +6,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "……そっか。\nダメだったんですね。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "……そっか。\nダメだったんですね。"
+            },
             "voice": "audition/story_01/heroine_15/HM_Ending_01_15_03/hm_ending_01_15_03_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "わたし……頑張ったんだけどなあ。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "わたし……頑張ったんだけどなあ。"
+            },
             "voice": "audition/story_01/heroine_15/HM_Ending_01_15_03/hm_ending_01_15_03_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "……ううん、でも。\nまだまだ頑張ります。この気持ちも、無駄にしません！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "……ううん、でも。\nまだまだ頑張ります。この気持ちも、無駄にしません！"
+            },
             "voice": "audition/story_01/heroine_15/HM_Ending_01_15_03/hm_ending_01_15_03_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "またお仕事もらって、\nみんなを……笑顔にしてみせます！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "またお仕事もらって、\nみんなを……笑顔にしてみせます！"
+            },
             "voice": "audition/story_01/heroine_15/HM_Ending_01_15_03/hm_ending_01_15_03_004.mp3"
         }
     ]

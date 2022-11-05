@@ -6,8 +6,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "この前、街中で声をかけられたんです。\nあっ、ナンパとかそういう怖いのじゃなくて……。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "この前、街中で声をかけられたんです。\nあっ、ナンパとかそういう怖いのじゃなくて……。"
+            },
             "voice": "audition/story_01/heroine_10/HM_Sub_01_10_16/hm_sub_01_10_16_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "読者モデルしませんかって、言われたんですけど、\n私、びっくりしちゃって。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "読者モデルしませんかって、言われたんですけど、\n私、びっくりしちゃって。"
+            },
             "voice": "audition/story_01/heroine_10/HM_Sub_01_10_16/hm_sub_01_10_16_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "本当に、こういうスカウト？　ってあるんですね……。\n漫画の世界みたい。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "本当に、こういうスカウト？　ってあるんですね……。\n漫画の世界みたい。"
+            },
             "voice": "audition/story_01/heroine_10/HM_Sub_01_10_16/hm_sub_01_10_16_004.mp3"
         }
     ]

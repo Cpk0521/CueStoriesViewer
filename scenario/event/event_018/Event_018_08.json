@@ -6,8 +6,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "どうしたの兄さんたち、\nそんな怖い顔して。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "どうしたの兄さんたち、\nそんな怖い顔して。"
+            },
             "voice": "event/Event_018/Event_018_08/event_018_08_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "此処にいたのか。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "此処にいたのか。"
+            },
             "voice": "event/Event_018/Event_018_08/event_018_08_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "先生が最後にいけられた……。\nこの応接間の生花を眺めてたんです。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "先生が最後にいけられた……。\nこの応接間の生花を眺めてたんです。"
+            },
             "voice": "event/Event_018/Event_018_08/event_018_08_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "その生花が先生の遺言に関係あるんだな？",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "その生花が先生の遺言に関係あるんだな？"
+            },
             "voice": "event/Event_018/Event_018_08/event_018_08_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "……。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "……。"
+            },
             "voice": "event/Event_018/Event_018_08/event_018_08_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "やっぱり若宮さんが私の部屋から……。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "やっぱり若宮さんが私の部屋から……。"
+            },
             "voice": "event/Event_018/Event_018_08/event_018_08_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "天の才も地の才も、人が和して導くものなり。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "天の才も地の才も、人が和して導くものなり。"
+            },
             "voice": "event/Event_018/Event_018_08/event_018_08_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "ん？　なんだって？",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "ん？　なんだって？"
+            },
             "voice": "event/Event_018/Event_018_08/event_018_08_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "それが先生の遺言か。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "それが先生の遺言か。"
+            },
             "voice": "event/Event_018/Event_018_08/event_018_08_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "はい、兄さん。そのとおり。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "はい、兄さん。そのとおり。"
+            },
             "voice": "event/Event_018/Event_018_08/event_018_08_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "五葉さん、先生から聞いた内容と相違ありませんか？",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "五葉さん、先生から聞いた内容と相違ありませんか？"
+            },
             "voice": "event/Event_018/Event_018_08/event_018_08_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "若宮さん、本当にわたくしの書き置きを取ったのなら、\n返してください。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "若宮さん、本当にわたくしの書き置きを取ったのなら、\n返してください。"
+            },
             "voice": "event/Event_018/Event_018_08/event_018_08_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "はい。どうぞ。\nもうなんだかどうでも良くなってしまったから。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "はい。どうぞ。\nもうなんだかどうでも良くなってしまったから。"
+            },
             "voice": "event/Event_018/Event_018_08/event_018_08_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "それが遺言？　本当に謎掛けだ。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "それが遺言？　本当に謎掛けだ。"
+            },
             "voice": "event/Event_018/Event_018_08/event_018_08_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "五葉さん、あの応接間に飾った生花。\nいけられたのは先生なんですね？",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "五葉さん、あの応接間に飾った生花。\nいけられたのは先生なんですね？"
+            },
             "voice": "event/Event_018/Event_018_08/event_018_08_015.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "はい。皆さんが到着する前日に父が自らいけられました。\nその後、さっきの遺言をわたくしに。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "はい。皆さんが到着する前日に父が自らいけられました。\nその後、さっきの遺言をわたくしに。"
+            },
             "voice": "event/Event_018/Event_018_08/event_018_08_016.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "先生の残した言葉はおそらく天地人の三才。\n今目の前のこの生花を見れば天に白、地に赤、人に青……。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "先生の残した言葉はおそらく天地人の三才。\n今目の前のこの生花を見れば天に白、地に赤、人に青……。"
+            },
             "voice": "event/Event_018/Event_018_08/event_018_08_017.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "なあ、粟田口。先生がこの生花の三才になぞらえたとしたなら、\n黄色が邪魔だと思わないか？",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "なあ、粟田口。先生がこの生花の三才になぞらえたとしたなら、\n黄色が邪魔だと思わないか？"
+            },
             "voice": "event/Event_018/Event_018_08/event_018_08_018.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "この黄の花は水仙……。\nん？　もしかして……。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "この黄の花は水仙……。\nん？　もしかして……。"
+            },
             "voice": "event/Event_018/Event_018_08/event_018_08_019.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "この水仙も先生が用意されたもの？",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "この水仙も先生が用意されたもの？"
+            },
             "voice": "event/Event_018/Event_018_08/event_018_08_020.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "覚えていませんが、きっとそうだと思います。\n鉢で水仙を育てていた記憶があります。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "覚えていませんが、きっとそうだと思います。\n鉢で水仙を育てていた記憶があります。"
+            },
             "voice": "event/Event_018/Event_018_08/event_018_08_021.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "その鉢は？",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "その鉢は？"
+            },
             "voice": "event/Event_018/Event_018_08/event_018_08_022.mp3"
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "根から抜かれたように土だけが残っていました。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "根から抜かれたように土だけが残っていました。"
+            },
             "voice": "event/Event_018/Event_018_08/event_018_08_023.mp3"
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "根から……。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "根から……。"
+            },
             "voice": "event/Event_018/Event_018_08/event_018_08_024.mp3"
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "……。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "……。"
+            },
             "voice": "event/Event_018/Event_018_08/event_018_08_025.mp3"
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "それで父の最後の遺志とは？\nこの色はどう解釈すればいいんです？",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "それで父の最後の遺志とは？\nこの色はどう解釈すればいいんです？"
+            },
             "voice": "event/Event_018/Event_018_08/event_018_08_026.mp3"
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "それは簡単ですよ。\n方角は色に置き換えられる。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "それは簡単ですよ。\n方角は色に置き換えられる。"
+            },
             "voice": "event/Event_018/Event_018_08/event_018_08_027.mp3"
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "聞いたことありませんか？\n中国の四神。あれもそうです。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "聞いたことありませんか？\n中国の四神。あれもそうです。"
+            },
             "voice": "event/Event_018/Event_018_08/event_018_08_028.mp3"
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "あの、白虎とか朱雀とかの……。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "あの、白虎とか朱雀とかの……。"
+            },
             "voice": "event/Event_018/Event_018_08/event_018_08_029.mp3"
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "そうです。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "そうです。"
+            },
             "voice": "event/Event_018/Event_018_08/event_018_08_030.mp3"
         },
         {
@@ -276,8 +396,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "五行説で方角は色に表わせられるんですよ。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "五行説で方角は色に表わせられるんですよ。"
+            },
             "voice": "event/Event_018/Event_018_08/event_018_08_031.mp3"
         },
         {
@@ -285,8 +409,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "つまり、花開院の家から見て西の嵯峨野が白、\n南の若宮が赤。そして東の粟田口が青、というように。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "つまり、花開院の家から見て西の嵯峨野が白、\n南の若宮が赤。そして東の粟田口が青、というように。"
+            },
             "voice": "event/Event_018/Event_018_08/event_018_08_032.mp3"
         },
         {
@@ -294,8 +422,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "つまり先生の遺言は……。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "つまり先生の遺言は……。"
+            },
             "voice": "event/Event_018/Event_018_08/event_018_08_033.mp3"
         },
         {
@@ -303,8 +435,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "まだわからないか？\n天が白なら、天の才は花開院から見て西に居を構える俺。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "まだわからないか？\n天が白なら、天の才は花開院から見て西に居を構える俺。"
+            },
             "voice": "event/Event_018/Event_018_08/event_018_08_034.mp3"
         },
         {
@@ -312,8 +448,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "地が赤なら、地の才は花開院から見て南の若宮。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "地が赤なら、地の才は花開院から見て南の若宮。"
+            },
             "voice": "event/Event_018/Event_018_08/event_018_08_035.mp3"
         },
         {
@@ -321,8 +461,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "天の才も地の才も、人が和して導くものなり。\nつまり……。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "天の才も地の才も、人が和して導くものなり。\nつまり……。"
+            },
             "voice": "event/Event_018/Event_018_08/event_018_08_036.mp3"
         },
         {
@@ -330,8 +474,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "人の才。青は東を表す。東は粟田口。\n天の才も地の才も粟田口がまとめあげて導けと。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "人の才。青は東を表す。東は粟田口。\n天の才も地の才も粟田口がまとめあげて導けと。"
+            },
             "voice": "event/Event_018/Event_018_08/event_018_08_037.mp3"
         },
         {
@@ -339,8 +487,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "ふん。それが先生の遺志なら俺は従うしかない。\n天の才は俺にあったということだが。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "ふん。それが先生の遺志なら俺は従うしかない。\n天の才は俺にあったということだが。"
+            },
             "voice": "event/Event_018/Event_018_08/event_018_08_038.mp3"
         },
         {
@@ -348,8 +500,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "なあ若宮、なにか思うとこはあるか？",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "なあ若宮、なにか思うとこはあるか？"
+            },
             "voice": "event/Event_018/Event_018_08/event_018_08_039.mp3"
         },
         {
@@ -357,8 +513,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "……いえ、何も。\n良かったじゃないですか兄さん。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "……いえ、何も。\n良かったじゃないですか兄さん。"
+            },
             "voice": "event/Event_018/Event_018_08/event_018_08_040.mp3"
         },
         {
@@ -366,8 +526,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "これで名実ともに兄さんが後継者だ。\n僕は本当に嬉しいよ。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "これで名実ともに兄さんが後継者だ。\n僕は本当に嬉しいよ。"
+            },
             "voice": "event/Event_018/Event_018_08/event_018_08_041.mp3"
         },
         {
@@ -375,8 +539,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "なあ、若宮。見つけたんだよ。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "なあ、若宮。見つけたんだよ。"
+            },
             "voice": "event/Event_018/Event_018_08/event_018_08_042.mp3"
         },
         {
@@ -384,8 +552,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "見つけた？　なにを？",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "見つけた？　なにを？"
+            },
             "voice": "event/Event_018/Event_018_08/event_018_08_043.mp3"
         },
         {
@@ -393,8 +565,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "炊事場の塵箱の中に水仙の根を。\nしかも卸金でおろされていた。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "炊事場の塵箱の中に水仙の根を。\nしかも卸金でおろされていた。"
+            },
             "voice": "event/Event_018/Event_018_08/event_018_08_044.mp3"
         },
         {
@@ -402,8 +578,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "水仙の根！？\nまさか先生の命を奪ったのは……。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "水仙の根！？\nまさか先生の命を奪ったのは……。"
+            },
             "voice": "event/Event_018/Event_018_08/event_018_08_045.mp3"
         },
         {
@@ -411,8 +591,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "きっとそういうことなんだろう。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "きっとそういうことなんだろう。"
+            },
             "voice": "event/Event_018/Event_018_08/event_018_08_046.mp3"
         },
         {
@@ -420,8 +604,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "なあ、若宮。\n手を少し見せてくれないか？",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "なあ、若宮。\n手を少し見せてくれないか？"
+            },
             "voice": "event/Event_018/Event_018_08/event_018_08_047.mp3"
         },
         {
@@ -429,8 +617,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "水仙の汁は肌が荒れる。おろしたとなるとなおさらだ。\nその手はきっと水仙の毒で荒れているんじゃないか？",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "水仙の汁は肌が荒れる。おろしたとなるとなおさらだ。\nその手はきっと水仙の毒で荒れているんじゃないか？"
+            },
             "voice": "event/Event_018/Event_018_08/event_018_08_048.mp3"
         },
         {
@@ -438,8 +630,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "兄さん、僕は……。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "兄さん、僕は……。"
+            },
             "voice": "event/Event_018/Event_018_08/event_018_08_049.mp3"
         },
         {
@@ -447,8 +643,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "若宮、水仙の根を使って先生を殺めたのは君だね？",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "若宮、水仙の根を使って先生を殺めたのは君だね？"
+            },
             "voice": "event/Event_018/Event_018_08/event_018_08_050.mp3"
         },
         {
@@ -456,8 +656,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "僕じゃない。きっと五葉さんが……。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "僕じゃない。きっと五葉さんが……。"
+            },
             "voice": "event/Event_018/Event_018_08/event_018_08_051.mp3"
         },
         {
@@ -465,8 +669,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "わたくしじゃありません。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "わたくしじゃありません。"
+            },
             "voice": "event/Event_018/Event_018_08/event_018_08_052.mp3"
         },
         {
@@ -474,8 +682,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "そして根を使った後の花の行き先はこの生花。\nあたかも最初からこの形だったかのようにあしらえた。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "そして根を使った後の花の行き先はこの生花。\nあたかも最初からこの形だったかのようにあしらえた。"
+            },
             "voice": "event/Event_018/Event_018_08/event_018_08_053.mp3"
         },
         {
@@ -483,8 +695,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "兄さん、聞いてほしい。\n僕は……。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "兄さん、聞いてほしい。\n僕は……。"
+            },
             "voice": "event/Event_018/Event_018_08/event_018_08_054.mp3"
         }
     ]

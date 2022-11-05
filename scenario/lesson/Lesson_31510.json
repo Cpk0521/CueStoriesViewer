@@ -6,8 +6,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "これやっぱり美晴の夢だったのかな？",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "これやっぱり美晴の夢だったのかな？"
+            },
             "voice": "lesson/Lesson_31510/lesson_31510_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "さあね。っていうかさっきも言ったけど、\n他人の夢に入ってるって状況がそもそもおかしいわけで。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "さあね。っていうかさっきも言ったけど、\n他人の夢に入ってるって状況がそもそもおかしいわけで。"
+            },
             "voice": "lesson/Lesson_31510/lesson_31510_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "あはは。だよねー。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "あはは。だよねー。"
+            },
             "voice": "lesson/Lesson_31510/lesson_31510_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "誰の夢でもいいんじゃないかな。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "誰の夢でもいいんじゃないかな。"
+            },
             "voice": "lesson/Lesson_31510/lesson_31510_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "そうだね。\n誰の夢でもいいのかもね。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "そうだね。\n誰の夢でもいいのかもね。"
+            },
             "voice": "lesson/Lesson_31510/lesson_31510_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "……うーーん。\n……朝かー。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "……うーーん。\n……朝かー。"
+            },
             "voice": "lesson/Lesson_31510/lesson_31510_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "ふあ～あ。\n今日は収録の仕事入ってたんだっけ……。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "ふあ～あ。\n今日は収録の仕事入ってたんだっけ……。"
+            },
             "voice": "lesson/Lesson_31510/lesson_31510_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "んー。今日もいい天気だね―。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "んー。今日もいい天気だね―。"
+            },
             "voice": "lesson/Lesson_31510/lesson_31510_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "おっはよー。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "おっはよー。"
+            },
             "voice": "lesson/Lesson_31510/lesson_31510_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "おはよう。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "おはよう。"
+            },
             "voice": "lesson/Lesson_31510/lesson_31510_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "あれ？　まほろ？\n早いじゃん。どうしたの？",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "あれ？　まほろ？\n早いじゃん。どうしたの？"
+            },
             "voice": "lesson/Lesson_31510/lesson_31510_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "今日は仕事があるから。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "今日は仕事があるから。"
+            },
             "voice": "lesson/Lesson_31510/lesson_31510_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "っていうか。\nまほろだって別にいつも朝遅いわけじゃないんだけど？",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "っていうか。\nまほろだって別にいつも朝遅いわけじゃないんだけど？"
+            },
             "voice": "lesson/Lesson_31510/lesson_31510_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "あはは。そうだね。ごめんごめん。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "あはは。そうだね。ごめんごめん。"
+            },
             "voice": "lesson/Lesson_31510/lesson_31510_014.mp3"
         }
     ]

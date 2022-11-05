@@ -6,8 +6,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "あ、おはよー。マネージャー！\nちょっと聞いてよ！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "あ、おはよー。マネージャー！\nちょっと聞いてよ！"
+            },
             "voice": "audition/story_01/heroine_05/HM_Morning_01_05_02/hm_morning_01_05_02_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "昨日見たアニメで言ってたんだけどさ、\n影武者になるには、身も心も同化させるのが大事なんだって！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "昨日見たアニメで言ってたんだけどさ、\n影武者になるには、身も心も同化させるのが大事なんだって！"
+            },
             "voice": "audition/story_01/heroine_05/HM_Morning_01_05_02/hm_morning_01_05_02_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "これって役者も一緒じゃない！？",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "これって役者も一緒じゃない！？"
+            },
             "voice": "audition/story_01/heroine_05/HM_Morning_01_05_02/hm_morning_01_05_02_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "いやー、自分が影武者だと思ったら、\n余計演技のモチベーション上がっちゃったなー！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "いやー、自分が影武者だと思ったら、\n余計演技のモチベーション上がっちゃったなー！"
+            },
             "voice": "audition/story_01/heroine_05/HM_Morning_01_05_02/hm_morning_01_05_02_004.mp3"
         }
     ]

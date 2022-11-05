@@ -6,8 +6,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "「まほろは外に出たがらない。」",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "「まほろは外に出たがらない。」"
+            },
             "voice": "event/Event_008/Event_008_06/event_008_06_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "「部屋にこもりっきりというわけではないから、\n多分、インドアなだけなんだろう。」",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "「部屋にこもりっきりというわけではないから、\n多分、インドアなだけなんだろう。」"
+            },
             "voice": "event/Event_008/Event_008_06/event_008_06_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "「あ……、例外は、事務所のビルの屋上。\n千紗の菜園のそばでいつも独り、空を眺めてる。」",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "「あ……、例外は、事務所のビルの屋上。\n千紗の菜園のそばでいつも独り、空を眺めてる。」"
+            },
             "voice": "event/Event_008/Event_008_06/event_008_06_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "「時々野菜に声をかけているって、千紗から聞いたけど……。\nうん、そういうとこ、なんとなくまほろっぽいな。」",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "「時々野菜に声をかけているって、千紗から聞いたけど……。\nうん、そういうとこ、なんとなくまほろっぽいな。」"
+            },
             "voice": "event/Event_008/Event_008_06/event_008_06_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "「そうそう、それで、まほろはあまり外に出ないのだけれど、\n部屋にこもるわけでもなく。」",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "「そうそう、それで、まほろはあまり外に出ないのだけれど、\n部屋にこもるわけでもなく。」"
+            },
             "voice": "event/Event_008/Event_008_06/event_008_06_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "「そうすると、必然的にリビングにいることになる。\nだからつまり、リビングはまほろの支配地。」",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "「そうすると、必然的にリビングにいることになる。\nだからつまり、リビングはまほろの支配地。」"
+            },
             "voice": "event/Event_008/Event_008_06/event_008_06_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "「他のチームのみんなも、なんとなくまほろには、\nあまり強くでられないみたいで。」",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "「他のチームのみんなも、なんとなくまほろには、\nあまり強くでられないみたいで。」"
+            },
             "voice": "event/Event_008/Event_008_06/event_008_06_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "「だから今日も、まほろはリビングのソファーに座って、\nテレビを独り占めしていたというわけ。」",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "「だから今日も、まほろはリビングのソファーに座って、\nテレビを独り占めしていたというわけ。」"
+            },
             "voice": "event/Event_008/Event_008_06/event_008_06_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "ねえ、まほろ。テレビ見ていい？",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "ねえ、まほろ。テレビ見ていい？"
+            },
             "voice": "event/Event_008/Event_008_06/event_008_06_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "無理。まほろ、今から映画見るから。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "無理。まほろ、今から映画見るから。"
+            },
             "voice": "event/Event_008/Event_008_06/event_008_06_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "あんたの部屋にもテレビあるでしょ。そっちで見れば。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "あんたの部屋にもテレビあるでしょ。そっちで見れば。"
+            },
             "voice": "event/Event_008/Event_008_06/event_008_06_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "え……？　さっきも映画見てたよね？",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "え……？　さっきも映画見てたよね？"
+            },
             "voice": "event/Event_008/Event_008_06/event_008_06_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "うん。そうだけど、\n今から次の映画見るの。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "うん。そうだけど、\n今から次の映画見るの。"
+            },
             "voice": "event/Event_008/Event_008_06/event_008_06_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "もう。いつもそうやって、テレビ独り占めして。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "もう。いつもそうやって、テレビ独り占めして。"
+            },
             "voice": "event/Event_008/Event_008_06/event_008_06_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "あんたも一緒に見る？",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "あんたも一緒に見る？"
+            },
             "voice": "event/Event_008/Event_008_06/event_008_06_015.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "マンガもいいけど、演技の勉強にはやっぱり映画。\n一流の演技を勉強しないと。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "マンガもいいけど、演技の勉強にはやっぱり映画。\n一流の演技を勉強しないと。"
+            },
             "voice": "event/Event_008/Event_008_06/event_008_06_016.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "それはそうかもしれないけど……。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "それはそうかもしれないけど……。"
+            },
             "voice": "event/Event_008/Event_008_06/event_008_06_017.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "まほろ、サブスクの契約してるアカウントあるから、\nなんでも見れるよ。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "まほろ、サブスクの契約してるアカウントあるから、\nなんでも見れるよ。"
+            },
             "voice": "event/Event_008/Event_008_06/event_008_06_018.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "どういうのがいい？",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "どういうのがいい？"
+            },
             "voice": "event/Event_008/Event_008_06/event_008_06_019.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "え？　今から映画見るの、決定なの？",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "え？　今から映画見るの、決定なの？"
+            },
             "voice": "event/Event_008/Event_008_06/event_008_06_020.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "さっきからそう言ってるんだけど。\nで、絢の好きな映画って、例えば何？",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "さっきからそう言ってるんだけど。\nで、絢の好きな映画って、例えば何？"
+            },
             "voice": "event/Event_008/Event_008_06/event_008_06_021.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "えっと……、\nホリーパッターとか？",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "えっと……、\nホリーパッターとか？"
+            },
             "voice": "event/Event_008/Event_008_06/event_008_06_022.mp3"
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "なるほど。そういう系ね。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "なるほど。そういう系ね。"
+            },
             "voice": "event/Event_008/Event_008_06/event_008_06_023.mp3"
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "子どもっぽい？",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "子どもっぽい？"
+            },
             "voice": "event/Event_008/Event_008_06/event_008_06_024.mp3"
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "ううん。全然。好きなものは好きでいいし。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "ううん。全然。好きなものは好きでいいし。"
+            },
             "voice": "event/Event_008/Event_008_06/event_008_06_025.mp3"
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "まほろはどういうのが好きなの？",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "まほろはどういうのが好きなの？"
+            },
             "voice": "event/Event_008/Event_008_06/event_008_06_026.mp3"
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "じゃあ、見る？　まほろのおすすめ、今から。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "じゃあ、見る？　まほろのおすすめ、今から。"
+            },
             "voice": "event/Event_008/Event_008_06/event_008_06_027.mp3"
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "日本の映画だし、演技の勉強にもなるし。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "日本の映画だし、演技の勉強にもなるし。"
+            },
             "voice": "event/Event_008/Event_008_06/event_008_06_028.mp3"
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "うん。いいけど、何？",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "うん。いいけど、何？"
+            },
             "voice": "event/Event_008/Event_008_06/event_008_06_029.mp3"
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "ちょっと検索するから待ってて。\nえーっと……、あ、う、と、れ。……うん、出てきた出てきた。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "ちょっと検索するから待ってて。\nえーっと……、あ、う、と、れ。……うん、出てきた出てきた。"
+            },
             "voice": "event/Event_008/Event_008_06/event_008_06_030.mp3"
         },
         {
@@ -276,8 +396,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "え？　ちょっとそれ、名前は知ってるけど……。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "え？　ちょっとそれ、名前は知ってるけど……。"
+            },
             "voice": "event/Event_008/Event_008_06/event_008_06_031.mp3"
         },
         {
@@ -285,8 +409,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "あ、知ってた？\nじゃあ、話は早いね。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "あ、知ってた？\nじゃあ、話は早いね。"
+            },
             "voice": "event/Event_008/Event_008_06/event_008_06_032.mp3"
         },
         {
@@ -294,8 +422,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "いや、そうじゃなくて。\n裏社会の人たちの抗争の話でしょ？　それ。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "いや、そうじゃなくて。\n裏社会の人たちの抗争の話でしょ？　それ。"
+            },
             "voice": "event/Event_008/Event_008_06/event_008_06_033.mp3"
         },
         {
@@ -303,8 +435,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "そうそう。ほんっと名作。絢も好きなの？　滝野監督作品。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "そうそう。ほんっと名作。絢も好きなの？　滝野監督作品。"
+            },
             "voice": "event/Event_008/Event_008_06/event_008_06_034.mp3"
         },
         {
@@ -312,8 +448,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "私、そういう血なまぐさいお話は、あんまり好きじゃない。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "私、そういう血なまぐさいお話は、あんまり好きじゃない。"
+            },
             "voice": "event/Event_008/Event_008_06/event_008_06_035.mp3"
         },
         {
@@ -321,8 +461,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "なんで？　ホリーパッターだって血なまぐさいとこあるじゃない。\nある意味抗争でしょ？　あれも。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "なんで？　ホリーパッターだって血なまぐさいとこあるじゃない。\nある意味抗争でしょ？　あれも。"
+            },
             "voice": "event/Event_008/Event_008_06/event_008_06_036.mp3"
         },
         {
@@ -330,8 +474,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "そうだけど……、なんていうか、一緒にしてほしくない。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "そうだけど……、なんていうか、一緒にしてほしくない。"
+            },
             "voice": "event/Event_008/Event_008_06/event_008_06_037.mp3"
         },
         {
@@ -339,8 +487,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "ちょっと、勘違いしてるみたいだけど。絢、この作品はね、\n不器用で愚直で、報われない男の悲しみを描いた……。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "ちょっと、勘違いしてるみたいだけど。絢、この作品はね、\n不器用で愚直で、報われない男の悲しみを描いた……。"
+            },
             "voice": "event/Event_008/Event_008_06/event_008_06_038.mp3"
         },
         {
@@ -348,8 +500,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "……。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "……。"
+            },
             "voice": "event/Event_008/Event_008_06/event_008_06_039.mp3"
         },
         {
@@ -357,8 +513,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "……わかった。これはやめる。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "……わかった。これはやめる。"
+            },
             "voice": "event/Event_008/Event_008_06/event_008_06_040.mp3"
         },
         {
@@ -366,8 +526,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "うん。もっと平和なの見ようよ。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "うん。もっと平和なの見ようよ。"
+            },
             "voice": "event/Event_008/Event_008_06/event_008_06_041.mp3"
         },
         {
@@ -375,8 +539,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "「結局、映画は私の見たいものを見ることになった。」",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "「結局、映画は私の見たいものを見ることになった。」"
+            },
             "voice": "event/Event_008/Event_008_06/event_008_06_042.mp3"
         },
         {
@@ -384,8 +552,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "「ホリーパッターの続編の、魔法使いたちの物語。」",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "「ホリーパッターの続編の、魔法使いたちの物語。」"
+            },
             "voice": "event/Event_008/Event_008_06/event_008_06_043.mp3"
         },
         {
@@ -393,8 +565,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "「まほろもなんだかんだ言って、最後まで一緒に見たんだけど、\n途中でちょっと泣いてたの私は知ってる。」",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "「まほろもなんだかんだ言って、最後まで一緒に見たんだけど、\n途中でちょっと泣いてたの私は知ってる。」"
+            },
             "voice": "event/Event_008/Event_008_06/event_008_06_044.mp3"
         },
         {
@@ -402,8 +578,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "「その前まで、裏社会の抗争のお話を見ようとしてたのにね。」",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "「その前まで、裏社会の抗争のお話を見ようとしてたのにね。」"
+            },
             "voice": "event/Event_008/Event_008_06/event_008_06_045.mp3"
         },
         {
@@ -411,8 +591,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "「まほろって、そういう人。ややこしいけど。\nだから最終的に、人として尊敬できるんだなって思う。」",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "「まほろって、そういう人。ややこしいけど。\nだから最終的に、人として尊敬できるんだなって思う。」"
+            },
             "voice": "event/Event_008/Event_008_06/event_008_06_046.mp3"
         },
         {
@@ -420,8 +604,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "「勿論これも、本人には内緒だけどね。」",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "「勿論これも、本人には内緒だけどね。」"
+            },
             "voice": "event/Event_008/Event_008_06/event_008_06_047.mp3"
         }
     ]

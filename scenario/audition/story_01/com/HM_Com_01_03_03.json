@@ -6,8 +6,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "ねぇ、志穂。\nもしかして、最近舞花のことを尾行してるの？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "ねぇ、志穂。\nもしかして、最近舞花のことを尾行してるの？"
+            },
             "voice": ""
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "ほう……。とうとう気付いてしまったか。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "ほう……。とうとう気付いてしまったか。"
+            },
             "voice": "audition/story_01/com/HM_Com_01_03_03/hm_com_01_03_03_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "なんでそんなことしてるの？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "なんでそんなことしてるの？"
+            },
             "voice": ""
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "……人間観察。演技の幅を広げようと思ってな。\n以前、陽菜も似たようなことをやってただろ。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "……人間観察。演技の幅を広げようと思ってな。\n以前、陽菜も似たようなことをやってただろ。"
+            },
             "voice": "audition/story_01/com/HM_Com_01_03_03/hm_com_01_03_03_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "だが、陽菜は私の視線に意外と気付くし、\nほのかは突然走り出したら追いつけない。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "だが、陽菜は私の視線に意外と気付くし、\nほのかは突然走り出したら追いつけない。"
+            },
             "voice": "audition/story_01/com/HM_Com_01_03_03/hm_com_01_03_03_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "その点、鈍くて突然走り出さない。\nバレた時も言いくるめやすい舞花はちょうどいい。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "その点、鈍くて突然走り出さない。\nバレた時も言いくるめやすい舞花はちょうどいい。"
+            },
             "voice": "audition/story_01/com/HM_Com_01_03_03/hm_com_01_03_03_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そう……。\nその割にはなんか楽しそうだけど……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そう……。\nその割にはなんか楽しそうだけど……。"
+            },
             "voice": ""
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "まぁまぁ。\n折角やるなら、そこは楽しんでいかないとな。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "まぁまぁ。\n折角やるなら、そこは楽しんでいかないとな。"
+            },
             "voice": "audition/story_01/com/HM_Com_01_03_03/hm_com_01_03_03_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "それじゃあ、お先、失礼しまーす！",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "それじゃあ、お先、失礼しまーす！"
+            },
             "voice": "audition/story_01/com/HM_Com_01_03_03/hm_com_01_03_03_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "む！　やけに早い……。まさか今日は特売日か。\nじゃあ、またな、ジャーマネ。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "む！　やけに早い……。まさか今日は特売日か。\nじゃあ、またな、ジャーマネ。"
+            },
             "voice": "audition/story_01/com/HM_Com_01_03_03/hm_com_01_03_03_010.mp3"
         }
     ]

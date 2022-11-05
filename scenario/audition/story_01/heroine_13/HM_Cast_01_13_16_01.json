@@ -6,8 +6,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "お疲れ様です。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "お疲れ様です。"
+            },
             "voice": "audition/story_01/heroine_13/HM_Cast_01_13_16_01/hm_cast_01_13_16_01_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "あれ、どうしたの？　鳴。\n何か探し物？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "あれ、どうしたの？　鳴。\n何か探し物？"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "いえ。別に。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "いえ。別に。"
+            },
             "voice": "audition/story_01/heroine_13/HM_Cast_01_13_16_01/hm_cast_01_13_16_01_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "えっと……。\n何かあったの？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "えっと……。\n何かあったの？"
+            },
             "voice": ""
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "利恵、受かるといいな。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "利恵、受かるといいな。"
+            },
             "voice": "audition/story_01/heroine_13/HM_Cast_01_13_16_01/hm_cast_01_13_16_01_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そうだね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そうだね。"
+            },
             "voice": ""
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "それじゃ、失礼します。\nお疲れ様でした。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "それじゃ、失礼します。\nお疲れ様でした。"
+            },
             "voice": "audition/story_01/heroine_13/HM_Cast_01_13_16_01/hm_cast_01_13_16_01_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "う、うん。\nお疲れ様。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "う、うん。\nお疲れ様。"
+            },
             "voice": ""
         }
     ]

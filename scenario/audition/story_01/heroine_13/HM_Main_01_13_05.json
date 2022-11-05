@@ -6,8 +6,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "いよいよだね。調子はどう？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "いよいよだね。調子はどう？"
+            },
             "voice": ""
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "練習もした、体調も抜群、あとは、あとは……。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "練習もした、体調も抜群、あとは、あとは……。"
+            },
             "voice": "audition/story_01/heroine_13/HM_Main_01_13_05/hm_main_01_13_05_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "……だ、大丈夫？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "……だ、大丈夫？"
+            },
             "voice": ""
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "……扉を開けたら、そこはもう別の世界。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "……扉を開けたら、そこはもう別の世界。"
+            },
             "voice": "audition/story_01/heroine_13/HM_Main_01_13_05/hm_main_01_13_05_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "別の世界？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "別の世界？"
+            },
             "voice": ""
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "空気が静まり返って、張り詰めていて。\n真剣な表情しかなくて。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "空気が静まり返って、張り詰めていて。\n真剣な表情しかなくて。"
+            },
             "voice": "audition/story_01/heroine_13/HM_Main_01_13_05/hm_main_01_13_05_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "さっきまで談笑していたはずの監督も。\nスタッフも、みんな険しい顔をしてる。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "さっきまで談笑していたはずの監督も。\nスタッフも、みんな険しい顔をしてる。"
+            },
             "voice": "audition/story_01/heroine_13/HM_Main_01_13_05/hm_main_01_13_05_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "そして、みんな、我輩の行動……。\n台詞、声ひとつひとつを見ている。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "そして、みんな、我輩の行動……。\n台詞、声ひとつひとつを見ている。"
+            },
             "voice": "audition/story_01/heroine_13/HM_Main_01_13_05/hm_main_01_13_05_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "それだけで、声が震えそうになる。\nけど……。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "それだけで、声が震えそうになる。\nけど……。"
+            },
             "voice": "audition/story_01/heroine_13/HM_Main_01_13_05/hm_main_01_13_05_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "……緊張する？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "……緊張する？"
+            },
             "voice": ""
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "……何を言う？　我輩は悪魔エリス。\n我が力の前には、凡人たちはただ平伏すのみ。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "……何を言う？　我輩は悪魔エリス。\n我が力の前には、凡人たちはただ平伏すのみ。"
+            },
             "voice": "audition/story_01/heroine_13/HM_Main_01_13_05/hm_main_01_13_05_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "うん。いい調子だね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "うん。いい調子だね。"
+            },
             "voice": ""
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "……やっぱり、慣れないな。この空気。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "……やっぱり、慣れないな。この空気。"
+            },
             "voice": "audition/story_01/heroine_13/HM_Main_01_13_05/hm_main_01_13_05_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "……悪魔にふさわしい戦いをしないと。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "……悪魔にふさわしい戦いをしないと。"
+            },
             "voice": "audition/story_01/heroine_13/HM_Main_01_13_05/hm_main_01_13_05_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "うん。利恵なら、大丈夫だよ。\n……ほら、そろそろ出番だ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "うん。利恵なら、大丈夫だよ。\n……ほら、そろそろ出番だ。"
+            },
             "voice": ""
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "……うん。\nさあ、戦いへ赴こうではないか。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "……うん。\nさあ、戦いへ赴こうではないか。"
+            },
             "voice": "audition/story_01/heroine_13/HM_Main_01_13_05/hm_main_01_13_05_016.mp3"
         }
     ]

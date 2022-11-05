@@ -6,8 +6,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "マネージャーさん、お疲れ様です。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "マネージャーさん、お疲れ様です。"
+            },
             "voice": "audition/story_01/heroine_04/HM_Cast_01_04_01_03/hm_cast_01_04_01_03_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "陽菜、お疲れ様。\n……何かいい事でもあった？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "陽菜、お疲れ様。\n……何かいい事でもあった？"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "ええっ。\nわたし、そんなに顔に出てますか？",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "ええっ。\nわたし、そんなに顔に出てますか？"
+            },
             "voice": "audition/story_01/heroine_04/HM_Cast_01_04_01_03/hm_cast_01_04_01_03_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "……実は、今朝もほのかちゃんと話をしてて。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "……実は、今朝もほのかちゃんと話をしてて。"
+            },
             "voice": "audition/story_01/heroine_04/HM_Cast_01_04_01_03/hm_cast_01_04_01_03_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "本当にちょっとした事だったんですけど、\nやっぱり、嬉しいなって。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "本当にちょっとした事だったんですけど、\nやっぱり、嬉しいなって。"
+            },
             "voice": "audition/story_01/heroine_04/HM_Cast_01_04_01_03/hm_cast_01_04_01_03_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そっか。\nこの間も帰りにカフェ寄ってたもんね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そっか。\nこの間も帰りにカフェ寄ってたもんね。"
+            },
             "voice": ""
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "はい。\nあの時もちゃんと役に立てたのか、わからないんですけど。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "はい。\nあの時もちゃんと役に立てたのか、わからないんですけど。"
+            },
             "voice": "audition/story_01/heroine_04/HM_Cast_01_04_01_03/hm_cast_01_04_01_03_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そっか。\nこれからもほのかのこと、よろしくね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そっか。\nこれからもほのかのこと、よろしくね。"
+            },
             "voice": ""
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "はい！\nでもわたし、ほのかちゃんに助けられてばかりなんです。ふふっ。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "はい！\nでもわたし、ほのかちゃんに助けられてばかりなんです。ふふっ。"
+            },
             "voice": "audition/story_01/heroine_04/HM_Cast_01_04_01_03/hm_cast_01_04_01_03_009.mp3"
         }
     ]

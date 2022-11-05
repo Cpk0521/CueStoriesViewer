@@ -6,8 +6,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "あ、マネージャーさん！\nおはようございます。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "あ、マネージャーさん！\nおはようございます。"
+            },
             "voice": "audition/story_01/heroine_07/HM_Morning_01_07_04/hm_morning_01_07_04_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "昨日のお仕事、とっても楽しかったです。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "昨日のお仕事、とっても楽しかったです。"
+            },
             "voice": "audition/story_01/heroine_07/HM_Morning_01_07_04/hm_morning_01_07_04_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "スタッフさんとも仲良くお話しできました。\nえへへ、優しい方で良かったです……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "スタッフさんとも仲良くお話しできました。\nえへへ、優しい方で良かったです……。"
+            },
             "voice": "audition/story_01/heroine_07/HM_Morning_01_07_04/hm_morning_01_07_04_003.mp3"
         }
     ]

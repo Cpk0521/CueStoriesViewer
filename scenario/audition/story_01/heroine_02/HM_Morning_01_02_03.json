@@ -6,8 +6,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "あ、マネージャー。\nおはようございます！",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "あ、マネージャー。\nおはようございます！"
+            },
             "voice": "audition/story_01/heroine_02/HM_Morning_01_02_03/hm_morning_01_02_03_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "昨日のテレビ、見ました？\nすごいっすよねぇ。よく躍るっていうか、動くっていうか。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "昨日のテレビ、見ました？\nすごいっすよねぇ。よく躍るっていうか、動くっていうか。"
+            },
             "voice": "audition/story_01/heroine_02/HM_Morning_01_02_03/hm_morning_01_02_03_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "なんかああいうの見たせいで、\n今日はいつもより体動かせそうなんすよねー。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "なんかああいうの見たせいで、\n今日はいつもより体動かせそうなんすよねー。"
+            },
             "voice": "audition/story_01/heroine_02/HM_Morning_01_02_03/hm_morning_01_02_03_003.mp3"
         }
     ]

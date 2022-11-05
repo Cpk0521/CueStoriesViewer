@@ -6,8 +6,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "腹式呼吸……。\n正しい姿勢を意識しなきゃ。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "腹式呼吸……。\n正しい姿勢を意識しなきゃ。"
+            },
             "voice": "card/Card_01/Card_1010001_1/card_1010001_1_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "……姿勢に気をつける。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "……姿勢に気をつける。"
+            },
             "voice": "card/Card_01/Card_1010001_1/card_1010001_1_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "噛んだ……。\n滑舌……。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "噛んだ……。\n滑舌……。"
+            },
             "voice": "card/Card_01/Card_1010001_1/card_1010001_1_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "……滑舌に注意、と。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "……滑舌に注意、と。"
+            },
             "voice": "card/Card_01/Card_1010001_1/card_1010001_1_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "陽菜。\nここ、こうするといいよ。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "陽菜。\nここ、こうするといいよ。"
+            },
             "voice": "card/Card_01/Card_1010001_1/card_1010001_1_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "ありがとう……！",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "ありがとう……！"
+            },
             "voice": "card/Card_01/Card_1010001_1/card_1010001_1_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "ええと、ノート、ノート、ノート……。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "ええと、ノート、ノート、ノート……。"
+            },
             "voice": "card/Card_01/Card_1010001_1/card_1010001_1_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "何探してるの？",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "何探してるの？"
+            },
             "voice": "card/Card_01/Card_1010001_1/card_1010001_1_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "ノートを……。\n新しいのが欲しくて。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "ノートを……。\n新しいのが欲しくて。"
+            },
             "voice": "card/Card_01/Card_1010001_1/card_1010001_1_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "ノート？　お昼休憩なのに？\nごはんじゃないの？",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "ノート？　お昼休憩なのに？\nごはんじゃないの？"
+            },
             "voice": "card/Card_01/Card_1010001_1/card_1010001_1_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "あ、ごはんも買うよ。\n持ってきてるノート、もう無くなっちゃったから。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "あ、ごはんも買うよ。\n持ってきてるノート、もう無くなっちゃったから。"
+            },
             "voice": "card/Card_01/Card_1010001_1/card_1010001_1_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "舞花ちゃんは、何を買ったの？",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "舞花ちゃんは、何を買ったの？"
+            },
             "voice": "card/Card_01/Card_1010001_1/card_1010001_1_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "自分はねー。\nこれですよ、これ。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "自分はねー。\nこれですよ、これ。"
+            },
             "voice": "card/Card_01/Card_1010001_1/card_1010001_1_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "おでん？",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "おでん？"
+            },
             "voice": "card/Card_01/Card_1010001_1/card_1010001_1_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "コンビニのおでんって、\n無性に食べたくなる時があるよねー！",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "コンビニのおでんって、\n無性に食べたくなる時があるよねー！"
+            },
             "voice": "card/Card_01/Card_1010001_1/card_1010001_1_015.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "そ、そうかなぁ……。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "そ、そうかなぁ……。"
+            },
             "voice": "card/Card_01/Card_1010001_1/card_1010001_1_016.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "やっぱり、ジャパニーズおでんは最高！",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "やっぱり、ジャパニーズおでんは最高！"
+            },
             "voice": "card/Card_01/Card_1010001_1/card_1010001_1_017.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "おいしいよね！",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "おいしいよね！"
+            },
             "voice": "card/Card_01/Card_1010001_1/card_1010001_1_018.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "でも、おでんって、元々ジャパニーズじゃ……？",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "でも、おでんって、元々ジャパニーズじゃ……？"
+            },
             "voice": "card/Card_01/Card_1010001_1/card_1010001_1_019.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "……ほら！\nはやく戻るよ！",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "……ほら！\nはやく戻るよ！"
+            },
             "voice": "card/Card_01/Card_1010001_1/card_1010001_1_020.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "ま、まって、まだお会計が……！",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "ま、まって、まだお会計が……！"
+            },
             "voice": "card/Card_01/Card_1010001_1/card_1010001_1_021.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "うーん……。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "うーん……。"
+            },
             "voice": "card/Card_01/Card_1010001_1/card_1010001_1_022.mp3"
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "陽菜？\nまだ残ってたの？",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "陽菜？\nまだ残ってたの？"
+            },
             "voice": "card/Card_01/Card_1010001_1/card_1010001_1_023.mp3"
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "やりたいことがあって。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "やりたいことがあって。"
+            },
             "voice": "card/Card_01/Card_1010001_1/card_1010001_1_024.mp3"
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "なに書いてるの？",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "なに書いてるの？"
+            },
             "voice": "card/Card_01/Card_1010001_1/card_1010001_1_025.mp3"
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "レッスンであったこととか、\n注意することとか。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "レッスンであったこととか、\n注意することとか。"
+            },
             "voice": "card/Card_01/Card_1010001_1/card_1010001_1_026.mp3"
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "……すごいびっしり。\nこれ、全部今日のこと？",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "……すごいびっしり。\nこれ、全部今日のこと？"
+            },
             "voice": "card/Card_01/Card_1010001_1/card_1010001_1_027.mp3"
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "うん。\n忘れないように、ノートにまとめてるの。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "うん。\n忘れないように、ノートにまとめてるの。"
+            },
             "voice": "card/Card_01/Card_1010001_1/card_1010001_1_028.mp3"
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "へえ……。\n陽菜って真面目だよね。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "へえ……。\n陽菜って真面目だよね。"
+            },
             "voice": "card/Card_01/Card_1010001_1/card_1010001_1_029.mp3"
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "そうかな……？\n書いておいたら、次の練習に役立つかなって。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "そうかな……？\n書いておいたら、次の練習に役立つかなって。"
+            },
             "voice": "card/Card_01/Card_1010001_1/card_1010001_1_030.mp3"
         },
         {
@@ -276,8 +396,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "そういうところが真面目なんだって。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "そういうところが真面目なんだって。"
+            },
             "voice": "card/Card_01/Card_1010001_1/card_1010001_1_031.mp3"
         },
         {
@@ -285,8 +409,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "姿勢に気をつける……、って、\nこんなことまでメモってるの？",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "姿勢に気をつける……、って、\nこんなことまでメモってるの？"
+            },
             "voice": "card/Card_01/Card_1010001_1/card_1010001_1_032.mp3"
         },
         {
@@ -294,8 +422,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "なんでも残しておきたくて……。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "なんでも残しておきたくて……。"
+            },
             "voice": "card/Card_01/Card_1010001_1/card_1010001_1_033.mp3"
         },
         {
@@ -303,8 +435,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "……あっ。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "……あっ。"
+            },
             "voice": "card/Card_01/Card_1010001_1/card_1010001_1_034.mp3"
         },
         {
@@ -312,8 +448,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "うん？",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "うん？"
+            },
             "voice": "card/Card_01/Card_1010001_1/card_1010001_1_035.mp3"
         },
         {
@@ -321,8 +461,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "ちょっと。\nこれ。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "ちょっと。\nこれ。"
+            },
             "voice": "card/Card_01/Card_1010001_1/card_1010001_1_036.mp3"
         },
         {
@@ -330,8 +474,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "ジャパニーズおでん？",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "ジャパニーズおでん？"
+            },
             "voice": "card/Card_01/Card_1010001_1/card_1010001_1_037.mp3"
         },
         {
@@ -339,8 +487,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "それはメモんなくていいから！",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "それはメモんなくていいから！"
+            },
             "voice": "card/Card_01/Card_1010001_1/card_1010001_1_038.mp3"
         }
     ]

@@ -6,8 +6,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "前に鳴と出かけた時、\nめずらしい飲み物を見つけたの。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "前に鳴と出かけた時、\nめずらしい飲み物を見つけたの。"
+            },
             "voice": "audition/story_01/heroine_13/HM_Sub_01_13_25/hm_sub_01_13_25_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "なんだか最近、また飲みたくなってきちゃって。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "なんだか最近、また飲みたくなってきちゃって。"
+            },
             "voice": "audition/story_01/heroine_13/HM_Sub_01_13_25/hm_sub_01_13_25_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "でも、どこのお店だったかな……。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "でも、どこのお店だったかな……。"
+            },
             "voice": "audition/story_01/heroine_13/HM_Sub_01_13_25/hm_sub_01_13_25_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "……ま、いっか。\nまた鳴と、探しながら行こうかな。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "……ま、いっか。\nまた鳴と、探しながら行こうかな。"
+            },
             "voice": "audition/story_01/heroine_13/HM_Sub_01_13_25/hm_sub_01_13_25_004.mp3"
         }
     ]

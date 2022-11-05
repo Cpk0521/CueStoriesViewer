@@ -6,8 +6,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "聡里、今日は何読んでるの？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "聡里、今日は何読んでるの？"
+            },
             "voice": ""
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "え？\n何がですか？　",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "え？\n何がですか？　"
+            },
             "voice": "audition/story_01/com/HM_Com_01_14_02/hm_com_01_14_02_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "ほら、この前読んでた文庫本、利恵に貸してたでしょ？　",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "ほら、この前読んでた文庫本、利恵に貸してたでしょ？　"
+            },
             "voice": ""
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "そうですね。　",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "そうですね。　"
+            },
             "voice": "audition/story_01/com/HM_Com_01_14_02/hm_com_01_14_02_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "っていうか、読みかけの本、貸して良かったの？　",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "っていうか、読みかけの本、貸して良かったの？　"
+            },
             "voice": ""
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "はい。\n3周目でしたから。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "はい。\n3周目でしたから。"
+            },
             "voice": "audition/story_01/com/HM_Com_01_14_02/hm_com_01_14_02_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "え？\n3周目？　",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "え？\n3周目？　"
+            },
             "voice": ""
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "何かおかしいですか？\n興味あるなら次はマネージャーさんに貸しますけど。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "何かおかしいですか？\n興味あるなら次はマネージャーさんに貸しますけど。"
+            },
             "voice": "audition/story_01/com/HM_Com_01_14_02/hm_com_01_14_02_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "いや、どちらかと言うと聡里の方に興味があるかな……。　",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "いや、どちらかと言うと聡里の方に興味があるかな……。　"
+            },
             "voice": ""
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "は？\n意味のわからないこと言わないでもらえますか？",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "は？\n意味のわからないこと言わないでもらえますか？"
+            },
             "voice": "audition/story_01/com/HM_Com_01_14_02/hm_com_01_14_02_010.mp3"
         }
     ]

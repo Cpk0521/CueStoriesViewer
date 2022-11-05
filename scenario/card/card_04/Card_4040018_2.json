@@ -6,8 +6,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "で、どうすんの今日。このまま真っ直ぐ帰る？",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "で、どうすんの今日。このまま真っ直ぐ帰る？"
+            },
             "voice": "card/Card_04/Card_4040018_2/card_4040018_2_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "じゃあ、せっかくだしどっか行く？",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "じゃあ、せっかくだしどっか行く？"
+            },
             "voice": "card/Card_04/Card_4040018_2/card_4040018_2_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "あ、そういえばほのか、本屋行きたいとか言ってなかった？",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "あ、そういえばほのか、本屋行きたいとか言ってなかった？"
+            },
             "voice": "card/Card_04/Card_4040018_2/card_4040018_2_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "あ、うん。別に今日じゃなくても良いんだけど。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "あ、うん。別に今日じゃなくても良いんだけど。"
+            },
             "voice": "card/Card_04/Card_4040018_2/card_4040018_2_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "何の本買うの？",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "何の本買うの？"
+            },
             "voice": "card/Card_04/Card_4040018_2/card_4040018_2_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "ちょっと演技とか舞台の解説してる本が欲しくて。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "ちょっと演技とか舞台の解説してる本が欲しくて。"
+            },
             "voice": "card/Card_04/Card_4040018_2/card_4040018_2_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "へえ……。\n気になるけど読むのは難しそうだなー。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "へえ……。\n気になるけど読むのは難しそうだなー。"
+            },
             "voice": "card/Card_04/Card_4040018_2/card_4040018_2_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "そういうのって、桐香先生が帰ってきたら、\nまた教えてもらえばいいじゃん。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "そういうのって、桐香先生が帰ってきたら、\nまた教えてもらえばいいじゃん。"
+            },
             "voice": "card/Card_04/Card_4040018_2/card_4040018_2_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "それはそうだけど、でも、自分でも成長しておきたいじゃない。\n桐香先生と再会したときに、成長した自分、見せたいでしょ？",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "それはそうだけど、でも、自分でも成長しておきたいじゃない。\n桐香先生と再会したときに、成長した自分、見せたいでしょ？"
+            },
             "voice": "card/Card_04/Card_4040018_2/card_4040018_2_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "確かに。それって凄くかっこいいね。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "確かに。それって凄くかっこいいね。"
+            },
             "voice": "card/Card_04/Card_4040018_2/card_4040018_2_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "あいりも、読んでみようかな。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "あいりも、読んでみようかな。"
+            },
             "voice": "card/Card_04/Card_4040018_2/card_4040018_2_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "え？　あいりも？",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "え？　あいりも？"
+            },
             "voice": "card/Card_04/Card_4040018_2/card_4040018_2_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "さすがあいり。\n舞花とは大違い。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "さすがあいり。\n舞花とは大違い。"
+            },
             "voice": "card/Card_04/Card_4040018_2/card_4040018_2_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "え？　なんで自分を引き合いに出すわけ？",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "え？　なんで自分を引き合いに出すわけ？"
+            },
             "voice": "card/Card_04/Card_4040018_2/card_4040018_2_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "でも、ほのかさん。\nそういう本って大きい本屋さん行かないとないんじゃないかな？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "でも、ほのかさん。\nそういう本って大きい本屋さん行かないとないんじゃないかな？"
+            },
             "voice": "card/Card_04/Card_4040018_2/card_4040018_2_015.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "うーん、そうだね。\n神瑞町だと漫画とかが揃ってるお店は多いけど……。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "うーん、そうだね。\n神瑞町だと漫画とかが揃ってるお店は多いけど……。"
+            },
             "voice": "card/Card_04/Card_4040018_2/card_4040018_2_016.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "あ！　じゃあ、古本屋とか良いんじゃない？\n寮帰ったら着替えてみんなでいこうよ。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "あ！　じゃあ、古本屋とか良いんじゃない？\n寮帰ったら着替えてみんなでいこうよ。"
+            },
             "voice": "card/Card_04/Card_4040018_2/card_4040018_2_017.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "お、いいね。\n自分も古本屋、行きたいかも。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "お、いいね。\n自分も古本屋、行きたいかも。"
+            },
             "voice": "card/Card_04/Card_4040018_2/card_4040018_2_018.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "あたしも行く！\nあいりも行くでしょ？",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "あたしも行く！\nあいりも行くでしょ？"
+            },
             "voice": "card/Card_04/Card_4040018_2/card_4040018_2_019.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "うん。一緒に行こ。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "うん。一緒に行こ。"
+            },
             "voice": "card/Card_04/Card_4040018_2/card_4040018_2_020.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "ただいまー。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "ただいまー。"
+            },
             "voice": "card/Card_04/Card_4040018_2/card_4040018_2_021.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "あれ？　誰もいない。\n鳴か陽菜か、誰かいたら誘おうと思ったのに。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "あれ？　誰もいない。\n鳴か陽菜か、誰かいたら誘おうと思ったのに。"
+            },
             "voice": "card/Card_04/Card_4040018_2/card_4040018_2_022.mp3"
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "志穂もいないかー。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "志穂もいないかー。"
+            },
             "voice": "card/Card_04/Card_4040018_2/card_4040018_2_023.mp3"
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "私はここにいるが？",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "私はここにいるが？"
+            },
             "voice": "card/Card_04/Card_4040018_2/card_4040018_2_024.mp3"
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "うわっ。そんなとこで何してんの？",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "うわっ。そんなとこで何してんの？"
+            },
             "voice": "card/Card_04/Card_4040018_2/card_4040018_2_025.mp3"
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "ソファーと寄り添う時間が私には必要なのだよ。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "ソファーと寄り添う時間が私には必要なのだよ。"
+            },
             "voice": "card/Card_04/Card_4040018_2/card_4040018_2_026.mp3"
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "ね、志穂、今からみんなで演技の本探しに行こうと思うんだけど。\nどう？　一緒に行かない？",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "ね、志穂、今からみんなで演技の本探しに行こうと思うんだけど。\nどう？　一緒に行かない？"
+            },
             "voice": "card/Card_04/Card_4040018_2/card_4040018_2_027.mp3"
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "ふむ。悪くはないが……。\nメンバーは？",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "ふむ。悪くはないが……。\nメンバーは？"
+            },
             "voice": "card/Card_04/Card_4040018_2/card_4040018_2_028.mp3"
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "わたしと舞花と悠希とあいり、かな。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "わたしと舞花と悠希とあいり、かな。"
+            },
             "voice": "card/Card_04/Card_4040018_2/card_4040018_2_029.mp3"
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "そうか……。ん。私はいい。\nどうもソファーが離してくれなさそうだ。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "そうか……。ん。私はいい。\nどうもソファーが離してくれなさそうだ。"
+            },
             "voice": "card/Card_04/Card_4040018_2/card_4040018_2_030.mp3"
         },
         {
@@ -276,8 +396,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "ソファーを離さないのは志穂じゃん。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "ソファーを離さないのは志穂じゃん。"
+            },
             "voice": "card/Card_04/Card_4040018_2/card_4040018_2_031.mp3"
         },
         {
@@ -285,8 +409,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "はーい！　あたし着替えてきたよー！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "はーい！　あたし着替えてきたよー！"
+            },
             "voice": "card/Card_04/Card_4040018_2/card_4040018_2_032.mp3"
         },
         {
@@ -294,8 +422,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "わ、早いね、悠希ちゃん。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "わ、早いね、悠希ちゃん。"
+            },
             "voice": "card/Card_04/Card_4040018_2/card_4040018_2_033.mp3"
         },
         {
@@ -303,8 +435,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "あいりまだ着替えてなかったの？",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "あいりまだ着替えてなかったの？"
+            },
             "voice": "card/Card_04/Card_4040018_2/card_4040018_2_034.mp3"
         },
         {
@@ -312,8 +448,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "悠希ちゃんが早すぎるだけだよ……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "悠希ちゃんが早すぎるだけだよ……。"
+            },
             "voice": "card/Card_04/Card_4040018_2/card_4040018_2_035.mp3"
         },
         {
@@ -321,8 +461,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "それじゃあ自分たちも着替えますか。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "それじゃあ自分たちも着替えますか。"
+            },
             "voice": "card/Card_04/Card_4040018_2/card_4040018_2_036.mp3"
         },
         {
@@ -330,8 +474,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "うん。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "うん。"
+            },
             "voice": "card/Card_04/Card_4040018_2/card_4040018_2_037.mp3"
         },
         {
@@ -339,8 +487,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "じゃあ、着替えて集合ね！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "じゃあ、着替えて集合ね！"
+            },
             "voice": "card/Card_04/Card_4040018_2/card_4040018_2_038.mp3"
         },
         {
@@ -348,8 +500,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "それじゃ行ってきまーす！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "それじゃ行ってきまーす！"
+            },
             "voice": "card/Card_04/Card_4040018_2/card_4040018_2_039.mp3"
         },
         {
@@ -357,8 +513,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "志穂、行ってくるね。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "志穂、行ってくるね。"
+            },
             "voice": "card/Card_04/Card_4040018_2/card_4040018_2_040.mp3"
         },
         {
@@ -366,8 +526,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "うむ。長いようで短い高校生活の貴重な日常の一コマ。\n楽しんできたまえ。高校生諸君。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "うむ。長いようで短い高校生活の貴重な日常の一コマ。\n楽しんできたまえ。高校生諸君。"
+            },
             "voice": "card/Card_04/Card_4040018_2/card_4040018_2_041.mp3"
         }
     ]

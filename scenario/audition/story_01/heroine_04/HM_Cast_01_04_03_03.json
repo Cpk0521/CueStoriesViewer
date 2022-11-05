@@ -6,8 +6,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "マネージャー、お疲れ様です。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "マネージャー、お疲れ様です。"
+            },
             "voice": "audition/story_01/heroine_04/HM_Cast_01_04_03_03/hm_cast_01_04_03_03_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "ジャーマネ、おつー。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "ジャーマネ、おつー。"
+            },
             "voice": "audition/story_01/heroine_04/HM_Cast_01_04_03_03/hm_cast_01_04_03_03_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "2人とも、レッスンは終わり？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "2人とも、レッスンは終わり？"
+            },
             "voice": ""
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "今は休憩です。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "今は休憩です。"
+            },
             "voice": "audition/story_01/heroine_04/HM_Cast_01_04_03_03/hm_cast_01_04_03_03_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "うむ、休むのは大事。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "うむ、休むのは大事。"
+            },
             "voice": "audition/story_01/heroine_04/HM_Cast_01_04_03_03/hm_cast_01_04_03_03_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "でも志穂、トレーニング足りてる？\n適切な休憩は大切だけど、休みすぎも良くないよ。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "でも志穂、トレーニング足りてる？\n適切な休憩は大切だけど、休みすぎも良くないよ。"
+            },
             "voice": "audition/story_01/heroine_04/HM_Cast_01_04_03_03/hm_cast_01_04_03_03_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "私は身体を休めることで、精神の安寧を図っている。\nこれも1つのやり方だ。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "私は身体を休めることで、精神の安寧を図っている。\nこれも1つのやり方だ。"
+            },
             "voice": "audition/story_01/heroine_04/HM_Cast_01_04_03_03/hm_cast_01_04_03_03_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "それはそうかもしれないけど……。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "それはそうかもしれないけど……。"
+            },
             "voice": "audition/story_01/heroine_04/HM_Cast_01_04_03_03/hm_cast_01_04_03_03_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "他人のやり方を気にしている時点で、\nほのかの心にも、余裕がないんじゃないのか？",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "他人のやり方を気にしている時点で、\nほのかの心にも、余裕がないんじゃないのか？"
+            },
             "voice": "audition/story_01/heroine_04/HM_Cast_01_04_03_03/hm_cast_01_04_03_03_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "うっ、それはそうかも……。\n今日は、わたしも休もうかな。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "うっ、それはそうかも……。\n今日は、わたしも休もうかな。"
+            },
             "voice": "audition/story_01/heroine_04/HM_Cast_01_04_03_03/hm_cast_01_04_03_03_010.mp3"
         }
     ]

@@ -6,8 +6,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "お疲れ様です。\nあの、この辺りで本を見ませんでしたか？",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "お疲れ様です。\nあの、この辺りで本を見ませんでしたか？"
+            },
             "voice": "audition/story_01/heroine_16/HM_Cast_01_16_14_02/hm_cast_01_16_14_02_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "今日持ってきた本、\nどこかに置き忘れてしまって。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "今日持ってきた本、\nどこかに置き忘れてしまって。"
+            },
             "voice": "audition/story_01/heroine_16/HM_Cast_01_16_14_02/hm_cast_01_16_14_02_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "本？　見てないなぁ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "本？　見てないなぁ。"
+            },
             "voice": ""
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "そうですか……、ありがとうございます。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "そうですか……、ありがとうございます。"
+            },
             "voice": "audition/story_01/heroine_16/HM_Cast_01_16_14_02/hm_cast_01_16_14_02_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "見つけたら知らせるよ。\nどんな本なの？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "見つけたら知らせるよ。\nどんな本なの？"
+            },
             "voice": ""
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "青いブックカバーで、これくらいの厚さの本です。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "青いブックカバーで、これくらいの厚さの本です。"
+            },
             "voice": "audition/story_01/heroine_16/HM_Cast_01_16_14_02/hm_cast_01_16_14_02_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "……ダメ。やっぱりない。\n今日は帰ります。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "……ダメ。やっぱりない。\n今日は帰ります。"
+            },
             "voice": "audition/story_01/heroine_16/HM_Cast_01_16_14_02/hm_cast_01_16_14_02_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "うん。自分のほうでも探しておくよ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "うん。自分のほうでも探しておくよ。"
+            },
             "voice": ""
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "すみません、ありがとうございます。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "すみません、ありがとうございます。"
+            },
             "voice": "audition/story_01/heroine_16/HM_Cast_01_16_14_02/hm_cast_01_16_14_02_009.mp3"
         }
     ]

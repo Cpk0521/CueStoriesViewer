@@ -6,8 +6,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "絢、ゲームショーって興味ある？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "絢、ゲームショーって興味ある？"
+            },
             "voice": ""
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "いいえ。\n特には。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "いいえ。\n特には。"
+            },
             "voice": "card/Card_10/Card_3100006_1/card_3100006_1_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "社長がね、絢を連れて行きたいって言ってるんだけど。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "社長がね、絢を連れて行きたいって言ってるんだけど。"
+            },
             "voice": ""
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "私をゲームショーに？　\nなんでですか？",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "私をゲームショーに？　\nなんでですか？"
+            },
             "voice": "card/Card_10/Card_3100006_1/card_3100006_1_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "付き人ってことだと思うよ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "付き人ってことだと思うよ。"
+            },
             "voice": ""
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "真咲さんのお仕事のお手伝いを、\nこの私が？",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "真咲さんのお仕事のお手伝いを、\nこの私が？"
+            },
             "voice": "card/Card_10/Card_3100006_1/card_3100006_1_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "うん……。\nそんなに不思議？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "うん……。\nそんなに不思議？"
+            },
             "voice": ""
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "だって、やったことないですし。\n私に務まるんでしょうか？",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "だって、やったことないですし。\n私に務まるんでしょうか？"
+            },
             "voice": "card/Card_10/Card_3100006_1/card_3100006_1_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "社長、\nパネルディスカッションのパネラーとして呼ばれてるんだって。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "社長、\nパネルディスカッションのパネラーとして呼ばれてるんだって。"
+            },
             "voice": ""
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "アテンドとかやるんじゃないかな？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "アテンドとかやるんじゃないかな？"
+            },
             "voice": ""
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "パネルディスカッション？\nパネラー？　アテンド？　",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "パネルディスカッション？\nパネラー？　アテンド？　"
+            },
             "voice": "card/Card_10/Card_3100006_1/card_3100006_1_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "……あの、辞退します。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "……あの、辞退します。"
+            },
             "voice": "card/Card_10/Card_3100006_1/card_3100006_1_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "とにかくご指名なんで、一度社長室に行ってみよう。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "とにかくご指名なんで、一度社長室に行ってみよう。"
+            },
             "voice": ""
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "えっ？\n萩原友先生！？",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "えっ？\n萩原友先生！？"
+            },
             "voice": "card/Card_10/Card_3100006_1/card_3100006_1_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "絢、好きなんじゃなかった？",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "絢、好きなんじゃなかった？"
+            },
             "voice": "card/Card_10/Card_3100006_1/card_3100006_1_015.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "好きというか……。\n萩原先生と言えば、少女漫画界の大先生ですよ。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "好きというか……。\n萩原先生と言えば、少女漫画界の大先生ですよ。"
+            },
             "voice": "card/Card_10/Card_3100006_1/card_3100006_1_016.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "ゲームショーの中の、トークイベントで。\n一緒に登壇するのよ。",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "ゲームショーの中の、トークイベントで。\n一緒に登壇するのよ。"
+            },
             "voice": "card/Card_10/Card_3100006_1/card_3100006_1_017.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "真咲さんが、萩原先生と？",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "真咲さんが、萩原先生と？"
+            },
             "voice": "card/Card_10/Card_3100006_1/card_3100006_1_018.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "私も漫画家の先生と、ステージでトークするの初めてだから……。\n絢、詳しいんでしょ？　萩原先生の作品。",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "私も漫画家の先生と、ステージでトークするの初めてだから……。\n絢、詳しいんでしょ？　萩原先生の作品。"
+            },
             "voice": "card/Card_10/Card_3100006_1/card_3100006_1_019.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "全部読んでますよ。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "全部読んでますよ。"
+            },
             "voice": "card/Card_10/Card_3100006_1/card_3100006_1_020.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "一緒にきてくれたら心強いんだけど。",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "一緒にきてくれたら心強いんだけど。"
+            },
             "voice": "card/Card_10/Card_3100006_1/card_3100006_1_021.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "私、トークショーなんて……。\n何をしゃべっていいのか……。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "私、トークショーなんて……。\n何をしゃべっていいのか……。"
+            },
             "voice": "card/Card_10/Card_3100006_1/card_3100006_1_022.mp3"
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "いや、さすがに登壇はしなくていいのよ。\n袖で待っててくれれば。",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "いや、さすがに登壇はしなくていいのよ。\n袖で待っててくれれば。"
+            },
             "voice": "card/Card_10/Card_3100006_1/card_3100006_1_023.mp3"
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "そうなんですか？",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "そうなんですか？"
+            },
             "voice": "card/Card_10/Card_3100006_1/card_3100006_1_024.mp3"
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "うまくいけば、萩原先生とお話できるかもよ。",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "うまくいけば、萩原先生とお話できるかもよ。"
+            },
             "voice": "card/Card_10/Card_3100006_1/card_3100006_1_025.mp3"
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "わ、私が……。先生と……？\n是非、連れていってください。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "わ、私が……。先生と……？\n是非、連れていってください。"
+            },
             "voice": "card/Card_10/Card_3100006_1/card_3100006_1_026.mp3"
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "ええ、ありがとう。\nあなたにとってもいい刺激になると思うわ。",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "ええ、ありがとう。\nあなたにとってもいい刺激になると思うわ。"
+            },
             "voice": "card/Card_10/Card_3100006_1/card_3100006_1_027.mp3"
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "よかったね、絢。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "よかったね、絢。"
+            },
             "voice": "card/Card_10/Card_3100006_1/card_3100006_1_028.mp3"
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "……。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "……。"
+            },
             "voice": "card/Card_10/Card_3100006_1/card_3100006_1_029.mp3"
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "絢？",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "絢？"
+            },
             "voice": "card/Card_10/Card_3100006_1/card_3100006_1_030.mp3"
         },
         {
@@ -276,8 +396,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "……あ、ごめん、聞いてなかった。\nなに？",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "……あ、ごめん、聞いてなかった。\nなに？"
+            },
             "voice": "card/Card_10/Card_3100006_1/card_3100006_1_031.mp3"
         },
         {
@@ -285,8 +409,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "今から緊張してどうするの。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "今から緊張してどうするの。"
+            },
             "voice": "card/Card_10/Card_3100006_1/card_3100006_1_032.mp3"
         },
         {
@@ -294,8 +422,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "ほんとに好きなんだね。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "ほんとに好きなんだね。"
+            },
             "voice": "card/Card_10/Card_3100006_1/card_3100006_1_033.mp3"
         },
         {
@@ -303,8 +435,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "だって、私が前に進むきっかけをくれた人だから。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "だって、私が前に進むきっかけをくれた人だから。"
+            },
             "voice": "card/Card_10/Card_3100006_1/card_3100006_1_034.mp3"
         },
         {
@@ -312,8 +448,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "えっ？\nどういうこと？",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "えっ？\nどういうこと？"
+            },
             "voice": "card/Card_10/Card_3100006_1/card_3100006_1_035.mp3"
         },
         {
@@ -321,8 +461,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "ちょっと、いろいろ思い悩んでた時期があったの、私。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "ちょっと、いろいろ思い悩んでた時期があったの、私。"
+            },
             "voice": "card/Card_10/Card_3100006_1/card_3100006_1_036.mp3"
         },
         {
@@ -330,8 +474,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "そんな時に出会ったのが萩原先生の作品。\n「碧い耳飾り」っていう。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "そんな時に出会ったのが萩原先生の作品。\n「碧い耳飾り」っていう。"
+            },
             "voice": "card/Card_10/Card_3100006_1/card_3100006_1_037.mp3"
         },
         {
@@ -339,8 +487,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "あ、今度ゲーム化されるヤツでしょ？",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "あ、今度ゲーム化されるヤツでしょ？"
+            },
             "voice": "card/Card_10/Card_3100006_1/card_3100006_1_038.mp3"
         },
         {
@@ -348,8 +500,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "うん。\nあの作品が、私の背中を押してくれたの……。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "うん。\nあの作品が、私の背中を押してくれたの……。"
+            },
             "voice": "card/Card_10/Card_3100006_1/card_3100006_1_039.mp3"
         },
         {
@@ -357,8 +513,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "そうなんだ。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "そうなんだ。"
+            },
             "voice": "card/Card_10/Card_3100006_1/card_3100006_1_040.mp3"
         },
         {
@@ -366,8 +526,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "はぁ。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "はぁ。"
+            },
             "voice": "card/Card_10/Card_3100006_1/card_3100006_1_041.mp3"
         },
         {
@@ -375,8 +539,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "なんでため息なんてついてるの？",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "なんでため息なんてついてるの？"
+            },
             "voice": "card/Card_10/Card_3100006_1/card_3100006_1_042.mp3"
         },
         {
@@ -384,8 +552,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "どうしよう、なんて言おう先生に。\n知らない人に話しかけられても、迷惑だよね。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "どうしよう、なんて言おう先生に。\n知らない人に話しかけられても、迷惑だよね。"
+            },
             "voice": "card/Card_10/Card_3100006_1/card_3100006_1_043.mp3"
         },
         {
@@ -393,8 +565,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "迷惑なわけないじゃん。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "迷惑なわけないじゃん。"
+            },
             "voice": "card/Card_10/Card_3100006_1/card_3100006_1_044.mp3"
         },
         {
@@ -402,8 +578,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "お礼を言ったらいいんじゃない？",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "お礼を言ったらいいんじゃない？"
+            },
             "voice": "card/Card_10/Card_3100006_1/card_3100006_1_045.mp3"
         },
         {
@@ -411,8 +591,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "えっ？",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "えっ？"
+            },
             "voice": "card/Card_10/Card_3100006_1/card_3100006_1_046.mp3"
         },
         {
@@ -420,8 +604,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "「ありがとうございました」って言えたら、\n先生も嬉しいと思うよ。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "「ありがとうございました」って言えたら、\n先生も嬉しいと思うよ。"
+            },
             "voice": "card/Card_10/Card_3100006_1/card_3100006_1_047.mp3"
         },
         {
@@ -429,8 +617,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "ありがとうか……。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "ありがとうか……。"
+            },
             "voice": "card/Card_10/Card_3100006_1/card_3100006_1_048.mp3"
         },
         {
@@ -438,8 +630,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "……代わりに行ってあげようか？",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "……代わりに行ってあげようか？"
+            },
             "voice": "card/Card_10/Card_3100006_1/card_3100006_1_049.mp3"
         },
         {
@@ -447,8 +643,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "……いじわる。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "……いじわる。"
+            },
             "voice": "card/Card_10/Card_3100006_1/card_3100006_1_050.mp3"
         },
         {
@@ -456,8 +656,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "へへ。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "へへ。"
+            },
             "voice": "card/Card_10/Card_3100006_1/card_3100006_1_051.mp3"
         },
         {
@@ -465,8 +669,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "ちょっと私、もう一度……。\n先生の漫画読み直してみる。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "ちょっと私、もう一度……。\n先生の漫画読み直してみる。"
+            },
             "voice": "card/Card_10/Card_3100006_1/card_3100006_1_052.mp3"
         },
         {
@@ -474,8 +682,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "読み直すって、すごい量でしょ？",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "読み直すって、すごい量でしょ？"
+            },
             "voice": "card/Card_10/Card_3100006_1/card_3100006_1_053.mp3"
         },
         {
@@ -483,8 +695,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "でも、復習しておかなきゃ。\nそれ位のことをしないと、先生に対して失礼っていうか。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "でも、復習しておかなきゃ。\nそれ位のことをしないと、先生に対して失礼っていうか。"
+            },
             "voice": "card/Card_10/Card_3100006_1/card_3100006_1_054.mp3"
         },
         {
@@ -492,8 +708,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "ま、絢がそう思うなら。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "ま、絢がそう思うなら。"
+            },
             "voice": "card/Card_10/Card_3100006_1/card_3100006_1_055.mp3"
         },
         {
@@ -501,8 +721,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "美晴、ありがとう。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "美晴、ありがとう。"
+            },
             "voice": "card/Card_10/Card_3100006_1/card_3100006_1_056.mp3"
         },
         {
@@ -510,8 +734,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "えっ？",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "えっ？"
+            },
             "voice": "card/Card_10/Card_3100006_1/card_3100006_1_057.mp3"
         },
         {
@@ -519,8 +747,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "ちょっと勇気出た……。\nそれじゃ、おやすみ。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "ちょっと勇気出た……。\nそれじゃ、おやすみ。"
+            },
             "voice": "card/Card_10/Card_3100006_1/card_3100006_1_058.mp3"
         },
         {
@@ -528,8 +760,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "がんばってね。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "がんばってね。"
+            },
             "voice": "card/Card_10/Card_3100006_1/card_3100006_1_059.mp3"
         },
         {
@@ -537,8 +773,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "（う～ん。\nやっぱりいざとなると緊張するな……。）",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "（う～ん。\nやっぱりいざとなると緊張するな……。）"
+            },
             "voice": "card/Card_10/Card_3100006_1/card_3100006_1_060.mp3"
         },
         {
@@ -546,8 +786,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "（目を見て、ちゃんと話せる自信がない……。）",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "（目を見て、ちゃんと話せる自信がない……。）"
+            },
             "voice": "card/Card_10/Card_3100006_1/card_3100006_1_061.mp3"
         },
         {
@@ -555,8 +799,12 @@
             "heroineId": [
                 0
             ],
-            "name": "？？？",
-            "message": "ちょっと、ごめんなさい。",
+            "name": {
+                "default": "？？？"
+            },
+            "message": {
+                "default": "ちょっと、ごめんなさい。"
+            },
             "voice": ""
         },
         {
@@ -564,8 +812,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "痛っ。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "痛っ。"
+            },
             "voice": "card/Card_10/Card_3100006_1/card_3100006_1_000.mp3"
         },
         {
@@ -573,8 +825,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "（なんで？　ここ、こんなにスペースあるのに。）",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "（なんで？　ここ、こんなにスペースあるのに。）"
+            },
             "voice": "card/Card_10/Card_3100006_1/card_3100006_1_000.mp3"
         },
         {
@@ -582,8 +838,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "（トイレにかけこんで……。\n具合でも悪いのかな？）",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "（トイレにかけこんで……。\n具合でも悪いのかな？）"
+            },
             "voice": "card/Card_10/Card_3100006_1/card_3100006_1_064.mp3"
         },
         {
@@ -591,8 +851,12 @@
             "heroineId": [
                 0
             ],
-            "name": "スーツの女性",
-            "message": "先生、大丈夫ですか？",
+            "name": {
+                "default": "スーツの女性"
+            },
+            "message": {
+                "default": "先生、大丈夫ですか？"
+            },
             "voice": ""
         },
         {
@@ -600,8 +864,12 @@
             "heroineId": [
                 0
             ],
-            "name": "？？？",
-            "message": "うるさい！　あんたはクビだっていってるでしょ！　\n早くどっかいきなさい！",
+            "name": {
+                "default": "？？？"
+            },
+            "message": {
+                "default": "うるさい！　あんたはクビだっていってるでしょ！　\n早くどっかいきなさい！"
+            },
             "voice": ""
         },
         {
@@ -609,8 +877,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "えっ？\n……萩原先生？",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "えっ？\n……萩原先生？"
+            },
             "voice": "card/Card_10/Card_3100006_1/card_3100006_1_067.mp3"
         }
     ]

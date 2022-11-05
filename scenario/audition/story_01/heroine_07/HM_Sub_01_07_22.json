@@ -6,8 +6,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "お疲れ様です。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "お疲れ様です。"
+            },
             "voice": "audition/story_01/heroine_07/HM_Sub_01_07_22/hm_sub_01_07_22_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "お疲れ様ー。あいり、このアニメ知ってる？\n少し昔の作品なんだけど、最近また流行ってるらしくて。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "お疲れ様ー。あいり、このアニメ知ってる？\n少し昔の作品なんだけど、最近また流行ってるらしくて。"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "あっ、知ってます！\nあいり、小さい頃に観てました！",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "あっ、知ってます！\nあいり、小さい頃に観てました！"
+            },
             "voice": "audition/story_01/heroine_07/HM_Sub_01_07_22/hm_sub_01_07_22_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "とってもかわいいハムスターが、ケージを飛び出して、\n大活躍するんです！",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "とってもかわいいハムスターが、ケージを飛び出して、\n大活躍するんです！"
+            },
             "voice": "audition/story_01/heroine_07/HM_Sub_01_07_22/hm_sub_01_07_22_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "えへへ、懐かしいなぁ……。\nあいりもまた観てみようかな。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "えへへ、懐かしいなぁ……。\nあいりもまた観てみようかな。"
+            },
             "voice": "audition/story_01/heroine_07/HM_Sub_01_07_22/hm_sub_01_07_22_005.mp3"
         }
     ]

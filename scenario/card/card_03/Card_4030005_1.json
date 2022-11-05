@@ -6,8 +6,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "志穂。\nみんなを連れて来たよ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "志穂。\nみんなを連れて来たよ。"
+            },
             "voice": ""
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "ライブ直前。\n忙しいときに申し訳ない。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "ライブ直前。\n忙しいときに申し訳ない。"
+            },
             "voice": "card/Card_03/Card_4030005_1/card_4030005_1_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "ねぇ、話って何？",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "ねぇ、話って何？"
+            },
             "voice": "card/Card_03/Card_4030005_1/card_4030005_1_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "もうすぐ本番なんだから、早くしてよ。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "もうすぐ本番なんだから、早くしてよ。"
+            },
             "voice": "card/Card_03/Card_4030005_1/card_4030005_1_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "もしかして、志穂ちゃんも不安なの？",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "もしかして、志穂ちゃんも不安なの？"
+            },
             "voice": "card/Card_03/Card_4030005_1/card_4030005_1_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "「も」ってなに？\n陽菜は不安なの？",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "「も」ってなに？\n陽菜は不安なの？"
+            },
             "voice": "card/Card_03/Card_4030005_1/card_4030005_1_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "いや、別にそうじゃないけど……。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "いや、別にそうじゃないけど……。"
+            },
             "voice": "card/Card_03/Card_4030005_1/card_4030005_1_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "何が不安なの？",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "何が不安なの？"
+            },
             "voice": "card/Card_03/Card_4030005_1/card_4030005_1_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "わ、わたしより、今は志穂ちゃんの話をしようよ。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "わ、わたしより、今は志穂ちゃんの話をしようよ。"
+            },
             "voice": "card/Card_03/Card_4030005_1/card_4030005_1_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "おっと、そうだった。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "おっと、そうだった。"
+            },
             "voice": "card/Card_03/Card_4030005_1/card_4030005_1_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "っで、志穂は何の用？",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "っで、志穂は何の用？"
+            },
             "voice": "card/Card_03/Card_4030005_1/card_4030005_1_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "気付いてしまった……。\n私は、気付いてしまった。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "気付いてしまった……。\n私は、気付いてしまった。"
+            },
             "voice": "card/Card_03/Card_4030005_1/card_4030005_1_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "何に気付いたの……？",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "何に気付いたの……？"
+            },
             "voice": "card/Card_03/Card_4030005_1/card_4030005_1_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "とても、重要なこと。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "とても、重要なこと。"
+            },
             "voice": "card/Card_03/Card_4030005_1/card_4030005_1_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "重要なこと？",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "重要なこと？"
+            },
             "voice": "card/Card_03/Card_4030005_1/card_4030005_1_015.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "とてもヤバイ。\n非常に由々しき問題。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "とてもヤバイ。\n非常に由々しき問題。"
+            },
             "voice": "card/Card_03/Card_4030005_1/card_4030005_1_016.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "ゆゆしきってなに？",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "ゆゆしきってなに？"
+            },
             "voice": "card/Card_03/Card_4030005_1/card_4030005_1_017.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "見過ごすことが出来ないって意味かな？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "見過ごすことが出来ないって意味かな？"
+            },
             "voice": ""
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "そんな重要な問題を、ライブ直前に……？",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "そんな重要な問題を、ライブ直前に……？"
+            },
             "voice": "card/Card_03/Card_4030005_1/card_4030005_1_019.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "言うべきか、言わざるべきか。\n私もさんざん考えた。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "言うべきか、言わざるべきか。\n私もさんざん考えた。"
+            },
             "voice": "card/Card_03/Card_4030005_1/card_4030005_1_020.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "我、考える、ゆえに我あり。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "我、考える、ゆえに我あり。"
+            },
             "voice": "card/Card_03/Card_4030005_1/card_4030005_1_021.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "それ何だっけ？\n聞いたことある……。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "それ何だっけ？\n聞いたことある……。"
+            },
             "voice": "card/Card_03/Card_4030005_1/card_4030005_1_022.mp3"
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "ああ……。\n何だっけ？",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "ああ……。\n何だっけ？"
+            },
             "voice": "card/Card_03/Card_4030005_1/card_4030005_1_023.mp3"
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "舞花は知らないでしょ。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "舞花は知らないでしょ。"
+            },
             "voice": "card/Card_03/Card_4030005_1/card_4030005_1_024.mp3"
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "デカルトの言葉。\n哲学で有名な言葉だね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "デカルトの言葉。\n哲学で有名な言葉だね。"
+            },
             "voice": ""
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "志穂ちゃんは、何に気付いたの？",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "志穂ちゃんは、何に気付いたの？"
+            },
             "voice": "card/Card_03/Card_4030005_1/card_4030005_1_026.mp3"
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "レゾンデートル。存在理由。\n我々の存在価値。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "レゾンデートル。存在理由。\n我々の存在価値。"
+            },
             "voice": "card/Card_03/Card_4030005_1/card_4030005_1_027.mp3"
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "存在価値……？",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "存在価値……？"
+            },
             "voice": "card/Card_03/Card_4030005_1/card_4030005_1_028.mp3"
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "何か難しいこと言ってる……。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "何か難しいこと言ってる……。"
+            },
             "voice": "card/Card_03/Card_4030005_1/card_4030005_1_029.mp3"
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "もう全然わかんない。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "もう全然わかんない。"
+            },
             "voice": "card/Card_03/Card_4030005_1/card_4030005_1_030.mp3"
         },
         {
@@ -276,8 +396,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "舞花。\n声優とは、何ぞや？",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "舞花。\n声優とは、何ぞや？"
+            },
             "voice": "card/Card_03/Card_4030005_1/card_4030005_1_031.mp3"
         },
         {
@@ -285,8 +409,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "へぇ？\n何それ？",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "へぇ？\n何それ？"
+            },
             "voice": "card/Card_03/Card_4030005_1/card_4030005_1_032.mp3"
         },
         {
@@ -294,8 +422,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "答えよ。\n声優とは、何ぞや？",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "答えよ。\n声優とは、何ぞや？"
+            },
             "voice": "card/Card_03/Card_4030005_1/card_4030005_1_033.mp3"
         },
         {
@@ -303,8 +435,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "ちょっと、落ち着いて話をしよう……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "ちょっと、落ち着いて話をしよう……。"
+            },
             "voice": ""
         },
         {
@@ -312,8 +448,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "落ち着いてなどいられない。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "落ち着いてなどいられない。"
+            },
             "voice": "card/Card_03/Card_4030005_1/card_4030005_1_035.mp3"
         },
         {
@@ -321,8 +461,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "声優っていうのは、わたし達の仕事でしょ。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "声優っていうのは、わたし達の仕事でしょ。"
+            },
             "voice": "card/Card_03/Card_4030005_1/card_4030005_1_036.mp3"
         },
         {
@@ -330,8 +474,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "そうだよね。映像とかに、声を当てる仕事。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "そうだよね。映像とかに、声を当てる仕事。"
+            },
             "voice": "card/Card_03/Card_4030005_1/card_4030005_1_037.mp3"
         },
         {
@@ -339,8 +487,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "そうそう！　声だけで演技する仕事。\nだよね？　マネージャー。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "そうそう！　声だけで演技する仕事。\nだよね？　マネージャー。"
+            },
             "voice": "card/Card_03/Card_4030005_1/card_4030005_1_038.mp3"
         },
         {
@@ -348,8 +500,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "うん。\n間違ってないと思うけど……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "うん。\n間違ってないと思うけど……。"
+            },
             "voice": ""
         },
         {
@@ -357,8 +513,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "その通り。声優とはいわば裏方。\n決して表に出てはいけない仕事。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "その通り。声優とはいわば裏方。\n決して表に出てはいけない仕事。"
+            },
             "voice": "card/Card_03/Card_4030005_1/card_4030005_1_040.mp3"
         },
         {
@@ -366,8 +526,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "決してってわけじゃないと思うけど……。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "決してってわけじゃないと思うけど……。"
+            },
             "voice": "card/Card_03/Card_4030005_1/card_4030005_1_041.mp3"
         },
         {
@@ -375,8 +539,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "いわゆる声優の大先輩達は……。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "いわゆる声優の大先輩達は……。"
+            },
             "voice": "card/Card_03/Card_4030005_1/card_4030005_1_042.mp3"
         },
         {
@@ -384,8 +552,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "キャラクターのイメージを壊すからと、\n頑なに表には出なかったらしい。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "キャラクターのイメージを壊すからと、\n頑なに表には出なかったらしい。"
+            },
             "voice": "card/Card_03/Card_4030005_1/card_4030005_1_043.mp3"
         },
         {
@@ -393,8 +565,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "まぁ、そういう人もいたけど……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "まぁ、そういう人もいたけど……。"
+            },
             "voice": ""
         },
         {
@@ -402,8 +578,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "では、何ゆえ……。\n何ゆえ、我々は人前で歌う？",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "では、何ゆえ……。\n何ゆえ、我々は人前で歌う？"
+            },
             "voice": "card/Card_03/Card_4030005_1/card_4030005_1_045.mp3"
         },
         {
@@ -411,8 +591,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "えっ……？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "えっ……？"
+            },
             "voice": ""
         },
         {
@@ -420,8 +604,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "ヒラヒラのステージ衣装を身にまとって。\n何ゆえ、人前に出るのだ？",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "ヒラヒラのステージ衣装を身にまとって。\n何ゆえ、人前に出るのだ？"
+            },
             "voice": "card/Card_03/Card_4030005_1/card_4030005_1_047.mp3"
         },
         {
@@ -429,8 +617,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "あっ……、うっ……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "あっ……、うっ……。"
+            },
             "voice": ""
         },
         {
@@ -438,8 +630,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "マネージャー！\n気を確かに！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "マネージャー！\n気を確かに！"
+            },
             "voice": "card/Card_03/Card_4030005_1/card_4030005_1_049.mp3"
         },
         {
@@ -447,8 +643,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "しっかりしろ！",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "しっかりしろ！"
+            },
             "voice": "card/Card_03/Card_4030005_1/card_4030005_1_050.mp3"
         },
         {
@@ -456,8 +656,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "ああ……、ありがとう……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "ああ……、ありがとう……。"
+            },
             "voice": ""
         },
         {
@@ -465,8 +669,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "この答えが見つからぬうちは、無理だ。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "この答えが見つからぬうちは、無理だ。"
+            },
             "voice": "card/Card_03/Card_4030005_1/card_4030005_1_052.mp3"
         },
         {
@@ -474,8 +682,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "無理って、何が……？",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "無理って、何が……？"
+            },
             "voice": "card/Card_03/Card_4030005_1/card_4030005_1_053.mp3"
         },
         {
@@ -483,8 +695,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "私は、人前に立てない。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "私は、人前に立てない。"
+            },
             "voice": "card/Card_03/Card_4030005_1/card_4030005_1_054.mp3"
         },
         {
@@ -492,8 +708,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "はぁ？\n今さら何言ってるの？",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "はぁ？\n今さら何言ってるの？"
+            },
             "voice": "card/Card_03/Card_4030005_1/card_4030005_1_055.mp3"
         },
         {
@@ -501,8 +721,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "今さらだろうが何だろうが、気付いてしまったのだ。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "今さらだろうが何だろうが、気付いてしまったのだ。"
+            },
             "voice": "card/Card_03/Card_4030005_1/card_4030005_1_056.mp3"
         },
         {
@@ -510,8 +734,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "マネージャーさん、どうしましょう……。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "マネージャーさん、どうしましょう……。"
+            },
             "voice": "card/Card_03/Card_4030005_1/card_4030005_1_057.mp3"
         },
         {
@@ -519,8 +747,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "どうしましょうって言われても……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "どうしましょうって言われても……。"
+            },
             "voice": ""
         },
         {
@@ -528,8 +760,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "私は、声優になりたかった。\nアイドルになりたかったわけではない。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "私は、声優になりたかった。\nアイドルになりたかったわけではない。"
+            },
             "voice": "card/Card_03/Card_4030005_1/card_4030005_1_059.mp3"
         },
         {
@@ -537,8 +773,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "今日の志穂、いつにも増して……、変！",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "今日の志穂、いつにも増して……、変！"
+            },
             "voice": "card/Card_03/Card_4030005_1/card_4030005_1_060.mp3"
         },
         {
@@ -546,8 +786,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "（これは困ったな……。）",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "（これは困ったな……。）"
+            },
             "voice": ""
         }
     ]

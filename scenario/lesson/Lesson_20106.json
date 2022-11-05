@@ -6,8 +6,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "陽菜さ～ん！",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "陽菜さ～ん！"
+            },
             "voice": "lesson/Lesson_20106/lesson_20106_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "ん？　あいりちゃん、どうかした？",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "ん？　あいりちゃん、どうかした？"
+            },
             "voice": "lesson/Lesson_20106/lesson_20106_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "また勉強を教えて欲しいんですが……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "また勉強を教えて欲しいんですが……。"
+            },
             "voice": "lesson/Lesson_20106/lesson_20106_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "いいよー。\n先生に任せて！",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "いいよー。\n先生に任せて！"
+            },
             "voice": "lesson/Lesson_20106/lesson_20106_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "はい！\nそれで、ここの部分なんですが……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "はい！\nそれで、ここの部分なんですが……。"
+            },
             "voice": "lesson/Lesson_20106/lesson_20106_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "どれどれ？\nえーっと、これは……。うーんっと、どうだったっけ。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "どれどれ？\nえーっと、これは……。うーんっと、どうだったっけ。"
+            },
             "voice": "lesson/Lesson_20106/lesson_20106_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "この不等式の共有点が２つだから、実数解を出すことが出来るよ。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "この不等式の共有点が２つだから、実数解を出すことが出来るよ。"
+            },
             "voice": "lesson/Lesson_20106/lesson_20106_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "あ、美晴さん。\nなるほど……。そういうことだったんですね！",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "あ、美晴さん。\nなるほど……。そういうことだったんですね！"
+            },
             "voice": "lesson/Lesson_20106/lesson_20106_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "ちょっと懐かしいものを見ちゃったから。\n余計なお世話だったかな？",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "ちょっと懐かしいものを見ちゃったから。\n余計なお世話だったかな？"
+            },
             "voice": "lesson/Lesson_20106/lesson_20106_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "いえいえ！　すっごく助かりました！\nありがとうございます！",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "いえいえ！　すっごく助かりました！\nありがとうございます！"
+            },
             "voice": "lesson/Lesson_20106/lesson_20106_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "どういたしまして。それじゃあ頑張ってね。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "どういたしまして。それじゃあ頑張ってね。"
+            },
             "voice": "lesson/Lesson_20106/lesson_20106_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "……。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "……。"
+            },
             "voice": "lesson/Lesson_20106/lesson_20106_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "あれ、陽菜さん、どうかしました？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "あれ、陽菜さん、どうかしました？"
+            },
             "voice": "lesson/Lesson_20106/lesson_20106_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "いや、なんでもないよ！\nちょっと舞い上がってたなって反省してただけ。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "いや、なんでもないよ！\nちょっと舞い上がってたなって反省してただけ。"
+            },
             "voice": "lesson/Lesson_20106/lesson_20106_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "反省……？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "反省……？"
+            },
             "voice": "lesson/Lesson_20106/lesson_20106_015.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "なんか、陽菜が急に猛勉強し始めたんだけど……。何かあったの？",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "なんか、陽菜が急に猛勉強し始めたんだけど……。何かあったの？"
+            },
             "voice": "lesson/Lesson_20106/lesson_20106_016.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "さぁ。ほっといたらすぐ戻るんじゃない？",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "さぁ。ほっといたらすぐ戻るんじゃない？"
+            },
             "voice": "lesson/Lesson_20106/lesson_20106_017.mp3"
         }
     ]

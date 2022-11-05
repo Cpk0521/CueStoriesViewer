@@ -6,8 +6,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "ここまで来ちゃったね……。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "ここまで来ちゃったね……。"
+            },
             "voice": "loginbonus/LoginBonus_00010/loginbonus_00010_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "長かったような気もするけど、\nあっという間だった！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "長かったような気もするけど、\nあっという間だった！"
+            },
             "voice": "loginbonus/LoginBonus_00010/loginbonus_00010_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "今でも、信じられない。\nこんなステージに立てるなんて……。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "今でも、信じられない。\nこんなステージに立てるなんて……。"
+            },
             "voice": "loginbonus/LoginBonus_00010/loginbonus_00010_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "数多の表現者が、\n伝説を轟かせてきた場所だからな。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "数多の表現者が、\n伝説を轟かせてきた場所だからな。"
+            },
             "voice": "loginbonus/LoginBonus_00010/loginbonus_00010_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "ああ……。緊張してきた！",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "ああ……。緊張してきた！"
+            },
             "voice": "loginbonus/LoginBonus_00010/loginbonus_00010_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "今さら緊張したってしょうがないよ！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "今さら緊張したってしょうがないよ！"
+            },
             "voice": "loginbonus/LoginBonus_00010/loginbonus_00010_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "悠希は、緊張とは無縁だもんね。\nちょっと羨ましい。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "悠希は、緊張とは無縁だもんね。\nちょっと羨ましい。"
+            },
             "voice": "loginbonus/LoginBonus_00010/loginbonus_00010_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "フッ、吾輩もこのようなステージなど、緊張に値せんな。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "フッ、吾輩もこのようなステージなど、緊張に値せんな。"
+            },
             "voice": "loginbonus/LoginBonus_00010/loginbonus_00010_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "じゃあ、なんで利恵はさっきから水ばっか飲んでるの？",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "じゃあ、なんで利恵はさっきから水ばっか飲んでるの？"
+            },
             "voice": "loginbonus/LoginBonus_00010/loginbonus_00010_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "う、うるさいな！　これは水分が足りなくなったら困るからよ！",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "う、うるさいな！　これは水分が足りなくなったら困るからよ！"
+            },
             "voice": "loginbonus/LoginBonus_00010/loginbonus_00010_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そろそろ本番だよ？　準備はいい？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そろそろ本番だよ？　準備はいい？"
+            },
             "voice": ""
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "マネージャーさん……。私たち、大丈夫でしょうか……？",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "マネージャーさん……。私たち、大丈夫でしょうか……？"
+            },
             "voice": "loginbonus/LoginBonus_00010/loginbonus_00010_013.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "どうかしたの？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "どうかしたの？"
+            },
             "voice": ""
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "あの歓声を聞いてたら、だんだん怖くなってきちゃって……。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "あの歓声を聞いてたら、だんだん怖くなってきちゃって……。"
+            },
             "voice": "loginbonus/LoginBonus_00010/loginbonus_00010_015.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "……ちょっと来て。みんなに見せたいものがある。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "……ちょっと来て。みんなに見せたいものがある。"
+            },
             "voice": ""
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "私たちに、見せたいもの……？",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "私たちに、見せたいもの……？"
+            },
             "voice": "loginbonus/LoginBonus_00010/loginbonus_00010_017.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "ここは、ステージの袖ですよね……。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "ここは、ステージの袖ですよね……。"
+            },
             "voice": "loginbonus/LoginBonus_00010/loginbonus_00010_018.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "もしかして、マネージャーがステージで踊るの！？",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "もしかして、マネージャーがステージで踊るの！？"
+            },
             "voice": "loginbonus/LoginBonus_00010/loginbonus_00010_019.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "違うよ！　そこから、客席を見て。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "違うよ！　そこから、客席を見て。"
+            },
             "voice": ""
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "すごい……。お客さんがいっぱい……。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "すごい……。お客さんがいっぱい……。"
+            },
             "voice": "loginbonus/LoginBonus_00010/loginbonus_00010_021.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "この会場のみんなが、私たちを待ってるんだ……。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "この会場のみんなが、私たちを待ってるんだ……。"
+            },
             "voice": "loginbonus/LoginBonus_00010/loginbonus_00010_022.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "初めてみんなと会ってから今まで、いろんなことがあったね。\nでも、みんなで力を合わせて、どんなことも乗り越えてきた。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "初めてみんなと会ってから今まで、いろんなことがあったね。\nでも、みんなで力を合わせて、どんなことも乗り越えてきた。"
+            },
             "voice": ""
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "マネージャーさんのおかげです。\nずっとそばで支えてくれたから。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "マネージャーさんのおかげです。\nずっとそばで支えてくれたから。"
+            },
             "voice": "loginbonus/LoginBonus_00010/loginbonus_00010_024.mp3"
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "君たちに、この景色を見せたかったんだ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "君たちに、この景色を見せたかったんだ。"
+            },
             "voice": ""
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "この景色を……。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "この景色を……。"
+            },
             "voice": "loginbonus/LoginBonus_00010/loginbonus_00010_026.mp3"
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "何か……。すっごい、ドキドキしてきた！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "何か……。すっごい、ドキドキしてきた！"
+            },
             "voice": "loginbonus/LoginBonus_00010/loginbonus_00010_027.mp3"
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "わたしも。なんだか胸が張り裂けそう。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "わたしも。なんだか胸が張り裂けそう。"
+            },
             "voice": "loginbonus/LoginBonus_00010/loginbonus_00010_028.mp3"
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "ふっ、我輩の勇姿を、そこで見ているといい。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "ふっ、我輩の勇姿を、そこで見ているといい。"
+            },
             "voice": "loginbonus/LoginBonus_00010/loginbonus_00010_029.mp3"
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "さぁ！　行っておいで！",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "さぁ！　行っておいで！"
+            },
             "voice": ""
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "はい！\n行ってきます！　マネージャーさん！",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "はい！\n行ってきます！　マネージャーさん！"
+            },
             "voice": "loginbonus/LoginBonus_00010/loginbonus_00010_031.mp3"
         }
     ]

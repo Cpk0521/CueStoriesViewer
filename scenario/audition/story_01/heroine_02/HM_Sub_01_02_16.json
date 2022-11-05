@@ -6,8 +6,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "お疲れ様ですー。\n今日ここ来る途中、野良猫がいたんすよ。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "お疲れ様ですー。\n今日ここ来る途中、野良猫がいたんすよ。"
+            },
             "voice": "audition/story_01/heroine_02/HM_Sub_01_02_16/hm_sub_01_02_16_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "なんか自分に付いてきたんすよね……。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "なんか自分に付いてきたんすよね……。"
+            },
             "voice": "audition/story_01/heroine_02/HM_Sub_01_02_16/hm_sub_01_02_16_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "何か貰えるとでも思ったのかな。\nまぁ、そういう時に限って何もないんですよねー。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "何か貰えるとでも思ったのかな。\nまぁ、そういう時に限って何もないんですよねー。"
+            },
             "voice": "audition/story_01/heroine_02/HM_Sub_01_02_16/hm_sub_01_02_16_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "あの猫、また会えますかね？",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "あの猫、また会えますかね？"
+            },
             "voice": "audition/story_01/heroine_02/HM_Sub_01_02_16/hm_sub_01_02_16_004.mp3"
         }
     ]

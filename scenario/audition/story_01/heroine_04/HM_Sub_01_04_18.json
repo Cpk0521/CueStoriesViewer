@@ -6,8 +6,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "はあ、マネージャー……。\nちょっとだけ、話、聞いてもらってもいいですか？",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "はあ、マネージャー……。\nちょっとだけ、話、聞いてもらってもいいですか？"
+            },
             "voice": "audition/story_01/heroine_04/HM_Sub_01_04_18/hm_sub_01_04_18_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "え、どうしたの？　そんな深刻そうな顔して。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "え、どうしたの？　そんな深刻そうな顔して。"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "まあ、いつものことなんですけど。\n志穂と舞花がここに来る途中、買い食いをしてたんです。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "まあ、いつものことなんですけど。\n志穂と舞花がここに来る途中、買い食いをしてたんです。"
+            },
             "voice": "audition/story_01/heroine_04/HM_Sub_01_04_18/hm_sub_01_04_18_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "レッスン前にですよ？\nでも、すごくおいしそうに食べてて……。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "レッスン前にですよ？\nでも、すごくおいしそうに食べてて……。"
+            },
             "voice": "audition/story_01/heroine_04/HM_Sub_01_04_18/hm_sub_01_04_18_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "うう、わたしの頭から離れないんです。\nどうしよう、マネージャー……。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "うう、わたしの頭から離れないんです。\nどうしよう、マネージャー……。"
+            },
             "voice": "audition/story_01/heroine_04/HM_Sub_01_04_18/hm_sub_01_04_18_005.mp3"
         }
     ]

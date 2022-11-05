@@ -6,8 +6,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "スヴェンたちの拠点は青い海に囲まれた小さな島。\n色々と想像が捗るな。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "スヴェンたちの拠点は青い海に囲まれた小さな島。\n色々と想像が捗るな。"
+            },
             "voice": "audition/story_01/heroine_03/HM_Sub_01_03_15/hm_sub_01_03_15_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "志穂だったら、何をするの？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "志穂だったら、何をするの？"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "ハンモックを吊るして寝る。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "ハンモックを吊るして寝る。"
+            },
             "voice": "audition/story_01/heroine_03/HM_Sub_01_03_15/hm_sub_01_03_15_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "なんかいつもと変わらないね……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "なんかいつもと変わらないね……。"
+            },
             "voice": ""
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "何を言う。\nいついかなる時も睡眠の環境は大事だぞ。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "何を言う。\nいついかなる時も睡眠の環境は大事だぞ。"
+            },
             "voice": "audition/story_01/heroine_03/HM_Sub_01_03_15/hm_sub_01_03_15_005.mp3"
         }
     ]

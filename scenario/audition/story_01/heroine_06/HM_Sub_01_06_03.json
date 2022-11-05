@@ -6,8 +6,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "お疲れ様です。\n……うーん、どうしようかなぁ。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "お疲れ様です。\n……うーん、どうしようかなぁ。"
+            },
             "voice": "audition/story_01/heroine_06/HM_Sub_01_06_03/hm_sub_01_06_03_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "どうしたの？\n悩みごと？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "どうしたの？\n悩みごと？"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "あ、はい。\n今日の夕飯、何にしようかな、って考えてて。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "あ、はい。\n今日の夕飯、何にしようかな、って考えてて。"
+            },
             "voice": "audition/story_01/heroine_06/HM_Sub_01_06_03/hm_sub_01_06_03_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "昨日はチキン南蛮だったし、\n野菜メインがいいかなーとは思ってるんですけど。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "昨日はチキン南蛮だったし、\n野菜メインがいいかなーとは思ってるんですけど。"
+            },
             "voice": "audition/story_01/heroine_06/HM_Sub_01_06_03/hm_sub_01_06_03_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "……あれ、もやしってまだ残ってたっけ。\n小松菜はあったような……。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "……あれ、もやしってまだ残ってたっけ。\n小松菜はあったような……。"
+            },
             "voice": "audition/story_01/heroine_06/HM_Sub_01_06_03/hm_sub_01_06_03_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "んー……あ、いけない。買い物行く時間無くなっちゃう！\nそれじゃ、失礼します。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "んー……あ、いけない。買い物行く時間無くなっちゃう！\nそれじゃ、失礼します。"
+            },
             "voice": "audition/story_01/heroine_06/HM_Sub_01_06_03/hm_sub_01_06_03_006.mp3"
         }
     ]

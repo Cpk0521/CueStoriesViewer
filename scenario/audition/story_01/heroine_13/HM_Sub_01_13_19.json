@@ -6,8 +6,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "この前、莉子にパイを貰ったんだけど。\n見た目もすっごくおしゃれで、食べるのもったいなかったなー。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "この前、莉子にパイを貰ったんだけど。\n見た目もすっごくおしゃれで、食べるのもったいなかったなー。"
+            },
             "voice": "audition/story_01/heroine_13/HM_Sub_01_13_19/hm_sub_01_13_19_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "でも、食べないと悪くなるからーって言われて食べたら、\nすごくサクサクしてて、甘酸っぱくて。 ",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "でも、食べないと悪くなるからーって言われて食べたら、\nすごくサクサクしてて、甘酸っぱくて。 "
+            },
             "voice": "audition/story_01/heroine_13/HM_Sub_01_13_19/hm_sub_01_13_19_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "我輩の目だけでなく、舌までも唸らせるとは。\n莉子も相当な力の持ち主よ……。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "我輩の目だけでなく、舌までも唸らせるとは。\n莉子も相当な力の持ち主よ……。"
+            },
             "voice": "audition/story_01/heroine_13/HM_Sub_01_13_19/hm_sub_01_13_19_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "今度、料理とか教えてもらおうかな……。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "今度、料理とか教えてもらおうかな……。"
+            },
             "voice": "audition/story_01/heroine_13/HM_Sub_01_13_19/hm_sub_01_13_19_004.mp3"
         }
     ]

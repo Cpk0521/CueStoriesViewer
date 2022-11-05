@@ -6,8 +6,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "あれ？　あいりと柚葉は？",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "あれ？　あいりと柚葉は？"
+            },
             "voice": "card/Card_07/Card_4070011_1/card_4070011_1_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "仕事。\n今日から3日間、2人で同じ現場なんだって。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "仕事。\n今日から3日間、2人で同じ現場なんだって。"
+            },
             "voice": "card/Card_07/Card_4070011_1/card_4070011_1_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "そっかー。外、雨なのに大変だなー。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "そっかー。外、雨なのに大変だなー。"
+            },
             "voice": "card/Card_07/Card_4070011_1/card_4070011_1_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "そうね。\nまぁ、ここんところ続いてるけど……。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "そうね。\nまぁ、ここんところ続いてるけど……。"
+            },
             "voice": "card/Card_07/Card_4070011_1/card_4070011_1_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "あ、でも、あいりはレインコート着て、\nなんか楽しそうに出かけていったわね。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "あ、でも、あいりはレインコート着て、\nなんか楽しそうに出かけていったわね。"
+            },
             "voice": "card/Card_07/Card_4070011_1/card_4070011_1_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "え？　レインコート？",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "え？　レインコート？"
+            },
             "voice": "card/Card_07/Card_4070011_1/card_4070011_1_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "きっと好きなのよ。雨の日が。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "きっと好きなのよ。雨の日が。"
+            },
             "voice": "card/Card_07/Card_4070011_1/card_4070011_1_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "あたしは、晴れたほうが好きだけどなー。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "あたしは、晴れたほうが好きだけどなー。"
+            },
             "voice": "card/Card_07/Card_4070011_1/card_4070011_1_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "まぁね。こうも雨が続くと色々と面倒だし、\n早いところ晴れてほしいわね。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "まぁね。こうも雨が続くと色々と面倒だし、\n早いところ晴れてほしいわね。"
+            },
             "voice": "card/Card_07/Card_4070011_1/card_4070011_1_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "アイリのレインコート、とてもかわいいわ。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "アイリのレインコート、とてもかわいいわ。"
+            },
             "voice": "card/Card_07/Card_4070011_1/card_4070011_1_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "えへへ。そうかな？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "えへへ。そうかな？"
+            },
             "voice": "card/Card_07/Card_4070011_1/card_4070011_1_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "私も同じの買おうかなぁ。\nどこで買ったの？　そのレインコート。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "私も同じの買おうかなぁ。\nどこで買ったの？　そのレインコート。"
+            },
             "voice": "card/Card_07/Card_4070011_1/card_4070011_1_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "わかんない。これ、中学生の頃にお父さんが、\n海外出張のお土産に買ってきてくれたの。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "わかんない。これ、中学生の頃にお父さんが、\n海外出張のお土産に買ってきてくれたの。"
+            },
             "voice": "card/Card_07/Card_4070011_1/card_4070011_1_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "そうなんだ。\nアイリのパパ、どこに出張行った時に買ってきたの？",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "そうなんだ。\nアイリのパパ、どこに出張行った時に買ってきたの？"
+            },
             "voice": "card/Card_07/Card_4070011_1/card_4070011_1_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "えっと、どこだったかなぁ。\nごめんね、覚えてなくて。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "えっと、どこだったかなぁ。\nごめんね、覚えてなくて。"
+            },
             "voice": "card/Card_07/Card_4070011_1/card_4070011_1_015.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "……残念。同じお店に行こうと思ったのに。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "……残念。同じお店に行こうと思ったのに。"
+            },
             "voice": "card/Card_07/Card_4070011_1/card_4070011_1_016.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "でも、アイリはジュニアハイの頃からずっと同じレインコート、\n大事にしてるのね。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "でも、アイリはジュニアハイの頃からずっと同じレインコート、\n大事にしてるのね。"
+            },
             "voice": "card/Card_07/Card_4070011_1/card_4070011_1_017.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "うん。着ているうちに、だんだん気に入っちゃって。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "うん。着ているうちに、だんだん気に入っちゃって。"
+            },
             "voice": "card/Card_07/Card_4070011_1/card_4070011_1_018.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "きっと、作った人も幸せね。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "きっと、作った人も幸せね。"
+            },
             "voice": "card/Card_07/Card_4070011_1/card_4070011_1_019.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "そうかな？\nふふ、だといいな。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "そうかな？\nふふ、だといいな。"
+            },
             "voice": "card/Card_07/Card_4070011_1/card_4070011_1_020.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "ふふふっ。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "ふふふっ。"
+            },
             "voice": "card/Card_07/Card_4070011_1/card_4070011_1_021.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "ねえ、柚葉ちゃん。\nあいり、雨が好きなの。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "ねえ、柚葉ちゃん。\nあいり、雨が好きなの。"
+            },
             "voice": "card/Card_07/Card_4070011_1/card_4070011_1_022.mp3"
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "わかるわ。だって今のアイリ、とても楽しそうだもの。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "わかるわ。だって今のアイリ、とても楽しそうだもの。"
+            },
             "voice": "card/Card_07/Card_4070011_1/card_4070011_1_023.mp3"
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "でも、どうして？\n私は晴れのほうが好きだけど。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "でも、どうして？\n私は晴れのほうが好きだけど。"
+            },
             "voice": "card/Card_07/Card_4070011_1/card_4070011_1_024.mp3"
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "雨の日にね、傘の下で聞く音が好きなの。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "雨の日にね、傘の下で聞く音が好きなの。"
+            },
             "voice": "card/Card_07/Card_4070011_1/card_4070011_1_025.mp3"
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "雨が降る音？",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "雨が降る音？"
+            },
             "voice": "card/Card_07/Card_4070011_1/card_4070011_1_026.mp3"
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "ううん。傘の下で聞く街の音。\nいつもより、ホワホワして聞こえない？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "ううん。傘の下で聞く街の音。\nいつもより、ホワホワして聞こえない？"
+            },
             "voice": "card/Card_07/Card_4070011_1/card_4070011_1_027.mp3"
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "ホワホワ？　ホワホワ……、ホワホワ……。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "ホワホワ？　ホワホワ……、ホワホワ……。"
+            },
             "voice": "card/Card_07/Card_4070011_1/card_4070011_1_028.mp3"
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "どうかな？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "どうかな？"
+            },
             "voice": "card/Card_07/Card_4070011_1/card_4070011_1_029.mp3"
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "うん！　なんか不思議な感じ！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "うん！　なんか不思議な感じ！"
+            },
             "voice": "card/Card_07/Card_4070011_1/card_4070011_1_030.mp3"
         },
         {
@@ -276,8 +396,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "今まで気付かなかった！\nアイリ、すごいわ！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "今まで気付かなかった！\nアイリ、すごいわ！"
+            },
             "voice": "card/Card_07/Card_4070011_1/card_4070011_1_031.mp3"
         },
         {
@@ -285,8 +409,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "えへへ。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "えへへ。"
+            },
             "voice": "card/Card_07/Card_4070011_1/card_4070011_1_032.mp3"
         },
         {
@@ -294,8 +422,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "ふふっ。うん。\n今もちゃんとホワホワしてる。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "ふふっ。うん。\n今もちゃんとホワホワしてる。"
+            },
             "voice": "card/Card_07/Card_4070011_1/card_4070011_1_033.mp3"
         },
         {
@@ -303,8 +435,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "それにね、柚葉ちゃん。\n傘の中で歌うと楽しいんだよ。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "それにね、柚葉ちゃん。\n傘の中で歌うと楽しいんだよ。"
+            },
             "voice": "card/Card_07/Card_4070011_1/card_4070011_1_034.mp3"
         },
         {
@@ -312,8 +448,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "え？　歌うの？　\nふふっ。アイリが？",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "え？　歌うの？　\nふふっ。アイリが？"
+            },
             "voice": "card/Card_07/Card_4070011_1/card_4070011_1_035.mp3"
         },
         {
@@ -321,8 +461,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "あ……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "あ……。"
+            },
             "voice": "card/Card_07/Card_4070011_1/card_4070011_1_036.mp3"
         },
         {
@@ -330,8 +474,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "えっと、その……。うん。歌うよ。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "えっと、その……。うん。歌うよ。"
+            },
             "voice": "card/Card_07/Card_4070011_1/card_4070011_1_037.mp3"
         },
         {
@@ -339,8 +487,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "なんで恥ずかしがってるの？\n素敵じゃない。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "なんで恥ずかしがってるの？\n素敵じゃない。"
+            },
             "voice": "card/Card_07/Card_4070011_1/card_4070011_1_038.mp3"
         },
         {
@@ -348,8 +500,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "だって、1人で歌いながら歩いてるの、変じゃない？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "だって、1人で歌いながら歩いてるの、変じゃない？"
+            },
             "voice": "card/Card_07/Card_4070011_1/card_4070011_1_039.mp3"
         },
         {
@@ -357,8 +513,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "変じゃないわ。\nだって、楽しいんでしょ？",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "変じゃないわ。\nだって、楽しいんでしょ？"
+            },
             "voice": "card/Card_07/Card_4070011_1/card_4070011_1_040.mp3"
         },
         {
@@ -366,8 +526,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "うん。さっきの、街の音がホワホワするのと同じでね、\n自分の声が不思議な響きで聞こえて楽しいの。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "うん。さっきの、街の音がホワホワするのと同じでね、\n自分の声が不思議な響きで聞こえて楽しいの。"
+            },
             "voice": "card/Card_07/Card_4070011_1/card_4070011_1_041.mp3"
         },
         {
@@ -375,8 +539,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "へえ。じゃあ、私もやってみる。\nアイリも一緒に歌いましょ？",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "へえ。じゃあ、私もやってみる。\nアイリも一緒に歌いましょ？"
+            },
             "voice": "card/Card_07/Card_4070011_1/card_4070011_1_042.mp3"
         },
         {
@@ -384,8 +552,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "一緒に？\n今は、その……、恥ずかしいかなぁ……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "一緒に？\n今は、その……、恥ずかしいかなぁ……。"
+            },
             "voice": "card/Card_07/Card_4070011_1/card_4070011_1_043.mp3"
         },
         {
@@ -393,8 +565,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "大丈夫よ。\n雨だもの。きっと周りにまで聞こえないわ。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "大丈夫よ。\n雨だもの。きっと周りにまで聞こえないわ。"
+            },
             "voice": "card/Card_07/Card_4070011_1/card_4070011_1_044.mp3"
         },
         {
@@ -402,8 +578,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "ふふっ、そうかなあ？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "ふふっ、そうかなあ？"
+            },
             "voice": "card/Card_07/Card_4070011_1/card_4070011_1_045.mp3"
         }
     ]

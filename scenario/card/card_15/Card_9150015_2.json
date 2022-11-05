@@ -6,8 +6,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "……おはよう。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "……おはよう。"
+            },
             "voice": "card/Card_15/Card_9150015_2/card_9150015_2_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "あ、鳴。\nおはよう。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "あ、鳴。\nおはよう。"
+            },
             "voice": "card/Card_15/Card_9150015_2/card_9150015_2_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "おはよう。\nいい天気だよ。まだ眠そうだね。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "おはよう。\nいい天気だよ。まだ眠そうだね。"
+            },
             "voice": "card/Card_15/Card_9150015_2/card_9150015_2_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "うん。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "うん。"
+            },
             "voice": "card/Card_15/Card_9150015_2/card_9150015_2_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "……ところで、凛音は？",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "……ところで、凛音は？"
+            },
             "voice": "card/Card_15/Card_9150015_2/card_9150015_2_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "まだ来てないわ。\n寝てるんじゃないかしら。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "まだ来てないわ。\n寝てるんじゃないかしら。"
+            },
             "voice": "card/Card_15/Card_9150015_2/card_9150015_2_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "どうせ眠れなくて夜ふかししたんでしょ。\nだから昨日言ったのに……。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "どうせ眠れなくて夜ふかししたんでしょ。\nだから昨日言ったのに……。"
+            },
             "voice": "card/Card_15/Card_9150015_2/card_9150015_2_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "あはは、聡里の言う通りになっちゃったね。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "あはは、聡里の言う通りになっちゃったね。"
+            },
             "voice": "card/Card_15/Card_9150015_2/card_9150015_2_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "はぁ……。\n少し待って来なかったら、起こしに行きましょ。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "はぁ……。\n少し待って来なかったら、起こしに行きましょ。"
+            },
             "voice": "card/Card_15/Card_9150015_2/card_9150015_2_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "そうだね。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "そうだね。"
+            },
             "voice": "card/Card_15/Card_9150015_2/card_9150015_2_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "……来ないね。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "……来ないね。"
+            },
             "voice": "card/Card_15/Card_9150015_2/card_9150015_2_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "あれだけ楽しみにしてたのに、一番寝坊って。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "あれだけ楽しみにしてたのに、一番寝坊って。"
+            },
             "voice": "card/Card_15/Card_9150015_2/card_9150015_2_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "……部屋、見てくる。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "……部屋、見てくる。"
+            },
             "voice": "card/Card_15/Card_9150015_2/card_9150015_2_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "うん、お願い。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "うん、お願い。"
+            },
             "voice": "card/Card_15/Card_9150015_2/card_9150015_2_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "凛音、大丈夫かな？",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "凛音、大丈夫かな？"
+            },
             "voice": "card/Card_15/Card_9150015_2/card_9150015_2_015.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "ま、いい場所は取れないかもしれないけど、\n仕方ないわ。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "ま、いい場所は取れないかもしれないけど、\n仕方ないわ。"
+            },
             "voice": "card/Card_15/Card_9150015_2/card_9150015_2_016.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 0
             ],
-            "name": "ニュースキャスター",
-            "message": "こちら、中継です。\nこの通り、あたりは花見に来た人でいっぱいです！",
+            "name": {
+                "default": "ニュースキャスター"
+            },
+            "message": {
+                "default": "こちら、中継です。\nこの通り、あたりは花見に来た人でいっぱいです！"
+            },
             "voice": ""
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "……あ、これ、今日行く公園だね。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "……あ、これ、今日行く公園だね。"
+            },
             "voice": "card/Card_15/Card_9150015_2/card_9150015_2_018.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "本当ね。\n……すごい人混み。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "本当ね。\n……すごい人混み。"
+            },
             "voice": "card/Card_15/Card_9150015_2/card_9150015_2_019.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "おかえり。どうだった？\n凛音、起きた？",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "おかえり。どうだった？\n凛音、起きた？"
+            },
             "voice": "card/Card_15/Card_9150015_2/card_9150015_2_020.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "凛音さん、いなかったよ。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "凛音さん、いなかったよ。"
+            },
             "voice": "card/Card_15/Card_9150015_2/card_9150015_2_021.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "……は？\nじゃあ、どこに行ったのよ……。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "……は？\nじゃあ、どこに行ったのよ……。"
+            },
             "voice": "card/Card_15/Card_9150015_2/card_9150015_2_022.mp3"
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 0
             ],
-            "name": "ニュースキャスター",
-            "message": "こちらの公園も例年に増して、\n場所取りが激化しています。",
+            "name": {
+                "default": "ニュースキャスター"
+            },
+            "message": {
+                "default": "こちらの公園も例年に増して、\n場所取りが激化しています。"
+            },
             "voice": ""
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 0
             ],
-            "name": "ニュースキャスター",
-            "message": "中には、早朝から待機する人も。\nすみません！　ちょっとお話、よろしいでしょうか！",
+            "name": {
+                "default": "ニュースキャスター"
+            },
+            "message": {
+                "default": "中には、早朝から待機する人も。\nすみません！　ちょっとお話、よろしいでしょうか！"
+            },
             "voice": ""
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "はい！　なんでしょう！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "はい！　なんでしょう！"
+            },
             "voice": "card/Card_15/Card_9150015_2/card_9150015_2_025.mp3"
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "……あ。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "……あ。"
+            },
             "voice": "card/Card_15/Card_9150015_2/card_9150015_2_026.mp3"
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "……え、凛音！？",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "……え、凛音！？"
+            },
             "voice": "card/Card_15/Card_9150015_2/card_9150015_2_027.mp3"
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "……はぁ！？",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "……はぁ！？"
+            },
             "voice": "card/Card_15/Card_9150015_2/card_9150015_2_028.mp3"
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 0
             ],
-            "name": "ニュースキャスター",
-            "message": "すごく良い場所を取られてますね！",
+            "name": {
+                "default": "ニュースキャスター"
+            },
+            "message": {
+                "default": "すごく良い場所を取られてますね！"
+            },
             "voice": ""
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "はい！　この後、友達が来る予定なんです！\nわたし、楽しみすぎて、早く来ちゃって〜。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "はい！　この後、友達が来る予定なんです！\nわたし、楽しみすぎて、早く来ちゃって〜。"
+            },
             "voice": "card/Card_15/Card_9150015_2/card_9150015_2_030.mp3"
         },
         {
@@ -276,8 +396,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "でもいい場所が取れたので、よかったです！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "でもいい場所が取れたので、よかったです！"
+            },
             "voice": "card/Card_15/Card_9150015_2/card_9150015_2_031.mp3"
         },
         {
@@ -285,8 +409,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "みんなー、見てるかな―？\nおーい、さとちーん！　リエンヌー！　なるちゃーん！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "みんなー、見てるかな―？\nおーい、さとちーん！　リエンヌー！　なるちゃーん！"
+            },
             "voice": "card/Card_15/Card_9150015_2/card_9150015_2_032.mp3"
         },
         {
@@ -294,8 +422,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "あの子……何やってるのよ！\n私たちの名前まで……。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "あの子……何やってるのよ！\n私たちの名前まで……。"
+            },
             "voice": "card/Card_15/Card_9150015_2/card_9150015_2_033.mp3"
         },
         {
@@ -303,8 +435,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "あだ名でよかったね。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "あだ名でよかったね。"
+            },
             "voice": "card/Card_15/Card_9150015_2/card_9150015_2_034.mp3"
         },
         {
@@ -312,8 +448,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "いや、そういう問題じゃないでしょ。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "いや、そういう問題じゃないでしょ。"
+            },
             "voice": "card/Card_15/Card_9150015_2/card_9150015_2_035.mp3"
         },
         {
@@ -321,8 +461,12 @@
             "heroineId": [
                 0
             ],
-            "name": "ニュースキャスター",
-            "message": "ところで、今日は何時ぐらいに来られたんですか？",
+            "name": {
+                "default": "ニュースキャスター"
+            },
+            "message": {
+                "default": "ところで、今日は何時ぐらいに来られたんですか？"
+            },
             "voice": ""
         },
         {
@@ -330,8 +474,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "えっへん！　朝の5時です！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "えっへん！　朝の5時です！"
+            },
             "voice": "card/Card_15/Card_9150015_2/card_9150015_2_037.mp3"
         },
         {
@@ -339,8 +487,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "……はぁ。\nどこから突っ込めばいいのよ、本当に……。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "……はぁ。\nどこから突っ込めばいいのよ、本当に……。"
+            },
             "voice": "card/Card_15/Card_9150015_2/card_9150015_2_038.mp3"
         },
         {
@@ -348,8 +500,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "まぁ、凛音さんだし。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "まぁ、凛音さんだし。"
+            },
             "voice": "card/Card_15/Card_9150015_2/card_9150015_2_039.mp3"
         },
         {
@@ -357,8 +513,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "とにかく、急いで公園に向かうわよ！",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "とにかく、急いで公園に向かうわよ！"
+            },
             "voice": "card/Card_15/Card_9150015_2/card_9150015_2_040.mp3"
         }
     ]

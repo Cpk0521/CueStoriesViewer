@@ -6,8 +6,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "そろそろ時間だな。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "そろそろ時間だな。"
+            },
             "voice": "audition/story_01/heroine_03/HM_Others_01_03_02/hm_others_01_03_02_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そうだね。準備はできてる？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そうだね。準備はできてる？"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "いや、まだだな。\nひとつ、やりのこしたことがある。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "いや、まだだな。\nひとつ、やりのこしたことがある。"
+            },
             "voice": "audition/story_01/heroine_03/HM_Others_01_03_02/hm_others_01_03_02_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "え、もう始まっちゃうよ！",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "え、もう始まっちゃうよ！"
+            },
             "voice": ""
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "それはジャーマネに「いってきます」を言うこと。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "それはジャーマネに「いってきます」を言うこと。"
+            },
             "voice": "audition/story_01/heroine_03/HM_Others_01_03_02/hm_others_01_03_02_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "それじゃあ、ジャーマネ。\nいってきます。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "それじゃあ、ジャーマネ。\nいってきます。"
+            },
             "voice": "audition/story_01/heroine_03/HM_Others_01_03_02/hm_others_01_03_02_006.mp3"
         }
     ]

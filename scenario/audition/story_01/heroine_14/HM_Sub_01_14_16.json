@@ -6,8 +6,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "お疲れ様です。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "お疲れ様です。"
+            },
             "voice": "audition/story_01/heroine_14/HM_Sub_01_14_16/hm_sub_01_14_16_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "お疲れ様、聡里。\nあ、さっき同行した現場でね……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "お疲れ様、聡里。\nあ、さっき同行した現場でね……。"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "利恵から聞きました。\n母と同じ現場だったんですよね？",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "利恵から聞きました。\n母と同じ現場だったんですよね？"
+            },
             "voice": "audition/story_01/heroine_14/HM_Sub_01_14_16/hm_sub_01_14_16_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "うん。お元気そうだったよ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "うん。お元気そうだったよ。"
+            },
             "voice": ""
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "……そうですか。\nそれはよかったです。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "……そうですか。\nそれはよかったです。"
+            },
             "voice": "audition/story_01/heroine_14/HM_Sub_01_14_16/hm_sub_01_14_16_005.mp3"
         }
     ]

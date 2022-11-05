@@ -6,8 +6,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "お疲れ様でーす。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "お疲れ様でーす。"
+            },
             "voice": "audition/story_01/heroine_02/HM_Cast_01_02_01_03/hm_cast_01_02_01_03_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "お疲れ様です、マネージャーさん。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "お疲れ様です、マネージャーさん。"
+            },
             "voice": "audition/story_01/heroine_02/HM_Cast_01_02_01_03/hm_cast_01_02_01_03_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "お疲れ様。あれ？　陽菜、その袋どうしたの？\n随分大きいね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "お疲れ様。あれ？　陽菜、その袋どうしたの？\n随分大きいね。"
+            },
             "voice": ""
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "ふふっ、これですか？",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "ふふっ、これですか？"
+            },
             "voice": "audition/story_01/heroine_02/HM_Cast_01_02_01_03/hm_cast_01_02_01_03_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "亀の巨大クッションっす。\n自分が福引で当てたんすよ。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "亀の巨大クッションっす。\n自分が福引で当てたんすよ。"
+            },
             "voice": "audition/story_01/heroine_02/HM_Cast_01_02_01_03/hm_cast_01_02_01_03_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "おお、そうなんだ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "おお、そうなんだ。"
+            },
             "voice": ""
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "ふかふかで、すごくかわいいんですよ。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "ふかふかで、すごくかわいいんですよ。"
+            },
             "voice": "audition/story_01/heroine_02/HM_Cast_01_02_01_03/hm_cast_01_02_01_03_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "陽菜が気に入ってくれてよかった。\n自分にはちょっとかわいすぎるし。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "陽菜が気に入ってくれてよかった。\n自分にはちょっとかわいすぎるし。"
+            },
             "voice": "audition/story_01/heroine_02/HM_Cast_01_02_01_03/hm_cast_01_02_01_03_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "そうかな？　舞花ちゃんも似合うと思うよ。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "そうかな？　舞花ちゃんも似合うと思うよ。"
+            },
             "voice": "audition/story_01/heroine_02/HM_Cast_01_02_01_03/hm_cast_01_02_01_03_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "えー、そうかなー……まぁ、嫌いじゃないけど、\nそれは陽菜のほうが似合ってるよ。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "えー、そうかなー……まぁ、嫌いじゃないけど、\nそれは陽菜のほうが似合ってるよ。"
+            },
             "voice": "audition/story_01/heroine_02/HM_Cast_01_02_01_03/hm_cast_01_02_01_03_010.mp3"
         }
     ]

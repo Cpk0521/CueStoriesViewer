@@ -6,8 +6,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "お疲れ様です。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "お疲れ様です。"
+            },
             "voice": "audition/story_01/heroine_07/HM_Cast_01_07_06_02/hm_cast_01_07_06_02_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "お疲れ様です、マネージャー。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "お疲れ様です、マネージャー。"
+            },
             "voice": "audition/story_01/heroine_07/HM_Cast_01_07_06_02/hm_cast_01_07_06_02_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "お疲れ様、2人とも。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "お疲れ様、2人とも。"
+            },
             "voice": ""
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "見てください、マネージャーさん。\n千紗ちゃんとお野菜をとってきたんです！",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "見てください、マネージャーさん。\n千紗ちゃんとお野菜をとってきたんです！"
+            },
             "voice": "audition/story_01/heroine_07/HM_Cast_01_07_06_02/hm_cast_01_07_06_02_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "あいりが手伝ってくれて助かったわ。\nありがとう。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "あいりが手伝ってくれて助かったわ。\nありがとう。"
+            },
             "voice": "audition/story_01/heroine_07/HM_Cast_01_07_06_02/hm_cast_01_07_06_02_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "ううん、全然。\n今日はこれがサラダになるんだよね。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "ううん、全然。\n今日はこれがサラダになるんだよね。"
+            },
             "voice": "audition/story_01/heroine_07/HM_Cast_01_07_06_02/hm_cast_01_07_06_02_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "うん。帰りにベーコンとクルトン買って、\nシーザーサラダにしようかなって。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "うん。帰りにベーコンとクルトン買って、\nシーザーサラダにしようかなって。"
+            },
             "voice": "audition/story_01/heroine_07/HM_Cast_01_07_06_02/hm_cast_01_07_06_02_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "わぁ、おいしそう！",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "わぁ、おいしそう！"
+            },
             "voice": "audition/story_01/heroine_07/HM_Cast_01_07_06_02/hm_cast_01_07_06_02_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "ふふっ。\nさ、買い物に行きましょ。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "ふふっ。\nさ、買い物に行きましょ。"
+            },
             "voice": "audition/story_01/heroine_07/HM_Cast_01_07_06_02/hm_cast_01_07_06_02_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "うん！\nマネージャーさん、お先に失礼します。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "うん！\nマネージャーさん、お先に失礼します。"
+            },
             "voice": "audition/story_01/heroine_07/HM_Cast_01_07_06_02/hm_cast_01_07_06_02_010.mp3"
         }
     ]

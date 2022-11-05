@@ -6,8 +6,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "それではお先に失礼します。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "それではお先に失礼します。"
+            },
             "voice": "audition/story_01/heroine_01/HM_Cast_01_01_04_01/hm_cast_01_01_04_01_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "はい。お疲れ様。気をつけて帰ってね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "はい。お疲れ様。気をつけて帰ってね。"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "うーん、陽菜、真面目なのはいいことなんだけど、\n悩みを抱えすぎちゃうのかな……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "うーん、陽菜、真面目なのはいいことなんだけど、\n悩みを抱えすぎちゃうのかな……。"
+            },
             "voice": ""
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "お疲れ様です。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "お疲れ様です。"
+            },
             "voice": "audition/story_01/heroine_01/HM_Cast_01_01_04_01/hm_cast_01_01_04_01_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "あれ、陽菜は……。\nもう帰っちゃいました？",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "あれ、陽菜は……。\nもう帰っちゃいました？"
+            },
             "voice": "audition/story_01/heroine_01/HM_Cast_01_01_04_01/hm_cast_01_01_04_01_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "ああ、ほのか、お疲れ様。陽菜はついさっき帰ったよ。\nもしかしたら入れ違いだったのかも。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "ああ、ほのか、お疲れ様。陽菜はついさっき帰ったよ。\nもしかしたら入れ違いだったのかも。"
+            },
             "voice": ""
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "陽菜、どうですか？　\n今回のオーディション、頑張ってますよね。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "陽菜、どうですか？　\n今回のオーディション、頑張ってますよね。"
+            },
             "voice": "audition/story_01/heroine_01/HM_Cast_01_01_04_01/hm_cast_01_01_04_01_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そうだねー。とても頑張ってるよ。\nほのかはどう？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そうだねー。とても頑張ってるよ。\nほのかはどう？"
+            },
             "voice": ""
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "あはは、もちろん！　わたしも頑張ってますよ！\nそれではお先に失礼します！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "あはは、もちろん！　わたしも頑張ってますよ！\nそれではお先に失礼します！"
+            },
             "voice": "audition/story_01/heroine_01/HM_Cast_01_01_04_01/hm_cast_01_01_04_01_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "はい。おやすみなさい。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "はい。おやすみなさい。"
+            },
             "voice": ""
         }
     ]

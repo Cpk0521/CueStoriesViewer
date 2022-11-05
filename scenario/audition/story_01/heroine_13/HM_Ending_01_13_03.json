@@ -6,8 +6,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "そっか。ダメだったんだ。\nごめん、マネージャー。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "そっか。ダメだったんだ。\nごめん、マネージャー。"
+            },
             "voice": "audition/story_01/heroine_13/HM_Ending_01_13_03/hm_ending_01_13_03_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "……やっぱり、まだよくわからないな。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "……やっぱり、まだよくわからないな。"
+            },
             "voice": "audition/story_01/heroine_13/HM_Ending_01_13_03/hm_ending_01_13_03_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "たぶん、明日になったら実感するんだと思う。\nあーあ、我輩は負けたんだって。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "たぶん、明日になったら実感するんだと思う。\nあーあ、我輩は負けたんだって。"
+            },
             "voice": "audition/story_01/heroine_13/HM_Ending_01_13_03/hm_ending_01_13_03_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "だから明日、おいしいお菓子食べて、\nちょっとだけ落ち込んだら……。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "だから明日、おいしいお菓子食べて、\nちょっとだけ落ち込んだら……。"
+            },
             "voice": "audition/story_01/heroine_13/HM_Ending_01_13_03/hm_ending_01_13_03_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "そうしたらまた、頑張る。\n悪魔のように、華麗にな。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "そうしたらまた、頑張る。\n悪魔のように、華麗にな。"
+            },
             "voice": "audition/story_01/heroine_13/HM_Ending_01_13_03/hm_ending_01_13_03_005.mp3"
         }
     ]

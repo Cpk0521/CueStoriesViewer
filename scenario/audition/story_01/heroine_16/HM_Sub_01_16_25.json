@@ -6,8 +6,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "お疲れ様です。お先に失礼します。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "お疲れ様です。お先に失礼します。"
+            },
             "voice": "audition/story_01/heroine_16/HM_Sub_01_16_25/hm_sub_01_16_25_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "お疲れ、鳴。ん、その袋って、確かパソコンショップの……。\nよく1人で買えたね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "お疲れ、鳴。ん、その袋って、確かパソコンショップの……。\nよく1人で買えたね。"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "……大変でした。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "……大変でした。"
+            },
             "voice": "audition/story_01/heroine_16/HM_Sub_01_16_25/hm_sub_01_16_25_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "マネージャーが電話に出なかったので。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "マネージャーが電話に出なかったので。"
+            },
             "voice": "audition/story_01/heroine_16/HM_Sub_01_16_25/hm_sub_01_16_25_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "電話には必ず出るようにしてください。\nでは、失礼します。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "電話には必ず出るようにしてください。\nでは、失礼します。"
+            },
             "voice": "audition/story_01/heroine_16/HM_Sub_01_16_25/hm_sub_01_16_25_005.mp3"
         }
     ]

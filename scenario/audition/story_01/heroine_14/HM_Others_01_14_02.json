@@ -6,8 +6,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "1次オーディション……。\n振り返ると、本当に一瞬ね。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "1次オーディション……。\n振り返ると、本当に一瞬ね。"
+            },
             "voice": "audition/story_01/heroine_14/HM_Others_01_14_02/hm_others_01_14_02_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そうだね。\nでも、聡里はしっかりレッスンをやってきたから……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そうだね。\nでも、聡里はしっかりレッスンをやってきたから……。"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "そんなの、当たり前です。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "そんなの、当たり前です。"
+            },
             "voice": "audition/story_01/heroine_14/HM_Others_01_14_02/hm_others_01_14_02_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "……まずはここを突破しないと。\nなにも始まらない。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "……まずはここを突破しないと。\nなにも始まらない。"
+            },
             "voice": "audition/story_01/heroine_14/HM_Others_01_14_02/hm_others_01_14_02_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "大丈夫です。今日のルーティンも問題ありませんでしたし、\nあとは、自分の力を出し切るだけです。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "大丈夫です。今日のルーティンも問題ありませんでしたし、\nあとは、自分の力を出し切るだけです。"
+            },
             "voice": "audition/story_01/heroine_14/HM_Others_01_14_02/hm_others_01_14_02_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "うん、そうだね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "うん、そうだね。"
+            },
             "voice": ""
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "行ってきます、マネージャーさん。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "行ってきます、マネージャーさん。"
+            },
             "voice": "audition/story_01/heroine_14/HM_Others_01_14_02/hm_others_01_14_02_007.mp3"
         }
     ]

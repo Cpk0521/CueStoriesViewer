@@ -6,8 +6,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "聡里、お疲れ様。\n今日もお弁当？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "聡里、お疲れ様。\n今日もお弁当？"
+            },
             "voice": ""
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "はい。\nようやく1人分を作るのにも慣れてきました。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "はい。\nようやく1人分を作るのにも慣れてきました。"
+            },
             "voice": "audition/story_01/heroine_13/HM_Cast_01_13_14_02/hm_cast_01_13_14_02_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "……あ。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "……あ。"
+            },
             "voice": "audition/story_01/heroine_13/HM_Cast_01_13_14_02/hm_cast_01_13_14_02_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "どうしたの？\nまさかお弁当、忘れたとか。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "どうしたの？\nまさかお弁当、忘れたとか。"
+            },
             "voice": ""
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "……そのまさかです。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "……そのまさかです。"
+            },
             "voice": "audition/story_01/heroine_13/HM_Cast_01_13_14_02/hm_cast_01_13_14_02_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "あはは。うっかりだね。\n下のカフェで、何か食べようか。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "あはは。うっかりだね。\n下のカフェで、何か食べようか。"
+            },
             "voice": ""
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "いえ……、でも。\n今日はお金、あまり持って来ていなくて。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "いえ……、でも。\n今日はお金、あまり持って来ていなくて。"
+            },
             "voice": "audition/story_01/heroine_13/HM_Cast_01_13_14_02/hm_cast_01_13_14_02_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "それぐらい出すから大丈夫だよ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "それぐらい出すから大丈夫だよ。"
+            },
             "voice": ""
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "……ありがとうございます。\n明日、お金を持って来ます。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "……ありがとうございます。\n明日、お金を持って来ます。"
+            },
             "voice": "audition/story_01/heroine_13/HM_Cast_01_13_14_02/hm_cast_01_13_14_02_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "いや、本当にいいよ。奢るから。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "いや、本当にいいよ。奢るから。"
+            },
             "voice": ""
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "いえ。借りは作りたくないので。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "いえ。借りは作りたくないので。"
+            },
             "voice": "audition/story_01/heroine_13/HM_Cast_01_13_14_02/hm_cast_01_13_14_02_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "……そっか、聡里らしいね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "……そっか、聡里らしいね。"
+            },
             "voice": ""
         }
     ]

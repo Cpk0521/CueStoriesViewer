@@ -6,8 +6,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "お疲れ様です。マネージャーさん！",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "お疲れ様です。マネージャーさん！"
+            },
             "voice": "audition/story_01/heroine_01/HM_Main_01_01_04/hm_main_01_01_04_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "陽菜。調子はどう？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "陽菜。調子はどう？"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "いよいよ来週かと思うと、また緊張してきました。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "いよいよ来週かと思うと、また緊張してきました。"
+            },
             "voice": "audition/story_01/heroine_01/HM_Main_01_01_04/hm_main_01_01_04_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "でも……、あと1週間、やれることをやる。\nそれだけです。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "でも……、あと1週間、やれることをやる。\nそれだけです。"
+            },
             "voice": "audition/story_01/heroine_01/HM_Main_01_01_04/hm_main_01_01_04_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "なんて、ふふっ。\n少し調子に乗りました。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "なんて、ふふっ。\n少し調子に乗りました。"
+            },
             "voice": "audition/story_01/heroine_01/HM_Main_01_01_04/hm_main_01_01_04_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "志穂ちゃんも舞花ちゃんもほのかちゃんも……、ううん。\nエールブルーのみんなが頑張ってるから……。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "志穂ちゃんも舞花ちゃんもほのかちゃんも……、ううん。\nエールブルーのみんなが頑張ってるから……。"
+            },
             "voice": "audition/story_01/heroine_01/HM_Main_01_01_04/hm_main_01_01_04_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "わたし1人だけ、かっこ悪いところ見せられないですもんね。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "わたし1人だけ、かっこ悪いところ見せられないですもんね。"
+            },
             "voice": "audition/story_01/heroine_01/HM_Main_01_01_04/hm_main_01_01_04_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "それじゃあ、そろそろ帰ります。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "それじゃあ、そろそろ帰ります。"
+            },
             "voice": "audition/story_01/heroine_01/HM_Main_01_01_04/hm_main_01_01_04_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "うん。お疲れ様。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "うん。お疲れ様。"
+            },
             "voice": ""
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "今日は風が強くて寒いから、\n早めに暖かい寮に帰ってゆっくりします。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "今日は風が強くて寒いから、\n早めに暖かい寮に帰ってゆっくりします。"
+            },
             "voice": "audition/story_01/heroine_01/HM_Main_01_01_04/hm_main_01_01_04_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "よし。じゃあ、今日は駅まで送ろうか。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "よし。じゃあ、今日は駅まで送ろうか。"
+            },
             "voice": ""
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "ふふっ。ありがとうございます。\nでも大丈夫です。寮でみんなが待ってますから。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "ふふっ。ありがとうございます。\nでも大丈夫です。寮でみんなが待ってますから。"
+            },
             "voice": "audition/story_01/heroine_01/HM_Main_01_01_04/hm_main_01_01_04_014.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "ふふっ。ありがとうございます。\nそれじゃあ、わたし、ココアにしようかな。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "ふふっ。ありがとうございます。\nそれじゃあ、わたし、ココアにしようかな。"
+            },
             "voice": "audition/story_01/heroine_01/HM_Main_01_01_04/hm_main_01_01_04_016.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "ありがとうございます。外、確かに寒そうですよね……。\nふふっ。今日はお言葉に甘えようかな。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "ありがとうございます。外、確かに寒そうですよね……。\nふふっ。今日はお言葉に甘えようかな。"
+            },
             "voice": "audition/story_01/heroine_01/HM_Main_01_01_04/hm_main_01_01_04_018.mp3"
         }
     ]

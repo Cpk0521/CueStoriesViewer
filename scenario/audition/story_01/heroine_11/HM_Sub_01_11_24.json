@@ -6,8 +6,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "お疲れ様ー。\nあー、疲れた。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "お疲れ様ー。\nあー、疲れた。"
+            },
             "voice": "audition/story_01/heroine_11/HM_Sub_01_11_24/hm_sub_01_11_24_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "お疲れ様。随分、長くやってたね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "お疲れ様。随分、長くやってたね。"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "そう？　　別にいつも通りのつもりだったけど……。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "そう？　　別にいつも通りのつもりだったけど……。"
+            },
             "voice": "audition/story_01/heroine_11/HM_Sub_01_11_24/hm_sub_01_11_24_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "あぁ、でも、もうこんな時間か。\nいつもより集中したせいかもね。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "あぁ、でも、もうこんな時間か。\nいつもより集中したせいかもね。"
+            },
             "voice": "audition/story_01/heroine_11/HM_Sub_01_11_24/hm_sub_01_11_24_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "まぁ、オーディションも近いから、\n少しは気合い入れなきゃって思ってるだけだから。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "まぁ、オーディションも近いから、\n少しは気合い入れなきゃって思ってるだけだから。"
+            },
             "voice": "audition/story_01/heroine_11/HM_Sub_01_11_24/hm_sub_01_11_24_005.mp3"
         }
     ]

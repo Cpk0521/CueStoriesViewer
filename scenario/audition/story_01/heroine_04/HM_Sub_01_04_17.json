@@ -6,8 +6,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "あ、お疲れ様です！\n聞いてくださいよ、マネージャー。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "あ、お疲れ様です！\n聞いてくださいよ、マネージャー。"
+            },
             "voice": "audition/story_01/heroine_04/HM_Sub_01_04_17/hm_sub_01_04_17_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "この間、ランニングの距離を伸ばしてるって、\n話したじゃないですか。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "この間、ランニングの距離を伸ばしてるって、\n話したじゃないですか。"
+            },
             "voice": "audition/story_01/heroine_04/HM_Sub_01_04_17/hm_sub_01_04_17_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "最初はちょっとキツかったんですけど、\n最近は最後まで余裕で走りきれるようになったんです！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "最初はちょっとキツかったんですけど、\n最近は最後まで余裕で走りきれるようになったんです！"
+            },
             "voice": "audition/story_01/heroine_04/HM_Sub_01_04_17/hm_sub_01_04_17_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "今度は、タイム計ってみようかな。\nいいタイムが出たら、報告しますね！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "今度は、タイム計ってみようかな。\nいいタイムが出たら、報告しますね！"
+            },
             "voice": "audition/story_01/heroine_04/HM_Sub_01_04_17/hm_sub_01_04_17_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "よーし、今日も走って帰ろっと！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "よーし、今日も走って帰ろっと！"
+            },
             "voice": "audition/story_01/heroine_04/HM_Sub_01_04_17/hm_sub_01_04_17_005.mp3"
         }
     ]

@@ -6,8 +6,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "お疲れ様デース！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "お疲れ様デース！"
+            },
             "voice": "audition/story_01/heroine_07/HM_Cast_01_07_08_03/hm_cast_01_07_08_03_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "お疲れ様です……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "お疲れ様です……。"
+            },
             "voice": "audition/story_01/heroine_07/HM_Cast_01_07_08_03/hm_cast_01_07_08_03_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "お疲れ様。\nあいり、大丈夫？　元気なさそうだけど。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "お疲れ様。\nあいり、大丈夫？　元気なさそうだけど。"
+            },
             "voice": ""
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "マネージャーさん。\nあんまり、あいりに近づかないほうがいいと思います……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "マネージャーさん。\nあんまり、あいりに近づかないほうがいいと思います……。"
+            },
             "voice": "audition/story_01/heroine_07/HM_Cast_01_07_08_03/hm_cast_01_07_08_03_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "学校のゴミ捨て当番のクジで、\n3回連続で当たったみたいなの。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "学校のゴミ捨て当番のクジで、\n3回連続で当たったみたいなの。"
+            },
             "voice": "audition/story_01/heroine_07/HM_Cast_01_07_08_03/hm_cast_01_07_08_03_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "うう……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "うう……。"
+            },
             "voice": "audition/story_01/heroine_07/HM_Cast_01_07_08_03/hm_cast_01_07_08_03_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "気にすることないわ、アイリ。\nただのグウゼンじゃない！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "気にすることないわ、アイリ。\nただのグウゼンじゃない！"
+            },
             "voice": "audition/story_01/heroine_07/HM_Cast_01_07_08_03/hm_cast_01_07_08_03_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "それに、いいことをした人には、\nその分たくさんのハッピーが訪れるのよ。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "それに、いいことをした人には、\nその分たくさんのハッピーが訪れるのよ。"
+            },
             "voice": "audition/story_01/heroine_07/HM_Cast_01_07_08_03/hm_cast_01_07_08_03_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "柚葉ちゃん……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "柚葉ちゃん……。"
+            },
             "voice": "audition/story_01/heroine_07/HM_Cast_01_07_08_03/hm_cast_01_07_08_03_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "さ、帰りましょ？\nきっとハッピーなことが待ってるわ！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "さ、帰りましょ？\nきっとハッピーなことが待ってるわ！"
+            },
             "voice": "audition/story_01/heroine_07/HM_Cast_01_07_08_03/hm_cast_01_07_08_03_010.mp3"
         }
     ]

@@ -6,8 +6,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "おお……！\nこれ、結構いい感じじゃない？",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "おお……！\nこれ、結構いい感じじゃない？"
+            },
             "voice": "card/Card_03/Card_4030014_3/card_4030014_3_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "うん。\nそれぞれが飾った場所で、全然雰囲気が違うね。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "うん。\nそれぞれが飾った場所で、全然雰囲気が違うね。"
+            },
             "voice": "card/Card_03/Card_4030014_3/card_4030014_3_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "確かに。\n舞花のやったところとか、すごく派手だもんね。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "確かに。\n舞花のやったところとか、すごく派手だもんね。"
+            },
             "voice": "card/Card_03/Card_4030014_3/card_4030014_3_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "ほのかや陽菜がおとなしすぎるんだよ。\n付けられる物は全部付けなきゃ！",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "ほのかや陽菜がおとなしすぎるんだよ。\n付けられる物は全部付けなきゃ！"
+            },
             "voice": "card/Card_03/Card_4030014_3/card_4030014_3_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "まったく、風情も何もあったもんじゃないな。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "まったく、風情も何もあったもんじゃないな。"
+            },
             "voice": "card/Card_03/Card_4030014_3/card_4030014_3_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "えー？\nじゃあ志穂だったらどうするのさー。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "えー？\nじゃあ志穂だったらどうするのさー。"
+            },
             "voice": "card/Card_03/Card_4030014_3/card_4030014_3_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "ふむ……。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "ふむ……。"
+            },
             "voice": "card/Card_03/Card_4030014_3/card_4030014_3_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "まずはツリーの配置だ。\n邪魔にならず、かつ目に付きやすい場所に置くべき。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "まずはツリーの配置だ。\n邪魔にならず、かつ目に付きやすい場所に置くべき。"
+            },
             "voice": "card/Card_03/Card_4030014_3/card_4030014_3_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "……確かにそうかも。\nテレビの横とかどうかな？",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "……確かにそうかも。\nテレビの横とかどうかな？"
+            },
             "voice": "card/Card_03/Card_4030014_3/card_4030014_3_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "うむ。\n加えて、よく見る角度からは特に美しく見えなければならない。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "うむ。\n加えて、よく見る角度からは特に美しく見えなければならない。"
+            },
             "voice": "card/Card_03/Card_4030014_3/card_4030014_3_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "おー、なんかそれっぽい！\n入り口とかソファから綺麗に見えたほうがいいもんね！",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "おー、なんかそれっぽい！\n入り口とかソファから綺麗に見えたほうがいいもんね！"
+            },
             "voice": "card/Card_03/Card_4030014_3/card_4030014_3_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "そういうことだ。\n飾り付けのセンスはともかく、見せ物として最低限の……。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "そういうことだ。\n飾り付けのセンスはともかく、見せ物として最低限の……。"
+            },
             "voice": "card/Card_03/Card_4030014_3/card_4030014_3_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "……うふふっ。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "……うふふっ。"
+            },
             "voice": "card/Card_03/Card_4030014_3/card_4030014_3_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "なんだ、その笑いは。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "なんだ、その笑いは。"
+            },
             "voice": "card/Card_03/Card_4030014_3/card_4030014_3_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "ううん、やっぱり志穂ちゃんも、\nクリスマス好きなんだなって。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "ううん、やっぱり志穂ちゃんも、\nクリスマス好きなんだなって。"
+            },
             "voice": "card/Card_03/Card_4030014_3/card_4030014_3_015.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "むしろ自分たちより、断然こだわってるじゃん。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "むしろ自分たちより、断然こだわってるじゃん。"
+            },
             "voice": "card/Card_03/Card_4030014_3/card_4030014_3_016.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "……そんなことはない。\nただ、飾り物として美しくあるべきと思っただけだ。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "……そんなことはない。\nただ、飾り物として美しくあるべきと思っただけだ。"
+            },
             "voice": "card/Card_03/Card_4030014_3/card_4030014_3_017.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "でも、ちゃっかりサンタ帽も被ってない？",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "でも、ちゃっかりサンタ帽も被ってない？"
+            },
             "voice": "card/Card_03/Card_4030014_3/card_4030014_3_018.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "……その星を貸せ。\n飾り付けの手本を見せてやろう。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "……その星を貸せ。\n飾り付けの手本を見せてやろう。"
+            },
             "voice": "card/Card_03/Card_4030014_3/card_4030014_3_019.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "……よっ、と。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "……よっ、と。"
+            },
             "voice": "card/Card_03/Card_4030014_3/card_4030014_3_020.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "ダメだ、右に傾いた。\n向きももう少し……。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "ダメだ、右に傾いた。\n向きももう少し……。"
+            },
             "voice": "card/Card_03/Card_4030014_3/card_4030014_3_021.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "……よし、出来た。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "……よし、出来た。"
+            },
             "voice": "card/Card_03/Card_4030014_3/card_4030014_3_022.mp3"
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "うん、いい感じじゃない？",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "うん、いい感じじゃない？"
+            },
             "voice": "card/Card_03/Card_4030014_3/card_4030014_3_023.mp3"
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "やっぱり星があると、\n一気にクリスマスツリーって感じがするね！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "やっぱり星があると、\n一気にクリスマスツリーって感じがするね！"
+            },
             "voice": "card/Card_03/Card_4030014_3/card_4030014_3_024.mp3"
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "うふふっ。\nこれで楽しくクリスマスを迎えられるね、志穂ちゃん。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "うふふっ。\nこれで楽しくクリスマスを迎えられるね、志穂ちゃん。"
+            },
             "voice": "card/Card_03/Card_4030014_3/card_4030014_3_025.mp3"
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "さあな。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "さあな。"
+            },
             "voice": "card/Card_03/Card_4030014_3/card_4030014_3_026.mp3"
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "ん、こんな時間にどうしたんだろ？",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "ん、こんな時間にどうしたんだろ？"
+            },
             "voice": "card/Card_03/Card_4030014_3/card_4030014_3_027.mp3"
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "わたし、出てくるね。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "わたし、出てくるね。"
+            },
             "voice": "card/Card_03/Card_4030014_3/card_4030014_3_028.mp3"
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "……オーバーイーツから、\nバケツいっぱいのチキンが届いたんだけど。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "……オーバーイーツから、\nバケツいっぱいのチキンが届いたんだけど。"
+            },
             "voice": "card/Card_03/Card_4030014_3/card_4030014_3_029.mp3"
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "え、マジ？\n誰か頼んだの？",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "え、マジ？\n誰か頼んだの？"
+            },
             "voice": "card/Card_03/Card_4030014_3/card_4030014_3_030.mp3"
         },
         {
@@ -276,8 +396,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "私だ。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "私だ。"
+            },
             "voice": "card/Card_03/Card_4030014_3/card_4030014_3_031.mp3"
         },
         {
@@ -285,8 +409,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "志穂ちゃん、いつの間に頼んだの？",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "志穂ちゃん、いつの間に頼んだの？"
+            },
             "voice": "card/Card_03/Card_4030014_3/card_4030014_3_032.mp3"
         },
         {
@@ -294,8 +422,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "うまい物食べるんだろ？",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "うまい物食べるんだろ？"
+            },
             "voice": "card/Card_03/Card_4030014_3/card_4030014_3_033.mp3"
         },
         {
@@ -303,8 +435,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "いいんじゃない？\nちょっと早いクリスマスパーティーで。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "いいんじゃない？\nちょっと早いクリスマスパーティーで。"
+            },
             "voice": "card/Card_03/Card_4030014_3/card_4030014_3_035.mp3"
         },
         {
@@ -312,8 +448,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "うん、自分もチキン食べたい！",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "うん、自分もチキン食べたい！"
+            },
             "voice": "card/Card_03/Card_4030014_3/card_4030014_3_036.mp3"
         },
         {
@@ -321,8 +461,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "うふふっ、そうだね。\nじゃあ、今からクリスマスパーティーしよっか。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "うふふっ、そうだね。\nじゃあ、今からクリスマスパーティーしよっか。"
+            },
             "voice": "card/Card_03/Card_4030014_3/card_4030014_3_037.mp3"
         },
         {
@@ -330,8 +474,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "うむ。\nちなみに1つだけある特別なチキンは、私のだからな。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "うむ。\nちなみに1つだけある特別なチキンは、私のだからな。"
+            },
             "voice": "card/Card_03/Card_4030014_3/card_4030014_3_038.mp3"
         },
         {
@@ -339,8 +487,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "セコっ。\n……まぁ、志穂が頼んだ物だしね。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "セコっ。\n……まぁ、志穂が頼んだ物だしね。"
+            },
             "voice": "card/Card_03/Card_4030014_3/card_4030014_3_039.mp3"
         },
         {
@@ -348,8 +500,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "あはは。\n結局、志穂が1番クリスマス楽しんでない？",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "あはは。\n結局、志穂が1番クリスマス楽しんでない？"
+            },
             "voice": "card/Card_03/Card_4030014_3/card_4030014_3_040.mp3"
         },
         {
@@ -357,8 +513,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "別に、クリスマスに浮かれているわけじゃない。\nただ、チキンに罪はないからな。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "別に、クリスマスに浮かれているわけじゃない。\nただ、チキンに罪はないからな。"
+            },
             "voice": "card/Card_03/Card_4030014_3/card_4030014_3_041.mp3"
         }
     ]

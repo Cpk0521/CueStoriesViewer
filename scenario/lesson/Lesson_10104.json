@@ -6,8 +6,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "来期から始まるアニメ「魔法少女協会 マジック◆ワークス」。\n皆は見事、オーディションに合格することができた。",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "来期から始まるアニメ「魔法少女協会 マジック◆ワークス」。\n皆は見事、オーディションに合格することができた。"
+            },
             "voice": "lesson/Lesson_10104/lesson_10104_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "でも、ここがゴールじゃない。ここがスタートよ？\n皆にとって初めての仕事。悔いの無いよう、頑張って。",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "でも、ここがゴールじゃない。ここがスタートよ？\n皆にとって初めての仕事。悔いの無いよう、頑張って。"
+            },
             "voice": "lesson/Lesson_10104/lesson_10104_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "わたし達……、絶対にいい仕事をしてみせます！",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "わたし達……、絶対にいい仕事をしてみせます！"
+            },
             "voice": "lesson/Lesson_10104/lesson_10104_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "よし！\nやってやる！！",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "よし！\nやってやる！！"
+            },
             "voice": "lesson/Lesson_10104/lesson_10104_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "任せといてください！\nねっ、志穂。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "任せといてください！\nねっ、志穂。"
+            },
             "voice": "lesson/Lesson_10104/lesson_10104_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "死ぬ気でやる。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "死ぬ気でやる。"
+            },
             "voice": "lesson/Lesson_10104/lesson_10104_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "その意気よ。じゃ、配役を発表するわ。\nオーディションを見て、監督が配役を決めたの。",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "その意気よ。じゃ、配役を発表するわ。\nオーディションを見て、監督が配役を決めたの。"
+            },
             "voice": "lesson/Lesson_10104/lesson_10104_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "（狙うのは……、大崎あかね。\n絶対に主役しかない！)",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "（狙うのは……、大崎あかね。\n絶対に主役しかない！)"
+            },
             "voice": "lesson/Lesson_10104/lesson_10104_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "主役、大崎あかねは……。",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "主役、大崎あかねは……。"
+            },
             "voice": "lesson/Lesson_10104/lesson_10104_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "(実力なら他の3人に負けてない。\n絶対に主役を貰えるはず！！)",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "(実力なら他の3人に負けてない。\n絶対に主役を貰えるはず！！)"
+            },
             "voice": "lesson/Lesson_10104/lesson_10104_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "陽菜。",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "陽菜。"
+            },
             "voice": "lesson/Lesson_10104/lesson_10104_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": " (うそ……。\n自分じゃないの！？)",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": " (うそ……。\n自分じゃないの！？)"
+            },
             "voice": "lesson/Lesson_10104/lesson_10104_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "経堂みずな役は、舞花。",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "経堂みずな役は、舞花。"
+            },
             "voice": "lesson/Lesson_10104/lesson_10104_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "(どうして……、どうして自分が主役じゃないの！？)",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "(どうして……、どうして自分が主役じゃないの！？)"
+            },
             "voice": "lesson/Lesson_10104/lesson_10104_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "舞花？\n舞花は、経堂みずな役よ。",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "舞花？\n舞花は、経堂みずな役よ。"
+            },
             "voice": "lesson/Lesson_10104/lesson_10104_015.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "あ……、はい……。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "あ……、はい……。"
+            },
             "voice": "lesson/Lesson_10104/lesson_10104_016.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "どうぞ。\n……どうしたの？　舞花？",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "どうぞ。\n……どうしたの？　舞花？"
+            },
             "voice": "lesson/Lesson_10104/lesson_10104_017.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "どうして自分が主役じゃないんすか！？　\n納得できません！",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "どうして自分が主役じゃないんすか！？　\n納得できません！"
+            },
             "voice": "lesson/Lesson_10104/lesson_10104_018.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "監督が決めたことよ。\nそれに、私も同じ意見だわ。",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "監督が決めたことよ。\nそれに、私も同じ意見だわ。"
+            },
             "voice": "lesson/Lesson_10104/lesson_10104_019.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "自分じゃ、主役は無理ってことですか！？",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "自分じゃ、主役は無理ってことですか！？"
+            },
             "voice": "lesson/Lesson_10104/lesson_10104_020.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "そうじゃない。経堂みずなは、厳しさと優しさを併せ持つ。\nあなたにしかできない役よ。",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "そうじゃない。経堂みずなは、厳しさと優しさを併せ持つ。\nあなたにしかできない役よ。"
+            },
             "voice": "lesson/Lesson_10104/lesson_10104_021.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "……。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "……。"
+            },
             "voice": "lesson/Lesson_10104/lesson_10104_022.mp3"
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "役に大きいも小さいもない。\n今は全力でみずなを演じてみなさい。",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "役に大きいも小さいもない。\n今は全力でみずなを演じてみなさい。"
+            },
             "voice": "lesson/Lesson_10104/lesson_10104_023.mp3"
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "(でも……、悔しい……！！）",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "(でも……、悔しい……！！）"
+            },
             "voice": "lesson/Lesson_10104/lesson_10104_024.mp3"
         }
     ]

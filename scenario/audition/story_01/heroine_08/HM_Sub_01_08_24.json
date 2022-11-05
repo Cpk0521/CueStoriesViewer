@@ -6,8 +6,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "お疲れ様デース！\nマネージャー、お先に失礼します！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "お疲れ様デース！\nマネージャー、お先に失礼します！"
+            },
             "voice": "audition/story_01/heroine_08/HM_Sub_01_08_24/hm_sub_01_08_24_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "あ、柚葉。もう帰るんだ。\n今日は早いんだね？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "あ、柚葉。もう帰るんだ。\n今日は早いんだね？"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "そう！\nレッスンもやりすぎるのは良くないもの。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "そう！\nレッスンもやりすぎるのは良くないもの。"
+            },
             "voice": "audition/story_01/heroine_08/HM_Sub_01_08_24/hm_sub_01_08_24_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "それに、声優に必要なのは、健康なBody ＆ Soulでしょ？",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "それに、声優に必要なのは、健康なBody ＆ Soulでしょ？"
+            },
             "voice": "audition/story_01/heroine_08/HM_Sub_01_08_24/hm_sub_01_08_24_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "だから、今日はしっかり食べて、早く寝るわ！\nそれじゃ、お疲れ様です！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "だから、今日はしっかり食べて、早く寝るわ！\nそれじゃ、お疲れ様です！"
+            },
             "voice": "audition/story_01/heroine_08/HM_Sub_01_08_24/hm_sub_01_08_24_005.mp3"
         }
     ]

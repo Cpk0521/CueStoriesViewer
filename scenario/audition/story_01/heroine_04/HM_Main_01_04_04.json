@@ -6,8 +6,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "いよいよ、あと1週間だね。\n調子はどう？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "いよいよ、あと1週間だね。\n調子はどう？"
+            },
             "voice": ""
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "えーっと……、実はちょっと良くはないですね。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "えーっと……、実はちょっと良くはないですね。"
+            },
             "voice": "audition/story_01/heroine_04/HM_Main_01_04_04/hm_main_01_04_04_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "え、体調が！？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "え、体調が！？"
+            },
             "voice": ""
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "あっ、それは大丈夫です！\n体調管理はバッチリですよ。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "あっ、それは大丈夫です！\n体調管理はバッチリですよ。"
+            },
             "voice": "audition/story_01/heroine_04/HM_Main_01_04_04/hm_main_01_04_04_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "その……、体調のことというより、\nなんだかソワソワして、落ち着かなくて……。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "その……、体調のことというより、\nなんだかソワソワして、落ち着かなくて……。"
+            },
             "voice": "audition/story_01/heroine_04/HM_Main_01_04_04/hm_main_01_04_04_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "多分、緊張してるんだと思います……。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "多分、緊張してるんだと思います……。"
+            },
             "voice": "audition/story_01/heroine_04/HM_Main_01_04_04/hm_main_01_04_04_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "ううー、ダメっ！\nちょっと走ってきてもいいですか？",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "ううー、ダメっ！\nちょっと走ってきてもいいですか？"
+            },
             "voice": "audition/story_01/heroine_04/HM_Main_01_04_04/hm_main_01_04_04_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "えっ、今から？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "えっ、今から？"
+            },
             "voice": ""
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "ありがとうございます、マネージャー！\nわたしも、自分を信じてるんです。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "ありがとうございます、マネージャー！\nわたしも、自分を信じてるんです。"
+            },
             "voice": "audition/story_01/heroine_04/HM_Main_01_04_04/hm_main_01_04_04_010.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "だからこそ、今は走らずにはいられないんです！\nだから、いってきます！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "だからこそ、今は走らずにはいられないんです！\nだから、いってきます！"
+            },
             "voice": "audition/story_01/heroine_04/HM_Main_01_04_04/hm_main_01_04_04_011.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "本当ですか！\nありがとうございます、マネージャー！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "本当ですか！\nありがとうございます、マネージャー！"
+            },
             "voice": "audition/story_01/heroine_04/HM_Main_01_04_04/hm_main_01_04_04_013.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "マネージャーと一緒なら、どこまででも走っていけそうです！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "マネージャーと一緒なら、どこまででも走っていけそうです！"
+            },
             "voice": "audition/story_01/heroine_04/HM_Main_01_04_04/hm_main_01_04_04_014.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "マネージャーだって落ち着いてないじゃないですか！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "マネージャーだって落ち着いてないじゃないですか！"
+            },
             "voice": "audition/story_01/heroine_04/HM_Main_01_04_04/hm_main_01_04_04_016.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "あはは、そんな時はやっぱりランニングですよ！\n一緒に走りに行きましょう！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "あはは、そんな時はやっぱりランニングですよ！\n一緒に走りに行きましょう！"
+            },
             "voice": "audition/story_01/heroine_04/HM_Main_01_04_04/hm_main_01_04_04_017.mp3"
         }
     ]

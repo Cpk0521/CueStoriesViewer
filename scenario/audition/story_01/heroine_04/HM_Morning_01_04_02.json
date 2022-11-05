@@ -6,8 +6,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "あ、おはようございます、マネージャー。\n今からお仕事ですか？",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "あ、おはようございます、マネージャー。\n今からお仕事ですか？"
+            },
             "voice": "audition/story_01/heroine_04/HM_Morning_01_04_02/hm_morning_01_04_02_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "わたしは今から学校です。\n昨日はしっかりねむれたので、朝から気持ちいいです。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "わたしは今から学校です。\n昨日はしっかりねむれたので、朝から気持ちいいです。"
+            },
             "voice": "audition/story_01/heroine_04/HM_Morning_01_04_02/hm_morning_01_04_02_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "授業もばっちり集中出来そうです！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "授業もばっちり集中出来そうです！"
+            },
             "voice": "audition/story_01/heroine_04/HM_Morning_01_04_02/hm_morning_01_04_02_003.mp3"
         }
     ]

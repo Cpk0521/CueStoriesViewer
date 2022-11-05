@@ -6,8 +6,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "さとちんって、すっごく物知りなんですよ！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "さとちんって、すっごく物知りなんですよ！"
+            },
             "voice": "audition/story_01/heroine_15/HM_Sub_01_15_12/hm_sub_01_15_12_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "わからない事があった時、\nさとちんに聞けば何でも教えてくれるんです！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "わからない事があった時、\nさとちんに聞けば何でも教えてくれるんです！"
+            },
             "voice": "audition/story_01/heroine_15/HM_Sub_01_15_12/hm_sub_01_15_12_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "わたしの知らないアニメや言葉もいっぱい知ってて、\nなんだか先生みたいですよね！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "わたしの知らないアニメや言葉もいっぱい知ってて、\nなんだか先生みたいですよね！"
+            },
             "voice": "audition/story_01/heroine_15/HM_Sub_01_15_12/hm_sub_01_15_12_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "この前はあれを教えてもらいました！\nえーっと、なんだっけ？",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "この前はあれを教えてもらいました！\nえーっと、なんだっけ？"
+            },
             "voice": "audition/story_01/heroine_15/HM_Sub_01_15_12/hm_sub_01_15_12_004.mp3"
         }
     ]

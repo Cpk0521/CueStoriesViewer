@@ -6,8 +6,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "お疲れ様です。\nお先に失礼します。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "お疲れ様です。\nお先に失礼します。"
+            },
             "voice": "audition/story_01/heroine_14/HM_Sub_01_14_03/hm_sub_01_14_03_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "あ、聡里。この黒い傘、誰のかわかる？\n誰かが置いていっちゃったみたいなんだけど……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "あ、聡里。この黒い傘、誰のかわかる？\n誰かが置いていっちゃったみたいなんだけど……。"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "それ、利恵のですね。\n前に一緒に入れてもらったことがあるんです。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "それ、利恵のですね。\n前に一緒に入れてもらったことがあるんです。"
+            },
             "voice": "audition/story_01/heroine_14/HM_Sub_01_14_03/hm_sub_01_14_03_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そうなんだ。\n確かに、こんなデザインの傘、利恵しか持たないか……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そうなんだ。\n確かに、こんなデザインの傘、利恵しか持たないか……。"
+            },
             "voice": ""
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "ラグナロクに備えてるらしいですよ。\n1000円ですけど。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "ラグナロクに備えてるらしいですよ。\n1000円ですけど。"
+            },
             "voice": "audition/story_01/heroine_14/HM_Sub_01_14_03/hm_sub_01_14_03_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "帰って利恵に渡しておきますね。\nそれでは、失礼します。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "帰って利恵に渡しておきますね。\nそれでは、失礼します。"
+            },
             "voice": "audition/story_01/heroine_14/HM_Sub_01_14_03/hm_sub_01_14_03_006.mp3"
         }
     ]

@@ -6,8 +6,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "AiRBLUE社長の真咲です。　",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "AiRBLUE社長の真咲です。　"
+            },
             "voice": "realevent/realevent_002/RealEvent_002_01/realevent_002_01_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "キャストの皆、ライブお疲れ様。",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "キャストの皆、ライブお疲れ様。"
+            },
             "voice": "realevent/realevent_002/RealEvent_002_01/realevent_002_01_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "マネージャーもいつもキャストを支えてくれてありがとう。　",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "マネージャーもいつもキャストを支えてくれてありがとう。　"
+            },
             "voice": "realevent/realevent_002/RealEvent_002_01/realevent_002_01_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "今日は日々頑張ってくれているみんなに大事なお知らせがあります。",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "今日は日々頑張ってくれているみんなに大事なお知らせがあります。"
+            },
             "voice": "realevent/realevent_002/RealEvent_002_01/realevent_002_01_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "……いいかしら？",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "……いいかしら？"
+            },
             "voice": "realevent/realevent_002/RealEvent_002_01/realevent_002_01_006.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "「CUE!」のTVアニメ制作決定です！　",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "「CUE!」のTVアニメ制作決定です！　"
+            },
             "voice": "realevent/realevent_002/RealEvent_002_01/realevent_002_01_007.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "これからも一緒に頑張っていきましょうね。",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "これからも一緒に頑張っていきましょうね。"
+            },
             "voice": "realevent/realevent_002/RealEvent_002_01/realevent_002_01_008.mp3"
         }
     ]

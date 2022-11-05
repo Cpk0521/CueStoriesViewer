@@ -6,8 +6,12 @@
             "heroineId": [
                 103
             ],
-            "name": "由良桐香",
-            "message": "今日のレッスンは、\nエチュードをしてもらいます。",
+            "name": {
+                "default": "由良桐香"
+            },
+            "message": {
+                "default": "今日のレッスンは、\nエチュードをしてもらいます。"
+            },
             "voice": "card/Card_02/Card_2020003_1/card_2020003_1_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "即興芝居のことですか？",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "即興芝居のことですか？"
+            },
             "voice": "card/Card_02/Card_2020003_1/card_2020003_1_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 103
             ],
-            "name": "由良桐香",
-            "message": "そうです。設定に合わせて、自由に役を演じてください。\nもちろん、セリフも自分で考えるの。",
+            "name": {
+                "default": "由良桐香"
+            },
+            "message": {
+                "default": "そうです。設定に合わせて、自由に役を演じてください。\nもちろん、セリフも自分で考えるの。"
+            },
             "voice": "card/Card_02/Card_2020003_1/card_2020003_1_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "（難しそうだな……。）",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "（難しそうだな……。）"
+            },
             "voice": ""
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "どんな設定っすか？",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "どんな設定っすか？"
+            },
             "voice": "card/Card_02/Card_2020003_1/card_2020003_1_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 103
             ],
-            "name": "由良桐香",
-            "message": "場所は家の玄関。\nあなた達は、押し売りの人を諦めさせてください。",
+            "name": {
+                "default": "由良桐香"
+            },
+            "message": {
+                "default": "場所は家の玄関。\nあなた達は、押し売りの人を諦めさせてください。"
+            },
             "voice": "card/Card_02/Card_2020003_1/card_2020003_1_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "追い払えばいいということですか？",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "追い払えばいいということですか？"
+            },
             "voice": "card/Card_02/Card_2020003_1/card_2020003_1_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 103
             ],
-            "name": "由良桐香",
-            "message": "そういうことです。",
+            "name": {
+                "default": "由良桐香"
+            },
+            "message": {
+                "default": "そういうことです。"
+            },
             "voice": "card/Card_02/Card_2020003_1/card_2020003_1_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "凶器で脅してもいいですか？",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "凶器で脅してもいいですか？"
+            },
             "voice": "card/Card_02/Card_2020003_1/card_2020003_1_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 103
             ],
-            "name": "由良桐香",
-            "message": "ダメに決まってるでしょ。\nあくまで言葉や状況で、押し売りを帰らせてください。",
+            "name": {
+                "default": "由良桐香"
+            },
+            "message": {
+                "default": "ダメに決まってるでしょ。\nあくまで言葉や状況で、押し売りを帰らせてください。"
+            },
             "voice": "card/Card_02/Card_2020003_1/card_2020003_1_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "押し売りの人は誰が演じるんですか？",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "押し売りの人は誰が演じるんですか？"
+            },
             "voice": "card/Card_02/Card_2020003_1/card_2020003_1_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "まさか、ジャーマネ？",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "まさか、ジャーマネ？"
+            },
             "voice": "card/Card_02/Card_2020003_1/card_2020003_1_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "えぇ？\nムリムリムリ！",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "えぇ？\nムリムリムリ！"
+            },
             "voice": ""
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 103
             ],
-            "name": "由良桐香",
-            "message": "マネージャーには頼まないから、\n安心して。",
+            "name": {
+                "default": "由良桐香"
+            },
+            "message": {
+                "default": "マネージャーには頼まないから、\n安心して。"
+            },
             "voice": "card/Card_02/Card_2020003_1/card_2020003_1_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そうですよね……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そうですよね……。"
+            },
             "voice": ""
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 103
             ],
-            "name": "由良桐香",
-            "message": "押し売りの人は、私が演じます。",
+            "name": {
+                "default": "由良桐香"
+            },
+            "message": {
+                "default": "押し売りの人は、私が演じます。"
+            },
             "voice": "card/Card_02/Card_2020003_1/card_2020003_1_016.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "桐香先生が演じるんですか！？",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "桐香先生が演じるんですか！？"
+            },
             "voice": "card/Card_02/Card_2020003_1/card_2020003_1_017.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "手ごわそう……。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "手ごわそう……。"
+            },
             "voice": "card/Card_02/Card_2020003_1/card_2020003_1_018.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 103
             ],
-            "name": "由良桐香",
-            "message": "手加減しないから、覚悟して。\nそれじゃ、まずは誰からやる？",
+            "name": {
+                "default": "由良桐香"
+            },
+            "message": {
+                "default": "手加減しないから、覚悟して。\nそれじゃ、まずは誰からやる？"
+            },
             "voice": "card/Card_02/Card_2020003_1/card_2020003_1_019.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "はい！\nわたしやります！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "はい！\nわたしやります！"
+            },
             "voice": "card/Card_02/Card_2020003_1/card_2020003_1_020.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 103
             ],
-            "name": "由良桐香",
-            "message": "じゃ、月居さんから。",
+            "name": {
+                "default": "由良桐香"
+            },
+            "message": {
+                "default": "じゃ、月居さんから。"
+            },
             "voice": "card/Card_02/Card_2020003_1/card_2020003_1_021.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "じゃ、いきますよ……、スタート！",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "じゃ、いきますよ……、スタート！"
+            },
             "voice": ""
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 103
             ],
-            "name": "由良桐香",
-            "message": "すいませーん！\nすいませーん！",
+            "name": {
+                "default": "由良桐香"
+            },
+            "message": {
+                "default": "すいませーん！\nすいませーん！"
+            },
             "voice": "card/Card_02/Card_2020003_1/card_2020003_1_023.mp3"
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "あいよ！\n何か用かい！？",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "あいよ！\n何か用かい！？"
+            },
             "voice": "card/Card_02/Card_2020003_1/card_2020003_1_024.mp3"
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 103
             ],
-            "name": "由良桐香",
-            "message": "このサプリメント買ってくださいよ～。\nこれを飲めば、病気知らず。どんどん健康になりますよ？",
+            "name": {
+                "default": "由良桐香"
+            },
+            "message": {
+                "default": "このサプリメント買ってくださいよ～。\nこれを飲めば、病気知らず。どんどん健康になりますよ？"
+            },
             "voice": "card/Card_02/Card_2020003_1/card_2020003_1_025.mp3"
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "悪いけど忙しいんだ！　\n他をあたってくんな！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "悪いけど忙しいんだ！　\n他をあたってくんな！"
+            },
             "voice": "card/Card_02/Card_2020003_1/card_2020003_1_026.mp3"
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 103
             ],
-            "name": "由良桐香",
-            "message": "この商品。本当は1万円するんですが、\n今ならなんと2千円！",
+            "name": {
+                "default": "由良桐香"
+            },
+            "message": {
+                "default": "この商品。本当は1万円するんですが、\n今ならなんと2千円！"
+            },
             "voice": "card/Card_02/Card_2020003_1/card_2020003_1_027.mp3"
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "えっ？\n半額以下？",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "えっ？\n半額以下？"
+            },
             "voice": "card/Card_02/Card_2020003_1/card_2020003_1_028.mp3"
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 103
             ],
-            "name": "由良桐香",
-            "message": "しかも、お客さまだけ特別に、\nもう1箱つけちゃいます！",
+            "name": {
+                "default": "由良桐香"
+            },
+            "message": {
+                "default": "しかも、お客さまだけ特別に、\nもう1箱つけちゃいます！"
+            },
             "voice": "card/Card_02/Card_2020003_1/card_2020003_1_029.mp3"
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "もう1箱！？",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "もう1箱！？"
+            },
             "voice": "card/Card_02/Card_2020003_1/card_2020003_1_030.mp3"
         },
         {
@@ -276,8 +396,12 @@
             "heroineId": [
                 103
             ],
-            "name": "由良桐香",
-            "message": "でも、忙しいならしょうがないですね。\n違う方にお譲りします。",
+            "name": {
+                "default": "由良桐香"
+            },
+            "message": {
+                "default": "でも、忙しいならしょうがないですね。\n違う方にお譲りします。"
+            },
             "voice": "card/Card_02/Card_2020003_1/card_2020003_1_031.mp3"
         },
         {
@@ -285,8 +409,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "待って！\n買う！　買います！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "待って！\n買う！　買います！"
+            },
             "voice": "card/Card_02/Card_2020003_1/card_2020003_1_032.mp3"
         },
         {
@@ -294,8 +422,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "はい、終了～！",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "はい、終了～！"
+            },
             "voice": ""
         },
         {
@@ -303,8 +435,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "買っちゃダメじゃん。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "買っちゃダメじゃん。"
+            },
             "voice": "card/Card_02/Card_2020003_1/card_2020003_1_034.mp3"
         },
         {
@@ -312,8 +448,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "最初は、威勢がよかったのに。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "最初は、威勢がよかったのに。"
+            },
             "voice": "card/Card_02/Card_2020003_1/card_2020003_1_035.mp3"
         },
         {
@@ -321,8 +461,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "さすが桐香先生……。\nすごいな……。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "さすが桐香先生……。\nすごいな……。"
+            },
             "voice": "card/Card_02/Card_2020003_1/card_2020003_1_036.mp3"
         }
     ]

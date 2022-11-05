@@ -6,8 +6,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "やった……やりました、マネージャー！",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "やった……やりました、マネージャー！"
+            },
             "voice": "audition/story_01/heroine_06/HM_Ending_01_06_02/hm_ending_01_06_02_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "うん。\n合格おめでとう、千紗！",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "うん。\n合格おめでとう、千紗！"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "はい！　マネージャーも、\n色々サポートしてくれて、ありがとうございます！",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "はい！　マネージャーも、\n色々サポートしてくれて、ありがとうございます！"
+            },
             "voice": "audition/story_01/heroine_06/HM_Ending_01_06_02/hm_ending_01_06_02_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "でも、ここで気を抜いちゃダメですね。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "でも、ここで気を抜いちゃダメですね。"
+            },
             "voice": "audition/story_01/heroine_06/HM_Ending_01_06_02/hm_ending_01_06_02_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "良い演技のために、まだまだ出来ることがあるはず。\nこれからも作品に向き合います！",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "良い演技のために、まだまだ出来ることがあるはず。\nこれからも作品に向き合います！"
+            },
             "voice": "audition/story_01/heroine_06/HM_Ending_01_06_02/hm_ending_01_06_02_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "千紗は真面目だなぁ……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "千紗は真面目だなぁ……。"
+            },
             "voice": ""
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "でも、今日の夕飯、 ちょっと豪華にしちゃおうかな。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "でも、今日の夕飯、 ちょっと豪華にしちゃおうかな。"
+            },
             "voice": "audition/story_01/heroine_06/HM_Ending_01_06_02/hm_ending_01_06_02_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "あはは、いいね。\n買い物、良かったら手伝うよ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "あはは、いいね。\n買い物、良かったら手伝うよ。"
+            },
             "voice": ""
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "いいんですか？\nじゃあ、今日の帰り、お願いしますね！",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "いいんですか？\nじゃあ、今日の帰り、お願いしますね！"
+            },
             "voice": "audition/story_01/heroine_06/HM_Ending_01_06_02/hm_ending_01_06_02_009.mp3"
         }
     ]

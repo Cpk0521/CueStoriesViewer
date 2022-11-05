@@ -6,8 +6,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "志穂ちゃんと莉子ちゃんが表紙だった声優グランプリ、\nずっととってあるんです。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "志穂ちゃんと莉子ちゃんが表紙だった声優グランプリ、\nずっととってあるんです。"
+            },
             "voice": "audition/story_01/heroine_01/HM_Sub_01_01_11/hm_sub_01_01_11_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "同じ事務所の仲間が表紙なんて本当に嬉しくて。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "同じ事務所の仲間が表紙なんて本当に嬉しくて。"
+            },
             "voice": "audition/story_01/heroine_01/HM_Sub_01_01_11/hm_sub_01_01_11_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "いいなあ……。\nわたしもいつか……、って。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "いいなあ……。\nわたしもいつか……、って。"
+            },
             "voice": "audition/story_01/heroine_01/HM_Sub_01_01_11/hm_sub_01_01_11_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "うふふっ。憧れてるだけじゃダメですよね。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "うふふっ。憧れてるだけじゃダメですよね。"
+            },
             "voice": "audition/story_01/heroine_01/HM_Sub_01_01_11/hm_sub_01_01_11_004.mp3"
         }
     ]

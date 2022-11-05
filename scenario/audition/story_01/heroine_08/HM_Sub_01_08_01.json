@@ -6,8 +6,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "マネージャー、お疲れ様！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "マネージャー、お疲れ様！"
+            },
             "voice": "audition/story_01/heroine_08/HM_Sub_01_08_01/hm_sub_01_08_01_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "柚葉、お疲れ様。\nオーディションの資料、読んでみた？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "柚葉、お疲れ様。\nオーディションの資料、読んでみた？"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "ええ！　とっても面白かったわ。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "ええ！　とっても面白かったわ。"
+            },
             "voice": "audition/story_01/heroine_08/HM_Sub_01_08_01/hm_sub_01_08_01_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "結構スリリングなお話なのね。\nキャラクターも個性があって素敵だし……。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "結構スリリングなお話なのね。\nキャラクターも個性があって素敵だし……。"
+            },
             "voice": "audition/story_01/heroine_08/HM_Sub_01_08_01/hm_sub_01_08_01_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "それにね、私、エリシュがとっても気になるの。\nこの子のこと、もっと知りたいわ！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "それにね、私、エリシュがとっても気になるの。\nこの子のこと、もっと知りたいわ！"
+            },
             "voice": "audition/story_01/heroine_08/HM_Sub_01_08_01/hm_sub_01_08_01_005.mp3"
         }
     ]

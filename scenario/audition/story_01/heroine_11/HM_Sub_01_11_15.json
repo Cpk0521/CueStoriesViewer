@@ -6,8 +6,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "お疲れ様ー。\nあー、お腹空いた。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "お疲れ様ー。\nあー、お腹空いた。"
+            },
             "voice": "audition/story_01/heroine_11/HM_Sub_01_11_15/hm_sub_01_11_15_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "ねぇ、マネージャー。\nこの辺で、なんかおいしくて映えるようなご飯屋さん知ってる？",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "ねぇ、マネージャー。\nこの辺で、なんかおいしくて映えるようなご飯屋さん知ってる？"
+            },
             "voice": "audition/story_01/heroine_11/HM_Sub_01_11_15/hm_sub_01_11_15_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "えーっと……なんか新しく出来たラーメン屋が、\n結構インパクトすごくて映えるらしいよ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "えーっと……なんか新しく出来たラーメン屋が、\n結構インパクトすごくて映えるらしいよ。"
+            },
             "voice": ""
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "いやいや、映えるからってそれはないでしょ。\nまほろのイメージ、わかってる？",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "いやいや、映えるからってそれはないでしょ。\nまほろのイメージ、わかってる？"
+            },
             "voice": "audition/story_01/heroine_11/HM_Sub_01_11_15/hm_sub_01_11_15_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "まほろのアカウントで、\nラーメンとかアップしないんだから。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "まほろのアカウントで、\nラーメンとかアップしないんだから。"
+            },
             "voice": "audition/story_01/heroine_11/HM_Sub_01_11_15/hm_sub_01_11_15_005.mp3"
         }
     ]

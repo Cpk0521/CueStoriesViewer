@@ -6,8 +6,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "陽菜、この前はありがとう。\nおかげで、バッチリ解決したから。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "陽菜、この前はありがとう。\nおかげで、バッチリ解決したから。"
+            },
             "voice": "audition/story_01/heroine_04/HM_Cast_01_04_01_04/hm_cast_01_04_01_04_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "うん、わたしで良かったらいつでも相談に乗るからね。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "うん、わたしで良かったらいつでも相談に乗るからね。"
+            },
             "voice": "audition/story_01/heroine_04/HM_Cast_01_04_01_04/hm_cast_01_04_01_04_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "わたしも、陽菜が困った事があったら絶対に助けるからね！\nなんでも言って？",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "わたしも、陽菜が困った事があったら絶対に助けるからね！\nなんでも言って？"
+            },
             "voice": "audition/story_01/heroine_04/HM_Cast_01_04_01_04/hm_cast_01_04_01_04_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "ふふ、いつもほのかちゃんには助けられてるよ。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "ふふ、いつもほのかちゃんには助けられてるよ。"
+            },
             "voice": "audition/story_01/heroine_04/HM_Cast_01_04_01_04/hm_cast_01_04_01_04_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "え？　そうかな。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "え？　そうかな。"
+            },
             "voice": "audition/story_01/heroine_04/HM_Cast_01_04_01_04/hm_cast_01_04_01_04_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "うん、そうだよ。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "うん、そうだよ。"
+            },
             "voice": "audition/story_01/heroine_04/HM_Cast_01_04_01_04/hm_cast_01_04_01_04_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "……そっか。\nありがとう、陽菜。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "……そっか。\nありがとう、陽菜。"
+            },
             "voice": "audition/story_01/heroine_04/HM_Cast_01_04_01_04/hm_cast_01_04_01_04_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "2人とも、そろそろ遅いから、気をつけて帰ってね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "2人とも、そろそろ遅いから、気をつけて帰ってね。"
+            },
             "voice": ""
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "あ、はーい。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "あ、はーい。"
+            },
             "voice": "audition/story_01/heroine_04/HM_Cast_01_04_01_04/hm_cast_01_04_01_04_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "それじゃあ、帰ろう、ほのかちゃん。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "それじゃあ、帰ろう、ほのかちゃん。"
+            },
             "voice": "audition/story_01/heroine_04/HM_Cast_01_04_01_04/hm_cast_01_04_01_04_010.mp3"
         }
     ]

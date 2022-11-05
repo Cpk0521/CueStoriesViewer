@@ -6,8 +6,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "マネージャーさん、お疲れ様でした。\nお先に失礼します。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "マネージャーさん、お疲れ様でした。\nお先に失礼します。"
+            },
             "voice": "audition/story_01/heroine_15/HM_Cast_01_15_14_01/hm_cast_01_15_14_01_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "あ、聡里。お疲れ様。\n帰るなら、凛音にこれを……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "あ、聡里。お疲れ様。\n帰るなら、凛音にこれを……。"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "え？　なんですか、それ。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "え？　なんですか、それ。"
+            },
             "voice": "audition/story_01/heroine_15/HM_Cast_01_15_14_01/hm_cast_01_15_14_01_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "この紙袋、凛音が忘れていったみたいで。\nよかったら届けてほしいんだ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "この紙袋、凛音が忘れていったみたいで。\nよかったら届けてほしいんだ。"
+            },
             "voice": ""
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "わかりました。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "わかりました。"
+            },
             "voice": "audition/story_01/heroine_15/HM_Cast_01_15_14_01/hm_cast_01_15_14_01_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "……重っ。\nなに入ってるのよ、これ。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "……重っ。\nなに入ってるのよ、これ。"
+            },
             "voice": "audition/story_01/heroine_15/HM_Cast_01_15_14_01/hm_cast_01_15_14_01_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "ごめんね。\nあ、今度事務所に来た時に渡すとかでも……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "ごめんね。\nあ、今度事務所に来た時に渡すとかでも……。"
+            },
             "voice": ""
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "いえ、大丈夫です。\n食べ物とか入ってても困るので。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "いえ、大丈夫です。\n食べ物とか入ってても困るので。"
+            },
             "voice": "audition/story_01/heroine_15/HM_Cast_01_15_14_01/hm_cast_01_15_14_01_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "では、お先に失礼します。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "では、お先に失礼します。"
+            },
             "voice": "audition/story_01/heroine_15/HM_Cast_01_15_14_01/hm_cast_01_15_14_01_009.mp3"
         }
     ]

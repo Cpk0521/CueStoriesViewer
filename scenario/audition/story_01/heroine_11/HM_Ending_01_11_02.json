@@ -6,8 +6,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "まほろ、合格おめでとう！\n本当によかった！",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "まほろ、合格おめでとう！\n本当によかった！"
+            },
             "voice": ""
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "マネージャー、喜びすぎ！\nなんか、そんなに喜ばれると逆に困るじゃん。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "マネージャー、喜びすぎ！\nなんか、そんなに喜ばれると逆に困るじゃん。"
+            },
             "voice": "audition/story_01/heroine_11/HM_Ending_01_11_02/hm_ending_01_11_02_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "それに、まほろは受かるって言ったでしょ。\n信じてなかったの？",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "それに、まほろは受かるって言ったでしょ。\n信じてなかったの？"
+            },
             "voice": "audition/story_01/heroine_11/HM_Ending_01_11_02/hm_ending_01_11_02_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そういうわけじゃないよ！\nただ、まほろの努力が報われたって思うと嬉しくって。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そういうわけじゃないよ！\nただ、まほろの努力が報われたって思うと嬉しくって。"
+            },
             "voice": ""
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "そう……。\nまぁ、マネージャーも色々してくれたしね。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "そう……。\nまぁ、マネージャーも色々してくれたしね。"
+            },
             "voice": "audition/story_01/heroine_11/HM_Ending_01_11_02/hm_ending_01_11_02_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "その……ありがと。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "その……ありがと。"
+            },
             "voice": "audition/story_01/heroine_11/HM_Ending_01_11_02/hm_ending_01_11_02_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "まほろ……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "まほろ……。"
+            },
             "voice": ""
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "はい、これでこの話はおしまい！\nほら、そろそろ行こ？",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "はい、これでこの話はおしまい！\nほら、そろそろ行こ？"
+            },
             "voice": "audition/story_01/heroine_11/HM_Ending_01_11_02/hm_ending_01_11_02_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "大事なのは、これからなんだからさ。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "大事なのは、これからなんだからさ。"
+            },
             "voice": "audition/story_01/heroine_11/HM_Ending_01_11_02/hm_ending_01_11_02_009.mp3"
         }
     ]

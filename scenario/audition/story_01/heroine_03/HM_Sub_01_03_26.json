@@ -6,8 +6,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "お疲れちゃーん。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "お疲れちゃーん。"
+            },
             "voice": "audition/story_01/heroine_03/HM_Sub_01_03_26/hm_sub_01_03_26_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "お疲れ、志穂。\nいよいよ、明日だね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "お疲れ、志穂。\nいよいよ、明日だね。"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "うむ。まぁ、だからといって特別なことは何もしない。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "うむ。まぁ、だからといって特別なことは何もしない。"
+            },
             "voice": "audition/story_01/heroine_03/HM_Sub_01_03_26/hm_sub_01_03_26_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "いつもやってることを、いつも通りやる。\nそれが一番。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "いつもやってることを、いつも通りやる。\nそれが一番。"
+            },
             "voice": "audition/story_01/heroine_03/HM_Sub_01_03_26/hm_sub_01_03_26_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "というわけで、また明日。\nおやすみ、ジャーマネ。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "というわけで、また明日。\nおやすみ、ジャーマネ。"
+            },
             "voice": "audition/story_01/heroine_03/HM_Sub_01_03_26/hm_sub_01_03_26_005.mp3"
         }
     ]

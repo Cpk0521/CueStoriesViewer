@@ -6,8 +6,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "（どうしよう……。初顔合わせだっていうのに……。）",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "（どうしよう……。初顔合わせだっていうのに……。）"
+            },
             "voice": ""
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "あれ？\nなんだか深刻な状況みたい。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "あれ？\nなんだか深刻な状況みたい。"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_02/main_01_02_02_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そ、そんなことはないですよ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そ、そんなことはないですよ。"
+            },
             "voice": ""
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "悠希ちゃん？\nですよね？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "悠希ちゃん？\nですよね？"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_02/main_01_02_02_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "えっと。\nまず、自己紹介したほうがいいですかね？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "えっと。\nまず、自己紹介したほうがいいですかね？"
+            },
             "voice": ""
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "もう、顔と名前は分かってるわよね？\n皆、入寮おめでとう。",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "もう、顔と名前は分かってるわよね？\n皆、入寮おめでとう。"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_02/main_01_02_02_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "さっそくなんだけど、皆に質問があります。\nまずは悠希から。",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "さっそくなんだけど、皆に質問があります。\nまずは悠希から。"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_02/main_01_02_02_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "えっ？\nあたし？",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "えっ？\nあたし？"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_02/main_01_02_02_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "悠希は、どうして声優になりたいと思ったの？",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "悠希は、どうして声優になりたいと思ったの？"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_02/main_01_02_02_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "……。\nいろいろあるんですが、パス。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "……。\nいろいろあるんですが、パス。"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_02/main_01_02_02_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "パスしちゃダメでしょう。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "パスしちゃダメでしょう。"
+            },
             "voice": ""
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "はい分かりました。\nいろいろあるのね。",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "はい分かりました。\nいろいろあるのね。"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_02/main_01_02_02_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "次、あいり。\n同じ質問よ。",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "次、あいり。\n同じ質問よ。"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_02/main_01_02_02_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "は、は、はい。\nあのぉ……、すみません。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "は、は、はい。\nあのぉ……、すみません。"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_02/main_01_02_02_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "なに？",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "なに？"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_02/main_01_02_02_015.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "今朝の占いで、緊張したら深呼吸って言われたので、\n今やってもいいですか？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "今朝の占いで、緊張したら深呼吸って言われたので、\n今やってもいいですか？"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_02/main_01_02_02_016.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "どうぞ。",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "どうぞ。"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_02/main_01_02_02_017.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "すぅー……。\nはぁー……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "すぅー……。\nはぁー……。"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_02/main_01_02_02_018.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "落ち着いた？",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "落ち着いた？"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_02/main_01_02_02_019.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "はい！\nえっと、すみません。質問なんでしたっけ？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "はい！\nえっと、すみません。質問なんでしたっけ？"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_02/main_01_02_02_020.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "聞いてなかったの？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "聞いてなかったの？"
+            },
             "voice": ""
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "すみません。今朝の占いで、\n人の話はほどほどに聞けって言われて……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "すみません。今朝の占いで、\n人の話はほどほどに聞けって言われて……。"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_02/main_01_02_02_022.mp3"
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そんな占いあるの？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そんな占いあるの？"
+            },
             "voice": ""
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "はぁ……。じゃあもう一度聞くわ。\nあいりは、どうして声優になりたいの？",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "はぁ……。じゃあもう一度聞くわ。\nあいりは、どうして声優になりたいの？"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_02/main_01_02_02_024.mp3"
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "そうですよね、ダメですよね。\nあいりなんか、声優になっちゃ……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "そうですよね、ダメですよね。\nあいりなんか、声優になっちゃ……。"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_02/main_01_02_02_025.mp3"
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "質問しているだけだよ、あいり。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "質問しているだけだよ、あいり。"
+            },
             "voice": ""
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "そ、そっか。\nえっと……、こんな自分を変えたいんです！　お願いします！",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "そ、そっか。\nえっと……、こんな自分を変えたいんです！　お願いします！"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_02/main_01_02_02_027.mp3"
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "お願いされても……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "お願いされても……。"
+            },
             "voice": ""
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "じゃあ次、柚葉。",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "じゃあ次、柚葉。"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_02/main_01_02_02_029.mp3"
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "私？\nもちろん、思い出作り？　とか？",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "私？\nもちろん、思い出作り？　とか？"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_02/main_01_02_02_030.mp3"
         },
         {
@@ -276,8 +396,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "思い出作り？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "思い出作り？"
+            },
             "voice": ""
         },
         {
@@ -285,8 +409,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "だって人生には必要じゃない？\n夏休みの思い出とか。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "だって人生には必要じゃない？\n夏休みの思い出とか。"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_02/main_01_02_02_032.mp3"
         },
         {
@@ -294,8 +422,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "バカンスってこと？",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "バカンスってこと？"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_02/main_01_02_02_033.mp3"
         },
         {
@@ -303,8 +435,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "近いかも。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "近いかも。"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_02/main_01_02_02_034.mp3"
         },
         {
@@ -312,8 +448,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "割と大切よ、そういうの。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "割と大切よ、そういうの。"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_02/main_01_02_02_035.mp3"
         },
         {
@@ -321,8 +461,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "（ふ、不思議な子だなぁ……。）",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "（ふ、不思議な子だなぁ……。）"
+            },
             "voice": ""
         },
         {
@@ -330,8 +474,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "あのさぁ……。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "あのさぁ……。"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_02/main_01_02_02_037.mp3"
         },
         {
@@ -339,8 +487,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "千紗、どうしたの？",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "千紗、どうしたの？"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_02/main_01_02_02_038.mp3"
         },
         {
@@ -348,8 +500,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "ちょっとみんな、おかしくない？",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "ちょっとみんな、おかしくない？"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_02/main_01_02_02_039.mp3"
         },
         {
@@ -357,8 +513,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "おかしい。\nなんでだろうね？　うふふ。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "おかしい。\nなんでだろうね？　うふふ。"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_02/main_01_02_02_040.mp3"
         },
         {
@@ -366,8 +526,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "声優、なめてるんじゃないかしら？",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "声優、なめてるんじゃないかしら？"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_02/main_01_02_02_041.mp3"
         },
         {
@@ -375,8 +539,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "なめるなんてとんでもない。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "なめるなんてとんでもない。"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_02/main_01_02_02_042.mp3"
         },
         {
@@ -384,8 +552,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "確かに、親父は声優なめてる。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "確かに、親父は声優なめてる。"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_02/main_01_02_02_043.mp3"
         },
         {
@@ -393,8 +565,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "父親のことなんてどうだっていいのよっ！",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "父親のことなんてどうだっていいのよっ！"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_02/main_01_02_02_044.mp3"
         },
         {
@@ -402,8 +578,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "ちょっと千紗。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "ちょっと千紗。"
+            },
             "voice": ""
         },
         {
@@ -411,8 +591,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "悠希だっけ？　パスって言った？\n目標に向かう決意を言葉にすることも出来ないの？",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "悠希だっけ？　パスって言った？\n目標に向かう決意を言葉にすることも出来ないの？"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_02/main_01_02_02_046.mp3"
         },
         {
@@ -420,8 +604,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "むっ？",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "むっ？"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_02/main_01_02_02_047.mp3"
         },
         {
@@ -429,8 +617,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "それからあいり。自分を変えたいだけならお寺にいって。\nそれかインド。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "それからあいり。自分を変えたいだけならお寺にいって。\nそれかインド。"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_02/main_01_02_02_048.mp3"
         },
         {
@@ -438,8 +630,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "あ……、好きかも。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "あ……、好きかも。"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_02/main_01_02_02_049.mp3"
         },
         {
@@ -447,8 +643,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "それと柚葉。\nあなたわけわかんない。モンスターだわ。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "それと柚葉。\nあなたわけわかんない。モンスターだわ。"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_02/main_01_02_02_050.mp3"
         },
         {
@@ -456,8 +656,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "メルシー。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "メルシー。"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_02/main_01_02_02_051.mp3"
         },
         {
@@ -465,8 +669,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "褒めてないわよ……。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "褒めてないわよ……。"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_02/main_01_02_02_052.mp3"
         },
         {
@@ -474,8 +682,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "じゃあさ、千紗はどうなの？",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "じゃあさ、千紗はどうなの？"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_02/main_01_02_02_053.mp3"
         },
         {
@@ -483,8 +695,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "私がなによ？",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "私がなによ？"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_02/main_01_02_02_054.mp3"
         },
         {
@@ -492,8 +708,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "どうして声優になりたいのさ。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "どうして声優になりたいのさ。"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_02/main_01_02_02_055.mp3"
         },
         {
@@ -501,8 +721,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "私の答えは簡単、簡潔よ。\nなんたって子どもの頃からの「夢」なんだからね！",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "私の答えは簡単、簡潔よ。\nなんたって子どもの頃からの「夢」なんだからね！"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_02/main_01_02_02_056.mp3"
         },
         {
@@ -510,8 +734,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "……。\nそれで？",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "……。\nそれで？"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_02/main_01_02_02_057.mp3"
         },
         {
@@ -519,8 +747,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "それでってなに？",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "それでってなに？"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_02/main_01_02_02_058.mp3"
         },
         {
@@ -528,8 +760,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "どうして声優になりたいの？",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "どうして声優になりたいの？"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_02/main_01_02_02_059.mp3"
         },
         {
@@ -537,8 +773,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "今言ったじゃない！\n夢だからよ！",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "今言ったじゃない！\n夢だからよ！"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_02/main_01_02_02_060.mp3"
         },
         {
@@ -546,8 +786,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "ああ、それがそうか。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "ああ、それがそうか。"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_02/main_01_02_02_061.mp3"
         },
         {
@@ -555,8 +799,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "そういう答えでいいんだね。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "そういう答えでいいんだね。"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_02/main_01_02_02_062.mp3"
         },
         {
@@ -564,8 +812,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "なんかぼんやりだね。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "なんかぼんやりだね。"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_02/main_01_02_02_063.mp3"
         },
         {
@@ -573,8 +825,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "ちょっと……、なにこの雰囲気。\n私がおかしいみたいじゃない。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "ちょっと……、なにこの雰囲気。\n私がおかしいみたいじゃない。"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_02/main_01_02_02_064.mp3"
         },
         {
@@ -582,8 +838,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "まあまあまあ。\nははは。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "まあまあまあ。\nははは。"
+            },
             "voice": ""
         },
         {
@@ -591,8 +851,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "（最悪なスタートだ……。）",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "（最悪なスタートだ……。）"
+            },
             "voice": ""
         }
     ]

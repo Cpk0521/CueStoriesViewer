@@ -6,8 +6,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "お疲れ様！\nマネージャー、聞いてよ。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "お疲れ様！\nマネージャー、聞いてよ。"
+            },
             "voice": "audition/story_01/heroine_12/HM_Sub_01_12_25/hm_sub_01_12_25_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "あたし、今日寝坊しかけてさー。\nいや、バイトには間に合ったんだけどね。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "あたし、今日寝坊しかけてさー。\nいや、バイトには間に合ったんだけどね。"
+            },
             "voice": "audition/story_01/heroine_12/HM_Sub_01_12_25/hm_sub_01_12_25_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "朝バタバタすると、忘れ物とかしちゃうし。\n……実際、今朝ジャージ忘れそうになったし。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "朝バタバタすると、忘れ物とかしちゃうし。\n……実際、今朝ジャージ忘れそうになったし。"
+            },
             "voice": "audition/story_01/heroine_12/HM_Sub_01_12_25/hm_sub_01_12_25_004.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "絢が気付いてくれて助かったよー。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "絢が気付いてくれて助かったよー。"
+            },
             "voice": "audition/story_01/heroine_12/HM_Sub_01_12_25/hm_sub_01_12_25_005.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "もっと気をつけないとダメだよねー。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "もっと気をつけないとダメだよねー。"
+            },
             "voice": "audition/story_01/heroine_12/HM_Sub_01_12_25/hm_sub_01_12_25_006.mp3"
         }
     ]

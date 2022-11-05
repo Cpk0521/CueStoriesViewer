@@ -6,8 +6,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "マネージャー、これ、レッスン室の鍵。　",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "マネージャー、これ、レッスン室の鍵。　"
+            },
             "voice": "audition/story_01/com/HM_Com_01_13_01/hm_com_01_13_01_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "ああ、戸締まりありがとう。\n気を付けて帰ってね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "ああ、戸締まりありがとう。\n気を付けて帰ってね。"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "さ、鳴。帰ろっか。　",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "さ、鳴。帰ろっか。　"
+            },
             "voice": "audition/story_01/com/HM_Com_01_13_01/hm_com_01_13_01_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "うん。　",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "うん。　"
+            },
             "voice": "audition/story_01/com/HM_Com_01_13_01/hm_com_01_13_01_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "どこか寄って帰る？　",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "どこか寄って帰る？　"
+            },
             "voice": "audition/story_01/com/HM_Com_01_13_01/hm_com_01_13_01_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "利恵が寄りたいとこがあれば。　",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "利恵が寄りたいとこがあれば。　"
+            },
             "voice": "audition/story_01/com/HM_Com_01_13_01/hm_com_01_13_01_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "うーん、我輩も特に今日は寄りたいとこはないかな。　",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "うーん、我輩も特に今日は寄りたいとこはないかな。　"
+            },
             "voice": "audition/story_01/com/HM_Com_01_13_01/hm_com_01_13_01_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "そう。　",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "そう。　"
+            },
             "voice": "audition/story_01/com/HM_Com_01_13_01/hm_com_01_13_01_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "今日はもう、まっすぐ帰ろっか。　",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "今日はもう、まっすぐ帰ろっか。　"
+            },
             "voice": "audition/story_01/com/HM_Com_01_13_01/hm_com_01_13_01_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "うん、そうだね。　",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "うん、そうだね。　"
+            },
             "voice": "audition/story_01/com/HM_Com_01_13_01/hm_com_01_13_01_010.mp3"
         }
     ]

@@ -6,8 +6,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "おはようございます、マネージャー。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "おはようございます、マネージャー。"
+            },
             "voice": "audition/story_01/heroine_02/HM_Morning_01_02_04/hm_morning_01_02_04_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "昨日、弟たちと電話で話したんすけど、\nついつい話し込んじゃいましたよ。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "昨日、弟たちと電話で話したんすけど、\nついつい話し込んじゃいましたよ。"
+            },
             "voice": "audition/story_01/heroine_02/HM_Morning_01_02_04/hm_morning_01_02_04_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "やっぱ家族と話したい事って尽きないもんっすね。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "やっぱ家族と話したい事って尽きないもんっすね。"
+            },
             "voice": "audition/story_01/heroine_02/HM_Morning_01_02_04/hm_morning_01_02_04_003.mp3"
         }
     ]

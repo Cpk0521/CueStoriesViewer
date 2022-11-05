@@ -6,8 +6,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "お疲れ様です。\nマネージャー、聞いてくださいよ。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "お疲れ様です。\nマネージャー、聞いてくださいよ。"
+            },
             "voice": "audition/story_01/heroine_06/HM_Cast_01_06_08_02/hm_cast_01_06_08_02_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "この前、柚葉が「ペットを寮に連れてくる」とかなんとか\n言ってたじゃないですか。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "この前、柚葉が「ペットを寮に連れてくる」とかなんとか\n言ってたじゃないですか。"
+            },
             "voice": "audition/story_01/heroine_06/HM_Cast_01_06_08_02/hm_cast_01_06_08_02_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "うん、言ってたね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "うん、言ってたね。"
+            },
             "voice": ""
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "あの後、帰り道でもずっと言ってたんです。\nもちろん私は止めたんですけど……。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "あの後、帰り道でもずっと言ってたんです。\nもちろん私は止めたんですけど……。"
+            },
             "voice": "audition/story_01/heroine_06/HM_Cast_01_06_08_02/hm_cast_01_06_08_02_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "あはは……。\nでも、諦めなかったとか？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "あはは……。\nでも、諦めなかったとか？"
+            },
             "voice": ""
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "半分当たり、です。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "半分当たり、です。"
+            },
             "voice": "audition/story_01/heroine_06/HM_Cast_01_06_08_02/hm_cast_01_06_08_02_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "あの子、「寮で飼えないなら、\n寮の隣にペット用の寮を建てればいい」って、言い出したんです！",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "あの子、「寮で飼えないなら、\n寮の隣にペット用の寮を建てればいい」って、言い出したんです！"
+            },
             "voice": "audition/story_01/heroine_06/HM_Cast_01_06_08_02/hm_cast_01_06_08_02_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そっか……寮より大きな建物が建ちそうだね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そっか……寮より大きな建物が建ちそうだね。"
+            },
             "voice": ""
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "はい。柚葉ならやりかねない……。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "はい。柚葉ならやりかねない……。"
+            },
             "voice": "audition/story_01/heroine_06/HM_Cast_01_06_08_02/hm_cast_01_06_08_02_009.mp3"
         }
     ]

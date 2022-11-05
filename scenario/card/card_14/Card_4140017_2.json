@@ -6,8 +6,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "あ、電話……。\nマネージャーさんから？",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "あ、電話……。\nマネージャーさんから？"
+            },
             "voice": "card/Card_14/Card_4140017_2/card_4140017_2_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "なんの用かしら……。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "なんの用かしら……。"
+            },
             "voice": "card/Card_14/Card_4140017_2/card_4140017_2_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "はい、宇津木です。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "はい、宇津木です。"
+            },
             "voice": "card/Card_14/Card_4140017_2/card_4140017_2_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "あ、聡里？\nお休みの日にごめんね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "あ、聡里？\nお休みの日にごめんね。"
+            },
             "voice": ""
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "今、大丈夫？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "今、大丈夫？"
+            },
             "voice": ""
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "大丈夫ですけど、手短にお願いできますか？",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "大丈夫ですけど、手短にお願いできますか？"
+            },
             "voice": "card/Card_14/Card_4140017_2/card_4140017_2_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "あっ、もしかして何かしてた？\nそれなら、また後で……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "あっ、もしかして何かしてた？\nそれなら、また後で……。"
+            },
             "voice": ""
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "いえ、そこまでしなくて結構です。\n仕事に関してのことですか？",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "いえ、そこまでしなくて結構です。\n仕事に関してのことですか？"
+            },
             "voice": "card/Card_14/Card_4140017_2/card_4140017_2_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "ああ、うん。\nそれじゃ、ちょっとごめんね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "ああ、うん。\nそれじゃ、ちょっとごめんね。"
+            },
             "voice": ""
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "いくつか話したいことがあって……。\nまず、レッスンのことなんだけど。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "いくつか話したいことがあって……。\nまず、レッスンのことなんだけど。"
+            },
             "voice": ""
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "はい……はい。\n……わかりました。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "はい……はい。\n……わかりました。"
+            },
             "voice": "card/Card_14/Card_4140017_2/card_4140017_2_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "では、その資料は寮で受け取ります。\n夕飯までには帰るので。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "では、その資料は寮で受け取ります。\n夕飯までには帰るので。"
+            },
             "voice": "card/Card_14/Card_4140017_2/card_4140017_2_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "……鳴なら、さすがにもう起きてると思いますよ。\nだから、それは鳴に言ってください。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "……鳴なら、さすがにもう起きてると思いますよ。\nだから、それは鳴に言ってください。"
+            },
             "voice": "card/Card_14/Card_4140017_2/card_4140017_2_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "利恵は多分バイトですし、\n凛音は……どこかで、寝てるんじゃないですか。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "利恵は多分バイトですし、\n凛音は……どこかで、寝てるんじゃないですか。"
+            },
             "voice": "card/Card_14/Card_4140017_2/card_4140017_2_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "……はい、わかりました。\n一応、伝えてはおきますね。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "……はい、わかりました。\n一応、伝えてはおきますね。"
+            },
             "voice": "card/Card_14/Card_4140017_2/card_4140017_2_015.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "それでは、また。\n失礼します。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "それでは、また。\n失礼します。"
+            },
             "voice": "card/Card_14/Card_4140017_2/card_4140017_2_016.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "……ふう。\nマネージャーさんも忙しい人ね。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "……ふう。\nマネージャーさんも忙しい人ね。"
+            },
             "voice": "card/Card_14/Card_4140017_2/card_4140017_2_017.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "でも、とりあえずで、\n何でもかんでも私に聞くのはやめてほしいわ。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "でも、とりあえずで、\n何でもかんでも私に聞くのはやめてほしいわ。"
+            },
             "voice": "card/Card_14/Card_4140017_2/card_4140017_2_018.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "せっかく、想像の世界に浸ってたのに。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "せっかく、想像の世界に浸ってたのに。"
+            },
             "voice": "card/Card_14/Card_4140017_2/card_4140017_2_019.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "私がいなかったら、どうするつもりなのかしら？",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "私がいなかったら、どうするつもりなのかしら？"
+            },
             "voice": "card/Card_14/Card_4140017_2/card_4140017_2_020.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "……。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "……。"
+            },
             "voice": "card/Card_14/Card_4140017_2/card_4140017_2_021.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "……続きを読もう。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "……続きを読もう。"
+            },
             "voice": "card/Card_14/Card_4140017_2/card_4140017_2_022.mp3"
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "暗くなる前には、帰らないといけないし。\n風邪なんて引いたら、大変だものね。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "暗くなる前には、帰らないといけないし。\n風邪なんて引いたら、大変だものね。"
+            },
             "voice": "card/Card_14/Card_4140017_2/card_4140017_2_023.mp3"
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "……。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "……。"
+            },
             "voice": "card/Card_14/Card_4140017_2/card_4140017_2_024.mp3"
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "……ふふっ。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "……ふふっ。"
+            },
             "voice": "card/Card_14/Card_4140017_2/card_4140017_2_025.mp3"
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "……あ、もう数ページしか。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "……あ、もう数ページしか。"
+            },
             "voice": "card/Card_14/Card_4140017_2/card_4140017_2_026.mp3"
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "……終わっちゃうのね。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "……終わっちゃうのね。"
+            },
             "voice": "card/Card_14/Card_4140017_2/card_4140017_2_027.mp3"
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "あ……っ。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "あ……っ。"
+            },
             "voice": "card/Card_14/Card_4140017_2/card_4140017_2_028.mp3"
         }
     ]

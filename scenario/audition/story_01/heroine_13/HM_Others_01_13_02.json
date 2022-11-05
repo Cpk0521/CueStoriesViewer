@@ -6,8 +6,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "いよいよ、1次審査……。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "いよいよ、1次審査……。"
+            },
             "voice": "audition/story_01/heroine_13/HM_Others_01_13_02/hm_others_01_13_02_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "利恵なら大丈夫だよ。あれだけ準備していたんだから。\n落ち着いて、いつも通りに。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "利恵なら大丈夫だよ。あれだけ準備していたんだから。\n落ち着いて、いつも通りに。"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "それが1番難しいと思うんだけど……。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "それが1番難しいと思うんだけど……。"
+            },
             "voice": "audition/story_01/heroine_13/HM_Others_01_13_02/hm_others_01_13_02_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "でも……、今まで積み重ねたことは、きっと裏切らないよね。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "でも……、今まで積み重ねたことは、きっと裏切らないよね。"
+            },
             "voice": "audition/story_01/heroine_13/HM_Others_01_13_02/hm_others_01_13_02_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "昨日もあんなに確認したんだし、大丈夫。\n……行ってきます、マネージャー。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "昨日もあんなに確認したんだし、大丈夫。\n……行ってきます、マネージャー。"
+            },
             "voice": "audition/story_01/heroine_13/HM_Others_01_13_02/hm_others_01_13_02_005.mp3"
         }
     ]

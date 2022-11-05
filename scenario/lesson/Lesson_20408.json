@@ -6,8 +6,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "これは……。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "これは……。"
+            },
             "voice": "lesson/Lesson_20408/lesson_20408_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "ど、どうですか……？　\n折れてますか……？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "ど、どうですか……？　\n折れてますか……？"
+            },
             "voice": "lesson/Lesson_20408/lesson_20408_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "靴擦れだね。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "靴擦れだね。"
+            },
             "voice": "lesson/Lesson_20408/lesson_20408_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "……靴擦れ？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "……靴擦れ？"
+            },
             "voice": "lesson/Lesson_20408/lesson_20408_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "これは痛そう。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "これは痛そう。"
+            },
             "voice": "lesson/Lesson_20408/lesson_20408_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "……この靴、最近買ったばっかりだ。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "……この靴、最近買ったばっかりだ。"
+            },
             "voice": "lesson/Lesson_20408/lesson_20408_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "靴擦れ、あまりならないですから……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "靴擦れ、あまりならないですから……。"
+            },
             "voice": "lesson/Lesson_20408/lesson_20408_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "美晴さん、アレもってる？",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "美晴さん、アレもってる？"
+            },
             "voice": "lesson/Lesson_20408/lesson_20408_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "アレ……？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "アレ……？"
+            },
             "voice": "lesson/Lesson_20408/lesson_20408_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "あるよ。でも、小さいやつしかないかも。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "あるよ。でも、小さいやつしかないかも。"
+            },
             "voice": "lesson/Lesson_20408/lesson_20408_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "わたし大きいの持ってる。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "わたし大きいの持ってる。"
+            },
             "voice": "lesson/Lesson_20408/lesson_20408_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "小さい……。大きい……？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "小さい……。大きい……？"
+            },
             "voice": "lesson/Lesson_20408/lesson_20408_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "靴擦れの応急処置。絆創膏だよ。ほら。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "靴擦れの応急処置。絆創膏だよ。ほら。"
+            },
             "voice": "lesson/Lesson_20408/lesson_20408_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "うわあ……、すごい、こんなにいっぱい。\n大きさもいろいろ……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "うわあ……、すごい、こんなにいっぱい。\n大きさもいろいろ……。"
+            },
             "voice": "lesson/Lesson_20408/lesson_20408_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "必需品だよね。いつも持ち歩いてるよ。\n靴擦れしやすいから。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "必需品だよね。いつも持ち歩いてるよ。\n靴擦れしやすいから。"
+            },
             "voice": "lesson/Lesson_20408/lesson_20408_015.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "かわいくて、ヒールの高い靴にかぎって、すぐ痛くなるよね。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "かわいくて、ヒールの高い靴にかぎって、すぐ痛くなるよね。"
+            },
             "voice": "lesson/Lesson_20408/lesson_20408_016.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "なんて言うか、もう足を靴に合わせてるって感じ。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "なんて言うか、もう足を靴に合わせてるって感じ。"
+            },
             "voice": "lesson/Lesson_20408/lesson_20408_017.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "……。"
+            },
             "voice": "lesson/Lesson_20408/lesson_20408_018.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "ほのかさんも美晴さんも、\nすごくおしゃれな靴履いてます。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "ほのかさんも美晴さんも、\nすごくおしゃれな靴履いてます。"
+            },
             "voice": "lesson/Lesson_20408/lesson_20408_019.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "え？",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "え？"
+            },
             "voice": "lesson/Lesson_20408/lesson_20408_020.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "ありがとう？",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "ありがとう？"
+            },
             "voice": "lesson/Lesson_20408/lesson_20408_021.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "すごく……。かかと、高い。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "すごく……。かかと、高い。"
+            },
             "voice": "lesson/Lesson_20408/lesson_20408_022.mp3"
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "って言っても、6センチよ？",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "って言っても、6センチよ？"
+            },
             "voice": "lesson/Lesson_20408/lesson_20408_023.mp3"
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "そこまで高くないよね？",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "そこまで高くないよね？"
+            },
             "voice": "lesson/Lesson_20408/lesson_20408_024.mp3"
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "なんで……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "なんで……。"
+            },
             "voice": "lesson/Lesson_20408/lesson_20408_025.mp3"
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "あいり？",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "あいり？"
+            },
             "voice": "lesson/Lesson_20408/lesson_20408_026.mp3"
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "なんで、そこまでして……？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "なんで、そこまでして……？"
+            },
             "voice": "lesson/Lesson_20408/lesson_20408_027.mp3"
         }
     ]

@@ -6,8 +6,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "リエンヌとなるちゃんって、\n本当に仲がいいですよねー。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "リエンヌとなるちゃんって、\n本当に仲がいいですよねー。"
+            },
             "voice": "audition/story_01/heroine_15/HM_Sub_01_15_22/hm_sub_01_15_22_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "リエンヌの事を探してる時は、\nなるちゃんに聞けば絶対にわかるんです！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "リエンヌの事を探してる時は、\nなるちゃんに聞けば絶対にわかるんです！"
+            },
             "voice": "audition/story_01/heroine_15/HM_Sub_01_15_22/hm_sub_01_15_22_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "だからリエンヌを探す時は、\nなるちゃんを探すのがコツなんですよ！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "だからリエンヌを探す時は、\nなるちゃんを探すのがコツなんですよ！"
+            },
             "voice": "audition/story_01/heroine_15/HM_Sub_01_15_22/hm_sub_01_15_22_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "でも、なるちゃんはリエンヌと、\nよく一緒にいるから……。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "でも、なるちゃんはリエンヌと、\nよく一緒にいるから……。"
+            },
             "voice": "audition/story_01/heroine_15/HM_Sub_01_15_22/hm_sub_01_15_22_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "あれ……？",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "あれ……？"
+            },
             "voice": "audition/story_01/heroine_15/HM_Sub_01_15_22/hm_sub_01_15_22_005.mp3"
         }
     ]

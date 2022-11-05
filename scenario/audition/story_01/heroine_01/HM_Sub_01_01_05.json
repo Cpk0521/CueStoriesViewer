@@ -6,8 +6,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "冬になると亀井さんは長いお休みをしなければいけないんです。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "冬になると亀井さんは長いお休みをしなければいけないんです。"
+            },
             "voice": "audition/story_01/heroine_01/HM_Sub_01_01_05/hm_sub_01_01_05_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "冬の間もずっと暖房で暖かくしていられるなら、\n長いお休みも必要ないみたいなんですけど……。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "冬の間もずっと暖房で暖かくしていられるなら、\n長いお休みも必要ないみたいなんですけど……。"
+            },
             "voice": "audition/story_01/heroine_01/HM_Sub_01_01_05/hm_sub_01_01_05_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "マネージャーさん、寮の暖房1日中つけっぱなしは……。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "マネージャーさん、寮の暖房1日中つけっぱなしは……。"
+            },
             "voice": "audition/story_01/heroine_01/HM_Sub_01_01_05/hm_sub_01_01_05_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "うふふっ、やっぱりダメですよね。\nすみません。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "うふふっ、やっぱりダメですよね。\nすみません。"
+            },
             "voice": "audition/story_01/heroine_01/HM_Sub_01_01_05/hm_sub_01_01_05_004.mp3"
         }
     ]

@@ -6,8 +6,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "マネージャー！\n屋上で獲れた野菜、よかったら貰ってください。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "マネージャー！\n屋上で獲れた野菜、よかったら貰ってください。"
+            },
             "voice": "audition/story_01/heroine_06/HM_Sub_01_06_10/hm_sub_01_06_10_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "いいの？\nじゃあ、ありがたくいただくね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "いいの？\nじゃあ、ありがたくいただくね。"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "どうぞ。今朝、穫れたばかりなんですよ。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "どうぞ。今朝、穫れたばかりなんですよ。"
+            },
             "voice": "audition/story_01/heroine_06/HM_Sub_01_06_10/hm_sub_01_06_10_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そうなんだ。おいしそうだね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そうなんだ。おいしそうだね。"
+            },
             "voice": ""
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "はい！　莉子と陽菜もいつも喜んでくれて……。\n「さっそく夕飯に使うね」って言ってくれたんです。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "はい！　莉子と陽菜もいつも喜んでくれて……。\n「さっそく夕飯に使うね」って言ってくれたんです。"
+            },
             "voice": "audition/story_01/heroine_06/HM_Sub_01_06_10/hm_sub_01_06_10_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "ふふっ、2人はどんな料理にするのかしら。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "ふふっ、2人はどんな料理にするのかしら。"
+            },
             "voice": "audition/story_01/heroine_06/HM_Sub_01_06_10/hm_sub_01_06_10_006.mp3"
         }
     ]

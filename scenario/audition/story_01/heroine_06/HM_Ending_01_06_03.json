@@ -6,8 +6,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "ダメだったんですね……。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "ダメだったんですね……。"
+            },
             "voice": "audition/story_01/heroine_06/HM_Ending_01_06_03/hm_ending_01_06_03_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "実力不足なのはわかってるんですけど、\nやっぱり悔しいな……。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "実力不足なのはわかってるんですけど、\nやっぱり悔しいな……。"
+            },
             "voice": "audition/story_01/heroine_06/HM_Ending_01_06_03/hm_ending_01_06_03_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "でも、今日の悔しさをバネにして、\n明日からもまた頑張ります。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "でも、今日の悔しさをバネにして、\n明日からもまた頑張ります。"
+            },
             "voice": "audition/story_01/heroine_06/HM_Ending_01_06_03/hm_ending_01_06_03_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "私は、頑張ることしかできないので。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "私は、頑張ることしかできないので。"
+            },
             "voice": "audition/story_01/heroine_06/HM_Ending_01_06_03/hm_ending_01_06_03_004.mp3"
         }
     ]

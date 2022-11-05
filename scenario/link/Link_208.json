@@ -6,8 +6,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "とんこつ、味噌、醤油。どれがいいっすか？\nラーメン、たくさん買っておいたんです。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "とんこつ、味噌、醤油。どれがいいっすか？\nラーメン、たくさん買っておいたんです。"
+            },
             "voice": "link/Link_208/link_208_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "まほろはこれかな。やっぱり、ラーメンは背脂だよねー。\n舞花は？",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "まほろはこれかな。やっぱり、ラーメンは背脂だよねー。\n舞花は？"
+            },
             "voice": "link/Link_208/link_208_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "今日はとんこつの気分っすかねー。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "今日はとんこつの気分っすかねー。"
+            },
             "voice": "link/Link_208/link_208_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "好きだね、とんこつ。\n……これは？　レアラーメンだって。期間限定。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "好きだね、とんこつ。\n……これは？　レアラーメンだって。期間限定。"
+            },
             "voice": "link/Link_208/link_208_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "期間限定……？　買った覚えないですね。　",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "期間限定……？　買った覚えないですね。　"
+            },
             "voice": "link/Link_208/link_208_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "舞花じゃないの？\nえっと……、「ライトをあてると光る、発光ラーメン」？",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "舞花じゃないの？\nえっと……、「ライトをあてると光る、発光ラーメン」？"
+            },
             "voice": "link/Link_208/link_208_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "光る？　何が？　容器が？　",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "光る？　何が？　容器が？　"
+            },
             "voice": "link/Link_208/link_208_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "光る塗料でも、塗ってあるのかな。どうする？　",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "光る塗料でも、塗ってあるのかな。どうする？　"
+            },
             "voice": "link/Link_208/link_208_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "こういう謎な食べ物って、わくわくしますよね。\nインスタントならでは、っていうか。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "こういう謎な食べ物って、わくわくしますよね。\nインスタントならでは、っていうか。"
+            },
             "voice": "link/Link_208/link_208_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "そういうことで。まほろさん。\nお湯、スタンバイして下さい！",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "そういうことで。まほろさん。\nお湯、スタンバイして下さい！"
+            },
             "voice": "link/Link_208/link_208_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "はーい。　",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "はーい。　"
+            },
             "voice": "link/Link_208/link_208_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "5分経ったね。開けるよ。　",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "5分経ったね。開けるよ。　"
+            },
             "voice": "link/Link_208/link_208_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "うーん？　",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "うーん？　"
+            },
             "voice": "link/Link_208/link_208_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "光って……、ないっすね。\nいたって普通。見た目も、においも。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "光って……、ないっすね。\nいたって普通。見た目も、においも。"
+            },
             "voice": "link/Link_208/link_208_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "ライトを当てると、って書いてあるし。\nスマホ使う？　ほら。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "ライトを当てると、って書いてあるし。\nスマホ使う？　ほら。"
+            },
             "voice": "link/Link_208/link_208_015.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "それっす！　アプリでライトを点けて……。　",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "それっす！　アプリでライトを点けて……。　"
+            },
             "voice": "link/Link_208/link_208_016.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "あっ……。　",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "あっ……。　"
+            },
             "voice": "link/Link_208/link_208_017.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "おお。光った。……麺が。　",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "おお。光った。……麺が。　"
+            },
             "voice": "link/Link_208/link_208_018.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "青白っ。明らかにヤバそうなんですけど。　",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "青白っ。明らかにヤバそうなんですけど。　"
+            },
             "voice": "link/Link_208/link_208_019.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "あれじゃないっすか？　これこそ、SNS映え！　",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "あれじゃないっすか？　これこそ、SNS映え！　"
+            },
             "voice": "link/Link_208/link_208_020.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "映え……、は、ないでしょ。\nどう見てもゲテモノだって。しかも、インスタントだし。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "映え……、は、ないでしょ。\nどう見てもゲテモノだって。しかも、インスタントだし。"
+            },
             "voice": "link/Link_208/link_208_021.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "まほろさん、撮ります？\nきっといっぱいつきますよ。いいね。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "まほろさん、撮ります？\nきっといっぱいつきますよ。いいね。"
+            },
             "voice": "link/Link_208/link_208_022.mp3"
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "青白いラーメンを見て、可愛いー！　って言う人いる？\n却下。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "青白いラーメンを見て、可愛いー！　って言う人いる？\n却下。"
+            },
             "voice": "link/Link_208/link_208_023.mp3"
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "っていうか。スマホ、ライトに使ってるし。撮れないって。　",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "っていうか。スマホ、ライトに使ってるし。撮れないって。　"
+            },
             "voice": "link/Link_208/link_208_024.mp3"
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "そうでした……。うーん。\nあれは？　ヘッドライトとか、ないんですか？",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "そうでした……。うーん。\nあれは？　ヘッドライトとか、ないんですか？"
+            },
             "voice": "link/Link_208/link_208_025.mp3"
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "ありません。アウトドアじゃないんだから……。　",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "ありません。アウトドアじゃないんだから……。　"
+            },
             "voice": "link/Link_208/link_208_026.mp3"
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "いやいや。ラーメンはアウトドアですって。\n違いないっす！　外で食べますし！",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "いやいや。ラーメンはアウトドアですって。\n違いないっす！　外で食べますし！"
+            },
             "voice": "link/Link_208/link_208_027.mp3"
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "今はインドアだけどね……。　",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "今はインドアだけどね……。　"
+            },
             "voice": "link/Link_208/link_208_028.mp3"
         }
     ]

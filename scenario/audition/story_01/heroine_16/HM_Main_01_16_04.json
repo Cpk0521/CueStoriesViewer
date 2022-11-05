@@ -6,8 +6,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "……あ。お疲れ様です。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "……あ。お疲れ様です。"
+            },
             "voice": "audition/story_01/heroine_16/HM_Main_01_16_04/hm_main_01_16_04_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "お疲れ。いよいよ来週だね。\n調子は……大丈夫かな。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "お疲れ。いよいよ来週だね。\n調子は……大丈夫かな。"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "はい。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "はい。"
+            },
             "voice": "audition/story_01/heroine_16/HM_Main_01_16_04/hm_main_01_16_04_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "あの……明日、レッスン室って借りられますか。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "あの……明日、レッスン室って借りられますか。"
+            },
             "voice": "audition/story_01/heroine_16/HM_Main_01_16_04/hm_main_01_16_04_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "え？　予約すれば大丈夫だと思うけど。\n自主練？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "え？　予約すれば大丈夫だと思うけど。\n自主練？"
+            },
             "voice": ""
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "はい。何か変ですか？",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "はい。何か変ですか？"
+            },
             "voice": "audition/story_01/heroine_16/HM_Main_01_16_04/hm_main_01_16_04_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "いや、鳴ってあまり根詰めるタイプじゃないでしょ？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "いや、鳴ってあまり根詰めるタイプじゃないでしょ？"
+            },
             "voice": ""
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "……この前のファンレター。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "……この前のファンレター。"
+            },
             "voice": "audition/story_01/heroine_16/HM_Main_01_16_04/hm_main_01_16_04_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "「好き」って誰かに言いたくなる気持ちは、わかるから。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "「好き」って誰かに言いたくなる気持ちは、わかるから。"
+            },
             "voice": "audition/story_01/heroine_16/HM_Main_01_16_04/hm_main_01_16_04_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そうだね……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そうだね……。"
+            },
             "voice": ""
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "……そんなことないです。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "……そんなことないです。"
+            },
             "voice": "audition/story_01/heroine_16/HM_Main_01_16_04/hm_main_01_16_04_012.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "はい。\nいつもありがとうございます。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "はい。\nいつもありがとうございます。"
+            },
             "voice": "audition/story_01/heroine_16/HM_Main_01_16_04/hm_main_01_16_04_014.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "はい。無理はしません。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "はい。無理はしません。"
+            },
             "voice": "audition/story_01/heroine_16/HM_Main_01_16_04/hm_main_01_16_04_016.mp3"
         }
     ]

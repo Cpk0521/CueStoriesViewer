@@ -6,8 +6,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "柚葉！　1次審査、合格おめでとう。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "柚葉！　1次審査、合格おめでとう。"
+            },
             "voice": ""
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "ありがとう、マネージャー！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "ありがとう、マネージャー！"
+            },
             "voice": "audition/story_01/heroine_08/HM_Main_01_08_03/hm_main_01_08_03_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "うふふ！　次もとっても楽しみだわ！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "うふふ！　次もとっても楽しみだわ！"
+            },
             "voice": "audition/story_01/heroine_08/HM_Main_01_08_03/hm_main_01_08_03_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "1次審査、ちゃんと楽しめたんだね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "1次審査、ちゃんと楽しめたんだね。"
+            },
             "voice": ""
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "もちろん！\n自己紹介の時、Directorとたくさんお話ししたわ。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "もちろん！\n自己紹介の時、Directorとたくさんお話ししたわ。"
+            },
             "voice": "audition/story_01/heroine_08/HM_Main_01_08_03/hm_main_01_08_03_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "「子どもの頃からよく旅行してて、地球を7周半してます！」\nって言ったら、面白いねって言われちゃった！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "「子どもの頃からよく旅行してて、地球を7周半してます！」\nって言ったら、面白いねって言われちゃった！"
+            },
             "voice": "audition/story_01/heroine_08/HM_Main_01_08_03/hm_main_01_08_03_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "あはは、そうなんだ。\n監督さんに覚えてもらえたかもね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "あはは、そうなんだ。\n監督さんに覚えてもらえたかもね。"
+            },
             "voice": ""
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "うふふ。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "うふふ。"
+            },
             "voice": "audition/story_01/heroine_08/HM_Main_01_08_03/hm_main_01_08_03_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "あ、そうだ。\nマネージャー、明日ってオフでいいのよね？",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "あ、そうだ。\nマネージャー、明日ってオフでいいのよね？"
+            },
             "voice": "audition/story_01/heroine_08/HM_Main_01_08_03/hm_main_01_08_03_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "うん、大丈夫だよ。\nどこかに行く予定でもあるの？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "うん、大丈夫だよ。\nどこかに行く予定でもあるの？"
+            },
             "voice": ""
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "ご褒美に、おいしいクレープを食べに行くの！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "ご褒美に、おいしいクレープを食べに行くの！"
+            },
             "voice": "audition/story_01/heroine_08/HM_Main_01_08_03/hm_main_01_08_03_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "はぁ……今からとっても楽しみ！\nそこのお店のクレープはね、とっておきなの。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "はぁ……今からとっても楽しみ！\nそこのお店のクレープはね、とっておきなの。"
+            },
             "voice": "audition/story_01/heroine_08/HM_Main_01_08_03/hm_main_01_08_03_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "生地も、クリームも、フルーツも……\n全部がパーフェクトなのよ！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "生地も、クリームも、フルーツも……\n全部がパーフェクトなのよ！"
+            },
             "voice": "audition/story_01/heroine_08/HM_Main_01_08_03/hm_main_01_08_03_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "私、初めて食べた時に感動したの。\nきっとこれは、お店の人がたくさん努力した結果だわ、って。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "私、初めて食べた時に感動したの。\nきっとこれは、お店の人がたくさん努力した結果だわ、って。"
+            },
             "voice": "audition/story_01/heroine_08/HM_Main_01_08_03/hm_main_01_08_03_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そっかそっか……あのさ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そっかそっか……あのさ。"
+            },
             "voice": ""
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "もちろん！\n安心してちょうだい、マネージャー。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "もちろん！\n安心してちょうだい、マネージャー。"
+            },
             "voice": "audition/story_01/heroine_08/HM_Main_01_08_03/hm_main_01_08_03_017.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "好きなだけ食べていいのは、合格した時よね！\nうふふ！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "好きなだけ食べていいのは、合格した時よね！\nうふふ！"
+            },
             "voice": "audition/story_01/heroine_08/HM_Main_01_08_03/hm_main_01_08_03_018.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "ノープロブレム、日本のお店よ。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "ノープロブレム、日本のお店よ。"
+            },
             "voice": "audition/story_01/heroine_08/HM_Main_01_08_03/hm_main_01_08_03_020.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "マネージャーも、よかったら今度、連れて行ってあげる！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "マネージャーも、よかったら今度、連れて行ってあげる！"
+            },
             "voice": "audition/story_01/heroine_08/HM_Main_01_08_03/hm_main_01_08_03_021.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "じゃあ、マネージャーにも買ってきてあげるわ！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "じゃあ、マネージャーにも買ってきてあげるわ！"
+            },
             "voice": "audition/story_01/heroine_08/HM_Main_01_08_03/hm_main_01_08_03_023.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "おいしすぎてビックリするはずよ！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "おいしすぎてビックリするはずよ！"
+            },
             "voice": "audition/story_01/heroine_08/HM_Main_01_08_03/hm_main_01_08_03_024.mp3"
         }
     ]

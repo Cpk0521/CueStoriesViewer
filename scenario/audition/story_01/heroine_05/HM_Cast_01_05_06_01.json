@@ -6,8 +6,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "お疲れ様ー！\nまた明日もレッスン室使うから、よろしくね！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "お疲れ様ー！\nまた明日もレッスン室使うから、よろしくね！"
+            },
             "voice": "audition/story_01/heroine_05/HM_Cast_01_05_06_01/hm_cast_01_05_06_01_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "はい。お疲れ様。\n気をつけて帰ってね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "はい。お疲れ様。\n気をつけて帰ってね。"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "お疲れ様です。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "お疲れ様です。"
+            },
             "voice": "audition/story_01/heroine_05/HM_Cast_01_05_06_01/hm_cast_01_05_06_01_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "あれ、悠希は……。\nもう帰っちゃいました？",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "あれ、悠希は……。\nもう帰っちゃいました？"
+            },
             "voice": "audition/story_01/heroine_05/HM_Cast_01_05_06_01/hm_cast_01_05_06_01_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "千紗、お疲れ様。悠希はついさっき帰ったよ。\n何か用事あった？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "千紗、お疲れ様。悠希はついさっき帰ったよ。\n何か用事あった？"
+            },
             "voice": ""
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "いえ、時間も遅かったので、\n買い物ついでに、時間合えば一緒に帰ろうと思って。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "いえ、時間も遅かったので、\n買い物ついでに、時間合えば一緒に帰ろうと思って。"
+            },
             "voice": "audition/story_01/heroine_05/HM_Cast_01_05_06_01/hm_cast_01_05_06_01_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そうだったんだ。\n……悠希、寮での調子はどう？　",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そうだったんだ。\n……悠希、寮での調子はどう？　"
+            },
             "voice": ""
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "最近、部屋にこもってることが多いですね。\n何か熱心にやってるみたいです。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "最近、部屋にこもってることが多いですね。\n何か熱心にやってるみたいです。"
+            },
             "voice": "audition/story_01/heroine_05/HM_Cast_01_05_06_01/hm_cast_01_05_06_01_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "この前も、夜中に何かのセリフを叫んだりしていて、\n注意したんですけど。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "この前も、夜中に何かのセリフを叫んだりしていて、\n注意したんですけど。"
+            },
             "voice": "audition/story_01/heroine_05/HM_Cast_01_05_06_01/hm_cast_01_05_06_01_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "マネージャー、事情とか知ってますか？",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "マネージャー、事情とか知ってますか？"
+            },
             "voice": "audition/story_01/heroine_05/HM_Cast_01_05_06_01/hm_cast_01_05_06_01_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "うーん、今度オーディションがあるんだけど、\n少し頑張りすぎてる気がするんだよね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "うーん、今度オーディションがあるんだけど、\n少し頑張りすぎてる気がするんだよね。"
+            },
             "voice": ""
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "そうだったんですか……。\nわかりました。私もちょっと気にしてみますね。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "そうだったんですか……。\nわかりました。私もちょっと気にしてみますね。"
+            },
             "voice": "audition/story_01/heroine_05/HM_Cast_01_05_06_01/hm_cast_01_05_06_01_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "千紗も、あまり無理しすぎないようにね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "千紗も、あまり無理しすぎないようにね。"
+            },
             "voice": ""
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "はい。\nありがとうございます、マネージャー。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "はい。\nありがとうございます、マネージャー。"
+            },
             "voice": "audition/story_01/heroine_05/HM_Cast_01_05_06_01/hm_cast_01_05_06_01_014.mp3"
         }
     ]

@@ -6,8 +6,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "もうすぐオーディションの日……、ですね。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "もうすぐオーディションの日……、ですね。"
+            },
             "voice": "audition/story_01/heroine_01/HM_Sub_01_01_25/hm_sub_01_01_25_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "やれることはやった。\nあとはその日を待つのみ……、なんて、",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "やれることはやった。\nあとはその日を待つのみ……、なんて、"
+            },
             "voice": "audition/story_01/heroine_01/HM_Sub_01_01_25/hm_sub_01_01_25_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "頭ではわかってるんですけど……。\nやっぱり少しこわいです。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "頭ではわかってるんですけど……。\nやっぱり少しこわいです。"
+            },
             "voice": "audition/story_01/heroine_01/HM_Sub_01_01_25/hm_sub_01_01_25_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "ううん。自信持たないと、ですよね。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "ううん。自信持たないと、ですよね。"
+            },
             "voice": "audition/story_01/heroine_01/HM_Sub_01_01_25/hm_sub_01_01_25_004.mp3"
         }
     ]

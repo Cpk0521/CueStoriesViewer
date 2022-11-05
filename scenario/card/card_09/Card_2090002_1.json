@@ -6,8 +6,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "お兄ちゃんの誕生日パーティー？",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "お兄ちゃんの誕生日パーティー？"
+            },
             "voice": "card/Card_09/Card_2090002_1/card_2090002_1_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "そう、今年は何をしようかなって悩んでて。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "そう、今年は何をしようかなって悩んでて。"
+            },
             "voice": "card/Card_09/Card_2090002_1/card_2090002_1_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "……まほろ、ひとりっ子だからよくわからないんだけど、\n兄妹の誕生日って、そんなに力入れるもの？",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "……まほろ、ひとりっ子だからよくわからないんだけど、\n兄妹の誕生日って、そんなに力入れるもの？"
+            },
             "voice": "card/Card_09/Card_2090002_1/card_2090002_1_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "うちは結構頑張るかな？",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "うちは結構頑張るかな？"
+            },
             "voice": "card/Card_09/Card_2090002_1/card_2090002_1_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "うちは弟と妹いるけど……。\nメールくらいだね。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "うちは弟と妹いるけど……。\nメールくらいだね。"
+            },
             "voice": "card/Card_09/Card_2090002_1/card_2090002_1_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "絢は？\nお姉ちゃんだっけ？",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "絢は？\nお姉ちゃんだっけ？"
+            },
             "voice": "card/Card_09/Card_2090002_1/card_2090002_1_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "うちも、特にはないかな。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "うちも、特にはないかな。"
+            },
             "voice": "card/Card_09/Card_2090002_1/card_2090002_1_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "家庭によって、いろいろ違いはあるよね。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "家庭によって、いろいろ違いはあるよね。"
+            },
             "voice": "card/Card_09/Card_2090002_1/card_2090002_1_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "なんか手伝えることがあったら言ってよ、\n相談に乗るからさ。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "なんか手伝えることがあったら言ってよ、\n相談に乗るからさ。"
+            },
             "voice": "card/Card_09/Card_2090002_1/card_2090002_1_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "えっ、いいの？",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "えっ、いいの？"
+            },
             "voice": "card/Card_09/Card_2090002_1/card_2090002_1_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "やっぱり、家族は大切にしないとね。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "やっぱり、家族は大切にしないとね。"
+            },
             "voice": "card/Card_09/Card_2090002_1/card_2090002_1_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "ほんと？\nすごくうれしい。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "ほんと？\nすごくうれしい。"
+            },
             "voice": "card/Card_09/Card_2090002_1/card_2090002_1_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "じゃあ、ちょっと考えたいから……。\n明日また、相談にのってくれる？",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "じゃあ、ちょっと考えたいから……。\n明日また、相談にのってくれる？"
+            },
             "voice": "card/Card_09/Card_2090002_1/card_2090002_1_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "いいよね？\nみんな。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "いいよね？\nみんな。"
+            },
             "voice": "card/Card_09/Card_2090002_1/card_2090002_1_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "もちろん。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "もちろん。"
+            },
             "voice": "card/Card_09/Card_2090002_1/card_2090002_1_015.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "相談くらいなら、いつでも。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "相談くらいなら、いつでも。"
+            },
             "voice": "card/Card_09/Card_2090002_1/card_2090002_1_016.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "って、こんな感じ。\n久しぶりに弾いたから、ちょっと鈍ってるけど。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "って、こんな感じ。\n久しぶりに弾いたから、ちょっと鈍ってるけど。"
+            },
             "voice": "card/Card_09/Card_2090002_1/card_2090002_1_017.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "すごい上手い。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "すごい上手い。"
+            },
             "voice": "card/Card_09/Card_2090002_1/card_2090002_1_018.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "ここまでやるんだ。\n誕生日に。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "ここまでやるんだ。\n誕生日に。"
+            },
             "voice": "card/Card_09/Card_2090002_1/card_2090002_1_019.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "いいんじゃない？\n最高だよ。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "いいんじゃない？\n最高だよ。"
+            },
             "voice": "card/Card_09/Card_2090002_1/card_2090002_1_020.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "で、これにあわせて、語りをやりたいの。\nその様子をビデオレターにして送ろうと思って。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "で、これにあわせて、語りをやりたいの。\nその様子をビデオレターにして送ろうと思って。"
+            },
             "voice": "card/Card_09/Card_2090002_1/card_2090002_1_021.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "弾き語りってことね。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "弾き語りってことね。"
+            },
             "voice": "card/Card_09/Card_2090002_1/card_2090002_1_022.mp3"
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "どんな語り？",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "どんな語り？"
+            },
             "voice": "card/Card_09/Card_2090002_1/card_2090002_1_023.mp3"
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "かもめのニーナのセリフ。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "かもめのニーナのセリフ。"
+            },
             "voice": "card/Card_09/Card_2090002_1/card_2090002_1_024.mp3"
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "なんだっけ？　それ。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "なんだっけ？　それ。"
+            },
             "voice": "card/Card_09/Card_2090002_1/card_2090002_1_025.mp3"
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "「つまりは、一切の生き物、生きとし生けるものは、\nかなしい巡りを終えて……、消え失せた。」っていう一連の詩。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "「つまりは、一切の生き物、生きとし生けるものは、\nかなしい巡りを終えて……、消え失せた。」っていう一連の詩。"
+            },
             "voice": "card/Card_09/Card_2090002_1/card_2090002_1_026.mp3"
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "……もっと、明るいのにしたら？",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "……もっと、明るいのにしたら？"
+            },
             "voice": "card/Card_09/Card_2090002_1/card_2090002_1_027.mp3"
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "デカダン！　とか言われるヤツだよね？\nそのセリフ。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "デカダン！　とか言われるヤツだよね？\nそのセリフ。"
+            },
             "voice": "card/Card_09/Card_2090002_1/card_2090002_1_028.mp3"
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "デカダン？",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "デカダン？"
+            },
             "voice": "card/Card_09/Card_2090002_1/card_2090002_1_029.mp3"
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "退廃的ってこと。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "退廃的ってこと。"
+            },
             "voice": "card/Card_09/Card_2090002_1/card_2090002_1_030.mp3"
         },
         {
@@ -276,8 +396,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "へぇ～。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "へぇ～。"
+            },
             "voice": "card/Card_09/Card_2090002_1/card_2090002_1_031.mp3"
         },
         {
@@ -285,8 +409,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "好きなのよ、わたし、あのセリフ。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "好きなのよ、わたし、あのセリフ。"
+            },
             "voice": "card/Card_09/Card_2090002_1/card_2090002_1_032.mp3"
         },
         {
@@ -294,8 +422,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "まあ、好きなら。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "まあ、好きなら。"
+            },
             "voice": "card/Card_09/Card_2090002_1/card_2090002_1_033.mp3"
         },
         {
@@ -303,8 +435,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "さらにね、踊りも入れようと思って。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "さらにね、踊りも入れようと思って。"
+            },
             "voice": "card/Card_09/Card_2090002_1/card_2090002_1_034.mp3"
         },
         {
@@ -312,8 +448,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "美晴……。\nピアノ弾きながら踊れるの？",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "美晴……。\nピアノ弾きながら踊れるの？"
+            },
             "voice": "card/Card_09/Card_2090002_1/card_2090002_1_035.mp3"
         },
         {
@@ -321,8 +461,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "えっ、踊るのはみんなよ。\n語るのも。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "えっ、踊るのはみんなよ。\n語るのも。"
+            },
             "voice": "card/Card_09/Card_2090002_1/card_2090002_1_036.mp3"
         },
         {
@@ -330,8 +474,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "……はぁ？ ",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "……はぁ？ "
+            },
             "voice": "card/Card_09/Card_2090002_1/card_2090002_1_037.mp3"
         }
     ]

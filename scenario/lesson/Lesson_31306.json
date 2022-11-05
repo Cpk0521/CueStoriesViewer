@@ -6,8 +6,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "おはようございまーす。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "おはようございまーす。"
+            },
             "voice": "lesson/Lesson_31306/lesson_31306_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "おはようございます。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "おはようございます。"
+            },
             "voice": "lesson/Lesson_31306/lesson_31306_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "あ、おはよう。\nあれ？　2人とも早いね。まだメイクさん来てないよ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "あ、おはよう。\nあれ？　2人とも早いね。まだメイクさん来てないよ。"
+            },
             "voice": ""
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "はい。わたし、メイクより先に今日の打ち合わせを少し、\nマネージャーさんとしたくて……。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "はい。わたし、メイクより先に今日の打ち合わせを少し、\nマネージャーさんとしたくて……。"
+            },
             "voice": "lesson/Lesson_31306/lesson_31306_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "何？　打ち合わせって。\n美晴、また何か考えてるの？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "何？　打ち合わせって。\n美晴、また何か考えてるの？"
+            },
             "voice": ""
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "事務所、エアコン効いていて涼しい……。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "事務所、エアコン効いていて涼しい……。"
+            },
             "voice": "lesson/Lesson_31306/lesson_31306_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "あ、そうそう。\n今日は野外のイベントだから、皆熱中症にも気をつけてね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "あ、そうそう。\n今日は野外のイベントだから、皆熱中症にも気をつけてね。"
+            },
             "voice": ""
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "はい。準備は万端です。絢は？　",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "はい。準備は万端です。絢は？　"
+            },
             "voice": "lesson/Lesson_31306/lesson_31306_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "うん。私も色々持ってきたよ……。\nバッグの中に色々……。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "うん。私も色々持ってきたよ……。\nバッグの中に色々……。"
+            },
             "voice": "lesson/Lesson_31306/lesson_31306_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "あれ？　",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "あれ？　"
+            },
             "voice": "lesson/Lesson_31306/lesson_31306_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "どうしたの？",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "どうしたの？"
+            },
             "voice": "lesson/Lesson_31306/lesson_31306_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "お財布忘れちゃったかも……。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "お財布忘れちゃったかも……。"
+            },
             "voice": "lesson/Lesson_31306/lesson_31306_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "あら、大変。落としたとかじゃない？　大丈夫？",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "あら、大変。落としたとかじゃない？　大丈夫？"
+            },
             "voice": "lesson/Lesson_31306/lesson_31306_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "うん。昨日のバッグに入れっぱなしかも。\n莉子、まだ寮にいるかな？",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "うん。昨日のバッグに入れっぱなしかも。\n莉子、まだ寮にいるかな？"
+            },
             "voice": "lesson/Lesson_31306/lesson_31306_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "電話してみれば？",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "電話してみれば？"
+            },
             "voice": "lesson/Lesson_31306/lesson_31306_015.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "うん。朝から失敗しちゃった。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "うん。朝から失敗しちゃった。"
+            },
             "voice": "lesson/Lesson_31306/lesson_31306_016.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "うふふ。大丈夫、そんなの大したことじゃないもの。\n持ってきてもらえばいいだけなんだから。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "うふふ。大丈夫、そんなの大したことじゃないもの。\n持ってきてもらえばいいだけなんだから。"
+            },
             "voice": "lesson/Lesson_31306/lesson_31306_017.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "うん……。そうだね。\nありがと。美晴。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "うん……。そうだね。\nありがと。美晴。"
+            },
             "voice": "lesson/Lesson_31306/lesson_31306_018.mp3"
         }
     ]

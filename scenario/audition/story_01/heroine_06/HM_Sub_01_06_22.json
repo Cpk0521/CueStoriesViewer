@@ -6,8 +6,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "マネージャー、お疲れ様です。\n……あの、これ、よかったら食べませんか。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "マネージャー、お疲れ様です。\n……あの、これ、よかったら食べませんか。"
+            },
             "voice": "audition/story_01/heroine_06/HM_Sub_01_06_22/hm_sub_01_06_22_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "え？\nありがとう……これ、笹団子？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "え？\nありがとう……これ、笹団子？"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "はい。\n今、神瑞駅で、新潟の物産展をやってるんです。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "はい。\n今、神瑞駅で、新潟の物産展をやってるんです。"
+            },
             "voice": "audition/story_01/heroine_06/HM_Sub_01_06_22/hm_sub_01_06_22_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "見てたら、なんだか懐かしくなっちゃって。\nつい買ってきちゃいました。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "見てたら、なんだか懐かしくなっちゃって。\nつい買ってきちゃいました。"
+            },
             "voice": "audition/story_01/heroine_06/HM_Sub_01_06_22/hm_sub_01_06_22_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "マネージャーも、最近働きすぎじゃないですか？\nゆっくり休んでくださいね。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "マネージャーも、最近働きすぎじゃないですか？\nゆっくり休んでくださいね。"
+            },
             "voice": "audition/story_01/heroine_06/HM_Sub_01_06_22/hm_sub_01_06_22_005.mp3"
         }
     ]

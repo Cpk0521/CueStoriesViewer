@@ -6,8 +6,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "いよいよ一次審査だね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "いよいよ一次審査だね。"
+            },
             "voice": ""
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "はい……うん。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "はい……うん。"
+            },
             "voice": "audition/story_01/heroine_04/HM_Others_01_04_02/hm_others_01_04_02_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "緊張してるみたいだけど、大丈夫？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "緊張してるみたいだけど、大丈夫？"
+            },
             "voice": ""
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "えっと、ドキドキしてるのはしてるんですけど……、\nこれはいい緊張感だと思います。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "えっと、ドキドキしてるのはしてるんですけど……、\nこれはいい緊張感だと思います。"
+            },
             "voice": "audition/story_01/heroine_04/HM_Others_01_04_02/hm_others_01_04_02_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "だから、このドキドキを力に変えて、\n頑張ってきますね！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "だから、このドキドキを力に変えて、\n頑張ってきますね！"
+            },
             "voice": "audition/story_01/heroine_04/HM_Others_01_04_02/hm_others_01_04_02_005.mp3"
         }
     ]

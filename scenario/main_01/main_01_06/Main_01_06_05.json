@@ -6,8 +6,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "わーっはっはっはぁ！\nこれからこのレッスン場は我々のものだ。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "わーっはっはっはぁ！\nこれからこのレッスン場は我々のものだ。"
+            },
             "voice": "main_01/Main_01_06/Main_01_06_05/main_01_06_05_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "はいはい。早く支度するわよ。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "はいはい。早く支度するわよ。"
+            },
             "voice": "main_01/Main_01_06/Main_01_06_05/main_01_06_05_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "楽しいレッスンはーじまーるよー！\n……って、あれ？　ほのぴー？",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "楽しいレッスンはーじまーるよー！\n……って、あれ？　ほのぴー？"
+            },
             "voice": "main_01/Main_01_06/Main_01_06_05/main_01_06_05_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "ほのか？　え、あれ？　時間を間違えてた？\n我輩たちの時間、何時からだっけ？",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "ほのか？　え、あれ？　時間を間違えてた？\n我輩たちの時間、何時からだっけ？"
+            },
             "voice": "main_01/Main_01_06/Main_01_06_05/main_01_06_05_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "あ、ごめん利恵！　大丈夫。わたしたちの時間は終わってるよ。\nわたしだけちょっと残ってただけだから……。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "あ、ごめん利恵！　大丈夫。わたしたちの時間は終わってるよ。\nわたしだけちょっと残ってただけだから……。"
+            },
             "voice": "main_01/Main_01_06/Main_01_06_05/main_01_06_05_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "そっか。それならいいんだけど……。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "そっか。それならいいんだけど……。"
+            },
             "voice": "main_01/Main_01_06/Main_01_06_05/main_01_06_05_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "あのさ、利恵。\n少し見学させてもらってもいいかな？",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "あのさ、利恵。\n少し見学させてもらってもいいかな？"
+            },
             "voice": "main_01/Main_01_06/Main_01_06_05/main_01_06_05_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "え、見学？　まぁ、構わんが。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "え、見学？　まぁ、構わんが。"
+            },
             "voice": "main_01/Main_01_06/Main_01_06_05/main_01_06_05_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "自分の芝居の幅を広げたくて。\n邪魔しないから、観察させてほしいの。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "自分の芝居の幅を広げたくて。\n邪魔しないから、観察させてほしいの。"
+            },
             "voice": "main_01/Main_01_06/Main_01_06_05/main_01_06_05_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "観察って言われるとむず痒いけど、まぁ我輩は構わないよ。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "観察って言われるとむず痒いけど、まぁ我輩は構わないよ。"
+            },
             "voice": "main_01/Main_01_06/Main_01_06_05/main_01_06_05_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "私も、構わないわ。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "私も、構わないわ。"
+            },
             "voice": "main_01/Main_01_06/Main_01_06_05/main_01_06_05_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "うーん、やっぱりほのぴーは頑張り屋さんだねー。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "うーん、やっぱりほのぴーは頑張り屋さんだねー。"
+            },
             "voice": "main_01/Main_01_06/Main_01_06_05/main_01_06_05_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "じゃ、わたしこのあと、公園で子どもたちと遊ぶ約束してるから、\n先行くねー。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "じゃ、わたしこのあと、公園で子どもたちと遊ぶ約束してるから、\n先行くねー。"
+            },
             "voice": "main_01/Main_01_06/Main_01_06_05/main_01_06_05_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "お疲れ様ー！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "お疲れ様ー！"
+            },
             "voice": "main_01/Main_01_06/Main_01_06_05/main_01_06_05_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "あ、我輩、今夜の食事当番だった！\nみんなごめん、先に帰るね。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "あ、我輩、今夜の食事当番だった！\nみんなごめん、先に帰るね。"
+            },
             "voice": "main_01/Main_01_06/Main_01_06_05/main_01_06_05_015.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "え？　今日は利恵が当番なの？\n不安だから私もついていくわ。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "え？　今日は利恵が当番なの？\n不安だから私もついていくわ。"
+            },
             "voice": "main_01/Main_01_06/Main_01_06_05/main_01_06_05_016.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "な……、不安って何！？",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "な……、不安って何！？"
+            },
             "voice": "main_01/Main_01_06/Main_01_06_05/main_01_06_05_017.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "鳴、レッスン室の戸締まりお願いしていいかな？",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "鳴、レッスン室の戸締まりお願いしていいかな？"
+            },
             "voice": "main_01/Main_01_06/Main_01_06_05/main_01_06_05_018.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "うん。やっておく。\n……おいしいご飯、お願い。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "うん。やっておく。\n……おいしいご飯、お願い。"
+            },
             "voice": "main_01/Main_01_06/Main_01_06_05/main_01_06_05_019.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "フッ。我輩に任せておけ。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "フッ。我輩に任せておけ。"
+            },
             "voice": "main_01/Main_01_06/Main_01_06_05/main_01_06_05_020.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "ほら、帰るわよ。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "ほら、帰るわよ。"
+            },
             "voice": "main_01/Main_01_06/Main_01_06_05/main_01_06_05_021.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "あ、ごめん……！　わたしがいたら鍵閉められないね。\n出よう。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "あ、ごめん……！　わたしがいたら鍵閉められないね。\n出よう。"
+            },
             "voice": "main_01/Main_01_06/Main_01_06_05/main_01_06_05_022.mp3"
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "大丈夫。別に急がないし。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "大丈夫。別に急がないし。"
+            },
             "voice": "main_01/Main_01_06/Main_01_06_05/main_01_06_05_023.mp3"
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "ほのかさん。演技に悩んでるの？",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "ほのかさん。演技に悩んでるの？"
+            },
             "voice": "main_01/Main_01_06/Main_01_06_05/main_01_06_05_024.mp3"
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "そう……、なかなかオーディションに受からない自分の課題、\nそこにあるような気がして。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "そう……、なかなかオーディションに受からない自分の課題、\nそこにあるような気がして。"
+            },
             "voice": "main_01/Main_01_06/Main_01_06_05/main_01_06_05_025.mp3"
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "でも、それよりももっと……。\n根本的な部分に、悩みが出来ちゃったかな。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "でも、それよりももっと……。\n根本的な部分に、悩みが出来ちゃったかな。"
+            },
             "voice": "main_01/Main_01_06/Main_01_06_05/main_01_06_05_026.mp3"
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "根本的な部分って？",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "根本的な部分って？"
+            },
             "voice": "main_01/Main_01_06/Main_01_06_05/main_01_06_05_027.mp3"
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "わたしは結局、何になりたくて、何を目指しているんだろう、って。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "わたしは結局、何になりたくて、何を目指しているんだろう、って。"
+            },
             "voice": "main_01/Main_01_06/Main_01_06_05/main_01_06_05_028.mp3"
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "ヒーロー、じゃなかったの？",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "ヒーロー、じゃなかったの？"
+            },
             "voice": "main_01/Main_01_06/Main_01_06_05/main_01_06_05_029.mp3"
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "そう、ヒーロー！\nそれは今でも変わらないけど……。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "そう、ヒーロー！\nそれは今でも変わらないけど……。"
+            },
             "voice": "main_01/Main_01_06/Main_01_06_05/main_01_06_05_030.mp3"
         },
         {
@@ -276,8 +396,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "なりたい自分、つまり目標って、道標とか地図みたいなもんでしょ？",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "なりたい自分、つまり目標って、道標とか地図みたいなもんでしょ？"
+            },
             "voice": "main_01/Main_01_06/Main_01_06_05/main_01_06_05_031.mp3"
         },
         {
@@ -285,8 +409,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "ヒーローと声優は、同じ道の先に、あるものなのかな……、って。\nわたしが本当になりたいものは、なんだろう……、なんて。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "ヒーローと声優は、同じ道の先に、あるものなのかな……、って。\nわたしが本当になりたいものは、なんだろう……、なんて。"
+            },
             "voice": "main_01/Main_01_06/Main_01_06_05/main_01_06_05_032.mp3"
         },
         {
@@ -294,8 +422,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "わたしの地図、何か大事なところを間違えてないか、\nちょっと、不安になっちゃって……。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "わたしの地図、何か大事なところを間違えてないか、\nちょっと、不安になっちゃって……。"
+            },
             "voice": "main_01/Main_01_06/Main_01_06_05/main_01_06_05_033.mp3"
         },
         {
@@ -303,8 +435,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "それって間違ってるの？",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "それって間違ってるの？"
+            },
             "voice": "main_01/Main_01_06/Main_01_06_05/main_01_06_05_034.mp3"
         },
         {
@@ -312,8 +448,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "もしかしたら間違ってないのかもしれないけど、\n今のわたしには……、わからない。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "もしかしたら間違ってないのかもしれないけど、\n今のわたしには……、わからない。"
+            },
             "voice": "main_01/Main_01_06/Main_01_06_05/main_01_06_05_035.mp3"
         },
         {
@@ -321,8 +461,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "考えるの、難しい？",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "考えるの、難しい？"
+            },
             "voice": "main_01/Main_01_06/Main_01_06_05/main_01_06_05_036.mp3"
         },
         {
@@ -330,8 +474,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "どうかな？\nあはは。難しい気がしてるだけだったりして。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "どうかな？\nあはは。難しい気がしてるだけだったりして。"
+            },
             "voice": "main_01/Main_01_06/Main_01_06_05/main_01_06_05_037.mp3"
         },
         {
@@ -339,8 +487,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "ねぇ、鳴は目標あるの？　どんな自分になりたい？",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "ねぇ、鳴は目標あるの？　どんな自分になりたい？"
+            },
             "voice": "main_01/Main_01_06/Main_01_06_05/main_01_06_05_038.mp3"
         },
         {
@@ -348,8 +500,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "目標なんてないよ。\n道標はあるけど。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "目標なんてないよ。\n道標はあるけど。"
+            },
             "voice": "main_01/Main_01_06/Main_01_06_05/main_01_06_05_039.mp3"
         },
         {
@@ -357,8 +513,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "そっか……。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "そっか……。"
+            },
             "voice": "main_01/Main_01_06/Main_01_06_05/main_01_06_05_040.mp3"
         },
         {
@@ -366,8 +526,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "……。こんなこと、言っていいのかわからないけど……、\nいつまで利恵と一緒にいるつもりなの？",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "……。こんなこと、言っていいのかわからないけど……、\nいつまで利恵と一緒にいるつもりなの？"
+            },
             "voice": "main_01/Main_01_06/Main_01_06_05/main_01_06_05_041.mp3"
         },
         {
@@ -375,8 +539,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "……え？",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "……え？"
+            },
             "voice": "main_01/Main_01_06/Main_01_06_05/main_01_06_05_042.mp3"
         },
         {
@@ -384,8 +552,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "その道標に追いついてしまったあとのこと、考えたことある？",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "その道標に追いついてしまったあとのこと、考えたことある？"
+            },
             "voice": "main_01/Main_01_06/Main_01_06_05/main_01_06_05_043.mp3"
         },
         {
@@ -393,8 +565,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "そんなこと、考えたことない。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "そんなこと、考えたことない。"
+            },
             "voice": "main_01/Main_01_06/Main_01_06_05/main_01_06_05_044.mp3"
         },
         {
@@ -402,8 +578,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "想像もしたことない。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "想像もしたことない。"
+            },
             "voice": "main_01/Main_01_06/Main_01_06_05/main_01_06_05_045.mp3"
         },
         {
@@ -411,8 +591,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "そう……。\nあ……、ごめんね！　変なこと言って。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "そう……。\nあ……、ごめんね！　変なこと言って。"
+            },
             "voice": "main_01/Main_01_06/Main_01_06_05/main_01_06_05_046.mp3"
         },
         {
@@ -420,8 +604,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "…………。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "…………。"
+            },
             "voice": "main_01/Main_01_06/Main_01_06_05/main_01_06_05_047.mp3"
         },
         {
@@ -429,8 +617,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "あ、雨？",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "あ、雨？"
+            },
             "voice": "main_01/Main_01_06/Main_01_06_05/main_01_06_05_048.mp3"
         },
         {
@@ -438,8 +630,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "ほんとだ。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "ほんとだ。"
+            },
             "voice": "main_01/Main_01_06/Main_01_06_05/main_01_06_05_049.mp3"
         },
         {
@@ -447,8 +643,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "走ろう！　駅、すぐそこだし。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "走ろう！　駅、すぐそこだし。"
+            },
             "voice": "main_01/Main_01_06/Main_01_06_05/main_01_06_05_050.mp3"
         },
         {
@@ -456,8 +656,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "うん。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "うん。"
+            },
             "voice": "main_01/Main_01_06/Main_01_06_05/main_01_06_05_051.mp3"
         },
         {
@@ -465,8 +669,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "遅かったね。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "遅かったね。"
+            },
             "voice": "main_01/Main_01_06/Main_01_06_05/main_01_06_05_052.mp3"
         },
         {
@@ -474,8 +682,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "うん、少し……、ほのかさんと話してた。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "うん、少し……、ほのかさんと話してた。"
+            },
             "voice": "main_01/Main_01_06/Main_01_06_05/main_01_06_05_053.mp3"
         },
         {
@@ -483,8 +695,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "そっか。\n何話してたの？",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "そっか。\n何話してたの？"
+            },
             "voice": "main_01/Main_01_06/Main_01_06_05/main_01_06_05_054.mp3"
         },
         {
@@ -492,8 +708,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "未来のこと。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "未来のこと。"
+            },
             "voice": "main_01/Main_01_06/Main_01_06_05/main_01_06_05_055.mp3"
         },
         {
@@ -501,8 +721,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "未来のこと？",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "未来のこと？"
+            },
             "voice": "main_01/Main_01_06/Main_01_06_05/main_01_06_05_056.mp3"
         },
         {
@@ -510,8 +734,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "うん。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "うん。"
+            },
             "voice": "main_01/Main_01_06/Main_01_06_05/main_01_06_05_057.mp3"
         },
         {
@@ -519,8 +747,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "……遠い未来のこと。 ",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "……遠い未来のこと。 "
+            },
             "voice": "main_01/Main_01_06/Main_01_06_05/main_01_06_05_058.mp3"
         }
     ]

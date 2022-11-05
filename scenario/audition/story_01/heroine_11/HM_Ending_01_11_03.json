@@ -6,8 +6,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "そっか……不合格、ね。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "そっか……不合格、ね。"
+            },
             "voice": "audition/story_01/heroine_11/HM_Ending_01_11_03/hm_ending_01_11_03_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "……今は慰めなくていいから。\nほっといてもらえる？",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "……今は慰めなくていいから。\nほっといてもらえる？"
+            },
             "voice": "audition/story_01/heroine_11/HM_Ending_01_11_03/hm_ending_01_11_03_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "その……やっぱきついこと、言っちゃいそうだし。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "その……やっぱきついこと、言っちゃいそうだし。"
+            },
             "voice": "audition/story_01/heroine_11/HM_Ending_01_11_03/hm_ending_01_11_03_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "求められていたのは、まほろじゃなくて、\nまほろ以外の子たちだったって……。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "求められていたのは、まほろじゃなくて、\nまほろ以外の子たちだったって……。"
+            },
             "voice": "audition/story_01/heroine_11/HM_Ending_01_11_03/hm_ending_01_11_03_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "それだけの話だから。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "それだけの話だから。"
+            },
             "voice": "audition/story_01/heroine_11/HM_Ending_01_11_03/hm_ending_01_11_03_005.mp3"
         }
     ]

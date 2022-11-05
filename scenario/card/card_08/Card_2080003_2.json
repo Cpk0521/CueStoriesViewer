@@ -6,8 +6,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "ダメだ、どの店に行っても私に足りないものなんかない。\n答えは物質じゃなかったのね。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "ダメだ、どの店に行っても私に足りないものなんかない。\n答えは物質じゃなかったのね。"
+            },
             "voice": "card/Card_08/Card_2080003_2/card_2080003_2_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "……今気づいたの？",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "……今気づいたの？"
+            },
             "voice": "card/Card_08/Card_2080003_2/card_2080003_2_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "アイリだったらどこいく？　\n私の立場だったら。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "アイリだったらどこいく？　\n私の立場だったら。"
+            },
             "voice": "card/Card_08/Card_2080003_2/card_2080003_2_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "自分探しという意味では、\nありがちだけど……、神社とか？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "自分探しという意味では、\nありがちだけど……、神社とか？"
+            },
             "voice": "card/Card_08/Card_2080003_2/card_2080003_2_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "神社か、ないなぁ。\nユーキだったら？",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "神社か、ないなぁ。\nユーキだったら？"
+            },
             "voice": "card/Card_08/Card_2080003_2/card_2080003_2_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "あたしは、親父に会いに行くかな。\nなんだかんだ言って悩んだ時は助かるし。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "あたしは、親父に会いに行くかな。\nなんだかんだ言って悩んだ時は助かるし。"
+            },
             "voice": "card/Card_08/Card_2080003_2/card_2080003_2_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "あー、それはもっともない。\nチサだったら？",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "あー、それはもっともない。\nチサだったら？"
+            },
             "voice": "card/Card_08/Card_2080003_2/card_2080003_2_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "そうね、私だったら……。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "そうね、私だったら……。"
+            },
             "voice": "card/Card_08/Card_2080003_2/card_2080003_2_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "わかった。\nマネージャーのとこ行ってみよう！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "わかった。\nマネージャーのとこ行ってみよう！"
+            },
             "voice": "card/Card_08/Card_2080003_2/card_2080003_2_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "ちょっとまだ答えてないんだけど。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "ちょっとまだ答えてないんだけど。"
+            },
             "voice": "card/Card_08/Card_2080003_2/card_2080003_2_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "まずは一番身近で私を見ている人がいいよ。\n時間がない、急ごう！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "まずは一番身近で私を見ている人がいいよ。\n時間がない、急ごう！"
+            },
             "voice": "card/Card_08/Card_2080003_2/card_2080003_2_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "声優をやる上で、柚葉に足りないもの？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "声優をやる上で、柚葉に足りないもの？"
+            },
             "voice": ""
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "コーチに言われて……。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "コーチに言われて……。"
+            },
             "voice": "card/Card_08/Card_2080003_2/card_2080003_2_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "大喜利とかかな？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "大喜利とかかな？"
+            },
             "voice": ""
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "えっ？",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "えっ？"
+            },
             "voice": "card/Card_08/Card_2080003_2/card_2080003_2_015.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "日本暮らしが短いので、\nお金はあっても、縁（円）が足りません。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "日本暮らしが短いので、\nお金はあっても、縁（円）が足りません。"
+            },
             "voice": ""
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "……まぁまぁいいのがムカつくわね。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "……まぁまぁいいのがムカつくわね。"
+            },
             "voice": "card/Card_08/Card_2080003_2/card_2080003_2_017.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "おあとがよろしいようで。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "おあとがよろしいようで。"
+            },
             "voice": ""
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "無駄足だったわ！\n時間を返して！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "無駄足だったわ！\n時間を返して！"
+            },
             "voice": "card/Card_08/Card_2080003_2/card_2080003_2_019.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そんな……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そんな……。"
+            },
             "voice": ""
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "レッスン場に戻ろう。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "レッスン場に戻ろう。"
+            },
             "voice": "card/Card_08/Card_2080003_2/card_2080003_2_021.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "いいの？\n何も見つかってないのに。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "いいの？\n何も見つかってないのに。"
+            },
             "voice": "card/Card_08/Card_2080003_2/card_2080003_2_022.mp3"
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "ううん、実は……、ちょっとわかった気がするの。\n悔しいけど、マネージャーのおかげで。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "ううん、実は……、ちょっとわかった気がするの。\n悔しいけど、マネージャーのおかげで。"
+            },
             "voice": "card/Card_08/Card_2080003_2/card_2080003_2_023.mp3"
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "ほんとに？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "ほんとに？"
+            },
             "voice": ""
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 103
             ],
-            "name": "由良桐香",
-            "message": "おかえり。\nあれ？　マネージャーも一緒なの？",
+            "name": {
+                "default": "由良桐香"
+            },
+            "message": {
+                "default": "おかえり。\nあれ？　マネージャーも一緒なの？"
+            },
             "voice": "card/Card_08/Card_2080003_2/card_2080003_2_025.mp3"
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "ええ、成り行きで。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "ええ、成り行きで。"
+            },
             "voice": ""
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "コーチ、答えがわかったわ。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "コーチ、答えがわかったわ。"
+            },
             "voice": "card/Card_08/Card_2080003_2/card_2080003_2_027.mp3"
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 103
             ],
-            "name": "由良桐香",
-            "message": "わかった？　\nなに？　教えて。",
+            "name": {
+                "default": "由良桐香"
+            },
+            "message": {
+                "default": "わかった？　\nなに？　教えて。"
+            },
             "voice": "card/Card_08/Card_2080003_2/card_2080003_2_028.mp3"
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "私に足りないもの、それは……、「時間」！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "私に足りないもの、それは……、「時間」！"
+            },
             "voice": "card/Card_08/Card_2080003_2/card_2080003_2_029.mp3"
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 103
             ],
-            "name": "由良桐香",
-            "message": "その心は？",
+            "name": {
+                "default": "由良桐香"
+            },
+            "message": {
+                "default": "その心は？"
+            },
             "voice": "card/Card_08/Card_2080003_2/card_2080003_2_030.mp3"
         },
         {
@@ -276,8 +396,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "声優の奥義は、2時間なんかで見つかるものじゃない。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "声優の奥義は、2時間なんかで見つかるものじゃない。"
+            },
             "voice": "card/Card_08/Card_2080003_2/card_2080003_2_031.mp3"
         },
         {
@@ -285,8 +409,12 @@
             "heroineId": [
                 103
             ],
-            "name": "由良桐香",
-            "message": "正解！　",
+            "name": {
+                "default": "由良桐香"
+            },
+            "message": {
+                "default": "正解！　"
+            },
             "voice": "card/Card_08/Card_2080003_2/card_2080003_2_032.mp3"
         },
         {
@@ -294,8 +422,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "やった！！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "やった！！"
+            },
             "voice": "card/Card_08/Card_2080003_2/card_2080003_2_033.mp3"
         },
         {
@@ -303,8 +435,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "ほんとに大喜利だったの！？",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "ほんとに大喜利だったの！？"
+            },
             "voice": "card/Card_08/Card_2080003_2/card_2080003_2_034.mp3"
         },
         {
@@ -312,8 +448,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "（なんかよくわからないけど、お役にたてたみたい。）",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "（なんかよくわからないけど、お役にたてたみたい。）"
+            },
             "voice": ""
         }
     ]

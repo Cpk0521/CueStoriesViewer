@@ -6,8 +6,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "マネージャーさん、ちょっとよろしいですか？",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "マネージャーさん、ちょっとよろしいですか？"
+            },
             "voice": "audition/story_01/heroine_09/HM_Sub_01_09_16/hm_sub_01_09_16_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "レッスン室のピアノのことなんですけど、\n弾いてたら、いくつかの音に違和感があって……。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "レッスン室のピアノのことなんですけど、\n弾いてたら、いくつかの音に違和感があって……。"
+            },
             "voice": "audition/story_01/heroine_09/HM_Sub_01_09_16/hm_sub_01_09_16_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "たぶん、調律が必要だと思います。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "たぶん、調律が必要だと思います。"
+            },
             "voice": "audition/story_01/heroine_09/HM_Sub_01_09_16/hm_sub_01_09_16_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "え、本当に？　ありがとう。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "え、本当に？　ありがとう。"
+            },
             "voice": ""
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "どういたしまして。\nうふふっ。まだほんの少しだけ、ですよ。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "どういたしまして。\nうふふっ。まだほんの少しだけ、ですよ。"
+            },
             "voice": "audition/story_01/heroine_09/HM_Sub_01_09_16/hm_sub_01_09_16_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "それじゃ、わたし、失礼します。\nマネージャーさんも、あまり無理しないでくださいね。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "それじゃ、わたし、失礼します。\nマネージャーさんも、あまり無理しないでくださいね。"
+            },
             "voice": "audition/story_01/heroine_09/HM_Sub_01_09_16/hm_sub_01_09_16_006.mp3"
         }
     ]

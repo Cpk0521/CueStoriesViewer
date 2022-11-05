@@ -6,8 +6,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "一次審査、通過おめでとう！",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "一次審査、通過おめでとう！"
+            },
             "voice": ""
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "ん、ありがと。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "ん、ありがと。"
+            },
             "voice": "audition/story_01/heroine_11/HM_Main_01_11_03/hm_main_01_11_03_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "まあ、まほろの実力なら当然じゃない？",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "まあ、まほろの実力なら当然じゃない？"
+            },
             "voice": "audition/story_01/heroine_11/HM_Main_01_11_03/hm_main_01_11_03_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "あはは、そうだね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "あはは、そうだね。"
+            },
             "voice": ""
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "それに、大事なのは二週間後。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "それに、大事なのは二週間後。"
+            },
             "voice": "audition/story_01/heroine_11/HM_Main_01_11_03/hm_main_01_11_03_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "まだ役を勝ち取れたわけじゃないんだから、\n浮かれてもいられないし。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "まだ役を勝ち取れたわけじゃないんだから、\n浮かれてもいられないし。"
+            },
             "voice": "audition/story_01/heroine_11/HM_Main_01_11_03/hm_main_01_11_03_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "もちろん、マネージャーも。\nそこんとこ、わかってるよね？",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "もちろん、マネージャーも。\nそこんとこ、わかってるよね？"
+            },
             "voice": "audition/story_01/heroine_11/HM_Main_01_11_03/hm_main_01_11_03_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "うん、もちろん！\nより一層、サポートしていくよ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "うん、もちろん！\nより一層、サポートしていくよ。"
+            },
             "voice": ""
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "へぇ。\nじゃあ、具体的にどうサポートしてくれるの？",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "へぇ。\nじゃあ、具体的にどうサポートしてくれるの？"
+            },
             "voice": "audition/story_01/heroine_11/HM_Main_01_11_03/hm_main_01_11_03_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "えーっと……そうだなぁ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "えーっと……そうだなぁ。"
+            },
             "voice": ""
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "いやいや、そういうのは前もって考えておいてよ。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "いやいや、そういうのは前もって考えておいてよ。"
+            },
             "voice": "audition/story_01/heroine_11/HM_Main_01_11_03/hm_main_01_11_03_012.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "そんなんじゃ、期待できないんだけど。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "そんなんじゃ、期待できないんだけど。"
+            },
             "voice": "audition/story_01/heroine_11/HM_Main_01_11_03/hm_main_01_11_03_013.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "具体性に欠けてない？　それ。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "具体性に欠けてない？　それ。"
+            },
             "voice": "audition/story_01/heroine_11/HM_Main_01_11_03/hm_main_01_11_03_015.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "まあ、いいけど。\nメンタル以外もよろしく。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "まあ、いいけど。\nメンタル以外もよろしく。"
+            },
             "voice": "audition/story_01/heroine_11/HM_Main_01_11_03/hm_main_01_11_03_016.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "へぇ、それなら、まほろ、買って欲しいものあるんだよね。\nこの間、ポラスタで見かけたんだけどさ……。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "へぇ、それなら、まほろ、買って欲しいものあるんだよね。\nこの間、ポラスタで見かけたんだけどさ……。"
+            },
             "voice": "audition/story_01/heroine_11/HM_Main_01_11_03/hm_main_01_11_03_018.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "値段見て、やっぱり無しとかダメだからね？",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "値段見て、やっぱり無しとかダメだからね？"
+            },
             "voice": "audition/story_01/heroine_11/HM_Main_01_11_03/hm_main_01_11_03_019.mp3"
         }
     ]

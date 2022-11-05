@@ -6,8 +6,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "お疲れ様です。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "お疲れ様です。"
+            },
             "voice": "audition/story_01/heroine_15/HM_Cast_01_15_13_02/hm_cast_01_15_13_02_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "お疲れ様でーす！\nマネージャーさん、聞いてください！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "お疲れ様でーす！\nマネージャーさん、聞いてください！"
+            },
             "voice": "audition/story_01/heroine_15/HM_Cast_01_15_13_02/hm_cast_01_15_13_02_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "今度、みんなで、寮の廊下を飾り付けしようと思ってるんです！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "今度、みんなで、寮の廊下を飾り付けしようと思ってるんです！"
+            },
             "voice": "audition/story_01/heroine_15/HM_Cast_01_15_13_02/hm_cast_01_15_13_02_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "我輩の指揮で、3階の廊下は暗黒回廊になる……予定だ。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "我輩の指揮で、3階の廊下は暗黒回廊になる……予定だ。"
+            },
             "voice": "audition/story_01/heroine_15/HM_Cast_01_15_13_02/hm_cast_01_15_13_02_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そ、そうなんだ……。\nそれ、Windのみんなは大丈夫なの？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そ、そうなんだ……。\nそれ、Windのみんなは大丈夫なの？"
+            },
             "voice": ""
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "はい！　廊下に飾りがいっぱいあれば、\n夜も安心ですから！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "はい！　廊下に飾りがいっぱいあれば、\n夜も安心ですから！"
+            },
             "voice": "audition/story_01/heroine_15/HM_Cast_01_15_13_02/hm_cast_01_15_13_02_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "なるほど……？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "なるほど……？"
+            },
             "voice": ""
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "聡里さんは止めてたよ。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "聡里さんは止めてたよ。"
+            },
             "voice": "audition/story_01/heroine_15/HM_Cast_01_15_13_02/hm_cast_01_15_13_02_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "だろうね……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "だろうね……。"
+            },
             "voice": ""
         }
     ]

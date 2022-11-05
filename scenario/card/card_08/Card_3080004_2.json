@@ -6,8 +6,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "……柚葉は、まだクレープ食べてないの？ ",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "……柚葉は、まだクレープ食べてないの？ "
+            },
             "voice": "card/Card_08/Card_3080004_2/card_3080004_2_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "……まだ断食続けてる。\nこのままだと危ないんじゃないかな。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "……まだ断食続けてる。\nこのままだと危ないんじゃないかな。"
+            },
             "voice": "card/Card_08/Card_3080004_2/card_3080004_2_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "ちょっと、真咲さんとマネージャーに相談してみよう。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "ちょっと、真咲さんとマネージャーに相談してみよう。"
+            },
             "voice": "card/Card_08/Card_3080004_2/card_3080004_2_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "……そう。\n柚葉が。",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "……そう。\n柚葉が。"
+            },
             "voice": "card/Card_08/Card_3080004_2/card_3080004_2_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "桐香先生から聞いてはいましたけど。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "桐香先生から聞いてはいましたけど。"
+            },
             "voice": ""
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "ほっといたら、いつか食べるでしょ。\n最悪、点滴って方法もあるし。",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "ほっといたら、いつか食べるでしょ。\n最悪、点滴って方法もあるし。"
+            },
             "voice": "card/Card_08/Card_3080004_2/card_3080004_2_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "真咲さん、さすがにそれは……。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "真咲さん、さすがにそれは……。"
+            },
             "voice": "card/Card_08/Card_3080004_2/card_3080004_2_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "冗談よ。\n話を聞いてると、確かに極端ね。",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "冗談よ。\n話を聞いてると、確かに極端ね。"
+            },
             "voice": "card/Card_08/Card_3080004_2/card_3080004_2_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "クレープ屋に連れて行きましょうか。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "クレープ屋に連れて行きましょうか。"
+            },
             "voice": ""
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "連れて行っても食べないと思うけど。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "連れて行っても食べないと思うけど。"
+            },
             "voice": "card/Card_08/Card_3080004_2/card_3080004_2_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "柚葉って意外と頑固なところがあるし。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "柚葉って意外と頑固なところがあるし。"
+            },
             "voice": "card/Card_08/Card_3080004_2/card_3080004_2_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "縛り上げようか？",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "縛り上げようか？"
+            },
             "voice": "card/Card_08/Card_3080004_2/card_3080004_2_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "もうちょっと頭使おうよ。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "もうちょっと頭使おうよ。"
+            },
             "voice": "card/Card_08/Card_3080004_2/card_3080004_2_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "食べさせなくてもいいんだよ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "食べさせなくてもいいんだよ。"
+            },
             "voice": ""
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "えっ？",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "えっ？"
+            },
             "voice": "card/Card_08/Card_3080004_2/card_3080004_2_015.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "どこまで行くの？",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "どこまで行くの？"
+            },
             "voice": "card/Card_08/Card_3080004_2/card_3080004_2_016.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "この先。\nとても霊験あらたかな、素晴らしい修行の場だっていうのよ。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "この先。\nとても霊験あらたかな、素晴らしい修行の場だっていうのよ。"
+            },
             "voice": "card/Card_08/Card_3080004_2/card_3080004_2_017.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "もうすぐだよ。\nこの先曲がったところ。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "もうすぐだよ。\nこの先曲がったところ。"
+            },
             "voice": "card/Card_08/Card_3080004_2/card_3080004_2_018.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "この先ってまさか……。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "この先ってまさか……。"
+            },
             "voice": "card/Card_08/Card_3080004_2/card_3080004_2_019.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "ほらあそこ、見えるでしょ？",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "ほらあそこ、見えるでしょ？"
+            },
             "voice": "card/Card_08/Card_3080004_2/card_3080004_2_020.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "クレープ屋じゃない！？\n私、まだクレープ食べるつもりないから。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "クレープ屋じゃない！？\n私、まだクレープ食べるつもりないから。"
+            },
             "voice": "card/Card_08/Card_3080004_2/card_3080004_2_021.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "食べるのは私達。\n柚葉はそれを見ているだけ。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "食べるのは私達。\n柚葉はそれを見ているだけ。"
+            },
             "voice": "card/Card_08/Card_3080004_2/card_3080004_2_022.mp3"
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "えっ！？",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "えっ！？"
+            },
             "voice": "card/Card_08/Card_3080004_2/card_3080004_2_023.mp3"
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "柚葉のクレープ修行に、\nみんなで付き合ってあげようとしてるんだよ。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "柚葉のクレープ修行に、\nみんなで付き合ってあげようとしてるんだよ。"
+            },
             "voice": "card/Card_08/Card_3080004_2/card_3080004_2_024.mp3"
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "わぁ、種類がいっぱい～！\nどれにするか迷っちゃうね。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "わぁ、種類がいっぱい～！\nどれにするか迷っちゃうね。"
+            },
             "voice": "card/Card_08/Card_3080004_2/card_3080004_2_025.mp3"
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "いいわ。\nこの修行勝負、受けてたってあげる。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "いいわ。\nこの修行勝負、受けてたってあげる。"
+            },
             "voice": "card/Card_08/Card_3080004_2/card_3080004_2_026.mp3"
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "だってさ。\n柚葉はほっといて行こ。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "だってさ。\n柚葉はほっといて行こ。"
+            },
             "voice": "card/Card_08/Card_3080004_2/card_3080004_2_027.mp3"
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "柚葉は食べないの？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "柚葉は食べないの？"
+            },
             "voice": ""
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "マネージャー！？\nどうしてここに？",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "マネージャー！？\nどうしてここに？"
+            },
             "voice": "card/Card_08/Card_3080004_2/card_3080004_2_029.mp3"
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "どうしてって、クレープを買いに来たんだよ。\nごちそうしようか？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "どうしてって、クレープを買いに来たんだよ。\nごちそうしようか？"
+            },
             "voice": ""
         },
         {
@@ -276,8 +396,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "私はクレープ修行をしてるから、いらない！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "私はクレープ修行をしてるから、いらない！"
+            },
             "voice": "card/Card_08/Card_3080004_2/card_3080004_2_031.mp3"
         },
         {
@@ -285,8 +409,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "あいりも千紗も美味しそうに食べてるね。\nあれ？　悠希が食べてるのは、期間限定商品かな？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "あいりも千紗も美味しそうに食べてるね。\nあれ？　悠希が食べてるのは、期間限定商品かな？"
+            },
             "voice": ""
         },
         {
@@ -294,8 +422,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "き、期間限定……。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "き、期間限定……。"
+            },
             "voice": "card/Card_08/Card_3080004_2/card_3080004_2_033.mp3"
         },
         {
@@ -303,8 +435,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "も、もう……、我慢の限界！\n期間限定クレープ、くださーい！！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "も、もう……、我慢の限界！\n期間限定クレープ、くださーい！！"
+            },
             "voice": "card/Card_08/Card_3080004_2/card_3080004_2_034.mp3"
         },
         {
@@ -312,8 +448,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "これにて一件落着、かな。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "これにて一件落着、かな。"
+            },
             "voice": ""
         },
         {
@@ -321,8 +461,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "うん！\nサイコー！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "うん！\nサイコー！"
+            },
             "voice": "card/Card_08/Card_3080004_2/card_3080004_2_036.mp3"
         },
         {
@@ -330,8 +474,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "みるみる、柚葉の顔色が良くなってく。\n良かったぁ。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "みるみる、柚葉の顔色が良くなってく。\n良かったぁ。"
+            },
             "voice": "card/Card_08/Card_3080004_2/card_3080004_2_037.mp3"
         },
         {
@@ -339,8 +487,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "それで、味の感想は？",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "それで、味の感想は？"
+            },
             "voice": "card/Card_08/Card_3080004_2/card_3080004_2_038.mp3"
         },
         {
@@ -348,8 +500,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "超美味しい！\n修行した甲斐があったわ！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "超美味しい！\n修行した甲斐があったわ！"
+            },
             "voice": "card/Card_08/Card_3080004_2/card_3080004_2_039.mp3"
         },
         {
@@ -357,8 +513,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "すごい食べっぷり……。\n柚葉ちゃん、あいりのも食べる？ ",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "すごい食べっぷり……。\n柚葉ちゃん、あいりのも食べる？ "
+            },
             "voice": "card/Card_08/Card_3080004_2/card_3080004_2_040.mp3"
         },
         {
@@ -366,8 +526,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "いただきまーす！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "いただきまーす！"
+            },
             "voice": "card/Card_08/Card_3080004_2/card_3080004_2_041.mp3"
         }
     ]

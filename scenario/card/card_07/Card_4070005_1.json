@@ -6,8 +6,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "すみません……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "すみません……。"
+            },
             "voice": "card/Card_07/Card_4070005_1/card_4070005_1_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "あの、マネージャーさんいますか？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "あの、マネージャーさんいますか？"
+            },
             "voice": "card/Card_07/Card_4070005_1/card_4070005_1_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "あいり、どうしたの？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "あいり、どうしたの？"
+            },
             "voice": ""
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "ちょっと、ご相談があって……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "ちょっと、ご相談があって……。"
+            },
             "voice": "card/Card_07/Card_4070005_1/card_4070005_1_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "（すごく不安そうだな……。\n　ま、いつものことか……。）",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "（すごく不安そうだな……。\n　ま、いつものことか……。）"
+            },
             "voice": ""
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "明日がいよいよライブ本番じゃないですか……。\nあいり、ステージに上がるのがすごく不安なんです……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "明日がいよいよライブ本番じゃないですか……。\nあいり、ステージに上がるのがすごく不安なんです……。"
+            },
             "voice": "card/Card_07/Card_4070005_1/card_4070005_1_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "（やっぱり……。）",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "（やっぱり……。）"
+            },
             "voice": ""
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "実はあいり、すごく運が悪いんですよ……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "実はあいり、すごく運が悪いんですよ……。"
+            },
             "voice": "card/Card_07/Card_4070005_1/card_4070005_1_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "（うん、知ってる……。）",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "（うん、知ってる……。）"
+            },
             "voice": ""
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "小さいころから、運の悪いエピソードだらけなんです。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "小さいころから、運の悪いエピソードだらけなんです。"
+            },
             "voice": "card/Card_07/Card_4070005_1/card_4070005_1_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "例えば……？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "例えば……？"
+            },
             "voice": ""
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "例えば、学芸会の前の日に蕁麻疹が出たり……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "例えば、学芸会の前の日に蕁麻疹が出たり……。"
+            },
             "voice": "card/Card_07/Card_4070005_1/card_4070005_1_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "何かの食べ物にあたったの……？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "何かの食べ物にあたったの……？"
+            },
             "voice": ""
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "はい……。\nでも分からないんです……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "はい……。\nでも分からないんです……。"
+            },
             "voice": "card/Card_07/Card_4070005_1/card_4070005_1_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "分からない？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "分からない？"
+            },
             "voice": ""
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "特製うどんを食べたから、いっぱい具が入ってて……。\nどれにあたったか分からなくて……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "特製うどんを食べたから、いっぱい具が入ってて……。\nどれにあたったか分からなくて……。"
+            },
             "voice": "card/Card_07/Card_4070005_1/card_4070005_1_016.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "それは、困ったね……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "それは、困ったね……。"
+            },
             "voice": ""
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "あと、遠足の前の日は、すごく楽しみで……。\n楽しみ過ぎて、必ず高熱を出します……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "あと、遠足の前の日は、すごく楽しみで……。\n楽しみ過ぎて、必ず高熱を出します……。"
+            },
             "voice": "card/Card_07/Card_4070005_1/card_4070005_1_018.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "ああ……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "ああ……。"
+            },
             "voice": ""
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "運動会の前の日は、足を捻挫するし。\nお芝居を観に行けば、電車が遅延します。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "運動会の前の日は、足を捻挫するし。\nお芝居を観に行けば、電車が遅延します。"
+            },
             "voice": "card/Card_07/Card_4070005_1/card_4070005_1_020.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "これはもう、絶対なんです……。\nあいりは、筋金入りのアンラッキーガールなんです。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "これはもう、絶対なんです……。\nあいりは、筋金入りのアンラッキーガールなんです。"
+            },
             "voice": "card/Card_07/Card_4070005_1/card_4070005_1_021.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "（さて、どうやって励まそうかな……。）",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "（さて、どうやって励まそうかな……。）"
+            },
             "voice": ""
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "なのに……。\n変なんです……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "なのに……。\n変なんです……。"
+            },
             "voice": "card/Card_07/Card_4070005_1/card_4070005_1_023.mp3"
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "えっ？\n変？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "えっ？\n変？"
+            },
             "voice": ""
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "こんなのあいりじゃないんです！\nマネージャーさん、どうしたらいいですか！",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "こんなのあいりじゃないんです！\nマネージャーさん、どうしたらいいですか！"
+            },
             "voice": "card/Card_07/Card_4070005_1/card_4070005_1_025.mp3"
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "どうしたの……？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "どうしたの……？"
+            },
             "voice": ""
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "実は……、\n数日前から……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "実は……、\n数日前から……。"
+            },
             "voice": "card/Card_07/Card_4070005_1/card_4070005_1_027.mp3"
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "うん……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "うん……。"
+            },
             "voice": ""
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "ものすごくラッキーなんです！",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "ものすごくラッキーなんです！"
+            },
             "voice": "card/Card_07/Card_4070005_1/card_4070005_1_029.mp3"
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "へっ？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "へっ？"
+            },
             "voice": ""
         },
         {
@@ -276,8 +396,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "ラッキーガールになっちゃったんです！",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "ラッキーガールになっちゃったんです！"
+            },
             "voice": "card/Card_07/Card_4070005_1/card_4070005_1_031.mp3"
         },
         {
@@ -285,8 +409,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "ラッキーガール……？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "ラッキーガール……？"
+            },
             "voice": ""
         },
         {
@@ -294,8 +422,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "やることなすこと、全部上手くいくんです！\nすごくラッキーなんです！",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "やることなすこと、全部上手くいくんです！\nすごくラッキーなんです！"
+            },
             "voice": "card/Card_07/Card_4070005_1/card_4070005_1_033.mp3"
         },
         {
@@ -303,8 +435,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "……。"
+            },
             "voice": ""
         },
         {
@@ -312,8 +448,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "マネージャーさん、どうしたらいいですか！\n助けてください！",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "マネージャーさん、どうしたらいいですか！\n助けてください！"
+            },
             "voice": "card/Card_07/Card_4070005_1/card_4070005_1_035.mp3"
         },
         {
@@ -321,8 +461,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "えっと……。\nちょっと確認していい？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "えっと……。\nちょっと確認していい？"
+            },
             "voice": ""
         },
         {
@@ -330,8 +474,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "はい。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "はい。"
+            },
             "voice": "card/Card_07/Card_4070005_1/card_4070005_1_037.mp3"
         },
         {
@@ -339,8 +487,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "やることなすこと、全部上手くいくんだよね？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "やることなすこと、全部上手くいくんだよね？"
+            },
             "voice": ""
         },
         {
@@ -348,8 +500,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "そうなんです。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "そうなんです。"
+            },
             "voice": "card/Card_07/Card_4070005_1/card_4070005_1_039.mp3"
         },
         {
@@ -357,8 +513,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "すごくラッキーなんだよね？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "すごくラッキーなんだよね？"
+            },
             "voice": ""
         },
         {
@@ -366,8 +526,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "はい、困ってるんです。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "はい、困ってるんです。"
+            },
             "voice": "card/Card_07/Card_4070005_1/card_4070005_1_041.mp3"
         },
         {
@@ -375,8 +539,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "なんで困るのかな……？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "なんで困るのかな……？"
+            },
             "voice": ""
         },
         {
@@ -384,8 +552,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "マネージャーさん、あいりの話、聞いてくれてますか？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "マネージャーさん、あいりの話、聞いてくれてますか？"
+            },
             "voice": "card/Card_07/Card_4070005_1/card_4070005_1_043.mp3"
         },
         {
@@ -393,8 +565,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "聞いてたけど……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "聞いてたけど……。"
+            },
             "voice": ""
         },
         {
@@ -402,8 +578,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "だったら、分かると思うんですけど。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "だったら、分かると思うんですけど。"
+            },
             "voice": "card/Card_07/Card_4070005_1/card_4070005_1_045.mp3"
         },
         {
@@ -411,8 +591,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "えっと……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "えっと……。"
+            },
             "voice": ""
         },
         {
@@ -420,8 +604,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "あいりは物心ついてから、ずっと不幸とともに生きてきたんです。\nいわば、不幸は友達みたいなもので……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "あいりは物心ついてから、ずっと不幸とともに生きてきたんです。\nいわば、不幸は友達みたいなもので……。"
+            },
             "voice": "card/Card_07/Card_4070005_1/card_4070005_1_047.mp3"
         },
         {
@@ -429,8 +617,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "不幸は友達……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "不幸は友達……。"
+            },
             "voice": ""
         },
         {
@@ -438,8 +630,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "あいりくらいのレベルになると、不幸は、逆に幸運なんです。\nアンラッキーは、ラッキーなんです。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "あいりくらいのレベルになると、不幸は、逆に幸運なんです。\nアンラッキーは、ラッキーなんです。"
+            },
             "voice": "card/Card_07/Card_4070005_1/card_4070005_1_049.mp3"
         },
         {
@@ -447,8 +643,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "っん？\n……ん？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "っん？\n……ん？"
+            },
             "voice": ""
         },
         {
@@ -456,8 +656,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "ということは、ラッキーは、ものすごいアンラッキー。\nラッキーであればあるほど、怖いんです！",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "ということは、ラッキーは、ものすごいアンラッキー。\nラッキーであればあるほど、怖いんです！"
+            },
             "voice": "card/Card_07/Card_4070005_1/card_4070005_1_051.mp3"
         },
         {
@@ -465,8 +669,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "（途中でよく分からなくなった……。）",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "（途中でよく分からなくなった……。）"
+            },
             "voice": ""
         },
         {
@@ -474,8 +682,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "分かってもらえますか？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "分かってもらえますか？"
+            },
             "voice": "card/Card_07/Card_4070005_1/card_4070005_1_053.mp3"
         },
         {
@@ -483,8 +695,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "正直、よく分かんない……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "正直、よく分かんない……。"
+            },
             "voice": ""
         },
         {
@@ -492,8 +708,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "えぇ……？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "えぇ……？"
+            },
             "voice": "card/Card_07/Card_4070005_1/card_4070005_1_055.mp3"
         },
         {
@@ -501,8 +721,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "でも、なんとなく分かった。\nつまり……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "でも、なんとなく分かった。\nつまり……。"
+            },
             "voice": ""
         },
         {
@@ -510,8 +734,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "はい。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "はい。"
+            },
             "voice": "card/Card_07/Card_4070005_1/card_4070005_1_057.mp3"
         },
         {
@@ -519,8 +747,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "ラッキーに慣れてない。\nだからラッキーが怖いってこと？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "ラッキーに慣れてない。\nだからラッキーが怖いってこと？"
+            },
             "voice": ""
         },
         {
@@ -528,8 +760,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "はい……。\nだいたい、そんな感じです……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "はい……。\nだいたい、そんな感じです……。"
+            },
             "voice": "card/Card_07/Card_4070005_1/card_4070005_1_059.mp3"
         },
         {
@@ -537,8 +773,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "（よかった……。）",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "（よかった……。）"
+            },
             "voice": ""
         },
         {
@@ -546,8 +786,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "今までアンラッキーが当たり前だったから、\nこんなにラッキーが続くと、どうしたらいいか分からなくて……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "今までアンラッキーが当たり前だったから、\nこんなにラッキーが続くと、どうしたらいいか分からなくて……。"
+            },
             "voice": "card/Card_07/Card_4070005_1/card_4070005_1_061.mp3"
         },
         {
@@ -555,8 +799,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そんなにラッキーが続いたの？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そんなにラッキーが続いたの？"
+            },
             "voice": ""
         },
         {
@@ -564,8 +812,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "はい。\n聞きたいですか？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "はい。\n聞きたいですか？"
+            },
             "voice": "card/Card_07/Card_4070005_1/card_4070005_1_063.mp3"
         },
         {
@@ -573,8 +825,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そりゃ、聞きたいけど……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そりゃ、聞きたいけど……。"
+            },
             "voice": ""
         },
         {
@@ -582,8 +838,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "その前に、ちょっとオレンジジュース買ってきていいですか？\n喉渇いちゃって。すみません。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "その前に、ちょっとオレンジジュース買ってきていいですか？\n喉渇いちゃって。すみません。"
+            },
             "voice": "card/Card_07/Card_4070005_1/card_4070005_1_065.mp3"
         },
         {
@@ -591,8 +851,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "奢ろうか？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "奢ろうか？"
+            },
             "voice": ""
         },
         {
@@ -600,8 +864,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "いえ、結構です。\nそんなラッキーはいりません。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "いえ、結構です。\nそんなラッキーはいりません。"
+            },
             "voice": "card/Card_07/Card_4070005_1/card_4070005_1_067.mp3"
         },
         {
@@ -609,8 +877,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "なるほど……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "なるほど……。"
+            },
             "voice": ""
         },
         {
@@ -618,8 +890,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "じゃ、ちょっと外の自販機まで行ってきます。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "じゃ、ちょっと外の自販機まで行ってきます。"
+            },
             "voice": "card/Card_07/Card_4070005_1/card_4070005_1_069.mp3"
         },
         {
@@ -627,8 +903,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "（話を聞くのはいいけど……。）",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "（話を聞くのはいいけど……。）"
+            },
             "voice": ""
         },
         {
@@ -636,8 +916,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "（そのあとどうやって励まそうかな……。）",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "（そのあとどうやって励まそうかな……。）"
+            },
             "voice": ""
         }
     ]

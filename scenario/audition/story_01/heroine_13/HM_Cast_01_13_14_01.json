@@ -6,8 +6,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そのタッパーどうしたの？　夕飯？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そのタッパーどうしたの？　夕飯？"
+            },
             "voice": ""
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "はい。最近、お昼は寮に戻って自炊してるんです。\n外食のしすぎは体に良くないですから。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "はい。最近、お昼は寮に戻って自炊してるんです。\n外食のしすぎは体に良くないですから。"
+            },
             "voice": "audition/story_01/heroine_13/HM_Cast_01_13_14_01/hm_cast_01_13_14_01_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "でも1人分って、案外難しくて。\nこれは、その残りです。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "でも1人分って、案外難しくて。\nこれは、その残りです。"
+            },
             "voice": "audition/story_01/heroine_13/HM_Cast_01_13_14_01/hm_cast_01_13_14_01_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "聡里って、本当にしっかりしてるね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "聡里って、本当にしっかりしてるね。"
+            },
             "voice": ""
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "いいえ、当たり前のことをしているだけです。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "いいえ、当たり前のことをしているだけです。"
+            },
             "voice": "audition/story_01/heroine_13/HM_Cast_01_13_14_01/hm_cast_01_13_14_01_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そっか。\nでも料理、楽しんでるみたいだね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そっか。\nでも料理、楽しんでるみたいだね。"
+            },
             "voice": ""
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "……楽しそう、ですか？ ",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "……楽しそう、ですか？ "
+            },
             "voice": "audition/story_01/heroine_13/HM_Cast_01_13_14_01/hm_cast_01_13_14_01_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "タッパーを開ける時、嬉しそうだったから。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "タッパーを開ける時、嬉しそうだったから。"
+            },
             "voice": ""
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "……知ったようなことを言わないでください。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "……知ったようなことを言わないでください。"
+            },
             "voice": "audition/story_01/heroine_13/HM_Cast_01_13_14_01/hm_cast_01_13_14_01_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "えっ、ごめん。違った？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "えっ、ごめん。違った？"
+            },
             "voice": ""
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "……飲み物、持ってくるの忘れました。\n買って来ます。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "……飲み物、持ってくるの忘れました。\n買って来ます。"
+            },
             "voice": "audition/story_01/heroine_13/HM_Cast_01_13_14_01/hm_cast_01_13_14_01_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "あ、うん。\n行ってらっしゃい……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "あ、うん。\n行ってらっしゃい……。"
+            },
             "voice": ""
         }
     ]

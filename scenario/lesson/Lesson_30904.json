@@ -6,8 +6,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "ここか。盗賊ギルドの入り口って……。\nまるで下水道じゃん。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "ここか。盗賊ギルドの入り口って……。\nまるで下水道じゃん。"
+            },
             "voice": "lesson/Lesson_30904/lesson_30904_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "ほんとにここであってんの？\nもっと明るい場所にすればいいのに。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "ほんとにここであってんの？\nもっと明るい場所にすればいいのに。"
+            },
             "voice": "lesson/Lesson_30904/lesson_30904_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "マイカがキョロキョロしていると、\n不審に思ったのか、男が近づいてくるよ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "マイカがキョロキョロしていると、\n不審に思ったのか、男が近づいてくるよ。"
+            },
             "voice": ""
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 0
             ],
-            "name": "男",
-            "message": "「おい、貴様。見ない顔だな。\nここに何をしに来た？」",
+            "name": {
+                "default": "男"
+            },
+            "message": {
+                "default": "「おい、貴様。見ない顔だな。\nここに何をしに来た？」"
+            },
             "voice": ""
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "わ！　ビックリした！　驚かさないでよ。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "わ！　ビックリした！　驚かさないでよ。"
+            },
             "voice": "lesson/Lesson_30904/lesson_30904_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 0
             ],
-            "name": "男",
-            "message": "「ここがどこだか知らずに迷い込んだというのなら、\n見逃してやるから早く出て行け。」",
+            "name": {
+                "default": "男"
+            },
+            "message": {
+                "default": "「ここがどこだか知らずに迷い込んだというのなら、\n見逃してやるから早く出て行け。」"
+            },
             "voice": ""
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "い、いや、違うんすよ。\nじ、自分も、その忍者で……。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "い、いや、違うんすよ。\nじ、自分も、その忍者で……。"
+            },
             "voice": "lesson/Lesson_30904/lesson_30904_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 0
             ],
-            "name": "男",
-            "message": "「忍者？　なんだそれは？」",
+            "name": {
+                "default": "男"
+            },
+            "message": {
+                "default": "「忍者？　なんだそれは？」"
+            },
             "voice": ""
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "いや、それも違うんです、間違えました。\n盗賊です。盗賊ギルドの一員っす。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "いや、それも違うんです、間違えました。\n盗賊です。盗賊ギルドの一員っす。"
+            },
             "voice": "lesson/Lesson_30904/lesson_30904_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 0
             ],
-            "name": "男",
-            "message": "「……本当か？\nで、なんの用だ。」",
+            "name": {
+                "default": "男"
+            },
+            "message": {
+                "default": "「……本当か？\nで、なんの用だ。」"
+            },
             "voice": ""
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "あ、なるほど。\nこの人、門番とか見張り番みたいな人ってこと？",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "あ、なるほど。\nこの人、門番とか見張り番みたいな人ってこと？"
+            },
             "voice": "lesson/Lesson_30904/lesson_30904_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "えっとっすね。\nこの、短剣を見てほしいんすよ。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "えっとっすね。\nこの、短剣を見てほしいんすよ。"
+            },
             "voice": "lesson/Lesson_30904/lesson_30904_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 0
             ],
-            "name": "男",
-            "message": "「ほほう、どこで盗んできたんだ？\n盗品を売りたいのなら……。」",
+            "name": {
+                "default": "男"
+            },
+            "message": {
+                "default": "「ほほう、どこで盗んできたんだ？\n盗品を売りたいのなら……。」"
+            },
             "voice": ""
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "いや、そうじゃなくて。\nまいったな。完璧に闇社会じゃん……。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "いや、そうじゃなくて。\nまいったな。完璧に闇社会じゃん……。"
+            },
             "voice": "lesson/Lesson_30904/lesson_30904_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 0
             ],
-            "name": "男",
-            "message": "「売るんじゃないとしたらなんだ？」",
+            "name": {
+                "default": "男"
+            },
+            "message": {
+                "default": "「売るんじゃないとしたらなんだ？」"
+            },
             "voice": ""
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "だから、この短剣の紋章を見て、教えてほしいんすよ。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "だから、この短剣の紋章を見て、教えてほしいんすよ。"
+            },
             "voice": "lesson/Lesson_30904/lesson_30904_016.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 0
             ],
-            "name": "男",
-            "message": "「ふむ……、訳ありか。」",
+            "name": {
+                "default": "男"
+            },
+            "message": {
+                "default": "「ふむ……、訳ありか。」"
+            },
             "voice": ""
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "は、はあ、まあ、そうっすね。\n訳ありって言えば訳あり、なのかな？",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "は、はあ、まあ、そうっすね。\n訳ありって言えば訳あり、なのかな？"
+            },
             "voice": "lesson/Lesson_30904/lesson_30904_018.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 0
             ],
-            "name": "男",
-            "message": "「わかった、こっちへ来い。」",
+            "name": {
+                "default": "男"
+            },
+            "message": {
+                "default": "「わかった、こっちへ来い。」"
+            },
             "voice": ""
         }
     ]

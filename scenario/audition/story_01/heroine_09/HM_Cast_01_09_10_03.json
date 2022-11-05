@@ -6,8 +6,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "じゃあ、美晴。私、もう行くから。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "じゃあ、美晴。私、もう行くから。"
+            },
             "voice": "audition/story_01/heroine_09/HM_Cast_01_09_10_03/hm_cast_01_09_10_03_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "はーい。慌てて、怪我しないようにね。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "はーい。慌てて、怪我しないようにね。"
+            },
             "voice": "audition/story_01/heroine_09/HM_Cast_01_09_10_03/hm_cast_01_09_10_03_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "うん、大丈夫。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "うん、大丈夫。"
+            },
             "voice": "audition/story_01/heroine_09/HM_Cast_01_09_10_03/hm_cast_01_09_10_03_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "お疲れ様、美晴、絢。\nえーっと、何か急いでるの？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "お疲れ様、美晴、絢。\nえーっと、何か急いでるの？"
+            },
             "voice": ""
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "お疲れ様です、マネージャー。\n今日は新刊の発売日なんです。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "お疲れ様です、マネージャー。\n今日は新刊の発売日なんです。"
+            },
             "voice": "audition/story_01/heroine_09/HM_Cast_01_09_10_03/hm_cast_01_09_10_03_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "え、新刊？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "え、新刊？"
+            },
             "voice": ""
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "はい。お先、失礼します。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "はい。お先、失礼します。"
+            },
             "voice": "audition/story_01/heroine_09/HM_Cast_01_09_10_03/hm_cast_01_09_10_03_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "うふふ、絢ったら、あんなにはしゃいじゃって。\nもうずっと前から、楽しみにしてたんですよ。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "うふふ、絢ったら、あんなにはしゃいじゃって。\nもうずっと前から、楽しみにしてたんですよ。"
+            },
             "voice": "audition/story_01/heroine_09/HM_Cast_01_09_10_03/hm_cast_01_09_10_03_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "あはは、絢らしいね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "あはは、絢らしいね。"
+            },
             "voice": ""
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "えぇ。\n絢にとって、漫画はとても大切なものなんだなって思います。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "えぇ。\n絢にとって、漫画はとても大切なものなんだなって思います。"
+            },
             "voice": "audition/story_01/heroine_09/HM_Cast_01_09_10_03/hm_cast_01_09_10_03_010.mp3"
         }
     ]

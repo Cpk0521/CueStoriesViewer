@@ -6,8 +6,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "うう……、暑い……。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "うう……、暑い……。"
+            },
             "voice": "card/Card_03/Card_4030012_2/card_4030012_2_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "まさかほんとに壊れるなんて。\nしかも、寮全部……。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "まさかほんとに壊れるなんて。\nしかも、寮全部……。"
+            },
             "voice": "card/Card_03/Card_4030012_2/card_4030012_2_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "志穂ちゃん大丈夫？\nはい、これお水。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "志穂ちゃん大丈夫？\nはい、これお水。"
+            },
             "voice": "card/Card_03/Card_4030012_2/card_4030012_2_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "まったく、弟の世話してた時を思い出すよ。\nあいつらもすぐ倒れるからさ。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "まったく、弟の世話してた時を思い出すよ。\nあいつらもすぐ倒れるからさ。"
+            },
             "voice": "card/Card_03/Card_4030012_2/card_4030012_2_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "私は熱中症ではない……。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "私は熱中症ではない……。"
+            },
             "voice": "card/Card_03/Card_4030012_2/card_4030012_2_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "はいはい、今は安静にしてなって。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "はいはい、今は安静にしてなって。"
+            },
             "voice": "card/Card_03/Card_4030012_2/card_4030012_2_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "いやあ、ほんとに暑いね。\nごめんね、皆。こんな部屋で過ごさせちゃって。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "いやあ、ほんとに暑いね。\nごめんね、皆。こんな部屋で過ごさせちゃって。"
+            },
             "voice": ""
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "マネージャーさん。\nいえ、外に比べたら全然です。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "マネージャーさん。\nいえ、外に比べたら全然です。"
+            },
             "voice": "card/Card_03/Card_4030012_2/card_4030012_2_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "電気屋さんに連絡してもらったんですよね。\nどうでしたか？",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "電気屋さんに連絡してもらったんですよね。\nどうでしたか？"
+            },
             "voice": "card/Card_03/Card_4030012_2/card_4030012_2_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "すぐには行けないって言われたよ。\nだからこれ、皆に差し入れ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "すぐには行けないって言われたよ。\nだからこれ、皆に差し入れ。"
+            },
             "voice": ""
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "おお！　おっきいスイカ！",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "おお！　おっきいスイカ！"
+            },
             "voice": "card/Card_03/Card_4030012_2/card_4030012_2_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "いいんですか？　マネージャーさん。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "いいんですか？　マネージャーさん。"
+            },
             "voice": "card/Card_03/Card_4030012_2/card_4030012_2_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "いいよ、いいよ。\n本当は涼しい部屋を用意してあげたいんだけどね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "いいよ、いいよ。\n本当は涼しい部屋を用意してあげたいんだけどね。"
+            },
             "voice": ""
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "まったくだぞ、ジャーマネ。\nこんなに弱りはてた担当をほったらかしとは。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "まったくだぞ、ジャーマネ。\nこんなに弱りはてた担当をほったらかしとは。"
+            },
             "voice": "card/Card_03/Card_4030012_2/card_4030012_2_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "その割には、元気そうじゃない。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "その割には、元気そうじゃない。"
+            },
             "voice": ""
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "マネージャーが来たら元気になったっすよ。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "マネージャーが来たら元気になったっすよ。"
+            },
             "voice": "card/Card_03/Card_4030012_2/card_4030012_2_016.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "……。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "……。"
+            },
             "voice": "card/Card_03/Card_4030012_2/card_4030012_2_017.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "どうしたの志穂ちゃん？",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "どうしたの志穂ちゃん？"
+            },
             "voice": "card/Card_03/Card_4030012_2/card_4030012_2_018.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "……スイカが早く食べたいんだが。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "……スイカが早く食べたいんだが。"
+            },
             "voice": "card/Card_03/Card_4030012_2/card_4030012_2_019.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "え、もう食べるの？",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "え、もう食べるの？"
+            },
             "voice": "card/Card_03/Card_4030012_2/card_4030012_2_020.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "貰い物はすぐにいただくのが礼儀というものだ。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "貰い物はすぐにいただくのが礼儀というものだ。"
+            },
             "voice": "card/Card_03/Card_4030012_2/card_4030012_2_021.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "ふふっ、今切ってくるね。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "ふふっ、今切ってくるね。"
+            },
             "voice": "card/Card_03/Card_4030012_2/card_4030012_2_022.mp3"
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "んー！　暑い日はスイカがおいしいですね！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "んー！　暑い日はスイカがおいしいですね！"
+            },
             "voice": "card/Card_03/Card_4030012_2/card_4030012_2_023.mp3"
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "ごちそうさま。\n冷たくてうまかったぞ。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "ごちそうさま。\n冷たくてうまかったぞ。"
+            },
             "voice": "card/Card_03/Card_4030012_2/card_4030012_2_024.mp3"
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "えっ、もう食べ終わったの？",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "えっ、もう食べ終わったの？"
+            },
             "voice": "card/Card_03/Card_4030012_2/card_4030012_2_025.mp3"
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "だが……、食べ終わったら、また暑いことに気付いてしまった。\nうう……。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "だが……、食べ終わったら、また暑いことに気付いてしまった。\nうう……。"
+            },
             "voice": "card/Card_03/Card_4030012_2/card_4030012_2_026.mp3"
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "陽菜……。アイス……、ガジガジさんを……。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "陽菜……。アイス……、ガジガジさんを……。"
+            },
             "voice": "card/Card_03/Card_4030012_2/card_4030012_2_027.mp3"
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "志穂……、それくらいは自分で行かないと。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "志穂……、それくらいは自分で行かないと。"
+            },
             "voice": ""
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "これで一番年上って……。時々不思議に思うな……。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "これで一番年上って……。時々不思議に思うな……。"
+            },
             "voice": "card/Card_03/Card_4030012_2/card_4030012_2_029.mp3"
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "ああ、どうしてこんなに暑いのか……。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "ああ、どうしてこんなに暑いのか……。"
+            },
             "voice": "card/Card_03/Card_4030012_2/card_4030012_2_030.mp3"
         },
         {
@@ -276,8 +396,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "ただ、のんびり過ごしていたいだけなのに……。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "ただ、のんびり過ごしていたいだけなのに……。"
+            },
             "voice": "card/Card_03/Card_4030012_2/card_4030012_2_031.mp3"
         },
         {
@@ -285,8 +409,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "体が溶ける……、このアイスのように……。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "体が溶ける……、このアイスのように……。"
+            },
             "voice": "card/Card_03/Card_4030012_2/card_4030012_2_032.mp3"
         },
         {
@@ -294,8 +422,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "なるほど……、これは重症だね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "なるほど……、これは重症だね。"
+            },
             "voice": ""
         },
         {
@@ -303,8 +435,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "志穂ちゃん、ずっと冷えた部屋にいましたから。\n温度差もあるんだと思います。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "志穂ちゃん、ずっと冷えた部屋にいましたから。\n温度差もあるんだと思います。"
+            },
             "voice": "card/Card_03/Card_4030012_2/card_4030012_2_034.mp3"
         },
         {
@@ -312,8 +448,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "でも、あのままじゃ体にも悪かったでしょうし、\nしばらくはエアコンなしの生活でもいいと思いますよ。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "でも、あのままじゃ体にも悪かったでしょうし、\nしばらくはエアコンなしの生活でもいいと思いますよ。"
+            },
             "voice": "card/Card_03/Card_4030012_2/card_4030012_2_035.mp3"
         },
         {
@@ -321,8 +461,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "ああ……、私の極楽……。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "ああ……、私の極楽……。"
+            },
             "voice": "card/Card_03/Card_4030012_2/card_4030012_2_036.mp3"
         }
     ]

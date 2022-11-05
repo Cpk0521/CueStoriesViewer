@@ -6,8 +6,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "ねぇ、絢。この前の漫画、また借りていいかしら？",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "ねぇ、絢。この前の漫画、また借りていいかしら？"
+            },
             "voice": "audition/story_01/heroine_09/HM_Cast_01_09_10_04/hm_cast_01_09_10_04_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "え、うん、いいけど……。\nでも、どうして？",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "え、うん、いいけど……。\nでも、どうして？"
+            },
             "voice": "audition/story_01/heroine_09/HM_Cast_01_09_10_04/hm_cast_01_09_10_04_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "うふふ、ちょっとね。読み直したくなっちゃったの。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "うふふ、ちょっとね。読み直したくなっちゃったの。"
+            },
             "voice": "audition/story_01/heroine_09/HM_Cast_01_09_10_04/hm_cast_01_09_10_04_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "あ、別にお話を忘れたわけじゃないのよ。\nただ、また読みたいなぁって。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "あ、別にお話を忘れたわけじゃないのよ。\nただ、また読みたいなぁって。"
+            },
             "voice": "audition/story_01/heroine_09/HM_Cast_01_09_10_04/hm_cast_01_09_10_04_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "うん、わかるよ。\n私も何回も同じ巻を読むから。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "うん、わかるよ。\n私も何回も同じ巻を読むから。"
+            },
             "voice": "audition/story_01/heroine_09/HM_Cast_01_09_10_04/hm_cast_01_09_10_04_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "そっか。絢もそうなのね。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "そっか。絢もそうなのね。"
+            },
             "voice": "audition/story_01/heroine_09/HM_Cast_01_09_10_04/hm_cast_01_09_10_04_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "あ、でも、迷惑だったら、やめておくけど……。\nあの漫画、絢も大好きなんでしょ？",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "あ、でも、迷惑だったら、やめておくけど……。\nあの漫画、絢も大好きなんでしょ？"
+            },
             "voice": "audition/story_01/heroine_09/HM_Cast_01_09_10_04/hm_cast_01_09_10_04_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "ううん、大丈夫。\n私の好きな漫画、美晴も好きになってくれたら嬉しい。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "ううん、大丈夫。\n私の好きな漫画、美晴も好きになってくれたら嬉しい。"
+            },
             "voice": "audition/story_01/heroine_09/HM_Cast_01_09_10_04/hm_cast_01_09_10_04_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "そう？　うふふ、それなら良かった。\nじゃあ、また貸してもらうわね。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "そう？　うふふ、それなら良かった。\nじゃあ、また貸してもらうわね。"
+            },
             "voice": "audition/story_01/heroine_09/HM_Cast_01_09_10_04/hm_cast_01_09_10_04_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "うん、わかった。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "うん、わかった。"
+            },
             "voice": "audition/story_01/heroine_09/HM_Cast_01_09_10_04/hm_cast_01_09_10_04_010.mp3"
         }
     ]

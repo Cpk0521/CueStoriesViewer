@@ -6,8 +6,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "悠希。\n明日のレッスン室なんだけど……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "悠希。\n明日のレッスン室なんだけど……。"
+            },
             "voice": ""
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "わかってるって！\n明日はいっぱいだから、寮で出来ることをやるよ！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "わかってるって！\n明日はいっぱいだから、寮で出来ることをやるよ！"
+            },
             "voice": "audition/story_01/heroine_05/HM_Cast_01_05_06_04/hm_cast_01_05_06_04_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "いや、入れ替えのタイミングで、\n1時間くらい隙間が出来そうなんだけど、使う？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "いや、入れ替えのタイミングで、\n1時間くらい隙間が出来そうなんだけど、使う？"
+            },
             "voice": ""
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "本当！？　使う使う！\nありがとマネージャー！　また明日よろしく！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "本当！？　使う使う！\nありがとマネージャー！　また明日よろしく！"
+            },
             "voice": "audition/story_01/heroine_05/HM_Cast_01_05_06_04/hm_cast_01_05_06_04_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "うん、お疲れ様。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "うん、お疲れ様。"
+            },
             "voice": ""
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "お疲れ様です。\nありがとうございます、悠希のこと。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "お疲れ様です。\nありがとうございます、悠希のこと。"
+            },
             "voice": "audition/story_01/heroine_05/HM_Cast_01_05_06_04/hm_cast_01_05_06_04_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "千紗、お疲れ様。\n見てたんだね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "千紗、お疲れ様。\n見てたんだね。"
+            },
             "voice": ""
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "はい……。すみません。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "はい……。すみません。"
+            },
             "voice": "audition/story_01/heroine_05/HM_Cast_01_05_06_04/hm_cast_01_05_06_04_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "元々は悠希の件で、他に場所がないか相談しに来たんですけど。\n余計なお世話だったみたいですね。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "元々は悠希の件で、他に場所がないか相談しに来たんですけど。\n余計なお世話だったみたいですね。"
+            },
             "voice": "audition/story_01/heroine_05/HM_Cast_01_05_06_04/hm_cast_01_05_06_04_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "いや、たまたまだよ。\n急にレッスン室が空いても、使う人も少ないからね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "いや、たまたまだよ。\n急にレッスン室が空いても、使う人も少ないからね。"
+            },
             "voice": ""
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "……悠希、本当に頑張ってますよね。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "……悠希、本当に頑張ってますよね。"
+            },
             "voice": "audition/story_01/heroine_05/HM_Cast_01_05_06_04/hm_cast_01_05_06_04_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "うん。千紗や皆もいっぱい協力してくれてるから、\n受かったらお返しするんだとも言ってたよ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "うん。千紗や皆もいっぱい協力してくれてるから、\n受かったらお返しするんだとも言ってたよ。"
+            },
             "voice": ""
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "……そうですか。\n悠希も私たちのこと、色々考えてくれているんですね。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "……そうですか。\n悠希も私たちのこと、色々考えてくれているんですね。"
+            },
             "voice": "audition/story_01/heroine_05/HM_Cast_01_05_06_04/hm_cast_01_05_06_04_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "ありがとうございました。\n私も失礼します。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "ありがとうございました。\n私も失礼します。"
+            },
             "voice": "audition/story_01/heroine_05/HM_Cast_01_05_06_04/hm_cast_01_05_06_04_014.mp3"
         }
     ]

@@ -6,8 +6,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "お疲れ様ー。\nそれじゃ。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "お疲れ様ー。\nそれじゃ。"
+            },
             "voice": "audition/story_01/heroine_11/HM_Sub_01_11_25/hm_sub_01_11_25_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "あっ、お疲れ様、まほろ。\n急いでるみたいだけど、気をつけて帰ってね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "あっ、お疲れ様、まほろ。\n急いでるみたいだけど、気をつけて帰ってね。"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "別に急いでるわけじゃないんだけど。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "別に急いでるわけじゃないんだけど。"
+            },
             "voice": "audition/story_01/heroine_11/HM_Sub_01_11_25/hm_sub_01_11_25_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "ただ美晴たちが一緒にご飯食べようって誘ってくれたから、\n遅れちゃ悪いかなって思ってるだけ。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "ただ美晴たちが一緒にご飯食べようって誘ってくれたから、\n遅れちゃ悪いかなって思ってるだけ。"
+            },
             "voice": "audition/story_01/heroine_11/HM_Sub_01_11_25/hm_sub_01_11_25_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "まぁ、たまにはね。\nじゃあ、行ってきまーす。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "まぁ、たまにはね。\nじゃあ、行ってきまーす。"
+            },
             "voice": "audition/story_01/heroine_11/HM_Sub_01_11_25/hm_sub_01_11_25_005.mp3"
         }
     ]

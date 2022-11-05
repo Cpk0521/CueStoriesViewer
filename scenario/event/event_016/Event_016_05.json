@@ -6,8 +6,12 @@
             "heroineId": [
                 0
             ],
-            "name": "？？？",
-            "message": "―僕のこと覚えてくれてたんだって知れて本当に嬉しいんだ―",
+            "name": {
+                "default": "？？？"
+            },
+            "message": {
+                "default": "―僕のこと覚えてくれてたんだって知れて本当に嬉しいんだ―"
+            },
             "voice": ""
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "？？？",
-            "message": "―僕も君たちのこと、忘れたことなんて1度もないよ―",
+            "name": {
+                "default": "？？？"
+            },
+            "message": {
+                "default": "―僕も君たちのこと、忘れたことなんて1度もないよ―"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "おーい！　\nあいり！　柚葉！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "おーい！　\nあいり！　柚葉！"
+            },
             "voice": "event/Event_016/Event_016_05/event_016_05_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "あれ？　悠希ちゃん？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "あれ？　悠希ちゃん？"
+            },
             "voice": "event/Event_016/Event_016_05/event_016_05_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "ハロー！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "ハロー！"
+            },
             "voice": "event/Event_016/Event_016_05/event_016_05_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "あはは。\nいいタイミング！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "あはは。\nいいタイミング！"
+            },
             "voice": "event/Event_016/Event_016_05/event_016_05_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "悠希ちゃん、1人なの？\nほのかさんや舞花さんは？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "悠希ちゃん、1人なの？\nほのかさんや舞花さんは？"
+            },
             "voice": "event/Event_016/Event_016_05/event_016_05_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "あの2人は今日、仕事だって。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "あの2人は今日、仕事だって。"
+            },
             "voice": "event/Event_016/Event_016_05/event_016_05_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "へえ。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "へえ。"
+            },
             "voice": "event/Event_016/Event_016_05/event_016_05_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "こういう日はダッシュで帰るんだよね。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "こういう日はダッシュで帰るんだよね。"
+            },
             "voice": "event/Event_016/Event_016_05/event_016_05_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "じゃあ、今もダッシュで帰ってるとこ？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "じゃあ、今もダッシュで帰ってるとこ？"
+            },
             "voice": "event/Event_016/Event_016_05/event_016_05_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "そう。\nこの前から見始めたアニメ、まだ途中だから見ようと思って。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "そう。\nこの前から見始めたアニメ、まだ途中だから見ようと思って。"
+            },
             "voice": "event/Event_016/Event_016_05/event_016_05_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "え？　千紗ちゃんと一緒に見なくていいの？\n千紗ちゃん、かなりハマっちゃってたみたいだけど……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "え？　千紗ちゃんと一緒に見なくていいの？\n千紗ちゃん、かなりハマっちゃってたみたいだけど……。"
+            },
             "voice": "event/Event_016/Event_016_05/event_016_05_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "千紗ならどうせ寮にいるでしょ。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "千紗ならどうせ寮にいるでしょ。"
+            },
             "voice": "event/Event_016/Event_016_05/event_016_05_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "（どうせ、って……。）",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "（どうせ、って……。）"
+            },
             "voice": "event/Event_016/Event_016_05/event_016_05_015.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "チサ、今日は夕方からバイトって言ってたわ。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "チサ、今日は夕方からバイトって言ってたわ。"
+            },
             "voice": "event/Event_016/Event_016_05/event_016_05_016.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "そうなの？　\nうーん、あたし1人で続き見ちゃったら怒りそうだよなー……。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "そうなの？　\nうーん、あたし1人で続き見ちゃったら怒りそうだよなー……。"
+            },
             "voice": "event/Event_016/Event_016_05/event_016_05_017.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "じゃあ、ダッシュで帰るのは無し？",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "じゃあ、ダッシュで帰るのは無し？"
+            },
             "voice": "event/Event_016/Event_016_05/event_016_05_018.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "んー。そのほうがいいかも。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "んー。そのほうがいいかも。"
+            },
             "voice": "event/Event_016/Event_016_05/event_016_05_019.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "じゃあ、一緒に帰りましょ？",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "じゃあ、一緒に帰りましょ？"
+            },
             "voice": "event/Event_016/Event_016_05/event_016_05_020.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "そうだね。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "そうだね。"
+            },
             "voice": "event/Event_016/Event_016_05/event_016_05_021.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "せっかく帰り道であいりと柚葉に会ったんだし、\n一緒に帰ったほうが面白いかも。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "せっかく帰り道であいりと柚葉に会ったんだし、\n一緒に帰ったほうが面白いかも。"
+            },
             "voice": "event/Event_016/Event_016_05/event_016_05_022.mp3"
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "それじゃあ……、どこか寄り道しましょうよ。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "それじゃあ……、どこか寄り道しましょうよ。"
+            },
             "voice": "event/Event_016/Event_016_05/event_016_05_023.mp3"
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "寄り道って……、どこに？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "寄り道って……、どこに？"
+            },
             "voice": "event/Event_016/Event_016_05/event_016_05_024.mp3"
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "そうだ！\n公園行こうよ。公園。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "そうだ！\n公園行こうよ。公園。"
+            },
             "voice": "event/Event_016/Event_016_05/event_016_05_025.mp3"
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "公園？　公園で何するの？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "公園？　公園で何するの？"
+            },
             "voice": "event/Event_016/Event_016_05/event_016_05_026.mp3"
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "迷わず行けばいいじゃんか！\n行けばわかるって！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "迷わず行けばいいじゃんか！\n行けばわかるって！"
+            },
             "voice": "event/Event_016/Event_016_05/event_016_05_027.mp3"
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "ええ？　別に迷ってないよ？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "ええ？　別に迷ってないよ？"
+            },
             "voice": "event/Event_016/Event_016_05/event_016_05_028.mp3"
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "うふふっ。確かにユーキの言うとおりね。\n行けばわかる！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "うふふっ。確かにユーキの言うとおりね。\n行けばわかる！"
+            },
             "voice": "event/Event_016/Event_016_05/event_016_05_029.mp3"
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "そうそう。\n元気があれば色々出来る！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "そうそう。\n元気があれば色々出来る！"
+            },
             "voice": "event/Event_016/Event_016_05/event_016_05_030.mp3"
         },
         {
@@ -276,8 +396,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "悠希ちゃん、公園、好きなの？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "悠希ちゃん、公園、好きなの？"
+            },
             "voice": "event/Event_016/Event_016_05/event_016_05_031.mp3"
         },
         {
@@ -285,8 +409,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "え？　公園が嫌いな人とかいなくない？\n子どもの頃の遊び場といえば、やっぱ公園だったし。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "え？　公園が嫌いな人とかいなくない？\n子どもの頃の遊び場といえば、やっぱ公園だったし。"
+            },
             "voice": "event/Event_016/Event_016_05/event_016_05_032.mp3"
         },
         {
@@ -294,8 +422,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "何が1番好きなの？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "何が1番好きなの？"
+            },
             "voice": "event/Event_016/Event_016_05/event_016_05_033.mp3"
         },
         {
@@ -303,8 +435,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "なんだと思う？",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "なんだと思う？"
+            },
             "voice": "event/Event_016/Event_016_05/event_016_05_034.mp3"
         },
         {
@@ -312,8 +448,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "うーん……。悠希ちゃんだったら、シーソーとか？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "うーん……。悠希ちゃんだったら、シーソーとか？"
+            },
             "voice": "event/Event_016/Event_016_05/event_016_05_035.mp3"
         },
         {
@@ -321,8 +461,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "あー、惜しい。\nあたし、1番好きなのはジャングルジムなんだよね。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "あー、惜しい。\nあたし、1番好きなのはジャングルジムなんだよね。"
+            },
             "voice": "event/Event_016/Event_016_05/event_016_05_036.mp3"
         },
         {
@@ -330,8 +474,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "え？　それって惜しいかな……？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "え？　それって惜しいかな……？"
+            },
             "voice": "event/Event_016/Event_016_05/event_016_05_037.mp3"
         },
         {
@@ -339,8 +487,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "ユーキはなんでジャングルジムが好きなの？",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "ユーキはなんでジャングルジムが好きなの？"
+            },
             "voice": "event/Event_016/Event_016_05/event_016_05_038.mp3"
         },
         {
@@ -348,8 +500,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "んー。なんでだろ。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "んー。なんでだろ。"
+            },
             "voice": "event/Event_016/Event_016_05/event_016_05_039.mp3"
         },
         {
@@ -357,8 +513,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "多分子どもの頃めっちゃ好きで、それで今も好きって感じかな。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "多分子どもの頃めっちゃ好きで、それで今も好きって感じかな。"
+            },
             "voice": "event/Event_016/Event_016_05/event_016_05_040.mp3"
         },
         {
@@ -366,8 +526,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "なんかジャングルジムって、秘密基地みたいじゃない？",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "なんかジャングルジムって、秘密基地みたいじゃない？"
+            },
             "voice": "event/Event_016/Event_016_05/event_016_05_041.mp3"
         },
         {
@@ -375,8 +539,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "中から檻みたいだなって思いながら、\n空を眺めるの好きだったんだよね。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "中から檻みたいだなって思いながら、\n空を眺めるの好きだったんだよね。"
+            },
             "voice": "event/Event_016/Event_016_05/event_016_05_042.mp3"
         },
         {
@@ -384,8 +552,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "空までジャングルジムの檻の中に入っちゃったみたいでさ。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "空までジャングルジムの檻の中に入っちゃったみたいでさ。"
+            },
             "voice": "event/Event_016/Event_016_05/event_016_05_043.mp3"
         },
         {
@@ -393,8 +565,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "空がジャングルジムの檻に……、ね。\nふふっ。とっても楽しそう！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "空がジャングルジムの檻に……、ね。\nふふっ。とっても楽しそう！"
+            },
             "voice": "event/Event_016/Event_016_05/event_016_05_044.mp3"
         },
         {
@@ -402,8 +578,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "懐かしいなー。何年ぶりかな。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "懐かしいなー。何年ぶりかな。"
+            },
             "voice": "event/Event_016/Event_016_05/event_016_05_045.mp3"
         },
         {
@@ -411,8 +591,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "ほらみんな、一緒に入ろうよ。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "ほらみんな、一緒に入ろうよ。"
+            },
             "voice": "event/Event_016/Event_016_05/event_016_05_047.mp3"
         },
         {
@@ -420,8 +604,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "わ……！　そんな勢いよく行くと危ないよ、悠希ちゃん！",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "わ……！　そんな勢いよく行くと危ないよ、悠希ちゃん！"
+            },
             "voice": "event/Event_016/Event_016_05/event_016_05_048.mp3"
         },
         {
@@ -429,8 +617,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "あはは。大丈夫だって。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "あはは。大丈夫だって。"
+            },
             "voice": "event/Event_016/Event_016_05/event_016_05_049.mp3"
         },
         {
@@ -438,8 +630,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "いたっ！！！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "いたっ！！！"
+            },
             "voice": "event/Event_016/Event_016_05/event_016_05_050.mp3"
         },
         {
@@ -447,8 +643,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "わっ！　痛そう……。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "わっ！　痛そう……。"
+            },
             "voice": "event/Event_016/Event_016_05/event_016_05_051.mp3"
         },
         {
@@ -456,8 +656,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "悠希ちゃん大丈夫！？\nもう、危ないって言ったのに……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "悠希ちゃん大丈夫！？\nもう、危ないって言ったのに……。"
+            },
             "voice": "event/Event_016/Event_016_05/event_016_05_052.mp3"
         },
         {
@@ -465,8 +669,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "あいたたたたた……、\n頭ぶつけちゃった。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "あいたたたたた……、\n頭ぶつけちゃった。"
+            },
             "voice": "event/Event_016/Event_016_05/event_016_05_053.mp3"
         },
         {
@@ -474,8 +682,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "大丈夫？　タンコブ出来た？\nねえアイリ、タンコブで合ってる？",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "大丈夫？　タンコブ出来た？\nねえアイリ、タンコブで合ってる？"
+            },
             "voice": "event/Event_016/Event_016_05/event_016_05_054.mp3"
         },
         {
@@ -483,8 +695,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "うん、大丈夫。\nあはは。ちょっと涙出ちゃった。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "うん、大丈夫。\nあはは。ちょっと涙出ちゃった。"
+            },
             "voice": "event/Event_016/Event_016_05/event_016_05_055.mp3"
         },
         {
@@ -492,8 +708,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "あー、あたし、これでも大きくなってたんだね。\n昔は頭ぶつけたりしなかったもん。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "あー、あたし、これでも大きくなってたんだね。\n昔は頭ぶつけたりしなかったもん。"
+            },
             "voice": "event/Event_016/Event_016_05/event_016_05_056.mp3"
         },
         {
@@ -501,8 +721,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "ふふっ。そうだね。\n悠希ちゃんもきっと、大きくなったんじゃないかな。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "ふふっ。そうだね。\n悠希ちゃんもきっと、大きくなったんじゃないかな。"
+            },
             "voice": "event/Event_016/Event_016_05/event_016_05_057.mp3"
         }
     ]

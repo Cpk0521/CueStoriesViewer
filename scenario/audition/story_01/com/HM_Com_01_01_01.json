@@ -6,8 +6,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "お疲れ様、陽菜。\n今日はいい感じだったね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "お疲れ様、陽菜。\n今日はいい感じだったね。"
+            },
             "voice": ""
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "はい、あんなに褒められるなんて、ビックリしました。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "はい、あんなに褒められるなんて、ビックリしました。"
+            },
             "voice": "audition/story_01/com/HM_Com_01_01_01/hm_com_01_01_01_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "あ、でも、きっと気をつかって言ってくれたかもしれませんし、\n浮かれちゃダメですね。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "あ、でも、きっと気をつかって言ってくれたかもしれませんし、\n浮かれちゃダメですね。"
+            },
             "voice": "audition/story_01/com/HM_Com_01_01_01/hm_com_01_01_01_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "あはは。そうかもしれないけど、\n少しは素直に受け取ってもいいと思うよ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "あはは。そうかもしれないけど、\n少しは素直に受け取ってもいいと思うよ。"
+            },
             "voice": ""
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "そう……、ですか？",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "そう……、ですか？"
+            },
             "voice": "audition/story_01/com/HM_Com_01_01_01/hm_com_01_01_01_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "うん。だって、陽菜は手を抜いてたわけじゃないでしょ？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "うん。だって、陽菜は手を抜いてたわけじゃないでしょ？"
+            },
             "voice": ""
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "はい！　もちろん一生懸命頑張りました。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "はい！　もちろん一生懸命頑張りました。"
+            },
             "voice": "audition/story_01/com/HM_Com_01_01_01/hm_com_01_01_01_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "あ……、そうですね。\n褒められたら、嬉しいって思っていいんですよね。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "あ……、そうですね。\n褒められたら、嬉しいって思っていいんですよね。"
+            },
             "voice": "audition/story_01/com/HM_Com_01_01_01/hm_com_01_01_01_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そうそう、それが一番だよ！",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そうそう、それが一番だよ！"
+            },
             "voice": ""
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "はい……。ありがとうございます、マネージャーさん。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "はい……。ありがとうございます、マネージャーさん。"
+            },
             "voice": "audition/story_01/com/HM_Com_01_01_01/hm_com_01_01_01_010.mp3"
         }
     ]

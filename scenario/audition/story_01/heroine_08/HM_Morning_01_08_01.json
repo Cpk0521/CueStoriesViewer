@@ -6,8 +6,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "あ、マネージャー！\nGood morning！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "あ、マネージャー！\nGood morning！"
+            },
             "voice": "audition/story_01/heroine_08/HM_Morning_01_08_01/hm_morning_01_08_01_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "とーっても素敵な朝ね！\nなんだか喉の調子も良いの。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "とーっても素敵な朝ね！\nなんだか喉の調子も良いの。"
+            },
             "voice": "audition/story_01/heroine_08/HM_Morning_01_08_01/hm_morning_01_08_01_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "うふふ！　楽しい1日の始まりね！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "うふふ！　楽しい1日の始まりね！"
+            },
             "voice": "audition/story_01/heroine_08/HM_Morning_01_08_01/hm_morning_01_08_01_003.mp3"
         }
     ]

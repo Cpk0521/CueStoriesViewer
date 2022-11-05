@@ -6,8 +6,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "マネージャー、聞いて！\n今日は帰ったら、アイリのファッションショーをするの！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "マネージャー、聞いて！\n今日は帰ったら、アイリのファッションショーをするの！"
+            },
             "voice": "audition/story_01/heroine_07/HM_Cast_01_07_08_04/hm_cast_01_07_08_04_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "ゆ、柚葉ちゃん……！\nマネージャーさんにまで言わなくても。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "ゆ、柚葉ちゃん……！\nマネージャーさんにまで言わなくても。"
+            },
             "voice": "audition/story_01/heroine_07/HM_Cast_01_07_08_04/hm_cast_01_07_08_04_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "あはは、楽しそうだね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "あはは、楽しそうだね。"
+            },
             "voice": ""
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "でしょ？\nアイリに私のお店の新作を着てもらうの。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "でしょ？\nアイリに私のお店の新作を着てもらうの。"
+            },
             "voice": "audition/story_01/heroine_07/HM_Cast_01_07_08_04/hm_cast_01_07_08_04_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "あいりに似合うかなぁ。\n柚葉ちゃんのお店のお洋服、すっごくかわいいし……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "あいりに似合うかなぁ。\n柚葉ちゃんのお店のお洋服、すっごくかわいいし……。"
+            },
             "voice": "audition/story_01/heroine_07/HM_Cast_01_07_08_04/hm_cast_01_07_08_04_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "似合うに決まってるじゃない。\nだって、アイリはとーってもキュートだもの！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "似合うに決まってるじゃない。\nだって、アイリはとーってもキュートだもの！"
+            },
             "voice": "audition/story_01/heroine_07/HM_Cast_01_07_08_04/hm_cast_01_07_08_04_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "それにね、寮のみんなに招待状も配ってるのよ。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "それにね、寮のみんなに招待状も配ってるのよ。"
+            },
             "voice": "audition/story_01/heroine_07/HM_Cast_01_07_08_04/hm_cast_01_07_08_04_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "そうなんだ……って、ええっ！？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "そうなんだ……って、ええっ！？"
+            },
             "voice": "audition/story_01/heroine_07/HM_Cast_01_07_08_04/hm_cast_01_07_08_04_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "うふふ！　そろそろ帰らないと、みんなを待たせちゃうわ。\nSee you！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "うふふ！　そろそろ帰らないと、みんなを待たせちゃうわ。\nSee you！"
+            },
             "voice": "audition/story_01/heroine_07/HM_Cast_01_07_08_04/hm_cast_01_07_08_04_009.mp3"
         }
     ]

@@ -6,8 +6,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "はい、皆いるね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "はい、皆いるね。"
+            },
             "voice": ""
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "いるよー。\n……聡里も、来てくれたのね。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "いるよー。\n……聡里も、来てくれたのね。"
+            },
             "voice": "event/Event_002/Event_002_10/event_002_10_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "……収録までの道は同じだしね。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "……収録までの道は同じだしね。"
+            },
             "voice": "event/Event_002/Event_002_10/event_002_10_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "さとちん、ありがとー！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "さとちん、ありがとー！"
+            },
             "voice": "event/Event_002/Event_002_10/event_002_10_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "別に、お礼を言われるようなことはしてないわ。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "別に、お礼を言われるようなことはしてないわ。"
+            },
             "voice": "event/Event_002/Event_002_10/event_002_10_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "皆！　あくまで無事に収録を終えるのが目的だから、\n無理のないようにしてね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "皆！　あくまで無事に収録を終えるのが目的だから、\n無理のないようにしてね。"
+            },
             "voice": ""
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "はーい！\n負けないぞー。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "はーい！\n負けないぞー。"
+            },
             "voice": "event/Event_002/Event_002_10/event_002_10_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "競争じゃないから。\n走ったり、競ったりして、ケガをすることのないように。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "競争じゃないから。\n走ったり、競ったりして、ケガをすることのないように。"
+            },
             "voice": ""
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "まったく、こんな事して何の意味があるのかしら。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "まったく、こんな事して何の意味があるのかしら。"
+            },
             "voice": "event/Event_002/Event_002_10/event_002_10_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "へへへ。だって楽しいんだもん！\nみんなで歩くの。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "へへへ。だって楽しいんだもん！\nみんなで歩くの。"
+            },
             "voice": "event/Event_002/Event_002_10/event_002_10_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "はい、それじゃ、準備はいい？\nしゅっぱーつ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "はい、それじゃ、準備はいい？\nしゅっぱーつ。"
+            },
             "voice": ""
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "あ、あとついでだけど。\n……凛音、昨日はありがとうね。あと利恵も。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "あ、あとついでだけど。\n……凛音、昨日はありがとうね。あと利恵も。"
+            },
             "voice": "event/Event_002/Event_002_10/event_002_10_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "え！？\nぜんぜん、なんかしたっけ？",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "え！？\nぜんぜん、なんかしたっけ？"
+            },
             "voice": "event/Event_002/Event_002_10/event_002_10_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "我輩は何もしていないけど？",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "我輩は何もしていないけど？"
+            },
             "voice": "event/Event_002/Event_002_10/event_002_10_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "昨日もあれからずっと考えてて……。\nでも私、決めたよ。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "昨日もあれからずっと考えてて……。\nでも私、決めたよ。"
+            },
             "voice": "event/Event_002/Event_002_10/event_002_10_015.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "決めた？\nなにを？",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "決めた？\nなにを？"
+            },
             "voice": "event/Event_002/Event_002_10/event_002_10_016.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "これで終わりにする。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "これで終わりにする。"
+            },
             "voice": "event/Event_002/Event_002_10/event_002_10_017.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "……終わりにするって。\n……まさか、さとちん。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "……終わりにするって。\n……まさか、さとちん。"
+            },
             "voice": "event/Event_002/Event_002_10/event_002_10_018.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "声優辞めるとかじゃないよ。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "声優辞めるとかじゃないよ。"
+            },
             "voice": "event/Event_002/Event_002_10/event_002_10_019.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "なんだー、びっくりしちゃったー。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "なんだー、びっくりしちゃったー。"
+            },
             "voice": "event/Event_002/Event_002_10/event_002_10_020.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "母さんと競うことを止める。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "母さんと競うことを止める。"
+            },
             "voice": "event/Event_002/Event_002_10/event_002_10_021.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "……競ってたの？",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "……競ってたの？"
+            },
             "voice": "event/Event_002/Event_002_10/event_002_10_022.mp3"
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "前にさ、母さんと共演の仕事、\n断ったことあったじゃない？",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "前にさ、母さんと共演の仕事、\n断ったことあったじゃない？"
+            },
             "voice": "event/Event_002/Event_002_10/event_002_10_023.mp3"
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "うん。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "うん。"
+            },
             "voice": "event/Event_002/Event_002_10/event_002_10_024.mp3"
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "今思えば、ばかなことしたなぁって思ってて。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "今思えば、ばかなことしたなぁって思ってて。"
+            },
             "voice": "event/Event_002/Event_002_10/event_002_10_025.mp3"
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "そうだよー、もったいなかったよ。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "そうだよー、もったいなかったよ。"
+            },
             "voice": "event/Event_002/Event_002_10/event_002_10_026.mp3"
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "でもあの時は、母さんと肩を並べるような力がないと、\nやっちゃいけないんだ、と思った。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "でもあの時は、母さんと肩を並べるような力がないと、\nやっちゃいけないんだ、と思った。"
+            },
             "voice": "event/Event_002/Event_002_10/event_002_10_027.mp3"
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "でも、そんな基準じゃ、いつまで経っても追いつけない。\n自分で、自分に許可をしてあげなきゃって……、",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "でも、そんな基準じゃ、いつまで経っても追いつけない。\n自分で、自分に許可をしてあげなきゃって……、"
+            },
             "voice": "event/Event_002/Event_002_10/event_002_10_028.mp3"
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "思えるようになったんだ。牛の話を聞いて。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "思えるようになったんだ。牛の話を聞いて。"
+            },
             "voice": "event/Event_002/Event_002_10/event_002_10_029.mp3"
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "牛、役に立った？　\nうまくしゃべれてたか心配で。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "牛、役に立った？　\nうまくしゃべれてたか心配で。"
+            },
             "voice": "event/Event_002/Event_002_10/event_002_10_030.mp3"
         },
         {
@@ -276,8 +396,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "つまり、アウトプットするものに価値があるのではなくて、\n何をインプットしたかで価値が決まるってことよね？",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "つまり、アウトプットするものに価値があるのではなくて、\n何をインプットしたかで価値が決まるってことよね？"
+            },
             "voice": "event/Event_002/Event_002_10/event_002_10_031.mp3"
         },
         {
@@ -285,8 +409,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "よく分からないけど、多分そう！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "よく分からないけど、多分そう！"
+            },
             "voice": "event/Event_002/Event_002_10/event_002_10_032.mp3"
         },
         {
@@ -294,8 +422,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "私にとっては、話の内容よりも、凛音そのものに価値がある。\nそれと、みんな……。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "私にとっては、話の内容よりも、凛音そのものに価値がある。\nそれと、みんな……。"
+            },
             "voice": "event/Event_002/Event_002_10/event_002_10_033.mp3"
         },
         {
@@ -303,8 +435,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "ありがとう、みんな。\n私なんかと一緒に歩いてくれて。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "ありがとう、みんな。\n私なんかと一緒に歩いてくれて。"
+            },
             "voice": "event/Event_002/Event_002_10/event_002_10_034.mp3"
         },
         {
@@ -312,8 +448,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "それが、チームだと思う。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "それが、チームだと思う。"
+            },
             "voice": "event/Event_002/Event_002_10/event_002_10_035.mp3"
         },
         {
@@ -321,8 +461,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "ふっ。当たり前の事だ。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "ふっ。当たり前の事だ。"
+            },
             "voice": "event/Event_002/Event_002_10/event_002_10_036.mp3"
         },
         {
@@ -330,8 +474,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "だから、エゴサーチなんかして。\n自分を卑下するようなことも止める。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "だから、エゴサーチなんかして。\n自分を卑下するようなことも止める。"
+            },
             "voice": "event/Event_002/Event_002_10/event_002_10_037.mp3"
         },
         {
@@ -339,8 +487,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "そうだよ！\n……ってごめん、エゴサーチってなに？",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "そうだよ！\n……ってごめん、エゴサーチってなに？"
+            },
             "voice": "event/Event_002/Event_002_10/event_002_10_038.mp3"
         },
         {
@@ -348,8 +500,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "ネットで自分を検索すること。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "ネットで自分を検索すること。"
+            },
             "voice": "event/Event_002/Event_002_10/event_002_10_039.mp3"
         },
         {
@@ -357,8 +513,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "私のできることを一生懸命やる。\n私は声優が好きだから、それを一生懸命やる。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "私のできることを一生懸命やる。\n私は声優が好きだから、それを一生懸命やる。"
+            },
             "voice": "event/Event_002/Event_002_10/event_002_10_040.mp3"
         },
         {
@@ -366,8 +526,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "うん！　それでいいと思う！\nリエンヌもほら、しゃべったほうが元気でるよ。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "うん！　それでいいと思う！\nリエンヌもほら、しゃべったほうが元気でるよ。"
+            },
             "voice": "event/Event_002/Event_002_10/event_002_10_041.mp3"
         },
         {
@@ -375,8 +539,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "……1つ、言っていいか？",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "……1つ、言っていいか？"
+            },
             "voice": "event/Event_002/Event_002_10/event_002_10_042.mp3"
         },
         {
@@ -384,8 +552,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "いいよ、ほら、大きな声で！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "いいよ、ほら、大きな声で！"
+            },
             "voice": "event/Event_002/Event_002_10/event_002_10_043.mp3"
         },
         {
@@ -393,8 +565,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "そろそろ休憩しない？",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "そろそろ休憩しない？"
+            },
             "voice": "event/Event_002/Event_002_10/event_002_10_044.mp3"
         },
         {
@@ -402,8 +578,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "ええ！？\nもう？　",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "ええ！？\nもう？　"
+            },
             "voice": "event/Event_002/Event_002_10/event_002_10_045.mp3"
         },
         {
@@ -411,8 +591,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "体力づくりはしてるつもりなんだけど、\nどうも伸びなやんでて……。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "体力づくりはしてるつもりなんだけど、\nどうも伸びなやんでて……。"
+            },
             "voice": "event/Event_002/Event_002_10/event_002_10_046.mp3"
         },
         {
@@ -420,8 +604,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "まあ、みなが見ていなければ、\n翼をはやして飛んでいくところだが。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "まあ、みなが見ていなければ、\n翼をはやして飛んでいくところだが。"
+            },
             "voice": "event/Event_002/Event_002_10/event_002_10_047.mp3"
         },
         {
@@ -429,8 +617,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "うふっ、遠慮しないで飛んじゃえば？",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "うふっ、遠慮しないで飛んじゃえば？"
+            },
             "voice": "event/Event_002/Event_002_10/event_002_10_048.mp3"
         },
         {
@@ -438,8 +630,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "いや、遠慮しておく。\nはい、休憩―。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "いや、遠慮しておく。\nはい、休憩―。"
+            },
             "voice": "event/Event_002/Event_002_10/event_002_10_049.mp3"
         },
         {
@@ -447,8 +643,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "えー、もうすぐじゃーん、歩こうよー。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "えー、もうすぐじゃーん、歩こうよー。"
+            },
             "voice": "event/Event_002/Event_002_10/event_002_10_050.mp3"
         },
         {
@@ -456,8 +656,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "みんなで一緒に行こうよ凛音。\n私達がこうしていられるのも、ほんの少しの時間なんだから。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "みんなで一緒に行こうよ凛音。\n私達がこうしていられるのも、ほんの少しの時間なんだから。"
+            },
             "voice": "event/Event_002/Event_002_10/event_002_10_051.mp3"
         },
         {
@@ -465,8 +669,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "いや、まだまだいっぱいあるよ！\nだってこの先、こんな機会いくらでもあるんだから！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "いや、まだまだいっぱいあるよ！\nだってこの先、こんな機会いくらでもあるんだから！"
+            },
             "voice": "event/Event_002/Event_002_10/event_002_10_052.mp3"
         },
         {
@@ -474,8 +682,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "そうね。\nだから、休憩しよう。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "そうね。\nだから、休憩しよう。"
+            },
             "voice": "event/Event_002/Event_002_10/event_002_10_053.mp3"
         },
         {
@@ -483,8 +695,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "もう、リエンヌは体力ないなぁ。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "もう、リエンヌは体力ないなぁ。"
+            },
             "voice": "event/Event_002/Event_002_10/event_002_10_054.mp3"
         },
         {
@@ -492,8 +708,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "ちなみに私も限界。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "ちなみに私も限界。"
+            },
             "voice": "event/Event_002/Event_002_10/event_002_10_055.mp3"
         },
         {
@@ -501,8 +721,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "りょーかい！\nそれじゃあ少し休もっか！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "りょーかい！\nそれじゃあ少し休もっか！"
+            },
             "voice": "event/Event_002/Event_002_10/event_002_10_056.mp3"
         }
     ]

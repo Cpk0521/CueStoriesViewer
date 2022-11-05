@@ -6,8 +6,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "マネージャー……これって、夢じゃないですよね？",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "マネージャー……これって、夢じゃないですよね？"
+            },
             "voice": "audition/story_01/heroine_10/HM_Ending_01_10_01/hm_ending_01_10_01_000.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "うん、夢じゃないよ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "うん、夢じゃないよ。"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "私……受かったんだ。\n……全然、実感湧かないです。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "私……受かったんだ。\n……全然、実感湧かないです。"
+            },
             "voice": "audition/story_01/heroine_10/HM_Ending_01_10_01/hm_ending_01_10_01_000.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "でも、絢が選ばれたんだよ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "でも、絢が選ばれたんだよ。"
+            },
             "voice": ""
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "そう、なんですよね。\n……私が、選ばれたんですよね。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "そう、なんですよね。\n……私が、選ばれたんですよね。"
+            },
             "voice": "audition/story_01/heroine_10/HM_Ending_01_10_01/hm_ending_01_10_01_000.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "ふふっ……嬉しい。\nどう言ったらいいかわからないけど。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "ふふっ……嬉しい。\nどう言ったらいいかわからないけど。"
+            },
             "voice": "audition/story_01/heroine_10/HM_Ending_01_10_01/hm_ending_01_10_01_000.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "でも、きっと私ひとりの力じゃなくて。\nマネージャーが、支えてくれたからで。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "でも、きっと私ひとりの力じゃなくて。\nマネージャーが、支えてくれたからで。"
+            },
             "voice": "audition/story_01/heroine_10/HM_Ending_01_10_01/hm_ending_01_10_01_000.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "……だって、私がくじけずにいられたのは、\nマネージャーのおかげだから。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "……だって、私がくじけずにいられたのは、\nマネージャーのおかげだから。"
+            },
             "voice": "audition/story_01/heroine_10/HM_Ending_01_10_01/hm_ending_01_10_01_000.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "本当に、ありがとうございました。\n……私、この役を大事にしていきます。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "本当に、ありがとうございました。\n……私、この役を大事にしていきます。"
+            },
             "voice": "audition/story_01/heroine_10/HM_Ending_01_10_01/hm_ending_01_10_01_000.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "ふう……。\nやっと、ちょっとだけ落ち着きました。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "ふう……。\nやっと、ちょっとだけ落ち着きました。"
+            },
             "voice": "audition/story_01/heroine_10/HM_Ending_01_10_01/hm_ending_01_10_01_001.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そっか。\nでも本当に、受かって良かったね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そっか。\nでも本当に、受かって良かったね。"
+            },
             "voice": ""
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "はい……。\nまだ、信じられないです。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "はい……。\nまだ、信じられないです。"
+            },
             "voice": "audition/story_01/heroine_10/HM_Ending_01_10_01/hm_ending_01_10_01_003.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "もしかしたら、私の想像上の出来事なのかなって。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "もしかしたら、私の想像上の出来事なのかなって。"
+            },
             "voice": "audition/story_01/heroine_10/HM_Ending_01_10_01/hm_ending_01_10_01_004.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "……でも、選んでもらえたからには、\nきちんと応えたいです。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "……でも、選んでもらえたからには、\nきちんと応えたいです。"
+            },
             "voice": "audition/story_01/heroine_10/HM_Ending_01_10_01/hm_ending_01_10_01_005.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "……収録の事とか考えると、すごく緊張するし、\nお腹痛くなっちゃうけど。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "……収録の事とか考えると、すごく緊張するし、\nお腹痛くなっちゃうけど。"
+            },
             "voice": "audition/story_01/heroine_10/HM_Ending_01_10_01/hm_ending_01_10_01_006.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "あはは、絢は考えることが早いね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "あはは、絢は考えることが早いね。"
+            },
             "voice": ""
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "……はい。\n今から少し怖いです。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "……はい。\n今から少し怖いです。"
+            },
             "voice": "audition/story_01/heroine_10/HM_Ending_01_10_01/hm_ending_01_10_01_008.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "でも、私が選ばれたってことは、\n誰かがダメだったってことですよね。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "でも、私が選ばれたってことは、\n誰かがダメだったってことですよね。"
+            },
             "voice": "audition/story_01/heroine_10/HM_Ending_01_10_01/hm_ending_01_10_01_009.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "その誰かの立場だったら、\n中途半端なことされたら、絶対に嫌だと思うから。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "その誰かの立場だったら、\n中途半端なことされたら、絶対に嫌だと思うから。"
+            },
             "voice": "audition/story_01/heroine_10/HM_Ending_01_10_01/hm_ending_01_10_01_010.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "だから、私は……私を選んでくれた人や、\n選ばれなかった人たちも、納得する演技がしたい。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "だから、私は……私を選んでくれた人や、\n選ばれなかった人たちも、納得する演技がしたい。"
+            },
             "voice": "audition/story_01/heroine_10/HM_Ending_01_10_01/hm_ending_01_10_01_011.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "だから、そのための努力を私はするんだって、\n心に決めたんです。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "だから、そのための努力を私はするんだって、\n心に決めたんです。"
+            },
             "voice": "audition/story_01/heroine_10/HM_Ending_01_10_01/hm_ending_01_10_01_012.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そっか。\nそんな絢だからこそ、合格したんだろうね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そっか。\nそんな絢だからこそ、合格したんだろうね。"
+            },
             "voice": ""
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "そうなんでしょうか……。\n私には……これくらいしかできないから。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "そうなんでしょうか……。\n私には……これくらいしかできないから。"
+            },
             "voice": "audition/story_01/heroine_10/HM_Ending_01_10_01/hm_ending_01_10_01_014.mp3"
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "それが難しいんだよ。\n合格して気が抜ける事もあるだろうし。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "それが難しいんだよ。\n合格して気が抜ける事もあるだろうし。"
+            },
             "voice": ""
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "気を抜くなんて……。\nそんなこと、できないです。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "気を抜くなんて……。\nそんなこと、できないです。"
+            },
             "voice": "audition/story_01/heroine_10/HM_Ending_01_10_01/hm_ending_01_10_01_016.mp3"
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "むしろこれからのほうが、\n頑張らないといけなくて。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "むしろこれからのほうが、\n頑張らないといけなくて。"
+            },
             "voice": "audition/story_01/heroine_10/HM_Ending_01_10_01/hm_ending_01_10_01_017.mp3"
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "うん、そうだね。\nこれからも全力でサポートするよ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "うん、そうだね。\nこれからも全力でサポートするよ。"
+            },
             "voice": ""
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "……あの、マネージャー。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "……あの、マネージャー。"
+            },
             "voice": "audition/story_01/heroine_10/HM_Ending_01_10_01/hm_ending_01_10_01_019.mp3"
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "ん？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "ん？"
+            },
             "voice": ""
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "きっと色々迷惑かけるかもしれないけど……。\nこれからも、よろしくお願いします。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "きっと色々迷惑かけるかもしれないけど……。\nこれからも、よろしくお願いします。"
+            },
             "voice": "audition/story_01/heroine_10/HM_Ending_01_10_01/hm_ending_01_10_01_021.mp3"
         }
     ]

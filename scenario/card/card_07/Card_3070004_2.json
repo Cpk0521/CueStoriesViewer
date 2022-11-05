@@ -6,8 +6,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "あいたたた……。\nワンちゃん、大丈夫？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "あいたたた……。\nワンちゃん、大丈夫？"
+            },
             "voice": "card/Card_07/Card_3070004_2/card_3070004_2_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "大丈夫そうだね、良かったぁ。\nなんなのこの穴……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "大丈夫そうだね、良かったぁ。\nなんなのこの穴……。"
+            },
             "voice": "card/Card_07/Card_3070004_2/card_3070004_2_003.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "……でも、夜を過ごすのにはちょうどいいかも。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "……でも、夜を過ごすのにはちょうどいいかも。"
+            },
             "voice": "card/Card_07/Card_3070004_2/card_3070004_2_004.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "だれか、あいりから連絡は？",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "だれか、あいりから連絡は？"
+            },
             "voice": "card/Card_07/Card_3070004_2/card_3070004_2_005.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "ない。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "ない。"
+            },
             "voice": "card/Card_07/Card_3070004_2/card_3070004_2_006.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "メールしても既読にならない。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "メールしても既読にならない。"
+            },
             "voice": "card/Card_07/Card_3070004_2/card_3070004_2_007.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "あいりが行きそうな場所、思いつく人は？",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "あいりが行きそうな場所、思いつく人は？"
+            },
             "voice": "card/Card_07/Card_3070004_2/card_3070004_2_008.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "全然。\nプチキュアショーとか？",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "全然。\nプチキュアショーとか？"
+            },
             "voice": "card/Card_07/Card_3070004_2/card_3070004_2_009.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "私、ちょっとあいりの部屋見てくる。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "私、ちょっとあいりの部屋見てくる。"
+            },
             "voice": "card/Card_07/Card_3070004_2/card_3070004_2_010.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "自分は、近所を探してみる。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "自分は、近所を探してみる。"
+            },
             "voice": ""
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "どうしたんだろう……。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "どうしたんだろう……。"
+            },
             "voice": "card/Card_07/Card_3070004_2/card_3070004_2_012.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "……。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "……。"
+            },
             "voice": "card/Card_07/Card_3070004_2/card_3070004_2_013.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 0
             ],
-            "name": "チワワ",
-            "message": "ヘッヘッヘッ",
+            "name": {
+                "default": "チワワ"
+            },
+            "message": {
+                "default": "ヘッヘッヘッ"
+            },
             "voice": ""
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "今、あかりつけるね。\nペンライトだけど……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "今、あかりつけるね。\nペンライトだけど……。"
+            },
             "voice": "card/Card_07/Card_3070004_2/card_3070004_2_015.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "……お腹すいた？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "……お腹すいた？"
+            },
             "voice": "card/Card_07/Card_3070004_2/card_3070004_2_016.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 0
             ],
-            "name": "チワワ",
-            "message": "クゥーン",
+            "name": {
+                "default": "チワワ"
+            },
+            "message": {
+                "default": "クゥーン"
+            },
             "voice": ""
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "ちくわ食べる？　\n夕ご飯にと思って買って来たの。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "ちくわ食べる？　\n夕ご飯にと思って買って来たの。"
+            },
             "voice": "card/Card_07/Card_3070004_2/card_3070004_2_018.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 0
             ],
-            "name": "チワワ",
-            "message": "ワンッ",
+            "name": {
+                "default": "チワワ"
+            },
+            "message": {
+                "default": "ワンッ"
+            },
             "voice": ""
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "書置きがあった。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "書置きがあった。"
+            },
             "voice": "card/Card_07/Card_3070004_2/card_3070004_2_020.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "なんて？",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "なんて？"
+            },
             "voice": "card/Card_07/Card_3070004_2/card_3070004_2_021.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "「旅に出ます。探さないでください」だって。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "「旅に出ます。探さないでください」だって。"
+            },
             "voice": "card/Card_07/Card_3070004_2/card_3070004_2_022.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "それだけ？",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "それだけ？"
+            },
             "voice": "card/Card_07/Card_3070004_2/card_3070004_2_023.mp3"
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "うん。\nスマホも部屋に置きっぱなしだった。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "うん。\nスマホも部屋に置きっぱなしだった。"
+            },
             "voice": "card/Card_07/Card_3070004_2/card_3070004_2_024.mp3"
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "そりゃ、繋がらないわけね。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "そりゃ、繋がらないわけね。"
+            },
             "voice": "card/Card_07/Card_3070004_2/card_3070004_2_025.mp3"
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "実家とか、連絡してみる？",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "実家とか、連絡してみる？"
+            },
             "voice": "card/Card_07/Card_3070004_2/card_3070004_2_026.mp3"
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "いや、待とう。\n変に慌てたら、あいりに恥をかかせることになるかもしれない。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "いや、待とう。\n変に慌てたら、あいりに恥をかかせることになるかもしれない。"
+            },
             "voice": "card/Card_07/Card_3070004_2/card_3070004_2_027.mp3"
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "なんでよ。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "なんでよ。"
+            },
             "voice": "card/Card_07/Card_3070004_2/card_3070004_2_028.mp3"
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "信じてあげよう。\nきっと大丈夫だよ。あいりなら。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "信じてあげよう。\nきっと大丈夫だよ。あいりなら。"
+            },
             "voice": "card/Card_07/Card_3070004_2/card_3070004_2_029.mp3"
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "ひっ。なに？　鳥？　\nこんな夜中に？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "ひっ。なに？　鳥？　\nこんな夜中に？"
+            },
             "voice": "card/Card_07/Card_3070004_2/card_3070004_2_030.mp3"
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "あれ……？\nお腹痛い。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "あれ……？\nお腹痛い。"
+            },
             "voice": "card/Card_07/Card_3070004_2/card_3070004_2_031.mp3"
         },
         {
@@ -276,8 +396,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "さっきのちくわかなぁ……。\nう、いたたた。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "さっきのちくわかなぁ……。\nう、いたたた。"
+            },
             "voice": "card/Card_07/Card_3070004_2/card_3070004_2_032.mp3"
         },
         {
@@ -285,8 +409,12 @@
             "heroineId": [
                 0
             ],
-            "name": "チワワ",
-            "message": "ワンッ",
+            "name": {
+                "default": "チワワ"
+            },
+            "message": {
+                "default": "ワンッ"
+            },
             "voice": ""
         },
         {
@@ -294,8 +422,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "良かった、君は大丈夫なんだね。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "良かった、君は大丈夫なんだね。"
+            },
             "voice": "card/Card_07/Card_3070004_2/card_3070004_2_034.mp3"
         },
         {
@@ -303,8 +435,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "でも……、うぅ、いたい……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "でも……、うぅ、いたい……。"
+            },
             "voice": "card/Card_07/Card_3070004_2/card_3070004_2_035.mp3"
         },
         {
@@ -312,8 +448,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "満点の星空のもと、大自然に囲まれながら、\n自分を見つめなおしてみたい。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "満点の星空のもと、大自然に囲まれながら、\n自分を見つめなおしてみたい。"
+            },
             "voice": "card/Card_07/Card_3070004_2/card_3070004_2_036.mp3"
         },
         {
@@ -321,8 +461,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "そう思って旅に出たのに……。\nうぅぅ、お腹いたいよぉ。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "そう思って旅に出たのに……。\nうぅぅ、お腹いたいよぉ。"
+            },
             "voice": "card/Card_07/Card_3070004_2/card_3070004_2_037.mp3"
         },
         {
@@ -330,8 +474,12 @@
             "heroineId": [
                 0
             ],
-            "name": "チワワ",
-            "message": "ワン！",
+            "name": {
+                "default": "チワワ"
+            },
+            "message": {
+                "default": "ワン！"
+            },
             "voice": ""
         },
         {
@@ -339,8 +487,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "みんな、今頃どうしてるかなぁ。会いたいよぉ……。\nうわーん、いたっ、うわーん、いたっ。いたいた……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "みんな、今頃どうしてるかなぁ。会いたいよぉ……。\nうわーん、いたっ、うわーん、いたっ。いたいた……。"
+            },
             "voice": "card/Card_07/Card_3070004_2/card_3070004_2_039.mp3"
         },
         {
@@ -348,8 +500,12 @@
             "heroineId": [
                 0
             ],
-            "name": "チワワ",
-            "message": "ワン、ワン、ワン、ワン、ワン！",
+            "name": {
+                "default": "チワワ"
+            },
+            "message": {
+                "default": "ワン、ワン、ワン、ワン、ワン！"
+            },
             "voice": ""
         },
         {
@@ -357,8 +513,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "ねえ、万が一のことがあったら、君がみんなに伝えてね。\n……みんなのことが大好きだったよって。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "ねえ、万が一のことがあったら、君がみんなに伝えてね。\n……みんなのことが大好きだったよって。"
+            },
             "voice": "card/Card_07/Card_3070004_2/card_3070004_2_041.mp3"
         },
         {
@@ -366,8 +526,12 @@
             "heroineId": [
                 0
             ],
-            "name": "チワワ",
-            "message": "ワン、ワン、ワン、ワン、ハイーン！",
+            "name": {
+                "default": "チワワ"
+            },
+            "message": {
+                "default": "ワン、ワン、ワン、ワン、ハイーン！"
+            },
             "voice": ""
         },
         {
@@ -375,8 +539,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "だ、だれ？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "だ、だれ？"
+            },
             "voice": "card/Card_07/Card_3070004_2/card_3070004_2_043.mp3"
         },
         {
@@ -384,8 +552,12 @@
             "heroineId": [
                 0
             ],
-            "name": "お婆さん",
-            "message": "なんだ、よしこ、ここにいたんけぇ？",
+            "name": {
+                "default": "お婆さん"
+            },
+            "message": {
+                "default": "なんだ、よしこ、ここにいたんけぇ？"
+            },
             "voice": ""
         },
         {
@@ -393,8 +565,12 @@
             "heroineId": [
                 0
             ],
-            "name": "チワワ",
-            "message": "ワン！",
+            "name": {
+                "default": "チワワ"
+            },
+            "message": {
+                "default": "ワン！"
+            },
             "voice": ""
         },
         {
@@ -402,8 +578,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "よしこ？　えっ……？\n夕方会った、おばあさん？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "よしこ？　えっ……？\n夕方会った、おばあさん？"
+            },
             "voice": "card/Card_07/Card_3070004_2/card_3070004_2_046.mp3"
         },
         {
@@ -411,8 +591,12 @@
             "heroineId": [
                 0
             ],
-            "name": "お婆さん",
-            "message": "はぁ？　めんこい子じゃねえのぉ、\nこんなとこでなにしてんだぁ？",
+            "name": {
+                "default": "お婆さん"
+            },
+            "message": {
+                "default": "はぁ？　めんこい子じゃねえのぉ、\nこんなとこでなにしてんだぁ？"
+            },
             "voice": ""
         },
         {
@@ -420,8 +604,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "おばあさんこそ、こんな山の中で……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "おばあさんこそ、こんな山の中で……。"
+            },
             "voice": "card/Card_07/Card_3070004_2/card_3070004_2_048.mp3"
         },
         {
@@ -429,8 +617,12 @@
             "heroineId": [
                 0
             ],
-            "name": "お婆さん",
-            "message": "ばかなこと言ってんでねえよ。\nここは家の裏庭だよ。",
+            "name": {
+                "default": "お婆さん"
+            },
+            "message": {
+                "default": "ばかなこと言ってんでねえよ。\nここは家の裏庭だよ。"
+            },
             "voice": ""
         },
         {
@@ -438,8 +630,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "ええぇ？　",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "ええぇ？　"
+            },
             "voice": "card/Card_07/Card_3070004_2/card_3070004_2_050.mp3"
         },
         {
@@ -447,8 +643,12 @@
             "heroineId": [
                 0
             ],
-            "name": "お婆さん",
-            "message": "こんなとこで寝そべってねえでぇ、\n早く、家ン中はいれ。",
+            "name": {
+                "default": "お婆さん"
+            },
+            "message": {
+                "default": "こんなとこで寝そべってねえでぇ、\n早く、家ン中はいれ。"
+            },
             "voice": ""
         },
         {
@@ -456,8 +656,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "でもあいり……。\n1人の力で過ごしたくて……、ただ……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "でもあいり……。\n1人の力で過ごしたくて……、ただ……。"
+            },
             "voice": "card/Card_07/Card_3070004_2/card_3070004_2_052.mp3"
         },
         {
@@ -465,8 +669,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "とりあえず……。\nお手洗いお借りできますか？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "とりあえず……。\nお手洗いお借りできますか？"
+            },
             "voice": "card/Card_07/Card_3070004_2/card_3070004_2_053.mp3"
         },
         {
@@ -474,8 +682,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "ぅん？　朝か……。\nだれ？　そこに立ってるの。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "ぅん？　朝か……。\nだれ？　そこに立ってるの。"
+            },
             "voice": "card/Card_07/Card_3070004_2/card_3070004_2_054.mp3"
         },
         {
@@ -483,8 +695,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "……みんな、リビングで横になって……。\nどうしたの？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "……みんな、リビングで横になって……。\nどうしたの？"
+            },
             "voice": "card/Card_07/Card_3070004_2/card_3070004_2_055.mp3"
         },
         {
@@ -492,8 +708,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "あいり……！？\nなに言ってるの、あんたのこと心配して、みんな待ってたのよ。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "あいり……！？\nなに言ってるの、あんたのこと心配して、みんな待ってたのよ。"
+            },
             "voice": "card/Card_07/Card_3070004_2/card_3070004_2_056.mp3"
         },
         {
@@ -501,8 +721,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "そうか……。\nごめんなさい。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "そうか……。\nごめんなさい。"
+            },
             "voice": "card/Card_07/Card_3070004_2/card_3070004_2_057.mp3"
         },
         {
@@ -510,8 +734,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "どこにいってたの？　\n野宿したの？　",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "どこにいってたの？　\n野宿したの？　"
+            },
             "voice": ""
         },
         {
@@ -519,8 +747,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "田舎街の……、おばあさんの家の……。\n高級な布団で寝てました。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "田舎街の……、おばあさんの家の……。\n高級な布団で寝てました。"
+            },
             "voice": "card/Card_07/Card_3070004_2/card_3070004_2_059.mp3"
         },
         {
@@ -528,8 +760,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "どういうことよ！　\nもっと詳しく説明しなさい！",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "どういうことよ！　\nもっと詳しく説明しなさい！"
+            },
             "voice": "card/Card_07/Card_3070004_2/card_3070004_2_060.mp3"
         },
         {
@@ -537,8 +773,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "旅に行ってたんだよね。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "旅に行ってたんだよね。"
+            },
             "voice": "card/Card_07/Card_3070004_2/card_3070004_2_061.mp3"
         },
         {
@@ -546,8 +786,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "えっ……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "えっ……。"
+            },
             "voice": "card/Card_07/Card_3070004_2/card_3070004_2_062.mp3"
         },
         {
@@ -555,8 +799,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "旅から帰ったんでしょ？　\nお帰り。待ってたよ。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "旅から帰ったんでしょ？　\nお帰り。待ってたよ。"
+            },
             "voice": "card/Card_07/Card_3070004_2/card_3070004_2_063.mp3"
         },
         {
@@ -564,8 +812,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "……うえっ、うえーんっ。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "……うえっ、うえーんっ。"
+            },
             "voice": "card/Card_07/Card_3070004_2/card_3070004_2_064.mp3"
         },
         {
@@ -573,8 +825,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "もう……。\nあんまり心配させないでよね。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "もう……。\nあんまり心配させないでよね。"
+            },
             "voice": "card/Card_07/Card_3070004_2/card_3070004_2_065.mp3"
         },
         {
@@ -582,8 +838,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "う、うん。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "う、うん。"
+            },
             "voice": "card/Card_07/Card_3070004_2/card_3070004_2_066.mp3"
         },
         {
@@ -591,8 +851,12 @@
             "heroineId": [
                 103
             ],
-            "name": "由良桐香",
-            "message": "よし！　恵庭さん。\nよく出来きたわよ。",
+            "name": {
+                "default": "由良桐香"
+            },
+            "message": {
+                "default": "よし！　恵庭さん。\nよく出来きたわよ。"
+            },
             "voice": "card/Card_07/Card_3070004_2/card_3070004_2_067.mp3"
         },
         {
@@ -600,8 +864,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "……そうですかぁ？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "……そうですかぁ？"
+            },
             "voice": "card/Card_07/Card_3070004_2/card_3070004_2_068.mp3"
         },
         {
@@ -609,8 +877,12 @@
             "heroineId": [
                 103
             ],
-            "name": "由良桐香",
-            "message": "力が抜けて、よりあなたらしくなった。\nそれでいいのよ。",
+            "name": {
+                "default": "由良桐香"
+            },
+            "message": {
+                "default": "力が抜けて、よりあなたらしくなった。\nそれでいいのよ。"
+            },
             "voice": "card/Card_07/Card_3070004_2/card_3070004_2_069.mp3"
         },
         {
@@ -618,8 +890,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "はぁ。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "はぁ。"
+            },
             "voice": "card/Card_07/Card_3070004_2/card_3070004_2_070.mp3"
         },
         {
@@ -627,8 +903,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "なんか……、元気ないね、あいり。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "なんか……、元気ないね、あいり。"
+            },
             "voice": "card/Card_07/Card_3070004_2/card_3070004_2_071.mp3"
         },
         {
@@ -636,8 +916,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "でも演技は良くなった。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "でも演技は良くなった。"
+            },
             "voice": "card/Card_07/Card_3070004_2/card_3070004_2_072.mp3"
         },
         {
@@ -645,8 +929,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "そりゃそうかもだけど……。\n家出が計画通りいかなかったからかなぁ。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "そりゃそうかもだけど……。\n家出が計画通りいかなかったからかなぁ。"
+            },
             "voice": "card/Card_07/Card_3070004_2/card_3070004_2_073.mp3"
         },
         {
@@ -654,8 +942,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "懲りてないよ、あの子。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "懲りてないよ、あの子。"
+            },
             "voice": "card/Card_07/Card_3070004_2/card_3070004_2_074.mp3"
         },
         {
@@ -663,8 +955,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "へっ？",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "へっ？"
+            },
             "voice": "card/Card_07/Card_3070004_2/card_3070004_2_075.mp3"
         },
         {
@@ -672,8 +968,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "この前書店でね？",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "この前書店でね？"
+            },
             "voice": "card/Card_07/Card_3070004_2/card_3070004_2_076.mp3"
         },
         {
@@ -681,8 +981,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "登山の本見て勉強してた。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "登山の本見て勉強してた。"
+            },
             "voice": "card/Card_07/Card_3070004_2/card_3070004_2_077.mp3"
         },
         {
@@ -690,8 +994,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "ふむふむ、なるほど……。\n次は絶対心配させないぞ！",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "ふむふむ、なるほど……。\n次は絶対心配させないぞ！"
+            },
             "voice": "card/Card_07/Card_3070004_2/card_3070004_2_078.mp3"
         },
         {
@@ -699,8 +1007,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "可愛い子には旅をさせろ！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "可愛い子には旅をさせろ！"
+            },
             "voice": "card/Card_07/Card_3070004_2/card_3070004_2_079.mp3"
         },
         {
@@ -708,8 +1020,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "って、家出はダメでしょ……。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "って、家出はダメでしょ……。"
+            },
             "voice": "card/Card_07/Card_3070004_2/card_3070004_2_080.mp3"
         }
     ]

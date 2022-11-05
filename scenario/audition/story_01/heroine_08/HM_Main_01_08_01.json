@@ -6,8 +6,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "おはよう、マネージャー。\nちょうど良かったわ。",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "おはよう、マネージャー。\nちょうど良かったわ。"
+            },
             "voice": "audition/story_01/heroine_08/HM_Main_01_08_01/hm_main_01_08_01_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "今度、柚葉をこのオーディションに出してみようと思うの。",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "今度、柚葉をこのオーディションに出してみようと思うの。"
+            },
             "voice": "audition/story_01/heroine_08/HM_Main_01_08_01/hm_main_01_08_01_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "「空繰戯曲グレイゼファー」……、ですか。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "「空繰戯曲グレイゼファー」……、ですか。"
+            },
             "voice": ""
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "そう、あの子にちょうど合うと思って。",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "そう、あの子にちょうど合うと思って。"
+            },
             "voice": "audition/story_01/heroine_08/HM_Main_01_08_01/hm_main_01_08_01_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "りおにもサポートするように言ってあるから、よろしくね。",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "りおにもサポートするように言ってあるから、よろしくね。"
+            },
             "voice": "audition/story_01/heroine_08/HM_Main_01_08_01/hm_main_01_08_01_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "そういうこと！\n頑張ってね！",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "そういうこと！\n頑張ってね！"
+            },
             "voice": "audition/story_01/heroine_08/HM_Main_01_08_01/hm_main_01_08_01_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "新しいオーディションね！\nうふふ、楽しみだわ！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "新しいオーディションね！\nうふふ、楽しみだわ！"
+            },
             "voice": "audition/story_01/heroine_08/HM_Main_01_08_01/hm_main_01_08_01_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "それはよかった。\nはい、これが資料。目を通しておいてね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "それはよかった。\nはい、これが資料。目を通しておいてね。"
+            },
             "voice": ""
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "「空繰戯曲グレイゼファー」……。\nねえマネージャー、これ、どんな作品なの？",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "「空繰戯曲グレイゼファー」……。\nねえマネージャー、これ、どんな作品なの？"
+            },
             "voice": "audition/story_01/heroine_08/HM_Main_01_08_01/hm_main_01_08_01_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "特殊能力とか、メカとかが出てくる話みたいだよ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "特殊能力とか、メカとかが出てくる話みたいだよ。"
+            },
             "voice": ""
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "ワオ！　なんだか楽しそう！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "ワオ！　なんだか楽しそう！"
+            },
             "voice": "audition/story_01/heroine_08/HM_Main_01_08_01/hm_main_01_08_01_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "ねえマネージャー。\nここで少し読んでいってもいい？",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "ねえマネージャー。\nここで少し読んでいってもいい？"
+            },
             "voice": "audition/story_01/heroine_08/HM_Main_01_08_01/hm_main_01_08_01_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "この作品のこと、早く知りたいの！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "この作品のこと、早く知りたいの！"
+            },
             "voice": "audition/story_01/heroine_08/HM_Main_01_08_01/hm_main_01_08_01_013.mp3"
         }
     ]

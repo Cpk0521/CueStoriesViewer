@@ -6,8 +6,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "ジャーマネ。\n寒い。寒すぎる。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "ジャーマネ。\n寒い。寒すぎる。"
+            },
             "voice": "audition/story_01/heroine_03/HM_Sub_01_03_19/hm_sub_01_03_19_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "え、そんなに？\nエアコンの温度上げようか。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "え、そんなに？\nエアコンの温度上げようか。"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "部屋が暖まるまで待てと？\n凍えてしまう。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "部屋が暖まるまで待てと？\n凍えてしまう。"
+            },
             "voice": "audition/story_01/heroine_03/HM_Sub_01_03_19/hm_sub_01_03_19_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "やはりこういう時はこたつが最適解。\nよしこたつだ。こたつを置こう。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "やはりこういう時はこたつが最適解。\nよしこたつだ。こたつを置こう。"
+            },
             "voice": "audition/story_01/heroine_03/HM_Sub_01_03_19/hm_sub_01_03_19_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "それ……。社長に怒られるの自分なんだけど。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "それ……。社長に怒られるの自分なんだけど。"
+            },
             "voice": ""
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "何かを成すには犠牲がつきもの。\nそうだろ、ジャーマネ？",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "何かを成すには犠牲がつきもの。\nそうだろ、ジャーマネ？"
+            },
             "voice": "audition/story_01/heroine_03/HM_Sub_01_03_19/hm_sub_01_03_19_006.mp3"
         }
     ]

@@ -6,8 +6,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "おーい、まほろ、美晴。\n何のんびり歩いてんのー？",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "おーい、まほろ、美晴。\n何のんびり歩いてんのー？"
+            },
             "voice": "lesson/Lesson_31509/lesson_31509_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "はーい。急ぎまーす。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "はーい。急ぎまーす。"
+            },
             "voice": "lesson/Lesson_31509/lesson_31509_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "ま、細かいことは聞かないけど。\nつまり美晴はその夢で、さっきの……。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "ま、細かいことは聞かないけど。\nつまり美晴はその夢で、さっきの……。"
+            },
             "voice": "lesson/Lesson_31509/lesson_31509_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "あの歌の歌詞をどう訳すか掴んだってこと、でしょ？",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "あの歌の歌詞をどう訳すか掴んだってこと、でしょ？"
+            },
             "voice": "lesson/Lesson_31509/lesson_31509_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "ふふ。そうね。\nまほろの言う通り。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "ふふ。そうね。\nまほろの言う通り。"
+            },
             "voice": "lesson/Lesson_31509/lesson_31509_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "じゃあ、まあ、そういうことでいいんじゃない？",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "じゃあ、まあ、そういうことでいいんじゃない？"
+            },
             "voice": "lesson/Lesson_31509/lesson_31509_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "夢だろうが白昼夢だろうが、幻想だろうがさ。\nそれに……、赤い風船を見たんだとしても。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "夢だろうが白昼夢だろうが、幻想だろうがさ。\nそれに……、赤い風船を見たんだとしても。"
+            },
             "voice": "lesson/Lesson_31509/lesson_31509_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "ほら、早く。\n次の電車来ちゃうよ。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "ほら、早く。\n次の電車来ちゃうよ。"
+            },
             "voice": "lesson/Lesson_31509/lesson_31509_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "はーい。今行きまーす。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "はーい。今行きまーす。"
+            },
             "voice": "lesson/Lesson_31509/lesson_31509_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "電車なんか次のでいいでしょ。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "電車なんか次のでいいでしょ。"
+            },
             "voice": "lesson/Lesson_31509/lesson_31509_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "ふふ。さ、まほろ、行きましょ。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "ふふ。さ、まほろ、行きましょ。"
+            },
             "voice": "lesson/Lesson_31509/lesson_31509_011.mp3"
         }
     ]

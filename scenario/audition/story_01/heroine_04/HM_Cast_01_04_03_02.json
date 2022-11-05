@@ -6,8 +6,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "ジャーマネ。\nお疲れちゃん。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "ジャーマネ。\nお疲れちゃん。"
+            },
             "voice": "audition/story_01/heroine_04/HM_Cast_01_04_03_02/hm_cast_01_04_03_02_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "志穂、最近レッスンの方ははかどってる？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "志穂、最近レッスンの方ははかどってる？"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "当ててみろ。\n正解したらハワイ旅行をプレゼントしよう。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "当ててみろ。\n正解したらハワイ旅行をプレゼントしよう。"
+            },
             "voice": "audition/story_01/heroine_04/HM_Cast_01_04_03_02/hm_cast_01_04_03_02_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "……その様子なら大丈夫そうだね。\n悩んでるんだったら、いつでも相談して？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "……その様子なら大丈夫そうだね。\n悩んでるんだったら、いつでも相談して？"
+            },
             "voice": ""
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "うむ、考えておこう。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "うむ、考えておこう。"
+            },
             "voice": "audition/story_01/heroine_04/HM_Cast_01_04_03_02/hm_cast_01_04_03_02_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "お疲れ様でーす。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "お疲れ様でーす。"
+            },
             "voice": "audition/story_01/heroine_04/HM_Cast_01_04_03_02/hm_cast_01_04_03_02_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "誰だ？",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "誰だ？"
+            },
             "voice": "audition/story_01/heroine_04/HM_Cast_01_04_03_02/hm_cast_01_04_03_02_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "……え？\nわたしだけど。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "……え？\nわたしだけど。"
+            },
             "voice": "audition/story_01/heroine_04/HM_Cast_01_04_03_02/hm_cast_01_04_03_02_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "はあ……わかってないな。\nほのかにはガッカリだ。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "はあ……わかってないな。\nほのかにはガッカリだ。"
+            },
             "voice": "audition/story_01/heroine_04/HM_Cast_01_04_03_02/hm_cast_01_04_03_02_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "……何が？",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "……何が？"
+            },
             "voice": "audition/story_01/heroine_04/HM_Cast_01_04_03_02/hm_cast_01_04_03_02_010.mp3"
         }
     ]

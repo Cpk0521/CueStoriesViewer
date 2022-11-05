@@ -6,8 +6,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "この絵馬をここに掛けて……、これでよしと。\nお姉ちゃんの安産もお願いしました。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "この絵馬をここに掛けて……、これでよしと。\nお姉ちゃんの安産もお願いしました。"
+            },
             "voice": "card/Card_15/Card_3150006_2/card_3150006_2_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "これで安心だね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "これで安心だね。"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "ええ。\n安心したら、お腹空いちゃった。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "ええ。\n安心したら、お腹空いちゃった。"
+            },
             "voice": "card/Card_15/Card_3150006_2/card_3150006_2_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "何か食べていく？\n奢るよ？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "何か食べていく？\n奢るよ？"
+            },
             "voice": ""
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "ホントですか！？",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "ホントですか！？"
+            },
             "voice": "card/Card_15/Card_3150006_2/card_3150006_2_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "みんなには内緒ね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "みんなには内緒ね。"
+            },
             "voice": ""
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "やった～！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "やった～！"
+            },
             "voice": "card/Card_15/Card_3150006_2/card_3150006_2_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "あっちにファミレスあったから、あそこ行こうか。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "あっちにファミレスあったから、あそこ行こうか。"
+            },
             "voice": ""
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "ね、マネージャーさん。\nそこの商店街見ていきませんか？",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "ね、マネージャーさん。\nそこの商店街見ていきませんか？"
+            },
             "voice": "card/Card_15/Card_3150006_2/card_3150006_2_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "商店街？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "商店街？"
+            },
             "voice": ""
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "うわあ、いろんな店がある！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "うわあ、いろんな店がある！"
+            },
             "voice": "card/Card_15/Card_3150006_2/card_3150006_2_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "ホントだ。\n賑やかだね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "ホントだ。\n賑やかだね。"
+            },
             "voice": ""
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "ご飯、ここで買ってもいいですか？",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "ご飯、ここで買ってもいいですか？"
+            },
             "voice": "card/Card_15/Card_3150006_2/card_3150006_2_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "もちろん。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "もちろん。"
+            },
             "voice": ""
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "どれにしよ～。\nアイス……、綿菓子……、たい焼き……。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "どれにしよ～。\nアイス……、綿菓子……、たい焼き……。"
+            },
             "voice": "card/Card_15/Card_3150006_2/card_3150006_2_015.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "もっと主食になるものにしなよ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "もっと主食になるものにしなよ。"
+            },
             "voice": ""
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "じゃ、タコ焼きは？\nわたし、食べたことないんですよ。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "じゃ、タコ焼きは？\nわたし、食べたことないんですよ。"
+            },
             "voice": "card/Card_15/Card_3150006_2/card_3150006_2_017.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "タコ焼き食べたことないの！？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "タコ焼き食べたことないの！？"
+            },
             "voice": ""
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "そんなに驚くことですか？",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "そんなに驚くことですか？"
+            },
             "voice": "card/Card_15/Card_3150006_2/card_3150006_2_019.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "結構、珍しいんじゃない？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "結構、珍しいんじゃない？"
+            },
             "voice": ""
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "これって、タコを焼いてるんですか？",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "これって、タコを焼いてるんですか？"
+            },
             "voice": "card/Card_15/Card_3150006_2/card_3150006_2_021.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "タコの切り身が中に入っているんだよ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "タコの切り身が中に入っているんだよ。"
+            },
             "voice": ""
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "まわりの茶色いのは？",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "まわりの茶色いのは？"
+            },
             "voice": "card/Card_15/Card_3150006_2/card_3150006_2_023.mp3"
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "あれは何だろ……。\nタコ焼き粉かな？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "あれは何だろ……。\nタコ焼き粉かな？"
+            },
             "voice": ""
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "上にかかってる茶色いのは、チョコレートですか？",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "上にかかってる茶色いのは、チョコレートですか？"
+            },
             "voice": "card/Card_15/Card_3150006_2/card_3150006_2_025.mp3"
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "ソースだよ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "ソースだよ。"
+            },
             "voice": ""
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "緑のは抹茶？",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "緑のは抹茶？"
+            },
             "voice": "card/Card_15/Card_3150006_2/card_3150006_2_027.mp3"
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "青のり。\nスイーツじゃないんだよ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "青のり。\nスイーツじゃないんだよ。"
+            },
             "voice": ""
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "じゃ、あれは鰹節ですか？",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "じゃ、あれは鰹節ですか？"
+            },
             "voice": "card/Card_15/Card_3150006_2/card_3150006_2_029.mp3"
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そう。正解。\nあとは、マヨネーズをかけて紅しょうがを添えて、完成。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そう。正解。\nあとは、マヨネーズをかけて紅しょうがを添えて、完成。"
+            },
             "voice": ""
         },
         {
@@ -276,8 +396,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "美味しそう！\n1つください！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "美味しそう！\n1つください！"
+            },
             "voice": "card/Card_15/Card_3150006_2/card_3150006_2_031.mp3"
         },
         {
@@ -285,8 +409,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "それじゃ、はじめてのタコ焼き。\nいただきま～す！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "それじゃ、はじめてのタコ焼き。\nいただきま～す！"
+            },
             "voice": "card/Card_15/Card_3150006_2/card_3150006_2_032.mp3"
         },
         {
@@ -294,8 +422,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "熱いから、気をつけてね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "熱いから、気をつけてね。"
+            },
             "voice": ""
         },
         {
@@ -303,8 +435,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "あつ！　はふはふ……、へも……。\nへも……、ほいひい！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "あつ！　はふはふ……、へも……。\nへも……、ほいひい！"
+            },
             "voice": "card/Card_15/Card_3150006_2/card_3150006_2_034.mp3"
         },
         {
@@ -312,8 +448,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "でも、美味しいってこと？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "でも、美味しいってこと？"
+            },
             "voice": ""
         },
         {
@@ -321,8 +461,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "はふいへほ、ほいひい！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "はふいへほ、ほいひい！"
+            },
             "voice": "card/Card_15/Card_3150006_2/card_3150006_2_036.mp3"
         },
         {
@@ -330,8 +474,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "熱いけど、美味しい？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "熱いけど、美味しい？"
+            },
             "voice": ""
         },
         {
@@ -339,8 +487,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "へいはい！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "へいはい！"
+            },
             "voice": "card/Card_15/Card_3150006_2/card_3150006_2_038.mp3"
         },
         {
@@ -348,8 +500,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "正解か……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "正解か……。"
+            },
             "voice": ""
         },
         {
@@ -357,8 +513,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "ああ……、熱かった……。\nでも、すっごく美味しい！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "ああ……、熱かった……。\nでも、すっごく美味しい！"
+            },
             "voice": "card/Card_15/Card_3150006_2/card_3150006_2_040.mp3"
         },
         {
@@ -366,8 +526,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "よかった。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "よかった。"
+            },
             "voice": ""
         },
         {
@@ -375,8 +539,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "タコ焼き最高！\nこれから毎日タコ焼きでもいい！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "タコ焼き最高！\nこれから毎日タコ焼きでもいい！"
+            },
             "voice": "card/Card_15/Card_3150006_2/card_3150006_2_042.mp3"
         },
         {
@@ -384,8 +552,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "いや、さすがに飽きるでしょ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "いや、さすがに飽きるでしょ。"
+            },
             "voice": ""
         },
         {
@@ -393,8 +565,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "マネージャーさん、もう1個買ってもいいですか？",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "マネージャーさん、もう1個買ってもいいですか？"
+            },
             "voice": "card/Card_15/Card_3150006_2/card_3150006_2_044.mp3"
         },
         {
@@ -402,8 +578,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "えっ？\n別にいいけど……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "えっ？\n別にいいけど……。"
+            },
             "voice": ""
         },
         {
@@ -411,8 +591,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "みんなへのお土産も買っていいですか？",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "みんなへのお土産も買っていいですか？"
+            },
             "voice": "card/Card_15/Card_3150006_2/card_3150006_2_046.mp3"
         },
         {
@@ -420,8 +604,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "内緒なのに……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "内緒なのに……。"
+            },
             "voice": ""
         },
         {
@@ -429,8 +617,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "内緒なんて悪いですよ！\nこんなに美味しいのに！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "内緒なんて悪いですよ！\nこんなに美味しいのに！"
+            },
             "voice": "card/Card_15/Card_3150006_2/card_3150006_2_048.mp3"
         },
         {
@@ -438,8 +630,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そうだね……、いいよ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そうだね……、いいよ。"
+            },
             "voice": ""
         },
         {
@@ -447,8 +643,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "すいません！\nタコ焼きあと3つください！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "すいません！\nタコ焼きあと3つください！"
+            },
             "voice": "card/Card_15/Card_3150006_2/card_3150006_2_050.mp3"
         },
         {
@@ -456,8 +656,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "（思わぬ出費だけど……。）",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "（思わぬ出費だけど……。）"
+            },
             "voice": ""
         },
         {
@@ -465,8 +669,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "マネージャーさん、そこのベンチで一緒に食べましょう！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "マネージャーさん、そこのベンチで一緒に食べましょう！"
+            },
             "voice": "card/Card_15/Card_3150006_2/card_3150006_2_052.mp3"
         },
         {
@@ -474,8 +682,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そうだね……、食べようか。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そうだね……、食べようか。"
+            },
             "voice": ""
         },
         {
@@ -483,8 +695,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "タコ焼き、サイコー！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "タコ焼き、サイコー！"
+            },
             "voice": "card/Card_15/Card_3150006_2/card_3150006_2_054.mp3"
         }
     ]

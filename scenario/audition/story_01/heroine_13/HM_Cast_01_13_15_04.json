@@ -6,8 +6,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "……あ、凛音。\n今日は泥だらけじゃないんだ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "……あ、凛音。\n今日は泥だらけじゃないんだ。"
+            },
             "voice": ""
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "はいっ！　今日はリエンヌと来たので、\n子どもたちと遊ぶのは、また今度です！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "はいっ！　今日はリエンヌと来たので、\n子どもたちと遊ぶのは、また今度です！"
+            },
             "voice": "audition/story_01/heroine_13/HM_Cast_01_13_15_04/hm_cast_01_13_15_04_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そっか。\nそういえば、この前も利恵と散歩に行ってたね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そっか。\nそういえば、この前も利恵と散歩に行ってたね。"
+            },
             "voice": ""
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "そうなんです！\n最近涼しいから、お散歩も気持ちよくって。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "そうなんです！\n最近涼しいから、お散歩も気持ちよくって。"
+            },
             "voice": "audition/story_01/heroine_13/HM_Cast_01_13_15_04/hm_cast_01_13_15_04_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "帰り道で、リエンヌと一緒に、ケーキを買ったんですよー。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "帰り道で、リエンヌと一緒に、ケーキを買ったんですよー。"
+            },
             "voice": "audition/story_01/heroine_13/HM_Cast_01_13_15_04/hm_cast_01_13_15_04_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "みんなで食べよーって。\nそれでその後、寮に帰ったら……。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "みんなで食べよーって。\nそれでその後、寮に帰ったら……。"
+            },
             "voice": "audition/story_01/heroine_13/HM_Cast_01_13_15_04/hm_cast_01_13_15_04_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "さとちんとなるちゃんが、ケーキ買ってたんです。\nしかも、おんなじホールケーキ！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "さとちんとなるちゃんが、ケーキ買ってたんです。\nしかも、おんなじホールケーキ！"
+            },
             "voice": "audition/story_01/heroine_13/HM_Cast_01_13_15_04/hm_cast_01_13_15_04_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "すごいでしょ！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "すごいでしょ！"
+            },
             "voice": "audition/story_01/heroine_13/HM_Cast_01_13_15_04/hm_cast_01_13_15_04_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "うん。\n皆の仲が良さそうで良かったよ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "うん。\n皆の仲が良さそうで良かったよ。"
+            },
             "voice": ""
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "はい！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "はい！"
+            },
             "voice": "audition/story_01/heroine_13/HM_Cast_01_13_15_04/hm_cast_01_13_15_04_010.mp3"
         }
     ]

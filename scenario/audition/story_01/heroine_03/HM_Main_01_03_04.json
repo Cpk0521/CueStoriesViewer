@@ -6,8 +6,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "お、ジャーマネじゃないか。\nお疲れ様。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "お、ジャーマネじゃないか。\nお疲れ様。"
+            },
             "voice": "audition/story_01/heroine_03/HM_Main_01_03_04/hm_main_01_03_04_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "お疲れ様。\nあと一週間後だけど、どう？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "お疲れ様。\nあと一週間後だけど、どう？"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "まぁ……ちょっとな。\nまだまだ課題はある。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "まぁ……ちょっとな。\nまだまだ課題はある。"
+            },
             "voice": "audition/story_01/heroine_03/HM_Main_01_03_04/hm_main_01_03_04_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そう。自分ができることなら手伝うから、言ってね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そう。自分ができることなら手伝うから、言ってね。"
+            },
             "voice": ""
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "ほう。手伝う、か。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "ほう。手伝う、か。"
+            },
             "voice": "audition/story_01/heroine_03/HM_Main_01_03_04/hm_main_01_03_04_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "あ……無理のない範囲の内容でお願いします。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "あ……無理のない範囲の内容でお願いします。"
+            },
             "voice": ""
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "日和ったな。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "日和ったな。"
+            },
             "voice": "audition/story_01/heroine_03/HM_Main_01_03_04/hm_main_01_03_04_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "まぁ、それはね……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "まぁ、それはね……。"
+            },
             "voice": ""
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "心外だな。\nジャーマネには、至って普通のことしかお願いしてないのに。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "心外だな。\nジャーマネには、至って普通のことしかお願いしてないのに。"
+            },
             "voice": "audition/story_01/heroine_03/HM_Main_01_03_04/hm_main_01_03_04_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "まあ、なんにせよ、手伝ってくれるのならありがたい。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "まあ、なんにせよ、手伝ってくれるのならありがたい。"
+            },
             "voice": "audition/story_01/heroine_03/HM_Main_01_03_04/hm_main_01_03_04_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "うん……お手柔らかにね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "うん……お手柔らかにね。"
+            },
             "voice": ""
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "本読みを手伝ってくれないか？",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "本読みを手伝ってくれないか？"
+            },
             "voice": "audition/story_01/heroine_03/HM_Main_01_03_04/hm_main_01_03_04_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "えっ、本読みって……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "えっ、本読みって……。"
+            },
             "voice": ""
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "本読みだ。\nそれだけ手伝ってくれればいい。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "本読みだ。\nそれだけ手伝ってくれればいい。"
+            },
             "voice": "audition/story_01/heroine_03/HM_Main_01_03_04/hm_main_01_03_04_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そ、そっか……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そ、そっか……。"
+            },
             "voice": ""
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "さすが、ジャーマネ。\nそう言ってくれると信じてたぞ。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "さすが、ジャーマネ。\nそう言ってくれると信じてたぞ。"
+            },
             "voice": "audition/story_01/heroine_03/HM_Main_01_03_04/hm_main_01_03_04_017.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "じゃ、遠慮なくみっちりぎっちり付き合ってもらう。\nできるまで帰れません。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "じゃ、遠慮なくみっちりぎっちり付き合ってもらう。\nできるまで帰れません。"
+            },
             "voice": "audition/story_01/heroine_03/HM_Main_01_03_04/hm_main_01_03_04_018.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "ほう。それだけじゃなくてもいいのか？\nそれはとてもありがたい。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "ほう。それだけじゃなくてもいいのか？\nそれはとてもありがたい。"
+            },
             "voice": "audition/story_01/heroine_03/HM_Main_01_03_04/hm_main_01_03_04_020.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "いやいや、他にも色々とお願いしたいことがあるのだよ。\nしっかり手伝ってくれたまえ、ジャーマネくん。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "いやいや、他にも色々とお願いしたいことがあるのだよ。\nしっかり手伝ってくれたまえ、ジャーマネくん。"
+            },
             "voice": "audition/story_01/heroine_03/HM_Main_01_03_04/hm_main_01_03_04_021.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "ふむ。ジャーマネは疑り深いな。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "ふむ。ジャーマネは疑り深いな。"
+            },
             "voice": "audition/story_01/heroine_03/HM_Main_01_03_04/hm_main_01_03_04_023.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "少しは担当のことを信じてみたらどうだ？\n信じるものは救われると言うだろ。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "少しは担当のことを信じてみたらどうだ？\n信じるものは救われると言うだろ。"
+            },
             "voice": "audition/story_01/heroine_03/HM_Main_01_03_04/hm_main_01_03_04_024.mp3"
         }
     ]

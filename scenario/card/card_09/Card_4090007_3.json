@@ -6,8 +6,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "ほら、もうすっかり雨上がり。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "ほら、もうすっかり雨上がり。"
+            },
             "voice": "card/Card_09/Card_4090007_3/card_4090007_3_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "ほんとだ。\nよかったよかった。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "ほんとだ。\nよかったよかった。"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "マネージャーさんは、このあとどうするんです？\n事務所に戻るんですか？",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "マネージャーさんは、このあとどうするんです？\n事務所に戻るんですか？"
+            },
             "voice": "card/Card_09/Card_4090007_3/card_4090007_3_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そうだね。\nまあ、戻るにしても、特に急ぎはしないかな。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そうだね。\nまあ、戻るにしても、特に急ぎはしないかな。"
+            },
             "voice": ""
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "美晴は？\n寮に戻るの？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "美晴は？\n寮に戻るの？"
+            },
             "voice": ""
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "そうですねえ……。\nどうしようかなあ。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "そうですねえ……。\nどうしようかなあ。"
+            },
             "voice": "card/Card_09/Card_4090007_3/card_4090007_3_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "とりあえず、事務所までご一緒しますね。\n方向同じですし。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "とりあえず、事務所までご一緒しますね。\n方向同じですし。"
+            },
             "voice": "card/Card_09/Card_4090007_3/card_4090007_3_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "美晴、なんだか気を使ってる？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "美晴、なんだか気を使ってる？"
+            },
             "voice": ""
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "え？　ぜんぜん、なんにもー。\nただ一緒に歩くだけですよー。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "え？　ぜんぜん、なんにもー。\nただ一緒に歩くだけですよー。"
+            },
             "voice": "card/Card_09/Card_4090007_3/card_4090007_3_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そう？　ならいいけど。\n美晴は気を使い過ぎるところがあるから……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そう？　ならいいけど。\n美晴は気を使い過ぎるところがあるから……。"
+            },
             "voice": ""
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "うふふ。\nぜんぜん、気なんか使ってませんよ―。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "うふふ。\nぜんぜん、気なんか使ってませんよ―。"
+            },
             "voice": "card/Card_09/Card_4090007_3/card_4090007_3_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "うん。\nわかった。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "うん。\nわかった。"
+            },
             "voice": ""
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "……雨上がりって気持ちいいですね。\n水の雫も、ほら、きらきら。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "……雨上がりって気持ちいいですね。\n水の雫も、ほら、きらきら。"
+            },
             "voice": "card/Card_09/Card_4090007_3/card_4090007_3_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "ほんとだ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "ほんとだ。"
+            },
             "voice": ""
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "きれい……。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "きれい……。"
+            },
             "voice": "card/Card_09/Card_4090007_3/card_4090007_3_015.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "うん。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "うん。"
+            },
             "voice": ""
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "うわぁ！　\nほら！　マネージャーさん！　向こう！",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "うわぁ！　\nほら！　マネージャーさん！　向こう！"
+            },
             "voice": "card/Card_09/Card_4090007_3/card_4090007_3_017.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "虹が出たね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "虹が出たね。"
+            },
             "voice": ""
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "うん。\n出た。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "うん。\n出た。"
+            },
             "voice": "card/Card_09/Card_4090007_3/card_4090007_3_019.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "美晴……、あの足元まで行ってみる？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "美晴……、あの足元まで行ってみる？"
+            },
             "voice": ""
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "え？　うふふ。やだ、マネージャーさん。\nさっきの話はもう忘れて？",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "え？　うふふ。やだ、マネージャーさん。\nさっきの話はもう忘れて？"
+            },
             "voice": "card/Card_09/Card_4090007_3/card_4090007_3_021.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そう？\n意外と近そうに見えるし、行けるかもよ？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そう？\n意外と近そうに見えるし、行けるかもよ？"
+            },
             "voice": ""
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "えー？\nけっこう遠そうですよ？",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "えー？\nけっこう遠そうですよ？"
+            },
             "voice": "card/Card_09/Card_4090007_3/card_4090007_3_023.mp3"
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "あれー。\nそうかな？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "あれー。\nそうかな？"
+            },
             "voice": ""
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "そうですよ。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "そうですよ。"
+            },
             "voice": "card/Card_09/Card_4090007_3/card_4090007_3_025.mp3"
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "……。"
+            },
             "voice": ""
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "虹はいつか消えてしまうけど……。\nそれでも、今あの虹を見てる。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "虹はいつか消えてしまうけど……。\nそれでも、今あの虹を見てる。"
+            },
             "voice": ""
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "うん。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "うん。"
+            },
             "voice": "card/Card_09/Card_4090007_3/card_4090007_3_028.mp3"
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "この虹、心に残しておこう。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "この虹、心に残しておこう。"
+            },
             "voice": ""
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "えっ？",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "えっ？"
+            },
             "voice": "card/Card_09/Card_4090007_3/card_4090007_3_030.mp3"
         },
         {
@@ -276,8 +396,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "たぶん美晴の言う通り、夢は虹みたいなものかもしれない。\nでも、だからこそ、精一杯胸に焼き付けたら良いんじゃないかな。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "たぶん美晴の言う通り、夢は虹みたいなものかもしれない。\nでも、だからこそ、精一杯胸に焼き付けたら良いんじゃないかな。"
+            },
             "voice": ""
         },
         {
@@ -285,8 +409,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "なかなかたどり着けない、幻のような夢。\nそれでも、遠い場所だとしても、確かに在って。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "なかなかたどり着けない、幻のような夢。\nそれでも、遠い場所だとしても、確かに在って。"
+            },
             "voice": ""
         },
         {
@@ -294,8 +422,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そして、2人で、今、こうやって見てるんだから、\n……ね？　絶対に忘れないように……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そして、2人で、今、こうやって見てるんだから、\n……ね？　絶対に忘れないように……。"
+            },
             "voice": ""
         },
         {
@@ -303,8 +435,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "……。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "……。"
+            },
             "voice": "card/Card_09/Card_4090007_3/card_4090007_3_034.mp3"
         },
         {
@@ -312,8 +448,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "……そうですね！\nふふ。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "……そうですね！\nふふ。"
+            },
             "voice": "card/Card_09/Card_4090007_3/card_4090007_3_035.mp3"
         },
         {
@@ -321,8 +461,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "もう、マネージャーさん。\nまるで2人の夢みたいな言い方。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "もう、マネージャーさん。\nまるで2人の夢みたいな言い方。"
+            },
             "voice": "card/Card_09/Card_4090007_3/card_4090007_3_036.mp3"
         },
         {
@@ -330,8 +474,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "え！？\nいや、ちが、そういう意味じゃなくて。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "え！？\nいや、ちが、そういう意味じゃなくて。"
+            },
             "voice": ""
         },
         {
@@ -339,8 +487,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "ふふ。冗談ですよ？\nそんなに焦らないでください。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "ふふ。冗談ですよ？\nそんなに焦らないでください。"
+            },
             "voice": "card/Card_09/Card_4090007_3/card_4090007_3_038.mp3"
         },
         {
@@ -348,8 +500,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "もう、今日は美晴の手のひらで転がされてばかりだな……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "もう、今日は美晴の手のひらで転がされてばかりだな……。"
+            },
             "voice": ""
         },
         {
@@ -357,8 +513,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "えー。\nなにそれ、ひどい！",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "えー。\nなにそれ、ひどい！"
+            },
             "voice": "card/Card_09/Card_4090007_3/card_4090007_3_040.mp3"
         },
         {
@@ -366,8 +526,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "ごめんごめん。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "ごめんごめん。"
+            },
             "voice": ""
         },
         {
@@ -375,8 +539,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "もう……。\nあ、虹！　ゆっくり消えてく……。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "もう……。\nあ、虹！　ゆっくり消えてく……。"
+            },
             "voice": "card/Card_09/Card_4090007_3/card_4090007_3_042.mp3"
         },
         {
@@ -384,8 +552,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "ほんとだ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "ほんとだ。"
+            },
             "voice": ""
         },
         {
@@ -393,8 +565,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "（うん、忘れないでいよう……。）",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "（うん、忘れないでいよう……。）"
+            },
             "voice": "card/Card_09/Card_4090007_3/card_4090007_3_044.mp3"
         },
         {
@@ -402,8 +578,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "（今日の……。2人で見た虹……。）",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "（今日の……。2人で見た虹……。）"
+            },
             "voice": "card/Card_09/Card_4090007_3/card_4090007_3_045.mp3"
         }
     ]

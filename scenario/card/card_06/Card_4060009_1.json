@@ -6,8 +6,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "えーっと、住所では、この辺だよね……。\nちょっと早く着きすぎちゃったな……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "えーっと、住所では、この辺だよね……。\nちょっと早く着きすぎちゃったな……。"
+            },
             "voice": ""
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "あ、あれ？　千紗？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "あ、あれ？　千紗？"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "あ、マネージャー。遅い！",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "あ、マネージャー。遅い！"
+            },
             "voice": "card/Card_06/Card_4060009_1/card_4060009_1_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "ええ？　早めのさらに早めに着いたのに……。\nもしかして、待ってたの？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "ええ？　早めのさらに早めに着いたのに……。\nもしかして、待ってたの？"
+            },
             "voice": ""
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "そ、そんなわけ無いでしょ！\nちょうど今来たとこです！",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "そ、そんなわけ無いでしょ！\nちょうど今来たとこです！"
+            },
             "voice": "card/Card_06/Card_4060009_1/card_4060009_1_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "その格好で？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "その格好で？"
+            },
             "voice": ""
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "こ、これは、今からやる舞台の衣装なんです！",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "こ、これは、今からやる舞台の衣装なんです！"
+            },
             "voice": "card/Card_06/Card_4060009_1/card_4060009_1_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "また凄く豪華なドレスだね……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "また凄く豪華なドレスだね……。"
+            },
             "voice": ""
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "でしょ？",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "でしょ？"
+            },
             "voice": "card/Card_06/Card_4060009_1/card_4060009_1_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そういえば何も内容を聞いてなかったんだけど、\n今日は一体どんな舞台なの？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そういえば何も内容を聞いてなかったんだけど、\n今日は一体どんな舞台なの？"
+            },
             "voice": ""
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "それ……、知りたいですか？",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "それ……、知りたいですか？"
+            },
             "voice": "card/Card_06/Card_4060009_1/card_4060009_1_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そりゃあ、少しは知っておきたいかな。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そりゃあ、少しは知っておきたいかな。"
+            },
             "voice": ""
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "シンデレラがモデルの現代劇なんです。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "シンデレラがモデルの現代劇なんです。"
+            },
             "voice": "card/Card_06/Card_4060009_1/card_4060009_1_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "えっと、シンデレラがモデルの現代劇と言うと？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "えっと、シンデレラがモデルの現代劇と言うと？"
+            },
             "voice": ""
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "そのままの意味です。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "そのままの意味です。"
+            },
             "voice": "card/Card_06/Card_4060009_1/card_4060009_1_015.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "両親を事故でなくした主人公が、親戚の家に引き取られて、\nそこでたくさんいじめられて……。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "両親を事故でなくした主人公が、親戚の家に引き取られて、\nそこでたくさんいじめられて……。"
+            },
             "voice": "card/Card_06/Card_4060009_1/card_4060009_1_016.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "最終的に、幸せになる。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "最終的に、幸せになる。"
+            },
             "voice": "card/Card_06/Card_4060009_1/card_4060009_1_017.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "確かにそのままの意味だね……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "確かにそのままの意味だね……。"
+            },
             "voice": ""
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "何ですか。気のない答え。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "何ですか。気のない答え。"
+            },
             "voice": "card/Card_06/Card_4060009_1/card_4060009_1_019.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "で、その衣装、千紗はシンデレラの役なの？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "で、その衣装、千紗はシンデレラの役なの？"
+            },
             "voice": ""
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "……。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "……。"
+            },
             "voice": "card/Card_06/Card_4060009_1/card_4060009_1_021.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "あれ？　どうしたの？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "あれ？　どうしたの？"
+            },
             "voice": ""
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "シンデレラじゃなくて、悪かったですね。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "シンデレラじゃなくて、悪かったですね。"
+            },
             "voice": "card/Card_06/Card_4060009_1/card_4060009_1_023.mp3"
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "え？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "え？"
+            },
             "voice": ""
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "……の役です。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "……の役です。"
+            },
             "voice": "card/Card_06/Card_4060009_1/card_4060009_1_025.mp3"
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "？"
+            },
             "voice": ""
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "お姉さんの役。\n意地悪なお姉さんの役です！",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "お姉さんの役。\n意地悪なお姉さんの役です！"
+            },
             "voice": "card/Card_06/Card_4060009_1/card_4060009_1_027.mp3"
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "ああ、なるほど！",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "ああ、なるほど！"
+            },
             "voice": ""
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "なるほどって何ですか？",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "なるほどって何ですか？"
+            },
             "voice": "card/Card_06/Card_4060009_1/card_4060009_1_029.mp3"
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "いやいや、そういう意味じゃなくて。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "いやいや、そういう意味じゃなくて。"
+            },
             "voice": ""
         },
         {
@@ -276,8 +396,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "ふん。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "ふん。"
+            },
             "voice": "card/Card_06/Card_4060009_1/card_4060009_1_031.mp3"
         },
         {
@@ -285,8 +409,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "マネージャー。開場にはまだ時間早いですし、\nちょっとその辺歩きましょうよ。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "マネージャー。開場にはまだ時間早いですし、\nちょっとその辺歩きましょうよ。"
+            },
             "voice": "card/Card_06/Card_4060009_1/card_4060009_1_032.mp3"
         },
         {
@@ -294,8 +422,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "いいけど、その衣装で歩くの？\n大丈夫？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "いいけど、その衣装で歩くの？\n大丈夫？"
+            },
             "voice": ""
         },
         {
@@ -303,8 +435,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "だって、こんな時くらいしか、\nマネージャーとゆっくりしゃべる機会、ないですし……。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "だって、こんな時くらいしか、\nマネージャーとゆっくりしゃべる機会、ないですし……。"
+            },
             "voice": "card/Card_06/Card_4060009_1/card_4060009_1_034.mp3"
         },
         {
@@ -312,8 +448,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "え？？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "え？？"
+            },
             "voice": ""
         },
         {
@@ -321,8 +461,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "え？　\nマネージャーとしゃべりたいって思うの、おかしいですか？",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "え？　\nマネージャーとしゃべりたいって思うの、おかしいですか？"
+            },
             "voice": "card/Card_06/Card_4060009_1/card_4060009_1_036.mp3"
         },
         {
@@ -330,8 +474,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "いや、おかしくはないけど……。\n自分と喋ることなんて、そんなないんじゃないかな？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "いや、おかしくはないけど……。\n自分と喋ることなんて、そんなないんじゃないかな？"
+            },
             "voice": ""
         },
         {
@@ -339,8 +487,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "そんな事ないです。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "そんな事ないです。"
+            },
             "voice": "card/Card_06/Card_4060009_1/card_4060009_1_038.mp3"
         },
         {
@@ -348,8 +500,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "ほら、早く行きますよ！　",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "ほら、早く行きますよ！　"
+            },
             "voice": "card/Card_06/Card_4060009_1/card_4060009_1_039.mp3"
         },
         {
@@ -357,8 +513,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "行きますよって……、どこへ？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "行きますよって……、どこへ？"
+            },
             "voice": ""
         },
         {
@@ -366,8 +526,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "その辺ですよ！　その辺！",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "その辺ですよ！　その辺！"
+            },
             "voice": "card/Card_06/Card_4060009_1/card_4060009_1_041.mp3"
         },
         {
@@ -375,8 +539,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "その辺……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "その辺……。"
+            },
             "voice": ""
         },
         {
@@ -384,8 +552,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "千紗、そのドレス歩きづらくないの？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "千紗、そのドレス歩きづらくないの？"
+            },
             "voice": ""
         },
         {
@@ -393,8 +565,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "別にそうでもないですよ。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "別にそうでもないですよ。"
+            },
             "voice": "card/Card_06/Card_4060009_1/card_4060009_1_044.mp3"
         },
         {
@@ -402,8 +578,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そう？　\nなんとなく街は歩きづらいんじゃないかなって。色々と。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そう？　\nなんとなく街は歩きづらいんじゃないかなって。色々と。"
+            },
             "voice": ""
         },
         {
@@ -411,8 +591,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そういえば、千紗はバイトでお姫様やってるんだっけ。\nだから、慣れてるのかな。色々と。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そういえば、千紗はバイトでお姫様やってるんだっけ。\nだから、慣れてるのかな。色々と。"
+            },
             "voice": ""
         },
         {
@@ -420,8 +604,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "えーっと、マネージャー。\nさっきから、ちょいちょい気になるんですけど。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "えーっと、マネージャー。\nさっきから、ちょいちょい気になるんですけど。"
+            },
             "voice": "card/Card_06/Card_4060009_1/card_4060009_1_047.mp3"
         },
         {
@@ -429,8 +617,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "何？　色々って？",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "何？　色々って？"
+            },
             "voice": "card/Card_06/Card_4060009_1/card_4060009_1_048.mp3"
         },
         {
@@ -438,8 +630,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "いや、悪い意味じゃなくて、その……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "いや、悪い意味じゃなくて、その……。"
+            },
             "voice": ""
         },
         {
@@ -447,8 +643,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "……。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "……。"
+            },
             "voice": "card/Card_06/Card_4060009_1/card_4060009_1_050.mp3"
         },
         {
@@ -456,8 +656,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "あ！　あのアクセサリー屋さん、かわいい！\nちょっと覗いてもいいですか？",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "あ！　あのアクセサリー屋さん、かわいい！\nちょっと覗いてもいいですか？"
+            },
             "voice": "card/Card_06/Card_4060009_1/card_4060009_1_051.mp3"
         },
         {
@@ -465,8 +669,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "自分は構わないけど、\nその服装だと店員さんがビックリするんじゃないかな？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "自分は構わないけど、\nその服装だと店員さんがビックリするんじゃないかな？"
+            },
             "voice": ""
         },
         {
@@ -474,8 +682,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "……。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "……。"
+            },
             "voice": "card/Card_06/Card_4060009_1/card_4060009_1_053.mp3"
         },
         {
@@ -483,8 +695,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "そんなに変……、かな？",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "そんなに変……、かな？"
+            },
             "voice": "card/Card_06/Card_4060009_1/card_4060009_1_054.mp3"
         },
         {
@@ -492,8 +708,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "いや、全然、そんなことはないよ。\nむしろ、凄く大人っぽいし、とても似合ってる。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "いや、全然、そんなことはないよ。\nむしろ、凄く大人っぽいし、とても似合ってる。"
+            },
             "voice": ""
         },
         {
@@ -501,8 +721,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "そう？　よかったー。そう言ってもらえて。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "そう？　よかったー。そう言ってもらえて。"
+            },
             "voice": "card/Card_06/Card_4060009_1/card_4060009_1_056.mp3"
         },
         {
@@ -510,8 +734,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "この街なら……、\nドレス着た女の子が店に入ってきても、そんなに驚かないかもね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "この街なら……、\nドレス着た女の子が店に入ってきても、そんなに驚かないかもね。"
+            },
             "voice": ""
         },
         {
@@ -519,8 +747,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "本当ですか？　じゃあ、お店入っちゃおうっと。\nほら、マネージャー、早く！",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "本当ですか？　じゃあ、お店入っちゃおうっと。\nほら、マネージャー、早く！"
+            },
             "voice": "card/Card_06/Card_4060009_1/card_4060009_1_058.mp3"
         },
         {
@@ -528,8 +760,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "ええ、自分はちょっと……、その、恥ずかしいなあ……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "ええ、自分はちょっと……、その、恥ずかしいなあ……。"
+            },
             "voice": ""
         }
     ]

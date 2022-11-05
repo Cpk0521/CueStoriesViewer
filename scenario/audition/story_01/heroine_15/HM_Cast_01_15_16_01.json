@@ -6,8 +6,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "マネージャー、お疲れ様です。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "マネージャー、お疲れ様です。"
+            },
             "voice": "audition/story_01/heroine_15/HM_Cast_01_15_16_01/hm_cast_01_15_16_01_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "お疲れ様、鳴。\n書類でちょっと確認したい事があるんだけど……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "お疲れ様、鳴。\n書類でちょっと確認したい事があるんだけど……。"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "なんですか？",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "なんですか？"
+            },
             "voice": "audition/story_01/heroine_15/HM_Cast_01_15_16_01/hm_cast_01_15_16_01_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "あ……でも今日はもう遅いかな。\n明日のレッスンの前とか、空いてる？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "あ……でも今日はもう遅いかな。\n明日のレッスンの前とか、空いてる？"
+            },
             "voice": ""
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "いえ、今聞きます。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "いえ、今聞きます。"
+            },
             "voice": "audition/story_01/heroine_15/HM_Cast_01_15_16_01/hm_cast_01_15_16_01_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "あ、そう？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "あ、そう？"
+            },
             "voice": ""
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "はい。\n明日はアプデ日なので、ギリギリまで寮にいます。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "はい。\n明日はアプデ日なので、ギリギリまで寮にいます。"
+            },
             "voice": "audition/story_01/heroine_15/HM_Cast_01_15_16_01/hm_cast_01_15_16_01_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "なので、用は今済ませてください。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "なので、用は今済ませてください。"
+            },
             "voice": "audition/story_01/heroine_15/HM_Cast_01_15_16_01/hm_cast_01_15_16_01_008.mp3"
         }
     ]

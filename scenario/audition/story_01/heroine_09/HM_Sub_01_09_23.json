@@ -6,8 +6,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "えーっと……、確か……。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "えーっと……、確か……。"
+            },
             "voice": "audition/story_01/heroine_09/HM_Sub_01_09_23/hm_sub_01_09_23_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "美晴、何を書いてるの？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "美晴、何を書いてるの？"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "あ、お疲れ様です、マネージャーさん。\n手帳にお仕事でお会いした方の名前を書いているんです。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "あ、お疲れ様です、マネージャーさん。\n手帳にお仕事でお会いした方の名前を書いているんです。"
+            },
             "voice": "audition/story_01/heroine_09/HM_Sub_01_09_23/hm_sub_01_09_23_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "一度きりの現場でも、\nスタッフさんとは他の現場でお会いすることもありますから。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "一度きりの現場でも、\nスタッフさんとは他の現場でお会いすることもありますから。"
+            },
             "voice": "audition/story_01/heroine_09/HM_Sub_01_09_23/hm_sub_01_09_23_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "流石、美晴、きちんとしてるね。\n他には何か書いてあるの？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "流石、美晴、きちんとしてるね。\n他には何か書いてあるの？"
+            },
             "voice": ""
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "え？　他ですか？\nうふふ、秘密です。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "え？　他ですか？\nうふふ、秘密です。"
+            },
             "voice": "audition/story_01/heroine_09/HM_Sub_01_09_23/hm_sub_01_09_23_006.mp3"
         }
     ]

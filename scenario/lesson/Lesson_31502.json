@@ -6,8 +6,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "おはようございます。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "おはようございます。"
+            },
             "voice": "lesson/Lesson_31502/lesson_31502_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "あれ？　美晴、今日はレッスンだっけ？\nまだ少し早くない？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "あれ？　美晴、今日はレッスンだっけ？\nまだ少し早くない？"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "はい。\n少しマネージャーさんに挨拶しようと思って。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "はい。\n少しマネージャーさんに挨拶しようと思って。"
+            },
             "voice": "lesson/Lesson_31502/lesson_31502_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "あはは。それはどうも。\nあ、レッスン室なら今は誰も使ってないからもう入れるよ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "あはは。それはどうも。\nあ、レッスン室なら今は誰も使ってないからもう入れるよ。"
+            },
             "voice": ""
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "はーい。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "はーい。"
+            },
             "voice": "lesson/Lesson_31502/lesson_31502_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "それじゃあ先に入って、\nみんなが来るまでピアノ弾いていようかしら。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "それじゃあ先に入って、\nみんなが来るまでピアノ弾いていようかしら。"
+            },
             "voice": "lesson/Lesson_31502/lesson_31502_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "うんうん。それがいいんじゃない？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "うんうん。それがいいんじゃない？"
+            },
             "voice": ""
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "あ、そうだ美晴。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "あ、そうだ美晴。"
+            },
             "voice": ""
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "はい。なんでしょう？",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "はい。なんでしょう？"
+            },
             "voice": "lesson/Lesson_31502/lesson_31502_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "この前、録音してもらった美晴の歌、\n取引先のプロデューサーさんにすごく喜んでもらえたよ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "この前、録音してもらった美晴の歌、\n取引先のプロデューサーさんにすごく喜んでもらえたよ。"
+            },
             "voice": ""
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "あら。そうですか。\nうふふ。赤ちゃんにも喜んでもらえたかしら。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "あら。そうですか。\nうふふ。赤ちゃんにも喜んでもらえたかしら。"
+            },
             "voice": "lesson/Lesson_31502/lesson_31502_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "うん。ぐずりだした時に聞かせると、すぐにぐっすりだって。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "うん。ぐずりだした時に聞かせると、すぐにぐっすりだって。"
+            },
             "voice": ""
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "一体どんな魔法だって、奥さんも驚いてるみたい。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "一体どんな魔法だって、奥さんも驚いてるみたい。"
+            },
             "voice": ""
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "うふふ。\nそれなら良かった。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "うふふ。\nそれなら良かった。"
+            },
             "voice": "lesson/Lesson_31502/lesson_31502_014.mp3"
         }
     ]

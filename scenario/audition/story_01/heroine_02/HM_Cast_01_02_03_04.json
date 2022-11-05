@@ -6,8 +6,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "お疲れ、ジャーマネ。\n舞花を知らないか？",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "お疲れ、ジャーマネ。\n舞花を知らないか？"
+            },
             "voice": "audition/story_01/heroine_02/HM_Cast_01_02_03_04/hm_cast_01_02_03_04_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "舞花なら台本読みしてるよ。\nまだ残るって。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "舞花なら台本読みしてるよ。\nまだ残るって。"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "そうか。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "そうか。"
+            },
             "voice": "audition/story_01/heroine_02/HM_Cast_01_02_03_04/hm_cast_01_02_03_04_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "志穂。もし舞花が困ってたら、\nその時は手伝ってあげてね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "志穂。もし舞花が困ってたら、\nその時は手伝ってあげてね。"
+            },
             "voice": ""
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "……考えておく。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "……考えておく。"
+            },
             "voice": "audition/story_01/heroine_02/HM_Cast_01_02_03_04/hm_cast_01_02_03_04_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "あいつはなんだかんだ、\n窮地も1人で乗り切れるタイプだからな。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "あいつはなんだかんだ、\n窮地も1人で乗り切れるタイプだからな。"
+            },
             "voice": "audition/story_01/heroine_02/HM_Cast_01_02_03_04/hm_cast_01_02_03_04_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そうなんだ。\n舞花のこと信頼してるんだね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そうなんだ。\n舞花のこと信頼してるんだね。"
+            },
             "voice": ""
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "信頼？\nあいつのしぶとさを知っているだけだ。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "信頼？\nあいつのしぶとさを知っているだけだ。"
+            },
             "voice": "audition/story_01/heroine_02/HM_Cast_01_02_03_04/hm_cast_01_02_03_04_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そういうことにしておくね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そういうことにしておくね。"
+            },
             "voice": ""
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "ふん。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "ふん。"
+            },
             "voice": "audition/story_01/heroine_02/HM_Cast_01_02_03_04/hm_cast_01_02_03_04_010.mp3"
         }
     ]

@@ -6,8 +6,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "これから事務所ですか、マネージャーさん。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "これから事務所ですか、マネージャーさん。"
+            },
             "voice": "audition/story_01/heroine_09/HM_Morning_01_09_02/hm_morning_01_09_02_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "うふふ、おはようございます。\n今日はとても過ごしやすい気温で助かりますね。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "うふふ、おはようございます。\n今日はとても過ごしやすい気温で助かりますね。"
+            },
             "voice": "audition/story_01/heroine_09/HM_Morning_01_09_02/hm_morning_01_09_02_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "こういう日は、いつも以上に頭も働きます。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "こういう日は、いつも以上に頭も働きます。"
+            },
             "voice": "audition/story_01/heroine_09/HM_Morning_01_09_02/hm_morning_01_09_02_003.mp3"
         }
     ]

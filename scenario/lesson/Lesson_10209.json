@@ -6,8 +6,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "みんな、いーよー。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "みんな、いーよー。"
+            },
             "voice": "lesson/Lesson_10209/lesson_10209_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "もう夜の10時だよ？　勝手にレッスン室入って、\n真咲さんとか桐香先生に叱られない？",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "もう夜の10時だよ？　勝手にレッスン室入って、\n真咲さんとか桐香先生に叱られない？"
+            },
             "voice": "lesson/Lesson_10209/lesson_10209_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "大丈夫だよ。\nどう？　あいり。スタジオみたいに暗いでしょ。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "大丈夫だよ。\nどう？　あいり。スタジオみたいに暗いでしょ。"
+            },
             "voice": "lesson/Lesson_10209/lesson_10209_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "今はそんなに怖くない。\nみんなと一緒だからかな？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "今はそんなに怖くない。\nみんなと一緒だからかな？"
+            },
             "voice": "lesson/Lesson_10209/lesson_10209_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "はい、解決。\nマネージャーとかに見つかる前に戻ろうよ。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "はい、解決。\nマネージャーとかに見つかる前に戻ろうよ。"
+            },
             "voice": "lesson/Lesson_10209/lesson_10209_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "ダメ。みんな良く聞いて。\nあたし達はここで合宿しようと思います！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "ダメ。みんな良く聞いて。\nあたし達はここで合宿しようと思います！"
+            },
             "voice": "lesson/Lesson_10209/lesson_10209_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "えっ！？\n合宿！？",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "えっ！？\n合宿！？"
+            },
             "voice": "lesson/Lesson_10209/lesson_10209_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "ここに……。\n泊まるの？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "ここに……。\n泊まるの？"
+            },
             "voice": "lesson/Lesson_10209/lesson_10209_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "そう！　一晩過ごしたら、\n絶対スタジオに慣れるはずだよ。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "そう！　一晩過ごしたら、\n絶対スタジオに慣れるはずだよ。"
+            },
             "voice": "lesson/Lesson_10209/lesson_10209_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "慣れたからって……。\nスタジオがアンラッキーな場所ってことは変わらないでしょ？",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "慣れたからって……。\nスタジオがアンラッキーな場所ってことは変わらないでしょ？"
+            },
             "voice": "lesson/Lesson_10209/lesson_10209_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "なんとかなるって。\nはい、ジュースと駄菓子一杯持って来たよ～。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "なんとかなるって。\nはい、ジュースと駄菓子一杯持って来たよ～。"
+            },
             "voice": "lesson/Lesson_10209/lesson_10209_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "……悠希ちゃん。\n……ありがとう。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "……悠希ちゃん。\n……ありがとう。"
+            },
             "voice": "lesson/Lesson_10209/lesson_10209_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "言ってくれれば食べ物用意したのに。\nとりあえずビスケット1キロしか持って来てないよ。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "言ってくれれば食べ物用意したのに。\nとりあえずビスケット1キロしか持って来てないよ。"
+            },
             "voice": "lesson/Lesson_10209/lesson_10209_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "よく持ってこれたわねそんなもの！？",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "よく持ってこれたわねそんなもの！？"
+            },
             "voice": "lesson/Lesson_10209/lesson_10209_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "さぁ今日は盛り上がろう！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "さぁ今日は盛り上がろう！"
+            },
             "voice": "lesson/Lesson_10209/lesson_10209_015.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "うん！",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "うん！"
+            },
             "voice": "lesson/Lesson_10209/lesson_10209_016.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "ここにいても大丈夫だってこと、\n証明してあげるからね。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "ここにいても大丈夫だってこと、\n証明してあげるからね。"
+            },
             "voice": "lesson/Lesson_10209/lesson_10209_017.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "ありがとう……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "ありがとう……。"
+            },
             "voice": "lesson/Lesson_10209/lesson_10209_018.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "あなた達！",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "あなた達！"
+            },
             "voice": "lesson/Lesson_10209/lesson_10209_019.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "りおさん！！\nマネージャーさんも！？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "りおさん！！\nマネージャーさんも！？"
+            },
             "voice": "lesson/Lesson_10209/lesson_10209_020.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "……ここで何をしているの？",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "……ここで何をしているの？"
+            },
             "voice": "lesson/Lesson_10209/lesson_10209_021.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "これは、ですね……。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "これは、ですね……。"
+            },
             "voice": "lesson/Lesson_10209/lesson_10209_022.mp3"
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "パーティーよ。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "パーティーよ。"
+            },
             "voice": "lesson/Lesson_10209/lesson_10209_023.mp3"
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "パーティー？\n誰かのお祝い？",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "パーティー？\n誰かのお祝い？"
+            },
             "voice": "lesson/Lesson_10209/lesson_10209_024.mp3"
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "違います、みんなあいりのためなんです。\n占いに悩んでいたら、みんなが力になってくれて……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "違います、みんなあいりのためなんです。\n占いに悩んでいたら、みんなが力になってくれて……。"
+            },
             "voice": "lesson/Lesson_10209/lesson_10209_025.mp3"
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "例の、スタジオに近づくなっていうあれ？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "例の、スタジオに近づくなっていうあれ？"
+            },
             "voice": ""
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "はい。\n慣れてしまえば、怖がる必要もないだろうって……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "はい。\n慣れてしまえば、怖がる必要もないだろうって……。"
+            },
             "voice": "lesson/Lesson_10209/lesson_10209_027.mp3"
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "なるほど……。でも勝手にレッスン室入っちゃだめだよ。\n守衛さんから怒られたんだからね。",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "なるほど……。でも勝手にレッスン室入っちゃだめだよ。\n守衛さんから怒られたんだからね。"
+            },
             "voice": "lesson/Lesson_10209/lesson_10209_028.mp3"
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "それはあたしが悪いんです、ごめんなさい……。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "それはあたしが悪いんです、ごめんなさい……。"
+            },
             "voice": "lesson/Lesson_10209/lesson_10209_029.mp3"
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "一言マネージャーに断るだけでいいんだから。\nそしたら何かあっても、この人のせいになるんだから。",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "一言マネージャーに断るだけでいいんだから。\nそしたら何かあっても、この人のせいになるんだから。"
+            },
             "voice": "lesson/Lesson_10209/lesson_10209_030.mp3"
         },
         {
@@ -276,8 +396,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "ちょっと待ってください。\nチーフマネージャーにあるまじき発言ですよ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "ちょっと待ってください。\nチーフマネージャーにあるまじき発言ですよ。"
+            },
             "voice": ""
         },
         {
@@ -285,8 +409,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "いや、ひと声かければさ、あいりちゃんに渡したいものも。\nもっと簡単に渡せたわけじゃん？",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "いや、ひと声かければさ、あいりちゃんに渡したいものも。\nもっと簡単に渡せたわけじゃん？"
+            },
             "voice": "lesson/Lesson_10209/lesson_10209_032.mp3"
         },
         {
@@ -294,8 +422,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "えっ……？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "えっ……？"
+            },
             "voice": "lesson/Lesson_10209/lesson_10209_033.mp3"
         },
         {
@@ -303,8 +435,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "はいこれ。\nマネージャーからあいりちゃんに開運グッズ。",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "はいこれ。\nマネージャーからあいりちゃんに開運グッズ。"
+            },
             "voice": "lesson/Lesson_10209/lesson_10209_034.mp3"
         },
         {
@@ -312,8 +448,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "開運グッズ？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "開運グッズ？"
+            },
             "voice": "lesson/Lesson_10209/lesson_10209_035.mp3"
         },
         {
@@ -321,8 +461,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "占いの結果を気にしないようにって、買い集めたの。\nこの人が。",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "占いの結果を気にしないようにって、買い集めたの。\nこの人が。"
+            },
             "voice": "lesson/Lesson_10209/lesson_10209_036.mp3"
         },
         {
@@ -330,8 +474,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "りおさんの提案でしょっ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "りおさんの提案でしょっ。"
+            },
             "voice": ""
         },
         {
@@ -339,8 +487,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "わざわざ買いに行ってくれるなんて、\nさすがマネージャー！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "わざわざ買いに行ってくれるなんて、\nさすがマネージャー！"
+            },
             "voice": "lesson/Lesson_10209/lesson_10209_038.mp3"
         },
         {
@@ -348,8 +500,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "ありがとうございます！",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "ありがとうございます！"
+            },
             "voice": "lesson/Lesson_10209/lesson_10209_039.mp3"
         },
         {
@@ -357,8 +513,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "いやいや……。\nじゃあ、帰りましょう、りおさん。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "いやいや……。\nじゃあ、帰りましょう、りおさん。"
+            },
             "voice": ""
         },
         {
@@ -366,8 +526,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "なんでよ？\nせっかくなんだし、わたし達もパーティー楽しもうよ。",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "なんでよ？\nせっかくなんだし、わたし達もパーティー楽しもうよ。"
+            },
             "voice": "lesson/Lesson_10209/lesson_10209_041.mp3"
         },
         {
@@ -375,8 +539,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "やめましょうって。大人の出る幕じゃないです。\nこういうのは本人達だけでやるものですから。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "やめましょうって。大人の出る幕じゃないです。\nこういうのは本人達だけでやるものですから。"
+            },
             "voice": ""
         },
         {
@@ -384,8 +552,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "そんな！　本当に嬉しいです！　\nみんな……。ありがとうございます！",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "そんな！　本当に嬉しいです！　\nみんな……。ありがとうございます！"
+            },
             "voice": "lesson/Lesson_10209/lesson_10209_043.mp3"
         },
         {
@@ -393,8 +565,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "……それじゃ、今晩だけ特別に、あと1時間だけ。\n1時間経ったら守衛さんに言って帰宅すること。いいね？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "……それじゃ、今晩だけ特別に、あと1時間だけ。\n1時間経ったら守衛さんに言って帰宅すること。いいね？"
+            },
             "voice": ""
         },
         {
@@ -402,8 +578,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "はい！\nわかりました！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "はい！\nわかりました！"
+            },
             "voice": "lesson/Lesson_10209/lesson_10209_045.mp3"
         },
         {
@@ -411,8 +591,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "それじゃりおさん、行きますよ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "それじゃりおさん、行きますよ。"
+            },
             "voice": ""
         },
         {
@@ -420,8 +604,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "なんでよぉ、もぉ。\nブゥ。",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "なんでよぉ、もぉ。\nブゥ。"
+            },
             "voice": "lesson/Lesson_10209/lesson_10209_047.mp3"
         },
         {
@@ -429,8 +617,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "ねっ？　あいり。\nスタジオに来ても、悪い事なんて起きなかったでしょ？",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "ねっ？　あいり。\nスタジオに来ても、悪い事なんて起きなかったでしょ？"
+            },
             "voice": "lesson/Lesson_10209/lesson_10209_048.mp3"
         },
         {
@@ -438,8 +630,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "もう、変な占いに惑わされないでね。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "もう、変な占いに惑わされないでね。"
+            },
             "voice": "lesson/Lesson_10209/lesson_10209_049.mp3"
         },
         {
@@ -447,8 +643,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "でも、一つ当たったよ！",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "でも、一つ当たったよ！"
+            },
             "voice": "lesson/Lesson_10209/lesson_10209_050.mp3"
         },
         {
@@ -456,8 +656,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "何が当たった？",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "何が当たった？"
+            },
             "voice": "lesson/Lesson_10209/lesson_10209_051.mp3"
         },
         {
@@ -465,8 +669,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "ラッキーカラーは青。\nあいり達の事務所の名前はエールブルー。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "ラッキーカラーは青。\nあいり達の事務所の名前はエールブルー。"
+            },
             "voice": "lesson/Lesson_10209/lesson_10209_052.mp3"
         },
         {
@@ -474,8 +682,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "それが？\n当たり？",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "それが？\n当たり？"
+            },
             "voice": "lesson/Lesson_10209/lesson_10209_053.mp3"
         },
         {
@@ -483,8 +695,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "うん！\nあいり、本当に、ここに来て良かった！",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "うん！\nあいり、本当に、ここに来て良かった！"
+            },
             "voice": "lesson/Lesson_10209/lesson_10209_054.mp3"
         }
     ]

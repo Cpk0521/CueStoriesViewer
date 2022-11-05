@@ -6,8 +6,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "お疲れ様ー。\nあれ？　莉子は？",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "お疲れ様ー。\nあれ？　莉子は？"
+            },
             "voice": "audition/story_01/heroine_11/HM_Sub_01_11_11/hm_sub_01_11_11_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "え？　莉子？\nさっき出ていったよ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "え？　莉子？\nさっき出ていったよ。"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "あー、待たせちゃったかー……。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "あー、待たせちゃったかー……。"
+            },
             "voice": "audition/story_01/heroine_11/HM_Sub_01_11_11/hm_sub_01_11_11_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "いや、グラバの季節限定、\n一緒に飲みに行こうって話をしてたからさ。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "いや、グラバの季節限定、\n一緒に飲みに行こうって話をしてたからさ。"
+            },
             "voice": "audition/story_01/heroine_11/HM_Sub_01_11_11/hm_sub_01_11_11_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "あっ、莉子からだ。\nまたね、マネージャー。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "あっ、莉子からだ。\nまたね、マネージャー。"
+            },
             "voice": "audition/story_01/heroine_11/HM_Sub_01_11_11/hm_sub_01_11_11_005.mp3"
         }
     ]

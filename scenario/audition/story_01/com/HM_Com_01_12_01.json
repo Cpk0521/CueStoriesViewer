@@ -6,8 +6,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "失礼しまーす。\nはい、マネージャー、これ、頼まれてたもの。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "失礼しまーす。\nはい、マネージャー、これ、頼まれてたもの。"
+            },
             "voice": "audition/story_01/com/HM_Com_01_12_01/hm_com_01_12_01_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "ああ、莉子、本当にありがとう。　",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "ああ、莉子、本当にありがとう。　"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "他は大丈夫？　",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "他は大丈夫？　"
+            },
             "voice": "audition/story_01/com/HM_Com_01_12_01/hm_com_01_12_01_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "うん、大丈夫。\n急に必要になっちゃって、ほんと助かったよ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "うん、大丈夫。\n急に必要になっちゃって、ほんと助かったよ。"
+            },
             "voice": ""
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "いやあ、あたしもつくづくマネージャーに甘いねえ。　",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "いやあ、あたしもつくづくマネージャーに甘いねえ。　"
+            },
             "voice": "audition/story_01/com/HM_Com_01_12_01/hm_com_01_12_01_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "いやいや、いつもお世話になっております。　",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "いやいや、いつもお世話になっております。　"
+            },
             "voice": ""
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "このほっとけなさっていうのかな？\nつい手助けしちゃうのはマネージャーの人徳なのかもね。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "このほっとけなさっていうのかな？\nつい手助けしちゃうのはマネージャーの人徳なのかもね。"
+            },
             "voice": "audition/story_01/com/HM_Com_01_12_01/hm_com_01_12_01_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "あはは。そう言っていただけると助かるな。　",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "あはは。そう言っていただけると助かるな。　"
+            },
             "voice": ""
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "調子に乗らないの。　",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "調子に乗らないの。　"
+            },
             "voice": "audition/story_01/com/HM_Com_01_12_01/hm_com_01_12_01_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "それじゃ、またねー。\nお疲れ様でしたー。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "それじゃ、またねー。\nお疲れ様でしたー。"
+            },
             "voice": "audition/story_01/com/HM_Com_01_12_01/hm_com_01_12_01_010.mp3"
         }
     ]

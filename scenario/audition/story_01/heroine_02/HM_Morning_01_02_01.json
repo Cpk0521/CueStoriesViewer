@@ -6,8 +6,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "あ、おはようございまーす。\nマネージャー。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "あ、おはようございまーす。\nマネージャー。"
+            },
             "voice": "audition/story_01/heroine_02/HM_Morning_01_02_01/hm_morning_01_02_01_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "見てくださいよ、これ！　差し入れでもらったんっすけど、\nめちゃくちゃ高いのど飴なんすよ。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "見てくださいよ、これ！　差し入れでもらったんっすけど、\nめちゃくちゃ高いのど飴なんすよ。"
+            },
             "voice": "audition/story_01/heroine_02/HM_Morning_01_02_01/hm_morning_01_02_01_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "なんて読むのかわかんないすけど、\nこういう高級なのって、なんか効きそうですよねー。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "なんて読むのかわかんないすけど、\nこういう高級なのって、なんか効きそうですよねー。"
+            },
             "voice": "audition/story_01/heroine_02/HM_Morning_01_02_01/hm_morning_01_02_01_003.mp3"
         }
     ]

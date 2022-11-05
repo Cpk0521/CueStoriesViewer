@@ -6,8 +6,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "鳴、凛音を連れて部屋に行っちゃったけど、\nなんの確認をするんだろ？",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "鳴、凛音を連れて部屋に行っちゃったけど、\nなんの確認をするんだろ？"
+            },
             "voice": "lesson/Lesson_30602/lesson_30602_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "まさか、凛音の言うこと信じてるわけじゃないよね。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "まさか、凛音の言うこと信じてるわけじゃないよね。"
+            },
             "voice": "lesson/Lesson_30602/lesson_30602_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "ずっと同じ一日を繰り返すなんてありえないよ。\nSFじゃあるまいし。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "ずっと同じ一日を繰り返すなんてありえないよ。\nSFじゃあるまいし。"
+            },
             "voice": "lesson/Lesson_30602/lesson_30602_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "我輩もそう思うけど……。\n凛音は、あんな嘘をつかない。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "我輩もそう思うけど……。\n凛音は、あんな嘘をつかない。"
+            },
             "voice": "lesson/Lesson_30602/lesson_30602_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "確かに。それはそうだね。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "確かに。それはそうだね。"
+            },
             "voice": "lesson/Lesson_30602/lesson_30602_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "ということは、凛音の言ってることは本当？",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "ということは、凛音の言ってることは本当？"
+            },
             "voice": "lesson/Lesson_30602/lesson_30602_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "いや……、いやいや、非現実的すぎる。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "いや……、いやいや、非現実的すぎる。"
+            },
             "voice": "lesson/Lesson_30602/lesson_30602_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "でも、卵焼きの失敗を凛音は見抜いてた……、ありえるのかなって。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "でも、卵焼きの失敗を凛音は見抜いてた……、ありえるのかなって。"
+            },
             "voice": "lesson/Lesson_30602/lesson_30602_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "うーん……。\nさすがに、偶然だと思うけど。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "うーん……。\nさすがに、偶然だと思うけど。"
+            },
             "voice": "lesson/Lesson_30602/lesson_30602_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "もし凛音の言う通り、同じ1日を何度も繰り返すとしたら、\nどうする？",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "もし凛音の言う通り、同じ1日を何度も繰り返すとしたら、\nどうする？"
+            },
             "voice": "lesson/Lesson_30602/lesson_30602_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "どうするんだろ……、最初は楽しいかもね。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "どうするんだろ……、最初は楽しいかもね。"
+            },
             "voice": "lesson/Lesson_30602/lesson_30602_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "うん。失敗したことをやり直したり、\n出来事を予言して、周りを驚かせたり。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "うん。失敗したことをやり直したり、\n出来事を予言して、周りを驚かせたり。"
+            },
             "voice": "lesson/Lesson_30602/lesson_30602_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "でも、そんなのすぐに飽きるよ。\nあとは地獄だと思うな。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "でも、そんなのすぐに飽きるよ。\nあとは地獄だと思うな。"
+            },
             "voice": "lesson/Lesson_30602/lesson_30602_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "だよね。毎日毎日、同じことしか起きないんだし。\nそんなのすごく退屈。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "だよね。毎日毎日、同じことしか起きないんだし。\nそんなのすごく退屈。"
+            },
             "voice": "lesson/Lesson_30602/lesson_30602_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "人間は、刺激があるから生きていけるのかも。\n我輩は悪魔だが。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "人間は、刺激があるから生きていけるのかも。\n我輩は悪魔だが。"
+            },
             "voice": "lesson/Lesson_30602/lesson_30602_015.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "ちょっと深いね。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "ちょっと深いね。"
+            },
             "voice": "lesson/Lesson_30602/lesson_30602_016.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "深いと言えば、そろそろ深い霧の中を歩いてこようかな。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "深いと言えば、そろそろ深い霧の中を歩いてこようかな。"
+            },
             "voice": "lesson/Lesson_30602/lesson_30602_017.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "ホントに行くの？　怖くない？",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "ホントに行くの？　怖くない？"
+            },
             "voice": "lesson/Lesson_30602/lesson_30602_018.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "フッ、無論だ。怖くなどない。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "フッ、無論だ。怖くなどない。"
+            },
             "voice": "lesson/Lesson_30602/lesson_30602_019.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "心配だなぁ。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "心配だなぁ。"
+            },
             "voice": "lesson/Lesson_30602/lesson_30602_020.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "え？　雷……？",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "え？　雷……？"
+            },
             "voice": "lesson/Lesson_30602/lesson_30602_021.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "え？　え？　嘘？",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "え？　え？　嘘？"
+            },
             "voice": "lesson/Lesson_30602/lesson_30602_022.mp3"
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "停電したね……。\nこれでも散歩行く？",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "停電したね……。\nこれでも散歩行く？"
+            },
             "voice": "lesson/Lesson_30602/lesson_30602_023.mp3"
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "やめとく……。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "やめとく……。"
+            },
             "voice": "lesson/Lesson_30602/lesson_30602_024.mp3"
         }
     ]

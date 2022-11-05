@@ -6,8 +6,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "おはよう、マネージャー。\nちょうど良かったわ。",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "おはよう、マネージャー。\nちょうど良かったわ。"
+            },
             "voice": "audition/story_01/heroine_12/HM_Main_01_12_01/hm_main_01_12_01_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "今度、莉子をこのオーディションに出してみようと思うの。",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "今度、莉子をこのオーディションに出してみようと思うの。"
+            },
             "voice": "audition/story_01/heroine_12/HM_Main_01_12_01/hm_main_01_12_01_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "「空繰戯曲グレイゼファー」……、ですか。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "「空繰戯曲グレイゼファー」……、ですか。"
+            },
             "voice": ""
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "そう、あの子にちょうど合うと思って。",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "そう、あの子にちょうど合うと思って。"
+            },
             "voice": "audition/story_01/heroine_12/HM_Main_01_12_01/hm_main_01_12_01_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "りおにもサポートするように言ってあるから、よろしくね。",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "りおにもサポートするように言ってあるから、よろしくね。"
+            },
             "voice": "audition/story_01/heroine_12/HM_Main_01_12_01/hm_main_01_12_01_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "そういうこと！\n頑張ってね！",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "そういうこと！\n頑張ってね！"
+            },
             "voice": "audition/story_01/heroine_12/HM_Main_01_12_01/hm_main_01_12_01_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "え、あたしに？",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "え、あたしに？"
+            },
             "voice": "audition/story_01/heroine_12/HM_Main_01_12_01/hm_main_01_12_01_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そう。\nどう、やってみる？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そう。\nどう、やってみる？"
+            },
             "voice": ""
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "もちろん！\nこんなチャンス、見逃すわけないじゃん！",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "もちろん！\nこんなチャンス、見逃すわけないじゃん！"
+            },
             "voice": "audition/story_01/heroine_12/HM_Main_01_12_01/hm_main_01_12_01_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "1次審査は2週間後かぁ……。\nよし、まずは作品を研究しないと！",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "1次審査は2週間後かぁ……。\nよし、まずは作品を研究しないと！"
+            },
             "voice": "audition/story_01/heroine_12/HM_Main_01_12_01/hm_main_01_12_01_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "資料は用意してあるから。\nはい、これ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "資料は用意してあるから。\nはい、これ。"
+            },
             "voice": ""
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "お、さっすがー。\nありがと、マネージャー！",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "お、さっすがー。\nありがと、マネージャー！"
+            },
             "voice": "audition/story_01/heroine_12/HM_Main_01_12_01/hm_main_01_12_01_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "よーし、頑張るぞー！",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "よーし、頑張るぞー！"
+            },
             "voice": "audition/story_01/heroine_12/HM_Main_01_12_01/hm_main_01_12_01_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "うん、頑張っていこう。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "うん、頑張っていこう。"
+            },
             "voice": ""
         }
     ]

@@ -6,8 +6,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "んー……ここはどうかな。\nそれか、こっちか……。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "んー……ここはどうかな。\nそれか、こっちか……。"
+            },
             "voice": "audition/story_01/heroine_11/HM_Cast_01_11_10_03/hm_cast_01_11_10_03_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "まほろ。\nそんな立ったままスマホいじってないで、座ったら？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "まほろ。\nそんな立ったままスマホいじってないで、座ったら？"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "じゃ、座る。\nうーん、どれがいいかな。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "じゃ、座る。\nうーん、どれがいいかな。"
+            },
             "voice": "audition/story_01/heroine_11/HM_Cast_01_11_10_03/hm_cast_01_11_10_03_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "何、悩んでるの？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "何、悩んでるの？"
+            },
             "voice": ""
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "店探し。\n絢と一緒に食べに行こうかなって思ってるんだよね。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "店探し。\n絢と一緒に食べに行こうかなって思ってるんだよね。"
+            },
             "voice": "audition/story_01/heroine_11/HM_Cast_01_11_10_03/hm_cast_01_11_10_03_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "……うん、決めた。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "……うん、決めた。"
+            },
             "voice": "audition/story_01/heroine_11/HM_Cast_01_11_10_03/hm_cast_01_11_10_03_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "ほら、マネージャーも見て？\nこのフォンダンショコラ、おいしそうじゃない？",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "ほら、マネージャーも見て？\nこのフォンダンショコラ、おいしそうじゃない？"
+            },
             "voice": "audition/story_01/heroine_11/HM_Cast_01_11_10_03/hm_cast_01_11_10_03_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "よし、この店にしよっと。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "よし、この店にしよっと。"
+            },
             "voice": "audition/story_01/heroine_11/HM_Cast_01_11_10_03/hm_cast_01_11_10_03_008.mp3"
         }
     ]

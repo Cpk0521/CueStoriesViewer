@@ -6,8 +6,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "君たちは、村を襲っていたゴブリンの群れを無事倒した。\nさぁ、このあとはどうするのかな？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "君たちは、村を襲っていたゴブリンの群れを無事倒した。\nさぁ、このあとはどうするのかな？"
+            },
             "voice": ""
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "確かに。\n倒したゴブリンたちを、調べてみるのは悪くないかもな。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "確かに。\n倒したゴブリンたちを、調べてみるのは悪くないかもな。"
+            },
             "voice": "event/Event_009/Event_009_05/event_009_05_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "もしかしたら何か、手がかりが残ってるかもしれないね。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "もしかしたら何か、手がかりが残ってるかもしれないね。"
+            },
             "voice": "event/Event_009/Event_009_05/event_009_05_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "うん。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "うん。"
+            },
             "voice": "event/Event_009/Event_009_05/event_009_05_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "ね、確かここ、遺跡でしょ？\nやっぱさ、遺跡を探索するしかないんじゃない？　",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "ね、確かここ、遺跡でしょ？\nやっぱさ、遺跡を探索するしかないんじゃない？　"
+            },
             "voice": "event/Event_009/Event_009_05/event_009_05_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "調べるのは遺跡じゃなくて、ゴブリンでしょ。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "調べるのは遺跡じゃなくて、ゴブリンでしょ。"
+            },
             "voice": "event/Event_009/Event_009_05/event_009_05_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "えー。ねーみんな、遺跡探索しようよ。\nディープなダンジョンに潜ろうよ。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "えー。ねーみんな、遺跡探索しようよ。\nディープなダンジョンに潜ろうよ。"
+            },
             "voice": "event/Event_009/Event_009_05/event_009_05_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "何か、こういう時に便利な魔法はないのかな？",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "何か、こういう時に便利な魔法はないのかな？"
+            },
             "voice": "event/Event_009/Event_009_05/event_009_05_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "うーん……、\nこういう時に便利な魔法か……。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "うーん……、\nこういう時に便利な魔法か……。"
+            },
             "voice": "event/Event_009/Event_009_05/event_009_05_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "ん、これ……、\nよし、この魔法を使ってみよう。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "ん、これ……、\nよし、この魔法を使ってみよう。"
+            },
             "voice": "event/Event_009/Event_009_05/event_009_05_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "魔法のアイテムに反応する魔力感知の魔法を使って、\nゴブリンが変なものを持ってたりしないか調べる。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "魔法のアイテムに反応する魔力感知の魔法を使って、\nゴブリンが変なものを持ってたりしないか調べる。"
+            },
             "voice": "event/Event_009/Event_009_05/event_009_05_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "ゴブリンのボスが頭につけていた王冠がぼんやりと光って、\n魔法の力を帯びているのがわかるよ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "ゴブリンのボスが頭につけていた王冠がぼんやりと光って、\n魔法の力を帯びているのがわかるよ。"
+            },
             "voice": ""
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "へぇ……。そういう方法もあるんだ。\n魔法って便利だね。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "へぇ……。そういう方法もあるんだ。\n魔法って便利だね。"
+            },
             "voice": "event/Event_009/Event_009_05/event_009_05_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "よし、取ってみよう。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "よし、取ってみよう。"
+            },
             "voice": "event/Event_009/Event_009_05/event_009_05_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "小さな銀製の王冠だね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "小さな銀製の王冠だね。"
+            },
             "voice": ""
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "魔法の力を帯びているということはわかるけど、\nどういう魔法がかかっているかまでは、残念ながらわからない。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "魔法の力を帯びているということはわかるけど、\nどういう魔法がかかっているかまでは、残念ながらわからない。"
+            },
             "voice": ""
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "うーむ。これが魔法のアイテムなら……、\n何かの魔法の力で、ゴブリンを操っていたとか？",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "うーむ。これが魔法のアイテムなら……、\n何かの魔法の力で、ゴブリンを操っていたとか？"
+            },
             "voice": "event/Event_009/Event_009_05/event_009_05_017.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "ありえなくはなさそうだね。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "ありえなくはなさそうだね。"
+            },
             "voice": "event/Event_009/Event_009_05/event_009_05_018.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "他には何も見つからなかった？",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "他には何も見つからなかった？"
+            },
             "voice": "event/Event_009/Event_009_05/event_009_05_019.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そうだね。\n魔力感知では、視界に入るものまでしかわからないよ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そうだね。\n魔力感知では、視界に入るものまでしかわからないよ。"
+            },
             "voice": ""
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "そっか……。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "そっか……。"
+            },
             "voice": "event/Event_009/Event_009_05/event_009_05_021.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "うーん、じゃあ、ここでちょっと知力判定かな？\nみんな、知力値の数字を教えてくれる？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "うーん、じゃあ、ここでちょっと知力判定かな？\nみんな、知力値の数字を教えてくれる？"
+            },
             "voice": ""
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "11です。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "11です。"
+            },
             "voice": "event/Event_009/Event_009_05/event_009_05_023.mp3"
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "わたしは15です。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "わたしは15です。"
+            },
             "voice": "event/Event_009/Event_009_05/event_009_05_024.mp3"
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "16。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "16。"
+            },
             "voice": "event/Event_009/Event_009_05/event_009_05_025.mp3"
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "19っす。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "19っす。"
+            },
             "voice": "event/Event_009/Event_009_05/event_009_05_026.mp3"
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "なんでお前が一番高いんだ。おかしい。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "なんでお前が一番高いんだ。おかしい。"
+            },
             "voice": "event/Event_009/Event_009_05/event_009_05_027.mp3"
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "どういう意味！？",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "どういう意味！？"
+            },
             "voice": "event/Event_009/Event_009_05/event_009_05_028.mp3"
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "マイカには何か物音が聞こえたよ。\n自分たち以外の何者かが、草むらを移動した音が聞こえた。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "マイカには何か物音が聞こえたよ。\n自分たち以外の何者かが、草むらを移動した音が聞こえた。"
+            },
             "voice": ""
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "え？　方向はわかるんすか？　数とか。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "え？　方向はわかるんすか？　数とか。"
+            },
             "voice": "event/Event_009/Event_009_05/event_009_05_030.mp3"
         },
         {
@@ -276,8 +396,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "だいたいの場所がわかるよ。\n数まではわからない。けど、大勢ではなさそうだね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "だいたいの場所がわかるよ。\n数まではわからない。けど、大勢ではなさそうだね。"
+            },
             "voice": ""
         },
         {
@@ -285,8 +409,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "みんな注意して、あの辺に何かいる。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "みんな注意して、あの辺に何かいる。"
+            },
             "voice": "event/Event_009/Event_009_05/event_009_05_032.mp3"
         },
         {
@@ -294,8 +422,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "よし、ここは眠りの雲の魔法だな。\n安らかに眠れ……。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "よし、ここは眠りの雲の魔法だな。\n安らかに眠れ……。"
+            },
             "voice": "event/Event_009/Event_009_05/event_009_05_033.mp3"
         },
         {
@@ -303,8 +435,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "バサリと何かが倒れこむような音がした。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "バサリと何かが倒れこむような音がした。"
+            },
             "voice": ""
         },
         {
@@ -312,8 +448,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "よし。寝たんじゃない？",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "よし。寝たんじゃない？"
+            },
             "voice": "event/Event_009/Event_009_05/event_009_05_035.mp3"
         },
         {
@@ -321,8 +461,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "ちょっと見てくるよ。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "ちょっと見てくるよ。"
+            },
             "voice": "event/Event_009/Event_009_05/event_009_05_036.mp3"
         },
         {
@@ -330,8 +474,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "気を付けてな。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "気を付けてな。"
+            },
             "voice": "event/Event_009/Event_009_05/event_009_05_037.mp3"
         },
         {
@@ -339,8 +487,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "するとそこには1人の男が眠りこけていた。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "するとそこには1人の男が眠りこけていた。"
+            },
             "voice": ""
         },
         {
@@ -348,8 +500,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "……ん？　村の人かな？",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "……ん？　村の人かな？"
+            },
             "voice": "event/Event_009/Event_009_05/event_009_05_039.mp3"
         },
         {
@@ -357,8 +513,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "どうだろう。\nでも今、この場にいるのはちょっと怪しいね。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "どうだろう。\nでも今、この場にいるのはちょっと怪しいね。"
+            },
             "voice": "event/Event_009/Event_009_05/event_009_05_040.mp3"
         },
         {
@@ -366,8 +526,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "エリカさん、顔に見覚えはありますか？",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "エリカさん、顔に見覚えはありますか？"
+            },
             "voice": "event/Event_009/Event_009_05/event_009_05_041.mp3"
         },
         {
@@ -375,8 +539,12 @@
             "heroineId": [
                 0
             ],
-            "name": "エリカ",
-            "message": "「ううむ。\n私も村の民を全員知っているわけではないからな……。」",
+            "name": {
+                "default": "エリカ"
+            },
+            "message": {
+                "default": "「ううむ。\n私も村の民を全員知っているわけではないからな……。」"
+            },
             "voice": ""
         },
         {
@@ -384,8 +552,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "どうする？　ホノカ。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "どうする？　ホノカ。"
+            },
             "voice": "event/Event_009/Event_009_05/event_009_05_043.mp3"
         },
         {
@@ -393,8 +565,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "うーん……、縛っちゃおっか。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "うーん……、縛っちゃおっか。"
+            },
             "voice": "event/Event_009/Event_009_05/event_009_05_044.mp3"
         },
         {
@@ -402,8 +578,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "え？　ホノカ、すごいこと言うね……。\nちょっと引いたんだけど。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "え？　ホノカ、すごいこと言うね……。\nちょっと引いたんだけど。"
+            },
             "voice": "event/Event_009/Event_009_05/event_009_05_045.mp3"
         },
         {
@@ -411,8 +591,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "しょ、しょうがないでしょ！？\nここはファンタジー世界なんだから！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "しょ、しょうがないでしょ！？\nここはファンタジー世界なんだから！"
+            },
             "voice": "event/Event_009/Event_009_05/event_009_05_046.mp3"
         },
         {
@@ -420,8 +604,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "眠ってるうちに縛って、村まで連れて行って、\nもし村の人だったら謝ろう。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "眠ってるうちに縛って、村まで連れて行って、\nもし村の人だったら謝ろう。"
+            },
             "voice": "event/Event_009/Event_009_05/event_009_05_047.mp3"
         },
         {
@@ -429,8 +617,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "え？　じゃあ遺跡の探索はなし？　\nねぇ遺跡だよ？　古代の遺跡だよ？",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "え？　じゃあ遺跡の探索はなし？　\nねぇ遺跡だよ？　古代の遺跡だよ？"
+            },
             "voice": "event/Event_009/Event_009_05/event_009_05_048.mp3"
         },
         {
@@ -438,8 +630,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "ちょっとそういう、迷宮探索みたいなの、してみたいんだけど。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "ちょっとそういう、迷宮探索みたいなの、してみたいんだけど。"
+            },
             "voice": "event/Event_009/Event_009_05/event_009_05_049.mp3"
         },
         {
@@ -447,8 +643,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "男を眠らせたまま？",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "男を眠らせたまま？"
+            },
             "voice": "event/Event_009/Event_009_05/event_009_05_050.mp3"
         },
         {
@@ -456,8 +656,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "すぐに宝探ししようとするのは、盗賊の悪い癖だな。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "すぐに宝探ししようとするのは、盗賊の悪い癖だな。"
+            },
             "voice": "event/Event_009/Event_009_05/event_009_05_051.mp3"
         },
         {
@@ -465,8 +669,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "なんだよそれ。\nそれに、忍者だっての。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "なんだよそれ。\nそれに、忍者だっての。"
+            },
             "voice": "event/Event_009/Event_009_05/event_009_05_052.mp3"
         },
         {
@@ -474,8 +682,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "今は、遺跡探索よりも先にやることがある。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "今は、遺跡探索よりも先にやることがある。"
+            },
             "voice": "event/Event_009/Event_009_05/event_009_05_053.mp3"
         },
         {
@@ -483,8 +695,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "ちぇっ、わかったよ。遺跡探索は諦める。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "ちぇっ、わかったよ。遺跡探索は諦める。"
+            },
             "voice": "event/Event_009/Event_009_05/event_009_05_054.mp3"
         },
         {
@@ -492,8 +708,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "どこの誰だか知らないけど、ごめんなさい。\nきつく縛って……。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "どこの誰だか知らないけど、ごめんなさい。\nきつく縛って……。"
+            },
             "voice": "event/Event_009/Event_009_05/event_009_05_055.mp3"
         },
         {
@@ -501,8 +721,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "神よ。お許しください……。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "神よ。お許しください……。"
+            },
             "voice": "event/Event_009/Event_009_05/event_009_05_056.mp3"
         },
         {
@@ -510,8 +734,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "ねぇハルナ。\nさっきからずっと、それ言えばいいと思ってない？",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "ねぇハルナ。\nさっきからずっと、それ言えばいいと思ってない？"
+            },
             "voice": "event/Event_009/Event_009_05/event_009_05_057.mp3"
         }
     ]

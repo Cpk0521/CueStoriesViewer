@@ -6,8 +6,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "ジャーマネ。\n今朝もすごかったぞ。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "ジャーマネ。\n今朝もすごかったぞ。"
+            },
             "voice": "audition/story_01/heroine_03/HM_Sub_01_03_04/hm_sub_01_03_04_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "ドタバタと廊下を走る音が響き、\nほのかと千紗の怒号が聞こえてくる。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "ドタバタと廊下を走る音が響き、\nほのかと千紗の怒号が聞こえてくる。"
+            },
             "voice": "audition/story_01/heroine_03/HM_Sub_01_03_04/hm_sub_01_03_04_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "あれで起きない日はない。\nまぁ、騒がしいのが全員2階にいるせいだからな。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "あれで起きない日はない。\nまぁ、騒がしいのが全員2階にいるせいだからな。"
+            },
             "voice": "audition/story_01/heroine_03/HM_Sub_01_03_04/hm_sub_01_03_04_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "3階はきっと静かなんだろうな……、羨ましい限りだ。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "3階はきっと静かなんだろうな……、羨ましい限りだ。"
+            },
             "voice": "audition/story_01/heroine_03/HM_Sub_01_03_04/hm_sub_01_03_04_004.mp3"
         }
     ]

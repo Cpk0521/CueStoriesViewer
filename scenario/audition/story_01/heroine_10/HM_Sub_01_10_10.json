@@ -6,8 +6,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "この前、現場に早く着きすぎちゃって。\n本屋さんに寄ったんです。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "この前、現場に早く着きすぎちゃって。\n本屋さんに寄ったんです。"
+            },
             "voice": "audition/story_01/heroine_10/HM_Sub_01_10_10/hm_sub_01_10_10_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "漫画コーナーを見てたら、\n気になる本があって。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "漫画コーナーを見てたら、\n気になる本があって。"
+            },
             "voice": "audition/story_01/heroine_10/HM_Sub_01_10_10/hm_sub_01_10_10_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "ジャケット買いって言うんですよね。\n表紙で「あ、これ好き」って……。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "ジャケット買いって言うんですよね。\n表紙で「あ、これ好き」って……。"
+            },
             "voice": "audition/story_01/heroine_10/HM_Sub_01_10_10/hm_sub_01_10_10_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "気付いたら、買っちゃってるんです。\n……マネージャーもそういう事、ありますか？",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "気付いたら、買っちゃってるんです。\n……マネージャーもそういう事、ありますか？"
+            },
             "voice": "audition/story_01/heroine_10/HM_Sub_01_10_10/hm_sub_01_10_10_004.mp3"
         }
     ]

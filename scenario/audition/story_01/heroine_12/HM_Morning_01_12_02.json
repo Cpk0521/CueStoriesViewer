@@ -6,8 +6,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "マネージャー、おはよう。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "マネージャー、おはよう。"
+            },
             "voice": "audition/story_01/heroine_12/HM_Morning_01_12_02/hm_morning_01_12_02_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "……え、テンション低い？",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "……え、テンション低い？"
+            },
             "voice": "audition/story_01/heroine_12/HM_Morning_01_12_02/hm_morning_01_12_02_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "あはは、昨日は大人しい役の練習してたからね。\nちょっと引きずってるのかも！",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "あはは、昨日は大人しい役の練習してたからね。\nちょっと引きずってるのかも！"
+            },
             "voice": "audition/story_01/heroine_12/HM_Morning_01_12_02/hm_morning_01_12_02_003.mp3"
         }
     ]

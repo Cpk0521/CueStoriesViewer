@@ -6,8 +6,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "あの、マネージャーさん。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "あの、マネージャーさん。"
+            },
             "voice": "audition/story_01/heroine_14/HM_Sub_01_14_23/hm_sub_01_14_23_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "そこのテーブル、どうしたんですか？\nものすごく散らかってますけど……。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "そこのテーブル、どうしたんですか？\nものすごく散らかってますけど……。"
+            },
             "voice": "audition/story_01/heroine_14/HM_Sub_01_14_23/hm_sub_01_14_23_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "あ、お疲れ様。棚の整理をしてたんだけど、\n至急やらなきゃいけない仕事ができちゃって。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "あ、お疲れ様。棚の整理をしてたんだけど、\n至急やらなきゃいけない仕事ができちゃって。"
+            },
             "voice": ""
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "なるほど。\n私が片付けてもいいですか？",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "なるほど。\n私が片付けてもいいですか？"
+            },
             "voice": "audition/story_01/heroine_14/HM_Sub_01_14_23/hm_sub_01_14_23_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "え、いいの？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "え、いいの？"
+            },
             "voice": ""
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "はい。\nこのままにしておくのは、気持ちが悪いので。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "はい。\nこのままにしておくのは、気持ちが悪いので。"
+            },
             "voice": "audition/story_01/heroine_14/HM_Sub_01_14_23/hm_sub_01_14_23_006.mp3"
         }
     ]

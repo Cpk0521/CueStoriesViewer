@@ -6,8 +6,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "今朝は舞花が朝御飯作ってくれたんですけど……。\nコロッケが出てきたんですよ。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "今朝は舞花が朝御飯作ってくれたんですけど……。\nコロッケが出てきたんですよ。"
+            },
             "voice": "audition/story_01/heroine_04/HM_Sub_01_04_24/hm_sub_01_04_24_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "最初は朝からコロッケ？　って思ったんですけど、\nすごくおいしかったんです。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "最初は朝からコロッケ？　って思ったんですけど、\nすごくおいしかったんです。"
+            },
             "voice": "audition/story_01/heroine_04/HM_Sub_01_04_24/hm_sub_01_04_24_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "おかげで、今日は朝からエネルギー満タン！\nレッスンも絶好調でした！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "おかげで、今日は朝からエネルギー満タン！\nレッスンも絶好調でした！"
+            },
             "voice": "audition/story_01/heroine_04/HM_Sub_01_04_24/hm_sub_01_04_24_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "やっぱりおいしい朝御飯って、\n1日の活力になりますよね。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "やっぱりおいしい朝御飯って、\n1日の活力になりますよね。"
+            },
             "voice": "audition/story_01/heroine_04/HM_Sub_01_04_24/hm_sub_01_04_24_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "マネージャーも朝御飯食べてますか？\nちゃんと食べないと、ダメですよ！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "マネージャーも朝御飯食べてますか？\nちゃんと食べないと、ダメですよ！"
+            },
             "voice": "audition/story_01/heroine_04/HM_Sub_01_04_24/hm_sub_01_04_24_005.mp3"
         }
     ]

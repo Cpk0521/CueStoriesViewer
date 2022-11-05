@@ -6,8 +6,12 @@
             "heroineId": [
                 0
             ],
-            "name": "女性観光客A",
-            "message": "すみませーん！",
+            "name": {
+                "default": "女性観光客A"
+            },
+            "message": {
+                "default": "すみませーん！"
+            },
             "voice": ""
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "ん？",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "ん？"
+            },
             "voice": "event/Event_012/Event_012_07/event_012_07_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 0
             ],
-            "name": "女性観光客B",
-            "message": "カメラ、お願いしてもいいですか？\n2人で写真撮りたくて。",
+            "name": {
+                "default": "女性観光客B"
+            },
+            "message": {
+                "default": "カメラ、お願いしてもいいですか？\n2人で写真撮りたくて。"
+            },
             "voice": ""
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "あ、はい！",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "あ、はい！"
+            },
             "voice": "event/Event_012/Event_012_07/event_012_07_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "あ、それじゃあ、わたしたちはちょっと下がろっか。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "あ、それじゃあ、わたしたちはちょっと下がろっか。"
+            },
             "voice": "event/Event_012/Event_012_07/event_012_07_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 0
             ],
-            "name": "女性観光客A",
-            "message": "すみません、ありがとうございます。",
+            "name": {
+                "default": "女性観光客A"
+            },
+            "message": {
+                "default": "すみません、ありがとうございます。"
+            },
             "voice": ""
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "それじゃ、撮りますね。\nはい、チーズ！",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "それじゃ、撮りますね。\nはい、チーズ！"
+            },
             "voice": "event/Event_012/Event_012_07/event_012_07_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 0
             ],
-            "name": "女性観光客B",
-            "message": "ありがとうございましたー。",
+            "name": {
+                "default": "女性観光客B"
+            },
+            "message": {
+                "default": "ありがとうございましたー。"
+            },
             "voice": ""
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "あ、終わった？\n自分たちもここでも1枚撮ろうよ！",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "あ、終わった？\n自分たちもここでも1枚撮ろうよ！"
+            },
             "voice": "event/Event_012/Event_012_07/event_012_07_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "ふふ、今日もたくさん写真撮ったね。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "ふふ、今日もたくさん写真撮ったね。"
+            },
             "voice": "event/Event_012/Event_012_07/event_012_07_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "そうだな。私も結構撮った方だ。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "そうだな。私も結構撮った方だ。"
+            },
             "voice": "event/Event_012/Event_012_07/event_012_07_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "んー、やっぱり、さっきのところでも、1枚撮りたかったなー。\nもう、ここって島の頂上でしょ？",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "んー、やっぱり、さっきのところでも、1枚撮りたかったなー。\nもう、ここって島の頂上でしょ？"
+            },
             "voice": "event/Event_012/Event_012_07/event_012_07_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "うーん、それだったら、あの灯台をバックにしてさ。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "うーん、それだったら、あの灯台をバックにしてさ。"
+            },
             "voice": "event/Event_012/Event_012_07/event_012_07_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "でも、ここからじゃ、あの灯台の一部しか入らなくない？",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "でも、ここからじゃ、あの灯台の一部しか入らなくない？"
+            },
             "voice": "event/Event_012/Event_012_07/event_012_07_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "だったら、いっそのこと戻る？\n島の入り口からなら、入るんじゃない？",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "だったら、いっそのこと戻る？\n島の入り口からなら、入るんじゃない？"
+            },
             "voice": "event/Event_012/Event_012_07/event_012_07_015.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "……あの2人は、写真に夢中だな。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "……あの2人は、写真に夢中だな。"
+            },
             "voice": "event/Event_012/Event_012_07/event_012_07_016.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "ふふ、そうだね。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "ふふ、そうだね。"
+            },
             "voice": "event/Event_012/Event_012_07/event_012_07_017.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "きゃっ……！",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "きゃっ……！"
+            },
             "voice": "event/Event_012/Event_012_07/event_012_07_018.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "……おお、すごい風だ。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "……おお、すごい風だ。"
+            },
             "voice": "event/Event_012/Event_012_07/event_012_07_019.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "……あ。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "……あ。"
+            },
             "voice": "event/Event_012/Event_012_07/event_012_07_020.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "ん？　どうした？\n空なんか見上げて。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "ん？　どうした？\n空なんか見上げて。"
+            },
             "voice": "event/Event_012/Event_012_07/event_012_07_021.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "あ、うん。\nお日様、あんなところにあるって思って。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "あ、うん。\nお日様、あんなところにあるって思って。"
+            },
             "voice": "event/Event_012/Event_012_07/event_012_07_022.mp3"
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "うむ。そうだな。\nようやく傾きだしたって感じだ。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "うむ。そうだな。\nようやく傾きだしたって感じだ。"
+            },
             "voice": "event/Event_012/Event_012_07/event_012_07_023.mp3"
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "そっか……、あっちに日が沈むんだ……。\nじゃあ、夕暮れは……。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "そっか……、あっちに日が沈むんだ……。\nじゃあ、夕暮れは……。"
+            },
             "voice": "event/Event_012/Event_012_07/event_012_07_024.mp3"
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "陽菜？",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "陽菜？"
+            },
             "voice": "event/Event_012/Event_012_07/event_012_07_025.mp3"
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "……それなら、あそこから撮れば……。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "……それなら、あそこから撮れば……。"
+            },
             "voice": "event/Event_012/Event_012_07/event_012_07_026.mp3"
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "ふむ……。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "ふむ……。"
+            },
             "voice": "event/Event_012/Event_012_07/event_012_07_027.mp3"
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "ヘイ、みなの衆。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "ヘイ、みなの衆。"
+            },
             "voice": "event/Event_012/Event_012_07/event_012_07_028.mp3"
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "ん？",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "ん？"
+            },
             "voice": "event/Event_012/Event_012_07/event_012_07_029.mp3"
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "どうしたの？　志穂。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "どうしたの？　志穂。"
+            },
             "voice": "event/Event_012/Event_012_07/event_012_07_030.mp3"
         },
         {
@@ -276,8 +396,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "我らがリーダー陽菜から、提案があるそうです。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "我らがリーダー陽菜から、提案があるそうです。"
+            },
             "voice": "event/Event_012/Event_012_07/event_012_07_031.mp3"
         },
         {
@@ -285,8 +409,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "え……？",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "え……？"
+            },
             "voice": "event/Event_012/Event_012_07/event_012_07_032.mp3"
         },
         {
@@ -294,8 +422,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "そうなの？",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "そうなの？"
+            },
             "voice": "event/Event_012/Event_012_07/event_012_07_033.mp3"
         },
         {
@@ -303,8 +435,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "なになに？　どんなの？",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "なになに？　どんなの？"
+            },
             "voice": "event/Event_012/Event_012_07/event_012_07_034.mp3"
         },
         {
@@ -312,8 +448,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "ほれ。今、思い浮かべてることを言ってみろ、陽菜。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "ほれ。今、思い浮かべてることを言ってみろ、陽菜。"
+            },
             "voice": "event/Event_012/Event_012_07/event_012_07_035.mp3"
         },
         {
@@ -321,8 +461,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "きっとそれはグッドアイデアのはずだ。\n知らんけどな。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "きっとそれはグッドアイデアのはずだ。\n知らんけどな。"
+            },
             "voice": "event/Event_012/Event_012_07/event_012_07_036.mp3"
         },
         {
@@ -330,8 +474,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "あ……、うん！\nありがとう、志穂ちゃん。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "あ……、うん！\nありがとう、志穂ちゃん。"
+            },
             "voice": "event/Event_012/Event_012_07/event_012_07_037.mp3"
         },
         {
@@ -339,8 +487,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "ねぇ、みんな……。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "ねぇ、みんな……。"
+            },
             "voice": "event/Event_012/Event_012_07/event_012_07_038.mp3"
         },
         {
@@ -348,8 +500,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "お昼食べた海の家の方に戻らない？",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "お昼食べた海の家の方に戻らない？"
+            },
             "voice": "event/Event_012/Event_012_07/event_012_07_039.mp3"
         }
     ]

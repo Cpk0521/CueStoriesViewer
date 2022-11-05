@@ -6,8 +6,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "あ、おはよ、マネージャー。\n聞いてよ、昨日の夜のことなんだけど。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "あ、おはよ、マネージャー。\n聞いてよ、昨日の夜のことなんだけど。"
+            },
             "voice": "audition/story_01/heroine_11/HM_Morning_01_11_04/hm_morning_01_11_04_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "美晴が莉子とずっと喋りっぱなし。\n遅くはならなかったけど、最後まで付きあっちゃってさ。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "美晴が莉子とずっと喋りっぱなし。\n遅くはならなかったけど、最後まで付きあっちゃってさ。"
+            },
             "voice": "audition/story_01/heroine_11/HM_Morning_01_11_04/hm_morning_01_11_04_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "ま、たまにはいいけどね。\nついでに、絢はいつも通りだった。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "ま、たまにはいいけどね。\nついでに、絢はいつも通りだった。"
+            },
             "voice": "audition/story_01/heroine_11/HM_Morning_01_11_04/hm_morning_01_11_04_003.mp3"
         }
     ]

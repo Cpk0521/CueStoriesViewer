@@ -6,8 +6,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "このグレイゼファーって、\n結構かっこつけてるシーンあるよね。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "このグレイゼファーって、\n結構かっこつけてるシーンあるよね。"
+            },
             "voice": "audition/story_01/heroine_11/HM_Sub_01_11_08/hm_sub_01_11_08_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "絵もそうだけど、台詞も決める時は決めてたりとか。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "絵もそうだけど、台詞も決める時は決めてたりとか。"
+            },
             "voice": "audition/story_01/heroine_11/HM_Sub_01_11_08/hm_sub_01_11_08_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "ほら、主人公のスヴェンだけじゃなくて、ケルッコとかも、\nここぞって時の台詞は、一捻りくらいしてるでしょ。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "ほら、主人公のスヴェンだけじゃなくて、ケルッコとかも、\nここぞって時の台詞は、一捻りくらいしてるでしょ。"
+            },
             "voice": "audition/story_01/heroine_11/HM_Sub_01_11_08/hm_sub_01_11_08_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "こういうのってやりすぎるとダサくなるけど、\nこれくらいがちょうどいいんだよね。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "こういうのってやりすぎるとダサくなるけど、\nこれくらいがちょうどいいんだよね。"
+            },
             "voice": "audition/story_01/heroine_11/HM_Sub_01_11_08/hm_sub_01_11_08_004.mp3"
         }
     ]

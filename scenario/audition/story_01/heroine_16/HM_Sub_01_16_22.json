@@ -6,8 +6,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "お疲れ様です。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "お疲れ様です。"
+            },
             "voice": "audition/story_01/heroine_16/HM_Sub_01_16_22/hm_sub_01_16_22_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "お疲れ様。\nあれ、何持ってるの？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "お疲れ様。\nあれ、何持ってるの？"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "リンゴです。\n今日は利恵とアップルパイを作るので。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "リンゴです。\n今日は利恵とアップルパイを作るので。"
+            },
             "voice": "audition/story_01/heroine_16/HM_Sub_01_16_22/hm_sub_01_16_22_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "何か手伝いに行こうか。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "何か手伝いに行こうか。"
+            },
             "voice": ""
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "いえ、必要ありません。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "いえ、必要ありません。"
+            },
             "voice": "audition/story_01/heroine_16/HM_Sub_01_16_22/hm_sub_01_16_22_005.mp3"
         }
     ]

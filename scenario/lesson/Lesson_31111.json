@@ -6,8 +6,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "ハロー。　",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "ハロー。　"
+            },
             "voice": "lesson/Lesson_31111/lesson_31111_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "うん。大丈夫よ。\n昨日の夜も話したじゃない。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "うん。大丈夫よ。\n昨日の夜も話したじゃない。"
+            },
             "voice": "lesson/Lesson_31111/lesson_31111_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "こっちはもういつもどおりだから。\nそ。今もみんな一緒。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "こっちはもういつもどおりだから。\nそ。今もみんな一緒。"
+            },
             "voice": "lesson/Lesson_31111/lesson_31111_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "ユーキ？　もちろんいるわよ。\n替わる？　あ、いいの？　そう。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "ユーキ？　もちろんいるわよ。\n替わる？　あ、いいの？　そう。"
+            },
             "voice": "lesson/Lesson_31111/lesson_31111_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "ふふっ。オーケー。伝えとく。\nじゃ、またね。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "ふふっ。オーケー。伝えとく。\nじゃ、またね。"
+            },
             "voice": "lesson/Lesson_31111/lesson_31111_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "え？　なんで今あたしの名前が出たの？　",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "え？　なんで今あたしの名前が出たの？　"
+            },
             "voice": "lesson/Lesson_31111/lesson_31111_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "パパが、ありがとうだって。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "パパが、ありがとうだって。"
+            },
             "voice": "lesson/Lesson_31111/lesson_31111_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "なんだよ、昨日もあれだけ電話で話したんだから、\n直接言ってくれればいいのに。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "なんだよ、昨日もあれだけ電話で話したんだから、\n直接言ってくれればいいのに。"
+            },
             "voice": "lesson/Lesson_31111/lesson_31111_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "ふふっ。\nきっと恥ずかしいのよ。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "ふふっ。\nきっと恥ずかしいのよ。"
+            },
             "voice": "lesson/Lesson_31111/lesson_31111_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "そうなの？　",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "そうなの？　"
+            },
             "voice": "lesson/Lesson_31111/lesson_31111_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "あと、みんなにも、もちろん。\n感謝していたわ。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "あと、みんなにも、もちろん。\n感謝していたわ。"
+            },
             "voice": "lesson/Lesson_31111/lesson_31111_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "まあ、なかなか出来ない体験をさせてもらったもんね。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "まあ、なかなか出来ない体験をさせてもらったもんね。"
+            },
             "voice": "lesson/Lesson_31111/lesson_31111_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "えへへ。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "えへへ。"
+            },
             "voice": "lesson/Lesson_31111/lesson_31111_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "あ、私からも、まだちゃんとお礼言ってなかったかも。\nみんな、ありがとう。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "あ、私からも、まだちゃんとお礼言ってなかったかも。\nみんな、ありがとう。"
+            },
             "voice": "lesson/Lesson_31111/lesson_31111_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "私、とっても嬉しかった！　",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "私、とっても嬉しかった！　"
+            },
             "voice": "lesson/Lesson_31111/lesson_31111_015.mp3"
         }
     ]

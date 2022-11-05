@@ -6,8 +6,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "皆～、お待たせ～。\n撮影を始めるよ～。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "皆～、お待たせ～。\n撮影を始めるよ～。"
+            },
             "voice": ""
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "結局、一睡もできなかった……。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "結局、一睡もできなかった……。"
+            },
             "voice": "card/Card_13/Card_4130007_3/card_4130007_3_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "大丈夫なの？",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "大丈夫なの？"
+            },
             "voice": "card/Card_13/Card_4130007_3/card_4130007_3_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "まぁ、目を閉じてただけでも、かなりスッキリしたけど。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "まぁ、目を閉じてただけでも、かなりスッキリしたけど。"
+            },
             "voice": "card/Card_13/Card_4130007_3/card_4130007_3_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "さっさと終わらせて、帰って寝よう。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "さっさと終わらせて、帰って寝よう。"
+            },
             "voice": "card/Card_13/Card_4130007_3/card_4130007_3_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "カメラマンさんから質問なんだけど、\nどういう感じで撮る？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "カメラマンさんから質問なんだけど、\nどういう感じで撮る？"
+            },
             "voice": ""
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "どういう感じって……。\n私達で決めていいんですか？",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "どういう感じって……。\n私達で決めていいんですか？"
+            },
             "voice": "card/Card_13/Card_4130007_3/card_4130007_3_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そうみたい。とくに無ければ\nカメラマンさんが決めるみたいだけど。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そうみたい。とくに無ければ\nカメラマンさんが決めるみたいだけど。"
+            },
             "voice": ""
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "いや、ぜひ我輩達で決めたい。\nMoon全開の写真にしたい。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "いや、ぜひ我輩達で決めたい。\nMoon全開の写真にしたい。"
+            },
             "voice": "card/Card_13/Card_4130007_3/card_4130007_3_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "いいね。\nそうしよう。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "いいね。\nそうしよう。"
+            },
             "voice": "card/Card_13/Card_4130007_3/card_4130007_3_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "やっぱり、\n明るく元気よく……、とか？",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "やっぱり、\n明るく元気よく……、とか？"
+            },
             "voice": "card/Card_13/Card_4130007_3/card_4130007_3_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "それだと、凛音らしさはあるけどMoonらしさはない。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "それだと、凛音らしさはあるけどMoonらしさはない。"
+            },
             "voice": "card/Card_13/Card_4130007_3/card_4130007_3_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "そっかぁ……。\nたしかに、そうだね！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "そっかぁ……。\nたしかに、そうだね！"
+            },
             "voice": "card/Card_13/Card_4130007_3/card_4130007_3_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "どうせなら、\n他のチームには撮れない写真にしたい。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "どうせなら、\n他のチームには撮れない写真にしたい。"
+            },
             "voice": "card/Card_13/Card_4130007_3/card_4130007_3_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "確かに、明るく元気よくは、\n天童さん達って感じよね。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "確かに、明るく元気よくは、\n天童さん達って感じよね。"
+            },
             "voice": "card/Card_13/Card_4130007_3/card_4130007_3_015.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "うん。\n王道って感じだね。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "うん。\n王道って感じだね。"
+            },
             "voice": "card/Card_13/Card_4130007_3/card_4130007_3_016.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "どっちかというと、Moonは邪道だもんね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "どっちかというと、Moonは邪道だもんね。"
+            },
             "voice": ""
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "邪道って……。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "邪道って……。"
+            },
             "voice": "card/Card_13/Card_4130007_3/card_4130007_3_018.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "いや、いい意味で……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "いや、いい意味で……。"
+            },
             "voice": ""
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "じゃあじゃあ、可憐でキュートは？",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "じゃあじゃあ、可憐でキュートは？"
+            },
             "voice": "card/Card_13/Card_4130007_3/card_4130007_3_020.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "それだと、陽菜達みたいになる。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "それだと、陽菜達みたいになる。"
+            },
             "voice": "card/Card_13/Card_4130007_3/card_4130007_3_021.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "そっかそっか。\nはるにゃんとか、しほりんとかねー。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "そっかそっか。\nはるにゃんとか、しほりんとかねー。"
+            },
             "voice": "card/Card_13/Card_4130007_3/card_4130007_3_022.mp3"
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "それに、想像してみて？\n私達がキュートにかわいいポーズって……。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "それに、想像してみて？\n私達がキュートにかわいいポーズって……。"
+            },
             "voice": "card/Card_13/Card_4130007_3/card_4130007_3_023.mp3"
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "寒いね。\nすごく寒い……。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "寒いね。\nすごく寒い……。"
+            },
             "voice": "card/Card_13/Card_4130007_3/card_4130007_3_024.mp3"
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "じゃあ、どうすればいいの！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "じゃあ、どうすればいいの！"
+            },
             "voice": "card/Card_13/Card_4130007_3/card_4130007_3_025.mp3"
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "アンニュイな感じはどう？",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "アンニュイな感じはどう？"
+            },
             "voice": "card/Card_13/Card_4130007_3/card_4130007_3_026.mp3"
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "なるほどね！　\n……あんにゅいって、何？",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "なるほどね！　\n……あんにゅいって、何？"
+            },
             "voice": "card/Card_13/Card_4130007_3/card_4130007_3_027.mp3"
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "けだるい、大人な雰囲気だよ。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "けだるい、大人な雰囲気だよ。"
+            },
             "voice": "card/Card_13/Card_4130007_3/card_4130007_3_028.mp3"
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "それだと、美晴達みたいじゃない？",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "それだと、美晴達みたいじゃない？"
+            },
             "voice": "card/Card_13/Card_4130007_3/card_4130007_3_029.mp3"
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "そうか……。\n大人な雰囲気じゃ勝てないね。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "そうか……。\n大人な雰囲気じゃ勝てないね。"
+            },
             "voice": "card/Card_13/Card_4130007_3/card_4130007_3_030.mp3"
         },
         {
@@ -276,8 +396,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "やっぱ普通に考えたら、\nミステリアスって感じじゃない？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "やっぱ普通に考えたら、\nミステリアスって感じじゃない？"
+            },
             "voice": ""
         },
         {
@@ -285,8 +409,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "まぁ、それが妥当なとこかな。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "まぁ、それが妥当なとこかな。"
+            },
             "voice": "card/Card_13/Card_4130007_3/card_4130007_3_032.mp3"
         },
         {
@@ -294,8 +422,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "ミステリアスって、変ってこと？",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "ミステリアスって、変ってこと？"
+            },
             "voice": "card/Card_13/Card_4130007_3/card_4130007_3_033.mp3"
         },
         {
@@ -303,8 +435,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "変ていうか、怪しいって感じかな？",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "変ていうか、怪しいって感じかな？"
+            },
             "voice": "card/Card_13/Card_4130007_3/card_4130007_3_034.mp3"
         },
         {
@@ -312,8 +448,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "まぁ、それも間違いじゃないけど……。\nでも、何か違う。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "まぁ、それも間違いじゃないけど……。\nでも、何か違う。"
+            },
             "voice": "card/Card_13/Card_4130007_3/card_4130007_3_035.mp3"
         },
         {
@@ -321,8 +461,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "何が違うの？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "何が違うの？"
+            },
             "voice": ""
         },
         {
@@ -330,8 +474,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "確かに我輩達は、\nはたから見れば怪しいかもしれない。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "確かに我輩達は、\nはたから見れば怪しいかもしれない。"
+            },
             "voice": "card/Card_13/Card_4130007_3/card_4130007_3_037.mp3"
         },
         {
@@ -339,8 +487,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "でも、我輩達は\n怪しく思われたいわけじゃない。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "でも、我輩達は\n怪しく思われたいわけじゃない。"
+            },
             "voice": "card/Card_13/Card_4130007_3/card_4130007_3_038.mp3"
         },
         {
@@ -348,8 +500,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "じゃあ、どう思われたいのか。\n……鳴はどう？",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "じゃあ、どう思われたいのか。\n……鳴はどう？"
+            },
             "voice": "card/Card_13/Card_4130007_3/card_4130007_3_039.mp3"
         },
         {
@@ -357,8 +513,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "私は今の自分のスタイル……。\n服装とか生活とか、全部……。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "私は今の自分のスタイル……。\n服装とか生活とか、全部……。"
+            },
             "voice": "card/Card_13/Card_4130007_3/card_4130007_3_040.mp3"
         },
         {
@@ -366,8 +526,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "これが一番、自分らしくいられる。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "これが一番、自分らしくいられる。"
+            },
             "voice": "card/Card_13/Card_4130007_3/card_4130007_3_041.mp3"
         },
         {
@@ -375,8 +539,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "我輩も！\nどう思われたいかって聞かれたら、",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "我輩も！\nどう思われたいかって聞かれたら、"
+            },
             "voice": "card/Card_13/Card_4130007_3/card_4130007_3_042.mp3"
         },
         {
@@ -384,8 +552,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "「カッコイイ！」って思われたい……！",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "「カッコイイ！」って思われたい……！"
+            },
             "voice": "card/Card_13/Card_4130007_3/card_4130007_3_043.mp3"
         },
         {
@@ -393,8 +565,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "そうね。私も不愛想って言われるけど、\nそんなつもりはぜんぜん無いよ。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "そうね。私も不愛想って言われるけど、\nそんなつもりはぜんぜん無いよ。"
+            },
             "voice": "card/Card_13/Card_4130007_3/card_4130007_3_044.mp3"
         },
         {
@@ -402,8 +578,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "ただ、私らしくいたいと思ってるだけ。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "ただ、私らしくいたいと思ってるだけ。"
+            },
             "voice": "card/Card_13/Card_4130007_3/card_4130007_3_045.mp3"
         },
         {
@@ -411,8 +591,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "わたしだってそうだよ～！\nビックリするかもしれないけど……。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "わたしだってそうだよ～！\nビックリするかもしれないけど……。"
+            },
             "voice": "card/Card_13/Card_4130007_3/card_4130007_3_046.mp3"
         },
         {
@@ -420,8 +604,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "驚かないよ。\n凛音は自分に正直に生きてる。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "驚かないよ。\n凛音は自分に正直に生きてる。"
+            },
             "voice": "card/Card_13/Card_4130007_3/card_4130007_3_047.mp3"
         },
         {
@@ -429,8 +617,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "それが一番「カッコイイ」から！\n……そうでしょ？",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "それが一番「カッコイイ」から！\n……そうでしょ？"
+            },
             "voice": "card/Card_13/Card_4130007_3/card_4130007_3_048.mp3"
         },
         {
@@ -438,8 +630,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "ってことは……。\nもう決まりだね！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "ってことは……。\nもう決まりだね！"
+            },
             "voice": "card/Card_13/Card_4130007_3/card_4130007_3_049.mp3"
         },
         {
@@ -447,8 +643,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "うん！　……我輩達Moonは、\n最っ高に、かっこよく撮られたい！",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "うん！　……我輩達Moonは、\n最っ高に、かっこよく撮られたい！"
+            },
             "voice": "card/Card_13/Card_4130007_3/card_4130007_3_050.mp3"
         },
         {
@@ -456,8 +656,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "かっこいい写真にしたいっ！",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "かっこいい写真にしたいっ！"
+            },
             "voice": "card/Card_13/Card_4130007_3/card_4130007_3_051.mp3"
         },
         {
@@ -465,8 +669,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "いいね、それ。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "いいね、それ。"
+            },
             "voice": "card/Card_13/Card_4130007_3/card_4130007_3_052.mp3"
         },
         {
@@ -474,8 +682,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "誰にも媚びない。誰にも遠慮しない。\n自分らしく、自分を貫く。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "誰にも媚びない。誰にも遠慮しない。\n自分らしく、自分を貫く。"
+            },
             "voice": "card/Card_13/Card_4130007_3/card_4130007_3_053.mp3"
         },
         {
@@ -483,8 +695,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "そんな、我輩達のかっこよさを\n全面に出していこう。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "そんな、我輩達のかっこよさを\n全面に出していこう。"
+            },
             "voice": "card/Card_13/Card_4130007_3/card_4130007_3_054.mp3"
         },
         {
@@ -492,8 +708,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "良いこと言うね。\n流石リーダー。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "良いこと言うね。\n流石リーダー。"
+            },
             "voice": "card/Card_13/Card_4130007_3/card_4130007_3_055.mp3"
         },
         {
@@ -501,8 +721,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "撮影準備ができたよ！\nさぁ、かっこいい写真を撮ろう！",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "撮影準備ができたよ！\nさぁ、かっこいい写真を撮ろう！"
+            },
             "voice": ""
         },
         {
@@ -510,8 +734,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "キンチョーしてきたぁ～。\nいい表情できるかなぁ……？",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "キンチョーしてきたぁ～。\nいい表情できるかなぁ……？"
+            },
             "voice": "card/Card_13/Card_4130007_3/card_4130007_3_057.mp3"
         },
         {
@@ -519,8 +747,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "大切なのは、自分に自信を持つこと！\n自分を信じること。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "大切なのは、自分に自信を持つこと！\n自分を信じること。"
+            },
             "voice": "card/Card_13/Card_4130007_3/card_4130007_3_058.mp3"
         },
         {
@@ -528,8 +760,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "さぁ、行くぞ！",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "さぁ、行くぞ！"
+            },
             "voice": "card/Card_13/Card_4130007_3/card_4130007_3_059.mp3"
         }
     ]

@@ -6,8 +6,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "そんじゃマネージャー、お疲れ様ー！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "そんじゃマネージャー、お疲れ様ー！"
+            },
             "voice": "audition/story_01/heroine_05/HM_Cast_01_05_07_01/hm_cast_01_05_07_01_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "うん、お疲れ様。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "うん、お疲れ様。"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "お疲れ様です。\n……あれ、このストラップ、悠希ちゃんのですよね？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "お疲れ様です。\n……あれ、このストラップ、悠希ちゃんのですよね？"
+            },
             "voice": "audition/story_01/heroine_05/HM_Cast_01_05_07_01/hm_cast_01_05_07_01_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "ん？　本当だ。\nさっき事務所に来てたから、落としていったのかも。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "ん？　本当だ。\nさっき事務所に来てたから、落としていったのかも。"
+            },
             "voice": ""
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "じゃあこれ、あいりが渡しておきますね。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "じゃあこれ、あいりが渡しておきますね。"
+            },
             "voice": "audition/story_01/heroine_05/HM_Cast_01_05_07_01/hm_cast_01_05_07_01_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "ありがとう。\n助かるよ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "ありがとう。\n助かるよ。"
+            },
             "voice": ""
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "悠希ちゃん……。最近、すごく生き生きしてるんです。\nきっと、お仕事で何かあるんですよね。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "悠希ちゃん……。最近、すごく生き生きしてるんです。\nきっと、お仕事で何かあるんですよね。"
+            },
             "voice": "audition/story_01/heroine_05/HM_Cast_01_05_07_01/hm_cast_01_05_07_01_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "マネージャーさん。あいりにも、\n悠希ちゃんのためにお手伝い出来ることって、ありますか？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "マネージャーさん。あいりにも、\n悠希ちゃんのためにお手伝い出来ることって、ありますか？"
+            },
             "voice": "audition/story_01/heroine_05/HM_Cast_01_05_07_01/hm_cast_01_05_07_01_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "それなら、悠希を側で見守ってあげてくれる？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "それなら、悠希を側で見守ってあげてくれる？"
+            },
             "voice": ""
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "わかりました。\nあいりはあいりに出来ることを、精一杯やりますね。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "わかりました。\nあいりはあいりに出来ることを、精一杯やりますね。"
+            },
             "voice": "audition/story_01/heroine_05/HM_Cast_01_05_07_01/hm_cast_01_05_07_01_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "ありがとうございます。\nマネージャーさん。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "ありがとうございます。\nマネージャーさん。"
+            },
             "voice": "audition/story_01/heroine_05/HM_Cast_01_05_07_01/hm_cast_01_05_07_01_011.mp3"
         }
     ]

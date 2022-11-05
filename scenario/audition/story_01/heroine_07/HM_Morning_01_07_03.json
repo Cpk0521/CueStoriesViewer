@@ -6,8 +6,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "あっ、おはようございます！\nこれから事務所ですか？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "あっ、おはようございます！\nこれから事務所ですか？"
+            },
             "voice": "audition/story_01/heroine_07/HM_Morning_01_07_03/hm_morning_01_07_03_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "あいり、今日は寮で、\nじっくり台本を読もうかなって思ってるんです。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "あいり、今日は寮で、\nじっくり台本を読もうかなって思ってるんです。"
+            },
             "voice": "audition/story_01/heroine_07/HM_Morning_01_07_03/hm_morning_01_07_03_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "台詞を覚えちゃうぐらい、読み込めたらなって。\nふふっ、頑張ります！",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "台詞を覚えちゃうぐらい、読み込めたらなって。\nふふっ、頑張ります！"
+            },
             "voice": "audition/story_01/heroine_07/HM_Morning_01_07_03/hm_morning_01_07_03_003.mp3"
         }
     ]

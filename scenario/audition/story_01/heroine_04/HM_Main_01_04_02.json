@@ -6,8 +6,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "どう、ほのか。\n準備は順調そう？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "どう、ほのか。\n準備は順調そう？"
+            },
             "voice": ""
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "はい。順調と言えば、順調、ですかね……。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "はい。順調と言えば、順調、ですかね……。"
+            },
             "voice": "audition/story_01/heroine_04/HM_Main_01_04_02/hm_main_01_04_02_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "ん？　なんだか難しい顔してるけど、なんかあったの？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "ん？　なんだか難しい顔してるけど、なんかあったの？"
+            },
             "voice": ""
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "はい……。\n今、ちょっと自主練内容を見直してて……。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "はい……。\n今、ちょっと自主練内容を見直してて……。"
+            },
             "voice": "audition/story_01/heroine_04/HM_Main_01_04_02/hm_main_01_04_02_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "多分、もっと効率化出来る方法があると思うんです。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "多分、もっと効率化出来る方法があると思うんです。"
+            },
             "voice": "audition/story_01/heroine_04/HM_Main_01_04_02/hm_main_01_04_02_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "なるほど、難しいね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "なるほど、難しいね。"
+            },
             "voice": ""
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "効率ってすごく大事なんですよ。\n筋トレも同じなんです。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "効率ってすごく大事なんですよ。\n筋トレも同じなんです。"
+            },
             "voice": "audition/story_01/heroine_04/HM_Main_01_04_02/hm_main_01_04_02_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "そうですね、無理せずひとつひとつ……、うん！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "そうですね、無理せずひとつひとつ……、うん！"
+            },
             "voice": "audition/story_01/heroine_04/HM_Main_01_04_02/hm_main_01_04_02_009.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "無理して本番前に体調を崩すのが1番まずいですよね！\nありがとうございます、マネージャー。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "無理して本番前に体調を崩すのが1番まずいですよね！\nありがとうございます、マネージャー。"
+            },
             "voice": "audition/story_01/heroine_04/HM_Main_01_04_02/hm_main_01_04_02_010.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "そうですね。\nわたし1人じゃ気付かない点もあるかもしれないですし……。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "そうですね。\nわたし1人じゃ気付かない点もあるかもしれないですし……。"
+            },
             "voice": "audition/story_01/heroine_04/HM_Main_01_04_02/hm_main_01_04_02_012.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "ありがとうございます、マネージャー。\n一緒に見直してくれると、助かります！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "ありがとうございます、マネージャー。\n一緒に見直してくれると、助かります！"
+            },
             "voice": "audition/story_01/heroine_04/HM_Main_01_04_02/hm_main_01_04_02_013.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "本当ですか？　じゃあ、ちゃんと効果が出てるのかな……。\nふふっ、ありがとうございます、マネージャー！ ",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "本当ですか？　じゃあ、ちゃんと効果が出てるのかな……。\nふふっ、ありがとうございます、マネージャー！ "
+            },
             "voice": "audition/story_01/heroine_04/HM_Main_01_04_02/hm_main_01_04_02_014.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "やる気がどんどん湧いてきました！\n早速、明日からのトレーニング、強化します！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "やる気がどんどん湧いてきました！\n早速、明日からのトレーニング、強化します！"
+            },
             "voice": "audition/story_01/heroine_04/HM_Main_01_04_02/hm_main_01_04_02_015.mp3"
         }
     ]

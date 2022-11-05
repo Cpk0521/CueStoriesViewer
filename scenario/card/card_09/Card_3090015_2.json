@@ -6,8 +6,12 @@
             "heroineId": [
                 0
             ],
-            "name": "店員",
-            "message": "はい、お待たせ。熱燗と牛すじ煮込み、どうぞー。",
+            "name": {
+                "default": "店員"
+            },
+            "message": {
+                "default": "はい、お待たせ。熱燗と牛すじ煮込み、どうぞー。"
+            },
             "voice": ""
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "（うふふ。お待ちかねの時間。）",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "（うふふ。お待ちかねの時間。）"
+            },
             "voice": "card/Card_09/Card_3090015_2/card_3090015_2_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "（うふふ。おいしそうに撮れた。\nこれなら莉子もすぐに来たくなるんじゃない？）",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "（うふふ。おいしそうに撮れた。\nこれなら莉子もすぐに来たくなるんじゃない？）"
+            },
             "voice": "card/Card_09/Card_3090015_2/card_3090015_2_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "（はい、送信……、っと。）",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "（はい、送信……、っと。）"
+            },
             "voice": "card/Card_09/Card_3090015_2/card_3090015_2_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "（それでは改めて……。）",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "（それでは改めて……。）"
+            },
             "voice": "card/Card_09/Card_3090015_2/card_3090015_2_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "はぁ……。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "はぁ……。"
+            },
             "voice": "card/Card_09/Card_3090015_2/card_3090015_2_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "全てはこの瞬間のために……、ね。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "全てはこの瞬間のために……、ね。"
+            },
             "voice": "card/Card_09/Card_3090015_2/card_3090015_2_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "『うわー。めっちゃおいしそう。\nっていうか温まりそう』",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "『うわー。めっちゃおいしそう。\nっていうか温まりそう』"
+            },
             "voice": "card/Card_09/Card_3090015_2/card_3090015_2_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "『あなたはだんだん来たくなーる』",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "『あなたはだんだん来たくなーる』"
+            },
             "voice": "card/Card_09/Card_3090015_2/card_3090015_2_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "『わかった。今からそっち向かうからちょっと待ってて』",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "『わかった。今からそっち向かうからちょっと待ってて』"
+            },
             "voice": "card/Card_09/Card_3090015_2/card_3090015_2_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "『はーい』",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "『はーい』"
+            },
             "voice": "card/Card_09/Card_3090015_2/card_3090015_2_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "『さっきから見てたけど、莉子。\nあんた完全に美晴の手のひらで転がされてるね』",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "『さっきから見てたけど、莉子。\nあんた完全に美晴の手のひらで転がされてるね』"
+            },
             "voice": "card/Card_09/Card_3090015_2/card_3090015_2_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "『あら、そう？』",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "『あら、そう？』"
+            },
             "voice": "card/Card_09/Card_3090015_2/card_3090015_2_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "『そう』",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "『そう』"
+            },
             "voice": "card/Card_09/Card_3090015_2/card_3090015_2_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "『あー、まあ、自分も飲みに行きたくなったのは事実だし』",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "『あー、まあ、自分も飲みに行きたくなったのは事実だし』"
+            },
             "voice": "card/Card_09/Card_3090015_2/card_3090015_2_015.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "『まほろは行かないから』",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "『まほろは行かないから』"
+            },
             "voice": "card/Card_09/Card_3090015_2/card_3090015_2_016.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "『次はまほろも一緒にね』",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "『次はまほろも一緒にね』"
+            },
             "voice": "card/Card_09/Card_3090015_2/card_3090015_2_017.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "『今から電車乗る！』",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "『今から電車乗る！』"
+            },
             "voice": "card/Card_09/Card_3090015_2/card_3090015_2_018.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "『はーい』",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "『はーい』"
+            },
             "voice": "card/Card_09/Card_3090015_2/card_3090015_2_019.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "（うふふ。\nわたし、幸せね。）",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "（うふふ。\nわたし、幸せね。）"
+            },
             "voice": "card/Card_09/Card_3090015_2/card_3090015_2_020.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "（煮込みも食べ終わって、お銚子もちょうど空……。\n牛すじ煮込みと熱燗の二重奏は終わり。）",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "（煮込みも食べ終わって、お銚子もちょうど空……。\n牛すじ煮込みと熱燗の二重奏は終わり。）"
+            },
             "voice": "card/Card_09/Card_3090015_2/card_3090015_2_021.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "（さあ、次は……。うーん。）",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "（さあ、次は……。うーん。）"
+            },
             "voice": "card/Card_09/Card_3090015_2/card_3090015_2_022.mp3"
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "（ここからは、気分を一新して仕切り直し。\n体も程よく温まったし……。）",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "（ここからは、気分を一新して仕切り直し。\n体も程よく温まったし……。）"
+            },
             "voice": "card/Card_09/Card_3090015_2/card_3090015_2_023.mp3"
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "（次は仕切り直してビール……\nううん。ここはやっぱり……。）",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "（次は仕切り直してビール……\nううん。ここはやっぱり……。）"
+            },
             "voice": "card/Card_09/Card_3090015_2/card_3090015_2_024.mp3"
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "あ、すみません。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "あ、すみません。"
+            },
             "voice": "card/Card_09/Card_3090015_2/card_3090015_2_025.mp3"
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 0
             ],
-            "name": "店員",
-            "message": "はーい。",
+            "name": {
+                "default": "店員"
+            },
+            "message": {
+                "default": "はーい。"
+            },
             "voice": ""
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "えーっと……、炙りしめ鯖とあと……。うん、ガツ刺しお願いします。\nあ、あとポテトサラダも1つ。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "えーっと……、炙りしめ鯖とあと……。うん、ガツ刺しお願いします。\nあ、あとポテトサラダも1つ。"
+            },
             "voice": "card/Card_09/Card_3090015_2/card_3090015_2_027.mp3"
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 0
             ],
-            "name": "店員",
-            "message": "お飲み物はどうしますか？",
+            "name": {
+                "default": "店員"
+            },
+            "message": {
+                "default": "お飲み物はどうしますか？"
+            },
             "voice": ""
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "黒ハッピーのセット。\nお願いします。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "黒ハッピーのセット。\nお願いします。"
+            },
             "voice": "card/Card_09/Card_3090015_2/card_3090015_2_029.mp3"
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 0
             ],
-            "name": "店員",
-            "message": "はいよー！　黒ハッピーのセットで！",
+            "name": {
+                "default": "店員"
+            },
+            "message": {
+                "default": "はいよー！　黒ハッピーのセットで！"
+            },
             "voice": ""
         },
         {
@@ -276,8 +396,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "（うふふ。このナカとソトっていうのが楽しいのよね。）",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "（うふふ。このナカとソトっていうのが楽しいのよね。）"
+            },
             "voice": "card/Card_09/Card_3090015_2/card_3090015_2_031.mp3"
         },
         {
@@ -285,8 +409,12 @@
             "heroineId": [
                 0
             ],
-            "name": "店員",
-            "message": "はい、黒ハッピー、セットお待たせしました。\nあとお先に、ポテトサラダ。",
+            "name": {
+                "default": "店員"
+            },
+            "message": {
+                "default": "はい、黒ハッピー、セットお待たせしました。\nあとお先に、ポテトサラダ。"
+            },
             "voice": ""
         },
         {
@@ -294,8 +422,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "はーい。ありがとうございます。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "はーい。ありがとうございます。"
+            },
             "voice": "card/Card_09/Card_3090015_2/card_3090015_2_033.mp3"
         },
         {
@@ -303,8 +435,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "（あら、これもおいしい。）",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "（あら、これもおいしい。）"
+            },
             "voice": "card/Card_09/Card_3090015_2/card_3090015_2_034.mp3"
         },
         {
@@ -312,8 +448,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "（ポテトサラダって、自分で作るとそれなりに大変なお料理だもの。）",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "（ポテトサラダって、自分で作るとそれなりに大変なお料理だもの。）"
+            },
             "voice": "card/Card_09/Card_3090015_2/card_3090015_2_035.mp3"
         },
         {
@@ -321,8 +461,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "（うん。おいしい。\nプロの手仕事をたった数百円で楽しめるなんて本当に贅沢。）",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "（うん。おいしい。\nプロの手仕事をたった数百円で楽しめるなんて本当に贅沢。）"
+            },
             "voice": "card/Card_09/Card_3090015_2/card_3090015_2_036.mp3"
         },
         {
@@ -330,8 +474,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "（黒ハッピーと一緒に1口……。）",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "（黒ハッピーと一緒に1口……。）"
+            },
             "voice": "card/Card_09/Card_3090015_2/card_3090015_2_037.mp3"
         },
         {
@@ -339,8 +487,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "（はあ。至福……、ね。\n他に言葉はいらないくらい。）",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "（はあ。至福……、ね。\n他に言葉はいらないくらい。）"
+            },
             "voice": "card/Card_09/Card_3090015_2/card_3090015_2_038.mp3"
         },
         {
@@ -348,8 +500,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "（もう1口。）",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "（もう1口。）"
+            },
             "voice": "card/Card_09/Card_3090015_2/card_3090015_2_039.mp3"
         },
         {
@@ -357,8 +513,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "（はあ、最高。）",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "（はあ、最高。）"
+            },
             "voice": "card/Card_09/Card_3090015_2/card_3090015_2_040.mp3"
         },
         {
@@ -366,8 +526,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "『今神瑞駅着いたよ』",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "『今神瑞駅着いたよ』"
+            },
             "voice": "card/Card_09/Card_3090015_2/card_3090015_2_041.mp3"
         },
         {
@@ -375,8 +539,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "（あら、莉子、神瑞駅に着いたって……。\nそれじゃあ、もうすぐお店に着くわね。）",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "（あら、莉子、神瑞駅に着いたって……。\nそれじゃあ、もうすぐお店に着くわね。）"
+            },
             "voice": "card/Card_09/Card_3090015_2/card_3090015_2_042.mp3"
         },
         {
@@ -384,8 +552,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "あ、すみません。\n今から1人、増えるんですけど大丈夫ですか？",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "あ、すみません。\n今から1人、増えるんですけど大丈夫ですか？"
+            },
             "voice": "card/Card_09/Card_3090015_2/card_3090015_2_043.mp3"
         },
         {
@@ -393,8 +565,12 @@
             "heroineId": [
                 0
             ],
-            "name": "店員",
-            "message": "はいよー、それじゃあ、こっちの席使ってください。",
+            "name": {
+                "default": "店員"
+            },
+            "message": {
+                "default": "はいよー、それじゃあ、こっちの席使ってください。"
+            },
             "voice": ""
         },
         {
@@ -402,8 +578,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "それで、生ビール1つ追加と、あと、ナカ1つ。\nお願いします。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "それで、生ビール1つ追加と、あと、ナカ1つ。\nお願いします。"
+            },
             "voice": "card/Card_09/Card_3090015_2/card_3090015_2_045.mp3"
         },
         {
@@ -411,8 +591,12 @@
             "heroineId": [
                 0
             ],
-            "name": "店員",
-            "message": "はいよー。生1つとナカね！",
+            "name": {
+                "default": "店員"
+            },
+            "message": {
+                "default": "はいよー。生1つとナカね！"
+            },
             "voice": ""
         },
         {
@@ -420,8 +604,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "『生ビール、莉子の分頼んでおきました』",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "『生ビール、莉子の分頼んでおきました』"
+            },
             "voice": "card/Card_09/Card_3090015_2/card_3090015_2_047.mp3"
         },
         {
@@ -429,8 +617,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "『はあ？』",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "『はあ？』"
+            },
             "voice": "card/Card_09/Card_3090015_2/card_3090015_2_048.mp3"
         },
         {
@@ -438,8 +630,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "『ええ！！？？\nわかった、もう、店のすぐ近くだから』",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "『ええ！！？？\nわかった、もう、店のすぐ近くだから』"
+            },
             "voice": "card/Card_09/Card_3090015_2/card_3090015_2_049.mp3"
         },
         {
@@ -447,8 +643,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "（幸せな夜はまだまだ終わらない。\nうふふ。）",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "（幸せな夜はまだまだ終わらない。\nうふふ。）"
+            },
             "voice": "card/Card_09/Card_3090015_2/card_3090015_2_050.mp3"
         },
         {
@@ -456,8 +656,12 @@
             "heroineId": [
                 0
             ],
-            "name": "店員",
-            "message": "はい、いらっしゃいませー！\nお一人様ですか？",
+            "name": {
+                "default": "店員"
+            },
+            "message": {
+                "default": "はい、いらっしゃいませー！\nお一人様ですか？"
+            },
             "voice": ""
         },
         {
@@ -465,8 +669,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "あ、待ち合わせです。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "あ、待ち合わせです。"
+            },
             "voice": "card/Card_09/Card_3090015_2/card_3090015_2_052.mp3"
         }
     ]

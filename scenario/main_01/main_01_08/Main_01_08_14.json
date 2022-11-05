@@ -6,8 +6,12 @@
             "heroineId": [
                 0
             ],
-            "name": "ライター",
-            "message": "それでは、インタビュー形式で始めさせていただきますね。",
+            "name": {
+                "default": "ライター"
+            },
+            "message": {
+                "default": "それでは、インタビュー形式で始めさせていただきますね。"
+            },
             "voice": ""
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "はい。よろしくお願いします。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "はい。よろしくお願いします。"
+            },
             "voice": "main_01/Main_01_08/Main_01_08_14/main_01_08_14_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 0
             ],
-            "name": "ライター",
-            "message": "皆さんが声優を志したきっかけはなんですか？",
+            "name": {
+                "default": "ライター"
+            },
+            "message": {
+                "default": "皆さんが声優を志したきっかけはなんですか？"
+            },
             "voice": ""
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "私の場合、母が声優で、\n幼い頃から声優として働く母の姿を見ていました。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "私の場合、母が声優で、\n幼い頃から声優として働く母の姿を見ていました。"
+            },
             "voice": "main_01/Main_01_08/Main_01_08_14/main_01_08_14_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "声優という仕事はとても身近で、\n自分が声優を志すのは自然な流れでした。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "声優という仕事はとても身近で、\n自分が声優を志すのは自然な流れでした。"
+            },
             "voice": "main_01/Main_01_08/Main_01_08_14/main_01_08_14_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "それってすごいきっかけだよね。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "それってすごいきっかけだよね。"
+            },
             "voice": "main_01/Main_01_08/Main_01_08_14/main_01_08_14_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "まあ、しょうがないわね。\n生まれちゃったんだもの。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "まあ、しょうがないわね。\n生まれちゃったんだもの。"
+            },
             "voice": "main_01/Main_01_08/Main_01_08_14/main_01_08_14_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "寺生まれだけど、坊さんは目指さなかったけどな。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "寺生まれだけど、坊さんは目指さなかったけどな。"
+            },
             "voice": "main_01/Main_01_08/Main_01_08_14/main_01_08_14_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 0
             ],
-            "name": "ライター",
-            "message": "皆さんにとってAiRBLUEはどんな事務所ですか？",
+            "name": {
+                "default": "ライター"
+            },
+            "message": {
+                "default": "皆さんにとってAiRBLUEはどんな事務所ですか？"
+            },
             "voice": ""
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "意外と悪くない。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "意外と悪くない。"
+            },
             "voice": "main_01/Main_01_08/Main_01_08_14/main_01_08_14_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "チームメイトとも、チームメイト以外とも、\n見解の相違ばかりだが。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "チームメイトとも、チームメイト以外とも、\n見解の相違ばかりだが。"
+            },
             "voice": "main_01/Main_01_08/Main_01_08_14/main_01_08_14_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "それ、私のことかしら？",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "それ、私のことかしら？"
+            },
             "voice": "main_01/Main_01_08/Main_01_08_14/main_01_08_14_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "もう、2人とも、ダメだよ……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "もう、2人とも、ダメだよ……。"
+            },
             "voice": "main_01/Main_01_08/Main_01_08_14/main_01_08_14_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "それでも、今まで過ごしたことのない時間。\nそれだけは確かだな。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "それでも、今まで過ごしたことのない時間。\nそれだけは確かだな。"
+            },
             "voice": "main_01/Main_01_08/Main_01_08_14/main_01_08_14_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "ふふっ。うん。そうだね。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "ふふっ。うん。そうだね。"
+            },
             "voice": "main_01/Main_01_08/Main_01_08_14/main_01_08_14_015.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 0
             ],
-            "name": "ライター",
-            "message": "声優の仕事には慣れましたか？",
+            "name": {
+                "default": "ライター"
+            },
+            "message": {
+                "default": "声優の仕事には慣れましたか？"
+            },
             "voice": ""
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "慣れません。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "慣れません。"
+            },
             "voice": "main_01/Main_01_08/Main_01_08_14/main_01_08_14_000.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "即答すぎるだろ。もっと揉んで揉んで。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "即答すぎるだろ。もっと揉んで揉んで。"
+            },
             "voice": "main_01/Main_01_08/Main_01_08_14/main_01_08_14_017.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "あ、いえ、その、声優の仕事には、\n慣れてしまったらいけないと思ってて……。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "あ、いえ、その、声優の仕事には、\n慣れてしまったらいけないと思ってて……。"
+            },
             "voice": "main_01/Main_01_08/Main_01_08_14/main_01_08_14_018.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "つまり、その……、初心を忘れずにいたいです。\nでも、いつまでも新人のつもりではいけないと思ってます。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "つまり、その……、初心を忘れずにいたいです。\nでも、いつまでも新人のつもりではいけないと思ってます。"
+            },
             "voice": "main_01/Main_01_08/Main_01_08_14/main_01_08_14_019.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "うん。あいりも同じ、です。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "うん。あいりも同じ、です。"
+            },
             "voice": "main_01/Main_01_08/Main_01_08_14/main_01_08_14_020.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "そうね。\nそういう心構えのバランスって、1番難しいのかも。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "そうね。\nそういう心構えのバランスって、1番難しいのかも。"
+            },
             "voice": "main_01/Main_01_08/Main_01_08_14/main_01_08_14_021.mp3"
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 0
             ],
-            "name": "ライター",
-            "message": "これから声優を目指す人に伝えたいことはなんですか？",
+            "name": {
+                "default": "ライター"
+            },
+            "message": {
+                "default": "これから声優を目指す人に伝えたいことはなんですか？"
+            },
             "voice": ""
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "本当のことを言うと、あいりにはよくわかりません……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "本当のことを言うと、あいりにはよくわかりません……。"
+            },
             "voice": "main_01/Main_01_08/Main_01_08_14/main_01_08_14_023.mp3"
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "え？　あいり？",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "え？　あいり？"
+            },
             "voice": "main_01/Main_01_08/Main_01_08_14/main_01_08_14_024.mp3"
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "声優……、ううん。なんでも、かもしれないけど……。\nでも、一緒に頑張れる人がいたらいいと思います。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "声優……、ううん。なんでも、かもしれないけど……。\nでも、一緒に頑張れる人がいたらいいと思います。"
+            },
             "voice": "main_01/Main_01_08/Main_01_08_14/main_01_08_14_025.mp3"
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "1人では挫けそうになる時、引っ張ってくれたり、\n後ろから押してくれたり……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "1人では挫けそうになる時、引っ張ってくれたり、\n後ろから押してくれたり……。"
+            },
             "voice": "main_01/Main_01_08/Main_01_08_14/main_01_08_14_026.mp3"
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "だから、そんな人を、仲間を見つけられたら……、\n絶対一生の宝物になると思います。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "だから、そんな人を、仲間を見つけられたら……、\n絶対一生の宝物になると思います。"
+            },
             "voice": "main_01/Main_01_08/Main_01_08_14/main_01_08_14_027.mp3"
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "それだけは本当です。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "それだけは本当です。"
+            },
             "voice": "main_01/Main_01_08/Main_01_08_14/main_01_08_14_028.mp3"
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "へえ。ちゃんと言えたじゃない。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "へえ。ちゃんと言えたじゃない。"
+            },
             "voice": "main_01/Main_01_08/Main_01_08_14/main_01_08_14_029.mp3"
         },
         {
@@ -276,8 +396,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "うむ。\n爆笑ではないが、きっと伝わることがあるんじゃないか？",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "うむ。\n爆笑ではないが、きっと伝わることがあるんじゃないか？"
+            },
             "voice": "main_01/Main_01_08/Main_01_08_14/main_01_08_14_030.mp3"
         },
         {
@@ -285,8 +409,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "うん。そう思う。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "うん。そう思う。"
+            },
             "voice": "main_01/Main_01_08/Main_01_08_14/main_01_08_14_031.mp3"
         },
         {
@@ -294,8 +422,12 @@
             "heroineId": [
                 0
             ],
-            "name": "ライター",
-            "message": "それでは最後に……。",
+            "name": {
+                "default": "ライター"
+            },
+            "message": {
+                "default": "それでは最後に……。"
+            },
             "voice": ""
         },
         {
@@ -303,8 +435,12 @@
             "heroineId": [
                 0
             ],
-            "name": "ライター",
-            "message": "皆さんにとって、声優として生きるって、どういうことですか？",
+            "name": {
+                "default": "ライター"
+            },
+            "message": {
+                "default": "皆さんにとって、声優として生きるって、どういうことですか？"
+            },
             "voice": ""
         },
         {
@@ -315,8 +451,12 @@
                 10,
                 14
             ],
-            "name": "4人",
-            "message": "はい、それは……。",
+            "name": {
+                "default": "4人"
+            },
+            "message": {
+                "default": "はい、それは……。"
+            },
             "voice": "main_01/Main_01_08/Main_01_08_14/main_01_08_14_035.mp3"
         },
         {
@@ -324,8 +464,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "あれ？　",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "あれ？　"
+            },
             "voice": "main_01/Main_01_08/Main_01_08_14/main_01_08_14_035.mp3"
         },
         {
@@ -333,8 +477,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "どうしたの？",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "どうしたの？"
+            },
             "voice": "main_01/Main_01_08/Main_01_08_14/main_01_08_14_036.mp3"
         },
         {
@@ -342,8 +490,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "雪だ……。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "雪だ……。"
+            },
             "voice": "main_01/Main_01_08/Main_01_08_14/main_01_08_14_037.mp3"
         },
         {
@@ -351,8 +503,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "やっぱり。朝、天気予報で言ってたから。\n純白の夜が到来する……、とな。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "やっぱり。朝、天気予報で言ってたから。\n純白の夜が到来する……、とな。"
+            },
             "voice": "main_01/Main_01_08/Main_01_08_14/main_01_08_14_038.mp3"
         },
         {
@@ -360,8 +516,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "うふふ。\n外、出てみようか。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "うふふ。\n外、出てみようか。"
+            },
             "voice": "main_01/Main_01_08/Main_01_08_14/main_01_08_14_039.mp3"
         },
         {
@@ -369,8 +529,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "賛成！！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "賛成！！"
+            },
             "voice": "main_01/Main_01_08/Main_01_08_14/main_01_08_14_040.mp3"
         },
         {
@@ -378,8 +542,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "あ、あいりたちも来たよ。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "あ、あいりたちも来たよ。"
+            },
             "voice": "main_01/Main_01_08/Main_01_08_14/main_01_08_14_041.mp3"
         },
         {
@@ -387,8 +555,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "お疲れ様。インタビュー終わったの？",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "お疲れ様。インタビュー終わったの？"
+            },
             "voice": "main_01/Main_01_08/Main_01_08_14/main_01_08_14_042.mp3"
         },
         {
@@ -396,8 +568,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "うん。みんなが外に出てったの、社長室まで聞こえてたよ。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "うん。みんなが外に出てったの、社長室まで聞こえてたよ。"
+            },
             "voice": "main_01/Main_01_08/Main_01_08_14/main_01_08_14_043.mp3"
         },
         {
@@ -405,8 +581,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "あはは、やっぱり？",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "あはは、やっぱり？"
+            },
             "voice": "main_01/Main_01_08/Main_01_08_14/main_01_08_14_044.mp3"
         },
         {
@@ -414,8 +594,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "あんたが騒ぎすぎなのよ。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "あんたが騒ぎすぎなのよ。"
+            },
             "voice": "main_01/Main_01_08/Main_01_08_14/main_01_08_14_045.mp3"
         },
         {
@@ -423,8 +607,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "雪……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "雪……。"
+            },
             "voice": "main_01/Main_01_08/Main_01_08_14/main_01_08_14_046.mp3"
         },
         {
@@ -432,8 +620,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "最近ずっと寒かったもんね。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "最近ずっと寒かったもんね。"
+            },
             "voice": "main_01/Main_01_08/Main_01_08_14/main_01_08_14_047.mp3"
         },
         {
@@ -441,8 +633,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "ユキガッセン出来るまで降るかしら？",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "ユキガッセン出来るまで降るかしら？"
+            },
             "voice": "main_01/Main_01_08/Main_01_08_14/main_01_08_14_048.mp3"
         },
         {
@@ -450,8 +646,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "さあ、明日の朝にならないとわからないわね。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "さあ、明日の朝にならないとわからないわね。"
+            },
             "voice": "main_01/Main_01_08/Main_01_08_14/main_01_08_14_049.mp3"
         },
         {
@@ -459,8 +659,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "冬か……。\n冬の間、こたつから出てはいけない法律はいつ出来るんだ？",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "冬か……。\n冬の間、こたつから出てはいけない法律はいつ出来るんだ？"
+            },
             "voice": "main_01/Main_01_08/Main_01_08_14/main_01_08_14_050.mp3"
         },
         {
@@ -468,8 +672,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "もう、冬の間中、ずっとこたつに入って過ごすつもり？",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "もう、冬の間中、ずっとこたつに入って過ごすつもり？"
+            },
             "voice": "main_01/Main_01_08/Main_01_08_14/main_01_08_14_051.mp3"
         },
         {
@@ -477,8 +685,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "まあ、志穂だしなあ、しょうがないよ。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "まあ、志穂だしなあ、しょうがないよ。"
+            },
             "voice": "main_01/Main_01_08/Main_01_08_14/main_01_08_14_052.mp3"
         },
         {
@@ -486,8 +698,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "志穂ちゃん、少しは外に出ないとダメだよ？",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "志穂ちゃん、少しは外に出ないとダメだよ？"
+            },
             "voice": "main_01/Main_01_08/Main_01_08_14/main_01_08_14_053.mp3"
         },
         {
@@ -495,8 +711,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "雪、冷たいね。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "雪、冷たいね。"
+            },
             "voice": "main_01/Main_01_08/Main_01_08_14/main_01_08_14_054.mp3"
         },
         {
@@ -504,8 +724,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "うん。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "うん。"
+            },
             "voice": "main_01/Main_01_08/Main_01_08_14/main_01_08_14_055.mp3"
         }
     ]

@@ -6,8 +6,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "お疲れ様です。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "お疲れ様です。"
+            },
             "voice": "audition/story_01/heroine_10/HM_Sub_01_10_03/hm_sub_01_10_03_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "絢、お疲れ様。\n今日はもう上がり？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "絢、お疲れ様。\n今日はもう上がり？"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "はい、美晴とご飯に行ってきます。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "はい、美晴とご飯に行ってきます。"
+            },
             "voice": "audition/story_01/heroine_10/HM_Sub_01_10_03/hm_sub_01_10_03_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "この間美晴が飲みに行ったお店が、\nカルボナーラが有名なお店らしくて。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "この間美晴が飲みに行ったお店が、\nカルボナーラが有名なお店らしくて。"
+            },
             "voice": "audition/story_01/heroine_10/HM_Sub_01_10_03/hm_sub_01_10_03_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "私も絶対気に入るからって、誘ってくれたんです。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "私も絶対気に入るからって、誘ってくれたんです。"
+            },
             "voice": "audition/story_01/heroine_10/HM_Sub_01_10_03/hm_sub_01_10_03_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "でも、ちょっと羨ましいな。\nお酒が飲めたら、もっと楽しめるのかなって。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "でも、ちょっと羨ましいな。\nお酒が飲めたら、もっと楽しめるのかなって。"
+            },
             "voice": "audition/story_01/heroine_10/HM_Sub_01_10_03/hm_sub_01_10_03_006.mp3"
         }
     ]

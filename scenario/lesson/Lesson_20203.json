@@ -6,8 +6,12 @@
             "heroineId": [
                 0
             ],
-            "name": "太郎と呼ばれた少年",
-            "message": "凛音ねーちゃん、本当にありがとう！",
+            "name": {
+                "default": "太郎と呼ばれた少年"
+            },
+            "message": {
+                "default": "凛音ねーちゃん、本当にありがとう！"
+            },
             "voice": ""
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "こういちくんに気を付けて歩かなきゃダメだよって、\nちゃんと伝えてね？",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "こういちくんに気を付けて歩かなきゃダメだよって、\nちゃんと伝えてね？"
+            },
             "voice": "lesson/Lesson_20203/lesson_20203_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 0
             ],
-            "name": "太郎と呼ばれた少年",
-            "message": "は～い！　\nゴメンね凛音ねーちゃん、せっかく並んでたのに。",
+            "name": {
+                "default": "太郎と呼ばれた少年"
+            },
+            "message": {
+                "default": "は～い！　\nゴメンね凛音ねーちゃん、せっかく並んでたのに。"
+            },
             "voice": ""
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "いいのいいの。気にしない気にしな～い！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "いいのいいの。気にしない気にしな～い！"
+            },
             "voice": "lesson/Lesson_20203/lesson_20203_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 0
             ],
-            "name": "太郎と呼ばれた少年",
-            "message": "へへっ。ありがとうね。バイバ～イ！",
+            "name": {
+                "default": "太郎と呼ばれた少年"
+            },
+            "message": {
+                "default": "へへっ。ありがとうね。バイバ～イ！"
+            },
             "voice": ""
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "バイバ～イ！！　気をつけて帰るんだよ～！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "バイバ～イ！！　気をつけて帰るんだよ～！"
+            },
             "voice": "lesson/Lesson_20203/lesson_20203_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "またたくさん並んでるなぁ。もう1回並ぶのは無理っぽいか～。\n……フローズンチョコミント、食べ損ねちゃった。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "またたくさん並んでるなぁ。もう1回並ぶのは無理っぽいか～。\n……フローズンチョコミント、食べ損ねちゃった。"
+            },
             "voice": "lesson/Lesson_20203/lesson_20203_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "リンネ～！　いたいた！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "リンネ～！　いたいた！"
+            },
             "voice": "lesson/Lesson_20203/lesson_20203_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "ゆずっち……。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "ゆずっち……。"
+            },
             "voice": "lesson/Lesson_20203/lesson_20203_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "噂のチョコミントどうだった？\n味の感想聞きたくてまた来たのに、リンネいないんだもん。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "噂のチョコミントどうだった？\n味の感想聞きたくてまた来たのに、リンネいないんだもん。"
+            },
             "voice": "lesson/Lesson_20203/lesson_20203_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "別のところで食べてたの？",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "別のところで食べてたの？"
+            },
             "voice": "lesson/Lesson_20203/lesson_20203_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "それが食べられなかったの。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "それが食べられなかったの。"
+            },
             "voice": "lesson/Lesson_20203/lesson_20203_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "えっ？　並んだんじゃなかったの？",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "えっ？　並んだんじゃなかったの？"
+            },
             "voice": "lesson/Lesson_20203/lesson_20203_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "並んだんだけどね～。\nくぅ～！　中々人生って上手く行かないね！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "並んだんだけどね～。\nくぅ～！　中々人生って上手く行かないね！"
+            },
             "voice": "lesson/Lesson_20203/lesson_20203_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "何があったか知らないけど、\nじゃあ食べてないんだ。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "何があったか知らないけど、\nじゃあ食べてないんだ。"
+            },
             "voice": "lesson/Lesson_20203/lesson_20203_015.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "そう。また今度並ぶよ！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "そう。また今度並ぶよ！"
+            },
             "voice": "lesson/Lesson_20203/lesson_20203_016.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "そっかぁ残念。これからまたあのお店に並ぶのも大変ね。\n……あれ？　あのお店の店員さんずっとリンネのこと見てるよ？",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "そっかぁ残念。これからまたあのお店に並ぶのも大変ね。\n……あれ？　あのお店の店員さんずっとリンネのこと見てるよ？"
+            },
             "voice": "lesson/Lesson_20203/lesson_20203_017.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "え？　……あ、ホントだ。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "え？　……あ、ホントだ。"
+            },
             "voice": "lesson/Lesson_20203/lesson_20203_018.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "店員さん、こっちに来るよ。\nしかもあの人、手にフローズンチョコミント持ってる！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "店員さん、こっちに来るよ。\nしかもあの人、手にフローズンチョコミント持ってる！"
+            },
             "voice": "lesson/Lesson_20203/lesson_20203_019.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 0
             ],
-            "name": "店員",
-            "message": "良かった！　もう戻って来ないんじゃないかって思いました。\nどうぞ、フローズンチョコミント400円です。",
+            "name": {
+                "default": "店員"
+            },
+            "message": {
+                "default": "良かった！　もう戻って来ないんじゃないかって思いました。\nどうぞ、フローズンチョコミント400円です。"
+            },
             "voice": ""
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "え？　わたしのために……？",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "え？　わたしのために……？"
+            },
             "voice": "lesson/Lesson_20203/lesson_20203_021.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 0
             ],
-            "name": "店員",
-            "message": "怪我した子供のために、60分待ったの諦めて行ったんでしょう？\nそんな方をまた並ばせるなんて出来ませんよ。",
+            "name": {
+                "default": "店員"
+            },
+            "message": {
+                "default": "怪我した子供のために、60分待ったの諦めて行ったんでしょう？\nそんな方をまた並ばせるなんて出来ませんよ。"
+            },
             "voice": ""
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "あ、ありがとうございます！！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "あ、ありがとうございます！！"
+            },
             "voice": "lesson/Lesson_20203/lesson_20203_023.mp3"
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "リンネ、良かったね！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "リンネ、良かったね！"
+            },
             "voice": "lesson/Lesson_20203/lesson_20203_024.mp3"
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "うん！！　ゆずっちも一緒に食べ……、あれ？",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "うん！！　ゆずっちも一緒に食べ……、あれ？"
+            },
             "voice": "lesson/Lesson_20203/lesson_20203_025.mp3"
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "どうかしたの？",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "どうかしたの？"
+            },
             "voice": "lesson/Lesson_20203/lesson_20203_026.mp3"
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "ゆずっち400円貸して？　\nお財布寮に忘れちゃった……。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "ゆずっち400円貸して？　\nお財布寮に忘れちゃった……。"
+            },
             "voice": "lesson/Lesson_20203/lesson_20203_027.mp3"
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "あは、しょうがないなぁ。\nちゃんと味見させてよね？",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "あは、しょうがないなぁ。\nちゃんと味見させてよね？"
+            },
             "voice": "lesson/Lesson_20203/lesson_20203_028.mp3"
         }
     ]

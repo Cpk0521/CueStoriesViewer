@@ -6,8 +6,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "お疲れ様です。\nあの……ちょっと聞いてもらえますか？",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "お疲れ様です。\nあの……ちょっと聞いてもらえますか？"
+            },
             "voice": "audition/story_01/heroine_10/HM_Sub_01_10_05/hm_sub_01_10_05_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "さっきレッスン中に、\n声だけで演技するなって言われたんです。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "さっきレッスン中に、\n声だけで演技するなって言われたんです。"
+            },
             "voice": "audition/story_01/heroine_10/HM_Sub_01_10_05/hm_sub_01_10_05_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "もっと気持ちを乗せなきゃって。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "もっと気持ちを乗せなきゃって。"
+            },
             "voice": "audition/story_01/heroine_10/HM_Sub_01_10_05/hm_sub_01_10_05_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "……頭では理解してるんだけど。\n難しいな。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "……頭では理解してるんだけど。\n難しいな。"
+            },
             "voice": "audition/story_01/heroine_10/HM_Sub_01_10_05/hm_sub_01_10_05_004.mp3"
         }
     ]

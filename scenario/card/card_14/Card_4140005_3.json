@@ -6,8 +6,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "聡里ちゃん！　このお守りはあなたのお守りね！\nいい加減、素直になりなさい！",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "聡里ちゃん！　このお守りはあなたのお守りね！\nいい加減、素直になりなさい！"
+            },
             "voice": "card/Card_14/Card_4140005_3/card_4140005_3_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "……はい。\nそのお守りは、私のです。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "……はい。\nそのお守りは、私のです。"
+            },
             "voice": "card/Card_14/Card_4140005_3/card_4140005_3_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "えっ？\n……聡里さんのお守り？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "えっ？\n……聡里さんのお守り？"
+            },
             "voice": "card/Card_14/Card_4140005_3/card_4140005_3_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "やっぱりそうか……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "やっぱりそうか……。"
+            },
             "voice": ""
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "何で隠すの？\n隠すことないじゃない。",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "何で隠すの？\n隠すことないじゃない。"
+            },
             "voice": "card/Card_14/Card_4140005_3/card_4140005_3_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "あの、言い訳をさせてください。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "あの、言い訳をさせてください。"
+            },
             "voice": "card/Card_14/Card_4140005_3/card_4140005_3_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "言い訳？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "言い訳？"
+            },
             "voice": ""
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "そのお守りは、自分で買ったものじゃないんです。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "そのお守りは、自分で買ったものじゃないんです。"
+            },
             "voice": "card/Card_14/Card_4140005_3/card_4140005_3_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "誰かに貰ったの？",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "誰かに貰ったの？"
+            },
             "voice": "card/Card_14/Card_4140005_3/card_4140005_3_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "実はその、おばあちゃんに……。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "実はその、おばあちゃんに……。"
+            },
             "voice": "card/Card_14/Card_4140005_3/card_4140005_3_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "おばあちゃん？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "おばあちゃん？"
+            },
             "voice": ""
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "私は、こんなものいらないって言ったんです。\nこんなものに頼ってるのは、弱い人間だって。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "私は、こんなものいらないって言ったんです。\nこんなものに頼ってるのは、弱い人間だって。"
+            },
             "voice": "card/Card_14/Card_4140005_3/card_4140005_3_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "でも、どうしても持って行けって。\nわざわざ、遠くの神社までもらいに行ったからって。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "でも、どうしても持って行けって。\nわざわざ、遠くの神社までもらいに行ったからって。"
+            },
             "voice": "card/Card_14/Card_4140005_3/card_4140005_3_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "私も、おばあちゃんにはお世話になってるし。\nまぁ、持つくらいならいいかなって……。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "私も、おばあちゃんにはお世話になってるし。\nまぁ、持つくらいならいいかなって……。"
+            },
             "voice": "card/Card_14/Card_4140005_3/card_4140005_3_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "ステキなおばあちゃんじゃないですか。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "ステキなおばあちゃんじゃないですか。"
+            },
             "voice": "card/Card_14/Card_4140005_3/card_4140005_3_015.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "だよね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "だよね。"
+            },
             "voice": ""
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "心配性なんですよ。しょっちゅう電話かかってくるし。\n自分だって体悪いのに、私の心配ばっか。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "心配性なんですよ。しょっちゅう電話かかってくるし。\n自分だって体悪いのに、私の心配ばっか。"
+            },
             "voice": "card/Card_14/Card_4140005_3/card_4140005_3_017.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "だから、お守りを大事にしてたのね。",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "だから、お守りを大事にしてたのね。"
+            },
             "voice": "card/Card_14/Card_4140005_3/card_4140005_3_018.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "別に大事にはしてないけど……。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "別に大事にはしてないけど……。"
+            },
             "voice": "card/Card_14/Card_4140005_3/card_4140005_3_019.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "嘘、嘘。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "嘘、嘘。"
+            },
             "voice": ""
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "無くなったって分かったとき、顔色悪かったよ？　\n青ざめてた。",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "無くなったって分かったとき、顔色悪かったよ？　\n青ざめてた。"
+            },
             "voice": "card/Card_14/Card_4140005_3/card_4140005_3_021.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "涙目になってた。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "涙目になってた。"
+            },
             "voice": ""
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "ぶるぶる震えてた。",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "ぶるぶる震えてた。"
+            },
             "voice": "card/Card_14/Card_4140005_3/card_4140005_3_023.mp3"
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "もうやめてください……。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "もうやめてください……。"
+            },
             "voice": "card/Card_14/Card_4140005_3/card_4140005_3_024.mp3"
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "そんなの当然ですよ。\nだって、大事なおばあちゃんのお守りだもん。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "そんなの当然ですよ。\nだって、大事なおばあちゃんのお守りだもん。"
+            },
             "voice": "card/Card_14/Card_4140005_3/card_4140005_3_025.mp3"
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "聡里さんの、心の支えですもんね。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "聡里さんの、心の支えですもんね。"
+            },
             "voice": "card/Card_14/Card_4140005_3/card_4140005_3_026.mp3"
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "正直言うとね……。\n無くして初めてわかった。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "正直言うとね……。\n無くして初めてわかった。"
+            },
             "voice": "card/Card_14/Card_4140005_3/card_4140005_3_027.mp3"
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "なにを？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "なにを？"
+            },
             "voice": ""
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "ああ、私はこのお守りを頼りにしてたんだって……。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "ああ、私はこのお守りを頼りにしてたんだって……。"
+            },
             "voice": "card/Card_14/Card_4140005_3/card_4140005_3_029.mp3"
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "人間は、そんなに強くない。\n小さくて、弱い存在よ？",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "人間は、そんなに強くない。\n小さくて、弱い存在よ？"
+            },
             "voice": "card/Card_14/Card_4140005_3/card_4140005_3_030.mp3"
         },
         {
@@ -276,8 +396,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "でもね、信じることで強くなる。\nものすごく、勇気が出るの。",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "でもね、信じることで強くなる。\nものすごく、勇気が出るの。"
+            },
             "voice": "card/Card_14/Card_4140005_3/card_4140005_3_031.mp3"
         },
         {
@@ -285,8 +409,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "そうですね。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "そうですね。"
+            },
             "voice": "card/Card_14/Card_4140005_3/card_4140005_3_032.mp3"
         },
         {
@@ -294,8 +422,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "聡里ちゃん。\nこのお守り、大事にしなさい。",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "聡里ちゃん。\nこのお守り、大事にしなさい。"
+            },
             "voice": "card/Card_14/Card_4140005_3/card_4140005_3_033.mp3"
         },
         {
@@ -303,8 +435,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "はい……。\nいろいろ、すみませんでした。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "はい……。\nいろいろ、すみませんでした。"
+            },
             "voice": "card/Card_14/Card_4140005_3/card_4140005_3_034.mp3"
         },
         {
@@ -312,8 +448,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "これで、皆の不安も理解出来るよね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "これで、皆の不安も理解出来るよね。"
+            },
             "voice": ""
         },
         {
@@ -321,8 +461,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "……。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "……。"
+            },
             "voice": "card/Card_14/Card_4140005_3/card_4140005_3_036.mp3"
         },
         {
@@ -330,8 +474,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "聡里？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "聡里？"
+            },
             "voice": ""
         },
         {
@@ -339,8 +487,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "マネージャーさん……。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "マネージャーさん……。"
+            },
             "voice": "card/Card_14/Card_4140005_3/card_4140005_3_038.mp3"
         },
         {
@@ -348,8 +500,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "あれ？\n陽菜。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "あれ？\n陽菜。"
+            },
             "voice": ""
         },
         {
@@ -357,8 +513,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "どうしたの？",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "どうしたの？"
+            },
             "voice": "card/Card_14/Card_4140005_3/card_4140005_3_040.mp3"
         },
         {
@@ -366,8 +526,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "いろいろ考えてたら、やっぱり不安になってきちゃって……。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "いろいろ考えてたら、やっぱり不安になってきちゃって……。"
+            },
             "voice": "card/Card_14/Card_4140005_3/card_4140005_3_041.mp3"
         },
         {
@@ -375,8 +539,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "何を考えてたの……？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "何を考えてたの……？"
+            },
             "voice": ""
         },
         {
@@ -384,8 +552,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "歌の音程を外したらどうしよう。\n踊りの振付間違えたらどうしよう。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "歌の音程を外したらどうしよう。\n踊りの振付間違えたらどうしよう。"
+            },
             "voice": "card/Card_14/Card_4140005_3/card_4140005_3_043.mp3"
         },
         {
@@ -393,8 +565,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "転んだりしたらどうしよう。\n不安がどんどん、あふれ出てくるんです……。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "転んだりしたらどうしよう。\n不安がどんどん、あふれ出てくるんです……。"
+            },
             "voice": "card/Card_14/Card_4140005_3/card_4140005_3_044.mp3"
         },
         {
@@ -402,8 +578,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "さっき、ようやくやる気になったのに……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "さっき、ようやくやる気になったのに……。"
+            },
             "voice": ""
         },
         {
@@ -411,8 +591,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "陽菜ちゃんの心配性にも困ったもんだね……。",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "陽菜ちゃんの心配性にも困ったもんだね……。"
+            },
             "voice": "card/Card_14/Card_4140005_3/card_4140005_3_046.mp3"
         },
         {
@@ -420,8 +604,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "六石さん。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "六石さん。"
+            },
             "voice": "card/Card_14/Card_4140005_3/card_4140005_3_047.mp3"
         },
         {
@@ -429,8 +617,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "あっ！　聡里さんがいる！\nごめんなさい！",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "あっ！　聡里さんがいる！\nごめんなさい！"
+            },
             "voice": "card/Card_14/Card_4140005_3/card_4140005_3_048.mp3"
         },
         {
@@ -438,8 +630,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "何で謝るんですか？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "何で謝るんですか？"
+            },
             "voice": "card/Card_14/Card_4140005_3/card_4140005_3_049.mp3"
         },
         {
@@ -447,8 +643,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "だって聡里さん……。\n弱気なこと言ってたら怒るでしょ……？",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "だって聡里さん……。\n弱気なこと言ってたら怒るでしょ……？"
+            },
             "voice": "card/Card_14/Card_4140005_3/card_4140005_3_050.mp3"
         },
         {
@@ -456,8 +656,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "前の私ならね。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "前の私ならね。"
+            },
             "voice": "card/Card_14/Card_4140005_3/card_4140005_3_051.mp3"
         },
         {
@@ -465,8 +669,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "えっ？\n「前の私」なら？",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "えっ？\n「前の私」なら？"
+            },
             "voice": "card/Card_14/Card_4140005_3/card_4140005_3_052.mp3"
         },
         {
@@ -474,8 +682,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "だってしょうがないよ。\n人間は強くない。誰だって弱気になる。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "だってしょうがないよ。\n人間は強くない。誰だって弱気になる。"
+            },
             "voice": "card/Card_14/Card_4140005_3/card_4140005_3_053.mp3"
         },
         {
@@ -483,8 +695,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "聡里……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "聡里……。"
+            },
             "voice": ""
         },
         {
@@ -492,8 +708,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "だからこそ、仲間がいるんじゃない。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "だからこそ、仲間がいるんじゃない。"
+            },
             "voice": "card/Card_14/Card_4140005_3/card_4140005_3_055.mp3"
         },
         {
@@ -501,8 +721,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "仲間……。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "仲間……。"
+            },
             "voice": "card/Card_14/Card_4140005_3/card_4140005_3_056.mp3"
         },
         {
@@ -510,8 +734,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "深呼吸して、よ～く周りを見てごらん。\nそこに、誰がいる？",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "深呼吸して、よ～く周りを見てごらん。\nそこに、誰がいる？"
+            },
             "voice": "card/Card_14/Card_4140005_3/card_4140005_3_057.mp3"
         },
         {
@@ -519,8 +747,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "みんながいる……。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "みんながいる……。"
+            },
             "voice": "card/Card_14/Card_4140005_3/card_4140005_3_058.mp3"
         },
         {
@@ -528,8 +760,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "六石さんが歌えなくなったら、フォローしてくれる。\n六石さんが踊れなくなったら、力を貸してくれる。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "六石さんが歌えなくなったら、フォローしてくれる。\n六石さんが踊れなくなったら、力を貸してくれる。"
+            },
             "voice": "card/Card_14/Card_4140005_3/card_4140005_3_059.mp3"
         },
         {
@@ -537,8 +773,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "六石さんが転んだら……、手を差し出してくれる。\nそうじゃない？",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "六石さんが転んだら……、手を差し出してくれる。\nそうじゃない？"
+            },
             "voice": "card/Card_14/Card_4140005_3/card_4140005_3_060.mp3"
         },
         {
@@ -546,8 +786,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "うん……。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "うん……。"
+            },
             "voice": "card/Card_14/Card_4140005_3/card_4140005_3_061.mp3"
         },
         {
@@ -555,8 +799,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "六石さんは、みんなを信じてるでしょ？",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "六石さんは、みんなを信じてるでしょ？"
+            },
             "voice": "card/Card_14/Card_4140005_3/card_4140005_3_062.mp3"
         },
         {
@@ -564,8 +812,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "信じてる。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "信じてる。"
+            },
             "voice": "card/Card_14/Card_4140005_3/card_4140005_3_063.mp3"
         },
         {
@@ -573,8 +825,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "だったら、不安に思う必要ないじゃない。\nですよね？　マネージャーさん。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "だったら、不安に思う必要ないじゃない。\nですよね？　マネージャーさん。"
+            },
             "voice": "card/Card_14/Card_4140005_3/card_4140005_3_064.mp3"
         },
         {
@@ -582,8 +838,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "その通り。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "その通り。"
+            },
             "voice": ""
         },
         {
@@ -591,8 +851,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "逆に、誰かが失敗したら、六石さんが助けてあげないと。\nそのためには、落ち着いて周りを見てないと。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "逆に、誰かが失敗したら、六石さんが助けてあげないと。\nそのためには、落ち着いて周りを見てないと。"
+            },
             "voice": "card/Card_14/Card_4140005_3/card_4140005_3_066.mp3"
         },
         {
@@ -600,8 +864,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "うん……、そうだね……。\nわたしがこんな状態じゃ、仲間を助けることなんて出来ない。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "うん……、そうだね……。\nわたしがこんな状態じゃ、仲間を助けることなんて出来ない。"
+            },
             "voice": "card/Card_14/Card_4140005_3/card_4140005_3_067.mp3"
         },
         {
@@ -609,8 +877,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "わたしが失敗したら、誰かが助けてくれる。\n誰かが失敗したら、わたしが助けてあげる。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "わたしが失敗したら、誰かが助けてくれる。\n誰かが失敗したら、わたしが助けてあげる。"
+            },
             "voice": "card/Card_14/Card_4140005_3/card_4140005_3_068.mp3"
         },
         {
@@ -618,8 +890,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "そうだよ！　",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "そうだよ！　"
+            },
             "voice": "card/Card_14/Card_4140005_3/card_4140005_3_069.mp3"
         },
         {
@@ -627,8 +903,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "聡里さん、ありがとう！\nもう大丈夫！",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "聡里さん、ありがとう！\nもう大丈夫！"
+            },
             "voice": "card/Card_14/Card_4140005_3/card_4140005_3_070.mp3"
         },
         {
@@ -636,8 +916,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "頑張って。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "頑張って。"
+            },
             "voice": ""
         },
         {
@@ -645,8 +929,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "はい！\n頑張ります！",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "はい！\n頑張ります！"
+            },
             "voice": "card/Card_14/Card_4140005_3/card_4140005_3_072.mp3"
         },
         {
@@ -654,8 +942,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "聡里さん……。\n素敵です！",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "聡里さん……。\n素敵です！"
+            },
             "voice": "card/Card_14/Card_4140005_3/card_4140005_3_073.mp3"
         },
         {
@@ -663,8 +955,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "やめてよ。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "やめてよ。"
+            },
             "voice": "card/Card_14/Card_4140005_3/card_4140005_3_074.mp3"
         },
         {
@@ -672,8 +968,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "いやいや、ホントかっこよかったよ。",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "いやいや、ホントかっこよかったよ。"
+            },
             "voice": "card/Card_14/Card_4140005_3/card_4140005_3_075.mp3"
         },
         {
@@ -681,8 +981,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "りおさんと、恵庭さんと、それから……。\nマネージャーさんのおかげです。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "りおさんと、恵庭さんと、それから……。\nマネージャーさんのおかげです。"
+            },
             "voice": "card/Card_14/Card_4140005_3/card_4140005_3_076.mp3"
         },
         {
@@ -690,8 +994,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "素晴らしいパフォーマンス、期待してるよ！",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "素晴らしいパフォーマンス、期待してるよ！"
+            },
             "voice": ""
         },
         {
@@ -699,8 +1007,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "任せといて。\nちゃんとそこで見てなさい。 ",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "任せといて。\nちゃんとそこで見てなさい。 "
+            },
             "voice": "card/Card_14/Card_4140005_3/card_4140005_3_078.mp3"
         }
     ]

@@ -6,8 +6,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "おもちゃ屋さんってさ、行くだけでテンション上がるよね！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "おもちゃ屋さんってさ、行くだけでテンション上がるよね！"
+            },
             "voice": "event/Event_011/Event_011_01/event_011_01_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "日本のトイの技術力は世界一だもの。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "日本のトイの技術力は世界一だもの。"
+            },
             "voice": "event/Event_011/Event_011_01/event_011_01_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "ねえ、あたし、プラモのコーナー行ってきていい！？",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "ねえ、あたし、プラモのコーナー行ってきていい！？"
+            },
             "voice": "event/Event_011/Event_011_01/event_011_01_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "あいりはプチキュアのフィギュアとかグッズが欲しいな。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "あいりはプチキュアのフィギュアとかグッズが欲しいな。"
+            },
             "voice": "event/Event_011/Event_011_01/event_011_01_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "はいはい。みんな、あんまり別行動してはぐれないようにね。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "はいはい。みんな、あんまり別行動してはぐれないようにね。"
+            },
             "voice": "event/Event_011/Event_011_01/event_011_01_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "子どもじゃないんだから大丈夫だって。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "子どもじゃないんだから大丈夫だって。"
+            },
             "voice": "event/Event_011/Event_011_01/event_011_01_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "……いつも不安しか無いんだけど。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "……いつも不安しか無いんだけど。"
+            },
             "voice": "event/Event_011/Event_011_01/event_011_01_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "私は何を買おうかしら。\nせっかくなら見ていたアニメのおもちゃがいいわね。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "私は何を買おうかしら。\nせっかくなら見ていたアニメのおもちゃがいいわね。"
+            },
             "voice": "event/Event_011/Event_011_01/event_011_01_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "……柚葉ちゃんは、海外で日本のアニメを見てたんだよね。\nどういうのを見てたの？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "……柚葉ちゃんは、海外で日本のアニメを見てたんだよね。\nどういうのを見てたの？"
+            },
             "voice": "event/Event_011/Event_011_01/event_011_01_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "そうねー……。\nどの国でも日本のアニメはたくさんやってるけど……。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "そうねー……。\nどの国でも日本のアニメはたくさんやってるけど……。"
+            },
             "voice": "event/Event_011/Event_011_01/event_011_01_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "周りで一番人気があったのは、Sci-Fiね！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "周りで一番人気があったのは、Sci-Fiね！"
+            },
             "voice": "event/Event_011/Event_011_01/event_011_01_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "サイファイ？　何それ？",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "サイファイ？　何それ？"
+            },
             "voice": "event/Event_011/Event_011_01/event_011_01_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "サイエンスフィクション。\nSFって言ったほうがわかりやすいかもね。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "サイエンスフィクション。\nSFって言ったほうがわかりやすいかもね。"
+            },
             "voice": "event/Event_011/Event_011_01/event_011_01_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "あ、ほら、今度収録する「O.L.」とかもそう。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "あ、ほら、今度収録する「O.L.」とかもそう。"
+            },
             "voice": "event/Event_011/Event_011_01/event_011_01_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "あー、あーいうのかー。そっちはあまり見てないんだよなー。\nロボが出てくるものは見てたけどね。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "あー、あーいうのかー。そっちはあまり見てないんだよなー。\nロボが出てくるものは見てたけどね。"
+            },
             "voice": "event/Event_011/Event_011_01/event_011_01_015.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "節足機動隊とか！\nやっぱ多脚にも夢があるんだよなー。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "節足機動隊とか！\nやっぱ多脚にも夢があるんだよなー。"
+            },
             "voice": "event/Event_011/Event_011_01/event_011_01_016.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "はいはい。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "はいはい。"
+            },
             "voice": "event/Event_011/Event_011_01/event_011_01_017.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "あいりもあんまりわからないかも。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "あいりもあんまりわからないかも。"
+            },
             "voice": "event/Event_011/Event_011_01/event_011_01_018.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "オーモト監督のAKITAとか、すごく人気よ。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "オーモト監督のAKITAとか、すごく人気よ。"
+            },
             "voice": "event/Event_011/Event_011_01/event_011_01_019.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "そうね。私たちの世代じゃあないけど、名作だもんね。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "そうね。私たちの世代じゃあないけど、名作だもんね。"
+            },
             "voice": "event/Event_011/Event_011_01/event_011_01_020.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "シンガポールとか、フランスとか、\n色んな国にファンがいたわ。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "シンガポールとか、フランスとか、\n色んな国にファンがいたわ。"
+            },
             "voice": "event/Event_011/Event_011_01/event_011_01_021.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "柚葉ちゃんは、色んな国に行ってるよね。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "柚葉ちゃんは、色んな国に行ってるよね。"
+            },
             "voice": "event/Event_011/Event_011_01/event_011_01_022.mp3"
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "えぇ、そうよ。色んな街で色んな人と会ったわ。\n子どもの頃から、パパと一緒にね。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "えぇ、そうよ。色んな街で色んな人と会ったわ。\n子どもの頃から、パパと一緒にね。"
+            },
             "voice": "event/Event_011/Event_011_01/event_011_01_023.mp3"
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "子どもの頃にはもう社交界デビューしてるってわけね……。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "子どもの頃にはもう社交界デビューしてるってわけね……。"
+            },
             "voice": "event/Event_011/Event_011_01/event_011_01_024.mp3"
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "素敵な出会いばかりだったわ。\nあ、でも、うーん……。時々、会いたくない人もいたけど。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "素敵な出会いばかりだったわ。\nあ、でも、うーん……。時々、会いたくない人もいたけど。"
+            },
             "voice": "event/Event_011/Event_011_01/event_011_01_025.mp3"
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "そうだ！　AKITAといえば、\n私、カネコの乗ってるバイクのフィギュアほしい。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "そうだ！　AKITAといえば、\n私、カネコの乗ってるバイクのフィギュアほしい。"
+            },
             "voice": "event/Event_011/Event_011_01/event_011_01_026.mp3"
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "ねえ、チサ。売ってる？",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "ねえ、チサ。売ってる？"
+            },
             "voice": "event/Event_011/Event_011_01/event_011_01_027.mp3"
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "ん？　誰かスマホ鳴ってるよ？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "ん？　誰かスマホ鳴ってるよ？"
+            },
             "voice": "event/Event_011/Event_011_01/event_011_01_028.mp3"
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "あ、私ね！\n……あら？　知らない番号ね……。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "あ、私ね！\n……あら？　知らない番号ね……。"
+            },
             "voice": "event/Event_011/Event_011_01/event_011_01_029.mp3"
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "ハロー。え？　What？",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "ハロー。え？　What？"
+            },
             "voice": "event/Event_011/Event_011_01/event_011_01_030.mp3"
         },
         {
@@ -276,8 +396,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "ねえ、チサ……。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "ねえ、チサ……。"
+            },
             "voice": "event/Event_011/Event_011_01/event_011_01_031.mp3"
         },
         {
@@ -285,8 +409,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "ん？　柚葉、どうしたの？",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "ん？　柚葉、どうしたの？"
+            },
             "voice": "event/Event_011/Event_011_01/event_011_01_032.mp3"
         },
         {
@@ -294,8 +422,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "Sorry。私、ちょっと電話してからみんなのとこに行くね。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "Sorry。私、ちょっと電話してからみんなのとこに行くね。"
+            },
             "voice": "event/Event_011/Event_011_01/event_011_01_033.mp3"
         },
         {
@@ -303,8 +435,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "電話くらいここで待ってるよ？",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "電話くらいここで待ってるよ？"
+            },
             "voice": "event/Event_011/Event_011_01/event_011_01_034.mp3"
         },
         {
@@ -312,8 +448,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "うーん、でも少し長くなりそうなの。\n先行ってて。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "うーん、でも少し長くなりそうなの。\n先行ってて。"
+            },
             "voice": "event/Event_011/Event_011_01/event_011_01_035.mp3"
         },
         {
@@ -321,8 +461,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "そう？　んじゃあ、先行くね。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "そう？　んじゃあ、先行くね。"
+            },
             "voice": "event/Event_011/Event_011_01/event_011_01_036.mp3"
         },
         {
@@ -330,8 +474,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "神瑞駅の裏のホドシバカメラでしょ？",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "神瑞駅の裏のホドシバカメラでしょ？"
+            },
             "voice": "event/Event_011/Event_011_01/event_011_01_037.mp3"
         },
         {
@@ -339,8 +487,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "そうそう。そこの6階。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "そうそう。そこの6階。"
+            },
             "voice": "event/Event_011/Event_011_01/event_011_01_038.mp3"
         },
         {
@@ -348,8 +500,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "オッケー！　じゃあ、また後で！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "オッケー！　じゃあ、また後で！"
+            },
             "voice": "event/Event_011/Event_011_01/event_011_01_039.mp3"
         },
         {
@@ -357,8 +513,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "もう、終わった話だと思ったのに、なんの用？",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "もう、終わった話だと思ったのに、なんの用？"
+            },
             "voice": "event/Event_011/Event_011_01/event_011_01_040.mp3"
         },
         {
@@ -366,8 +526,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "私、話すことなんて何もないんだけど。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "私、話すことなんて何もないんだけど。"
+            },
             "voice": "event/Event_011/Event_011_01/event_011_01_041.mp3"
         },
         {
@@ -375,8 +539,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "あいりもプラモ買いなよ。あたしが選んであげるからさ。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "あいりもプラモ買いなよ。あたしが選んであげるからさ。"
+            },
             "voice": "event/Event_011/Event_011_01/event_011_01_042.mp3"
         },
         {
@@ -384,8 +552,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "うーん、プラモデルかぁ。\n悠希ちゃんは、プチキュアとか興味ないの？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "うーん、プラモデルかぁ。\n悠希ちゃんは、プチキュアとか興味ないの？"
+            },
             "voice": "event/Event_011/Event_011_01/event_011_01_043.mp3"
         },
         {
@@ -393,8 +565,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "あたしはロボがメインだからなぁ。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "あたしはロボがメインだからなぁ。"
+            },
             "voice": "event/Event_011/Event_011_01/event_011_01_044.mp3"
         },
         {
@@ -402,8 +578,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "ん？　あれって……。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "ん？　あれって……。"
+            },
             "voice": "event/Event_011/Event_011_01/event_011_01_045.mp3"
         },
         {
@@ -411,8 +591,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "どうしたの？",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "どうしたの？"
+            },
             "voice": "event/Event_011/Event_011_01/event_011_01_046.mp3"
         },
         {
@@ -420,8 +604,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "あ、ううん。\nあまりこの辺では見ないような黒塗りの外車が通ったから、少し気になったの。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "あ、ううん。\nあまりこの辺では見ないような黒塗りの外車が通ったから、少し気になったの。"
+            },
             "voice": "event/Event_011/Event_011_01/event_011_01_047.mp3"
         },
         {
@@ -429,8 +617,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "そうなの？\n黒塗りの外車くらい、珍しくないでしょ。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "そうなの？\n黒塗りの外車くらい、珍しくないでしょ。"
+            },
             "voice": "event/Event_011/Event_011_01/event_011_01_048.mp3"
         },
         {
@@ -438,8 +630,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "そう？　それにさっきからほら。\n空にヘリ、バタバタって音ずっとしてるでしょ？",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "そう？　それにさっきからほら。\n空にヘリ、バタバタって音ずっとしてるでしょ？"
+            },
             "voice": "event/Event_011/Event_011_01/event_011_01_049.mp3"
         },
         {
@@ -447,8 +643,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "なんか不吉な予感がするのよね。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "なんか不吉な予感がするのよね。"
+            },
             "voice": "event/Event_011/Event_011_01/event_011_01_050.mp3"
         },
         {
@@ -456,8 +656,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "ヘリくらい飛んでるっての。\n千紗は心配性だなあ。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "ヘリくらい飛んでるっての。\n千紗は心配性だなあ。"
+            },
             "voice": "event/Event_011/Event_011_01/event_011_01_051.mp3"
         },
         {
@@ -465,8 +669,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "そう？　ならいいけど……。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "そう？　ならいいけど……。"
+            },
             "voice": "event/Event_011/Event_011_01/event_011_01_052.mp3"
         }
     ]

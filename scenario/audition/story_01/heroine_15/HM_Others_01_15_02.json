@@ -6,8 +6,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "ここが、1次審査の会場……。\nごくり……。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "ここが、1次審査の会場……。\nごくり……。"
+            },
             "voice": "audition/story_01/heroine_15/HM_Others_01_15_02/hm_others_01_15_02_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "凛音、大丈夫？　緊張してない？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "凛音、大丈夫？　緊張してない？"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "だ、大丈夫です！\nえっと、こっちが入り口で……。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "だ、大丈夫です！\nえっと、こっちが入り口で……。"
+            },
             "voice": "audition/story_01/heroine_15/HM_Others_01_15_02/hm_others_01_15_02_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "あ、そっちは出口……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "あ、そっちは出口……。"
+            },
             "voice": ""
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "えっ！？\n……あはは。間違えちゃいました！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "えっ！？\n……あはは。間違えちゃいました！"
+            },
             "voice": "audition/story_01/heroine_15/HM_Others_01_15_02/hm_others_01_15_02_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "もう大丈夫です！\nマネージャーさん、行って来ます！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "もう大丈夫です！\nマネージャーさん、行って来ます！"
+            },
             "voice": "audition/story_01/heroine_15/HM_Others_01_15_02/hm_others_01_15_02_006.mp3"
         }
     ]

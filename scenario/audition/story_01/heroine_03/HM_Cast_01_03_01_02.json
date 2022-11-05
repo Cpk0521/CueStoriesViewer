@@ -6,8 +6,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "お疲れ様です。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "お疲れ様です。"
+            },
             "voice": "audition/story_01/heroine_03/HM_Cast_01_03_01_02/hm_cast_01_03_01_02_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "お疲れさんです。\nお、ジャーマネちょうどいいところに。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "お疲れさんです。\nお、ジャーマネちょうどいいところに。"
+            },
             "voice": "audition/story_01/heroine_03/HM_Cast_01_03_01_02/hm_cast_01_03_01_02_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "うん？　どうしたの？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "うん？　どうしたの？"
+            },
             "voice": ""
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "今日の陽菜は一段とかわいいと思わないか？",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "今日の陽菜は一段とかわいいと思わないか？"
+            },
             "voice": "audition/story_01/heroine_03/HM_Cast_01_03_01_02/hm_cast_01_03_01_02_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "ちょっと、志穂ちゃん！",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "ちょっと、志穂ちゃん！"
+            },
             "voice": "audition/story_01/heroine_03/HM_Cast_01_03_01_02/hm_cast_01_03_01_02_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "今日の輝きは一味違う。\nさすが、陽菜。とてもキュート。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "今日の輝きは一味違う。\nさすが、陽菜。とてもキュート。"
+            },
             "voice": "audition/story_01/heroine_03/HM_Cast_01_03_01_02/hm_cast_01_03_01_02_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "だから……、もう……。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "だから……、もう……。"
+            },
             "voice": "audition/story_01/heroine_03/HM_Cast_01_03_01_02/hm_cast_01_03_01_02_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "えっと、どうしたの？\n陽菜、困ってるし。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "えっと、どうしたの？\n陽菜、困ってるし。"
+            },
             "voice": ""
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "そのさっきレッスンで自己肯定感を高めろって言われてから、\nずっとこうなんです……。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "そのさっきレッスンで自己肯定感を高めろって言われてから、\nずっとこうなんです……。"
+            },
             "voice": "audition/story_01/heroine_03/HM_Cast_01_03_01_02/hm_cast_01_03_01_02_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "別にお世辞じゃないぞ。私の本心だ。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "別にお世辞じゃないぞ。私の本心だ。"
+            },
             "voice": "audition/story_01/heroine_03/HM_Cast_01_03_01_02/hm_cast_01_03_01_02_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "ちょっと、志穂ちゃん！",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "ちょっと、志穂ちゃん！"
+            },
             "voice": "audition/story_01/heroine_03/HM_Cast_01_03_01_02/hm_cast_01_03_01_02_011.mp3"
         }
     ]

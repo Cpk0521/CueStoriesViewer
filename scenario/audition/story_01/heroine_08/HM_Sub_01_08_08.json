@@ -6,8 +6,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "お疲れ様デース！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "お疲れ様デース！"
+            },
             "voice": "audition/story_01/heroine_08/HM_Sub_01_08_08/hm_sub_01_08_08_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "ねえ、マネージャー。\nユーキのお家って行ったことある？",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "ねえ、マネージャー。\nユーキのお家って行ったことある？"
+            },
             "voice": "audition/story_01/heroine_08/HM_Sub_01_08_08/hm_sub_01_08_08_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "とっても繁盛しているご飯屋さんだよね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "とっても繁盛しているご飯屋さんだよね。"
+            },
             "voice": ""
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "そうなの！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "そうなの！"
+            },
             "voice": "audition/story_01/heroine_08/HM_Sub_01_08_08/hm_sub_01_08_08_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "ご飯もすっごくおいしくて、\nユーキのパパも、お客さんもあったかいのよ。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "ご飯もすっごくおいしくて、\nユーキのパパも、お客さんもあったかいのよ。"
+            },
             "voice": "audition/story_01/heroine_08/HM_Sub_01_08_08/hm_sub_01_08_08_005.mp3"
         }
     ]

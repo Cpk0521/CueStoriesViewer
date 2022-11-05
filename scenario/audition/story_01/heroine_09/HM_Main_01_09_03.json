@@ -6,8 +6,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "美晴、おめでとう。\nまずは1次審査、通過だね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "美晴、おめでとう。\nまずは1次審査、通過だね。"
+            },
             "voice": ""
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "ありがとうございます。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "ありがとうございます。"
+            },
             "voice": "audition/story_01/heroine_09/HM_Main_01_09_03/hm_main_01_09_03_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "うふふ、マネージャーさんが大丈夫って言ってくれたからですよ。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "うふふ、マネージャーさんが大丈夫って言ってくれたからですよ。"
+            },
             "voice": "audition/story_01/heroine_09/HM_Main_01_09_03/hm_main_01_09_03_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "あはは。それなら良かった。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "あはは。それなら良かった。"
+            },
             "voice": ""
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "でも、まだ1次審査。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "でも、まだ1次審査。"
+            },
             "voice": "audition/story_01/heroine_09/HM_Main_01_09_03/hm_main_01_09_03_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "次も合格して、本当の”おめでとう”ですね。うふふ。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "次も合格して、本当の”おめでとう”ですね。うふふ。"
+            },
             "voice": "audition/story_01/heroine_09/HM_Main_01_09_03/hm_main_01_09_03_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "うん、そうだね。\nあ、でも、明日はちゃんと休むんだよ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "うん、そうだね。\nあ、でも、明日はちゃんと休むんだよ。"
+            },
             "voice": ""
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "うふふ、ちゃんとわかってますよ。\n休むこともとても大切なことだって。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "うふふ、ちゃんとわかってますよ。\n休むこともとても大切なことだって。"
+            },
             "voice": "audition/story_01/heroine_09/HM_Main_01_09_03/hm_main_01_09_03_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そうだね。美晴には改めて言うまでもなかったことかも。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そうだね。美晴には改めて言うまでもなかったことかも。"
+            },
             "voice": ""
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "あら、そんなことないですよ。\nちゃんと言ってくれる人がいるから、気づけるんです。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "あら、そんなことないですよ。\nちゃんと言ってくれる人がいるから、気づけるんです。"
+            },
             "voice": "audition/story_01/heroine_09/HM_Main_01_09_03/hm_main_01_09_03_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "あ、でも、マネージャーさんもしっかり休んでくださいね。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "あ、でも、マネージャーさんもしっかり休んでくださいね。"
+            },
             "voice": "audition/story_01/heroine_09/HM_Main_01_09_03/hm_main_01_09_03_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "うん、もちろん！\n明日は自分もしっかり休んで、次の週に備えるよ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "うん、もちろん！\n明日は自分もしっかり休んで、次の週に備えるよ。"
+            },
             "voice": ""
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "うふふ。\nじゃあ、マネージャーさんは、休みはどうされてるんですか？",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "うふふ。\nじゃあ、マネージャーさんは、休みはどうされてるんですか？"
+            },
             "voice": "audition/story_01/heroine_09/HM_Main_01_09_03/hm_main_01_09_03_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "うーん、そうだな……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "うーん、そうだな……。"
+            },
             "voice": ""
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "あら、いいですね。\nわたしも今晩はゆっくり飲もうかしら。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "あら、いいですね。\nわたしも今晩はゆっくり飲もうかしら。"
+            },
             "voice": "audition/story_01/heroine_09/HM_Main_01_09_03/hm_main_01_09_03_016.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "あ、でも、明日が休みだからって、飲みすぎには注意、ですよ。\nうふふ。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "あ、でも、明日が休みだからって、飲みすぎには注意、ですよ。\nうふふ。"
+            },
             "voice": "audition/story_01/heroine_09/HM_Main_01_09_03/hm_main_01_09_03_017.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "うふふ、ドライブですか。\nいつもと違う場所って行くだけでも気分転換になりますよね。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "うふふ、ドライブですか。\nいつもと違う場所って行くだけでも気分転換になりますよね。"
+            },
             "voice": "audition/story_01/heroine_09/HM_Main_01_09_03/hm_main_01_09_03_019.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "わたしも明日は、お出かけしてみようかしら。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "わたしも明日は、お出かけしてみようかしら。"
+            },
             "voice": "audition/story_01/heroine_09/HM_Main_01_09_03/hm_main_01_09_03_020.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "読書……、いいですね。\n没入出来る時間って、とても贅沢な使い方ですよね。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "読書……、いいですね。\n没入出来る時間って、とても贅沢な使い方ですよね。"
+            },
             "voice": "audition/story_01/heroine_09/HM_Main_01_09_03/hm_main_01_09_03_022.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "うふふ、わたしも時間を忘れて、\nピアノ、弾こうかしら。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "うふふ、わたしも時間を忘れて、\nピアノ、弾こうかしら。"
+            },
             "voice": "audition/story_01/heroine_09/HM_Main_01_09_03/hm_main_01_09_03_023.mp3"
         }
     ]

@@ -6,8 +6,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "ジャーマネ、おはようちゃーん。\nこれから仕事？",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "ジャーマネ、おはようちゃーん。\nこれから仕事？"
+            },
             "voice": "audition/story_01/heroine_03/HM_Morning_01_03_02/hm_morning_01_03_02_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "それはとてもご苦労様です。\n私もこれから大学だ。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "それはとてもご苦労様です。\n私もこれから大学だ。"
+            },
             "voice": "audition/story_01/heroine_03/HM_Morning_01_03_02/hm_morning_01_03_02_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "まぁ、単位の方は安心してくれ。\nほどほどに頑張ってはいるのでな。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "まぁ、単位の方は安心してくれ。\nほどほどに頑張ってはいるのでな。"
+            },
             "voice": "audition/story_01/heroine_03/HM_Morning_01_03_02/hm_morning_01_03_02_003.mp3"
         }
     ]

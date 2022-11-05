@@ -6,8 +6,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "マネージャーさん。\nお疲れ様でーす！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "マネージャーさん。\nお疲れ様でーす！"
+            },
             "voice": "audition/story_01/heroine_15/HM_Cast_01_15_13_04/hm_cast_01_15_13_04_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "お疲れ様です。\n……くしゅんっ。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "お疲れ様です。\n……くしゅんっ。"
+            },
             "voice": "audition/story_01/heroine_15/HM_Cast_01_15_13_04/hm_cast_01_15_13_04_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "お疲れ様。\n利恵、大丈夫？　風邪？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "お疲れ様。\n利恵、大丈夫？　風邪？"
+            },
             "voice": ""
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "……大したことはない。\nただ…、豊穣の神による微粒子が、我輩の呪いをうずかせるのだ。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "……大したことはない。\nただ…、豊穣の神による微粒子が、我輩の呪いをうずかせるのだ。"
+            },
             "voice": "audition/story_01/heroine_15/HM_Cast_01_15_13_04/hm_cast_01_15_13_04_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "わわ、リエンヌ、大丈夫？",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "わわ、リエンヌ、大丈夫？"
+            },
             "voice": "audition/story_01/heroine_15/HM_Cast_01_15_13_04/hm_cast_01_15_13_04_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "……もしかして、それ、花粉症じゃない？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "……もしかして、それ、花粉症じゃない？"
+            },
             "voice": ""
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "花粉症なんかじゃなーいー！",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "花粉症なんかじゃなーいー！"
+            },
             "voice": "audition/story_01/heroine_15/HM_Cast_01_15_13_04/hm_cast_01_15_13_04_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "はい、リエンヌ。\nティッシュあげるね！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "はい、リエンヌ。\nティッシュあげるね！"
+            },
             "voice": "audition/story_01/heroine_15/HM_Cast_01_15_13_04/hm_cast_01_15_13_04_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "あ、ありがとう……。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "あ、ありがとう……。"
+            },
             "voice": "audition/story_01/heroine_15/HM_Cast_01_15_13_04/hm_cast_01_15_13_04_009.mp3"
         }
     ]

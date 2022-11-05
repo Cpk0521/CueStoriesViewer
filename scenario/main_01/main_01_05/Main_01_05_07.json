@@ -6,8 +6,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "ハ～イ！　マネージャー！ \nはっ、もしかして、誰かに用事？",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "ハ～イ！　マネージャー！ \nはっ、もしかして、誰かに用事？"
+            },
             "voice": "main_01/Main_01_05/Main_01_05_07/main_01_05_07_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "誰かに用があるから来たんでしょ。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "誰かに用があるから来たんでしょ。"
+            },
             "voice": "main_01/Main_01_05/Main_01_05_07/main_01_05_07_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "2人はどこ行くの？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "2人はどこ行くの？"
+            },
             "voice": ""
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "コンビニだよ。\nポテチとかコーラ買いに行くの。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "コンビニだよ。\nポテチとかコーラ買いに行くの。"
+            },
             "voice": "main_01/Main_01_05/Main_01_05_07/main_01_05_07_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "一緒にゲームやろうと思って。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "一緒にゲームやろうと思って。"
+            },
             "voice": "main_01/Main_01_05/Main_01_05_07/main_01_05_07_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "珍しい組み合わせだね……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "珍しい組み合わせだね……。"
+            },
             "voice": ""
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "だってみんなロードクゲキの練習してるんだもん。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "だってみんなロードクゲキの練習してるんだもん。"
+            },
             "voice": "main_01/Main_01_05/Main_01_05_07/main_01_05_07_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "練習してないの、私だけだったみたい。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "練習してないの、私だけだったみたい。"
+            },
             "voice": "main_01/Main_01_05/Main_01_05_07/main_01_05_07_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "2人は自主練とか、しないの？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "2人は自主練とか、しないの？"
+            },
             "voice": ""
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "今日はオフだよ？\nオンのためにも、オフを楽しまないと！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "今日はオフだよ？\nオンのためにも、オフを楽しまないと！"
+            },
             "voice": "main_01/Main_01_05/Main_01_05_07/main_01_05_07_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "そういうこと。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "そういうこと。"
+            },
             "voice": "main_01/Main_01_05/Main_01_05_07/main_01_05_07_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "なるほど……、寮に美晴いる？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "なるほど……、寮に美晴いる？"
+            },
             "voice": ""
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "いるよ～。\nマホロとリコも一緒よ。 ",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "いるよ～。\nマホロとリコも一緒よ。 "
+            },
             "voice": "main_01/Main_01_05/Main_01_05_07/main_01_05_07_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "えぇ？　そのメンバー……。\nまさかまたお酒飲んでたりしない？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "えぇ？　そのメンバー……。\nまさかまたお酒飲んでたりしない？"
+            },
             "voice": ""
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "熱く芝居の話をしてる。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "熱く芝居の話をしてる。"
+            },
             "voice": "main_01/Main_01_05/Main_01_05_07/main_01_05_07_015.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "うるさくてしょうがないわ。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "うるさくてしょうがないわ。"
+            },
             "voice": "main_01/Main_01_05/Main_01_05_07/main_01_05_07_016.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "ダメダメ。\n莉子は、全然わかってない。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "ダメダメ。\n莉子は、全然わかってない。"
+            },
             "voice": "main_01/Main_01_05/Main_01_05_07/main_01_05_07_017.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "何が？\n何がわかってないの？",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "何が？\n何がわかってないの？"
+            },
             "voice": "main_01/Main_01_05/Main_01_05_07/main_01_05_07_018.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "ちょっと、2人とも落ち着いてよ。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "ちょっと、2人とも落ち着いてよ。"
+            },
             "voice": "main_01/Main_01_05/Main_01_05_07/main_01_05_07_019.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "この朗読劇は遊びじゃないの。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "この朗読劇は遊びじゃないの。"
+            },
             "voice": "main_01/Main_01_05/Main_01_05_07/main_01_05_07_020.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "お客さんにお金をもらって観てもらうんだよ？\nお金をもらうってことわかってる？",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "お客さんにお金をもらって観てもらうんだよ？\nお金をもらうってことわかってる？"
+            },
             "voice": "main_01/Main_01_05/Main_01_05_07/main_01_05_07_021.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "遊びだなんて思ってない。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "遊びだなんて思ってない。"
+            },
             "voice": "main_01/Main_01_05/Main_01_05_07/main_01_05_07_022.mp3"
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "でも舞台は生ものなの。映画やアニメと違う。\n失敗することだってあるでしょ？",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "でも舞台は生ものなの。映画やアニメと違う。\n失敗することだってあるでしょ？"
+            },
             "voice": "main_01/Main_01_05/Main_01_05_07/main_01_05_07_023.mp3"
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "つまり、成功することより、\nやることに意義があるって言いたいわけでしょ？",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "つまり、成功することより、\nやることに意義があるって言いたいわけでしょ？"
+            },
             "voice": "main_01/Main_01_05/Main_01_05_07/main_01_05_07_024.mp3"
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "そうだよ。\nそれが一番大事じゃないの？",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "そうだよ。\nそれが一番大事じゃないの？"
+            },
             "voice": "main_01/Main_01_05/Main_01_05_07/main_01_05_07_025.mp3"
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "それが甘い考えだって言ってんの。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "それが甘い考えだって言ってんの。"
+            },
             "voice": "main_01/Main_01_05/Main_01_05_07/main_01_05_07_026.mp3"
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "はいはい、ここまでにしよ？\nどっちも言ってること正しいと思うよ。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "はいはい、ここまでにしよ？\nどっちも言ってること正しいと思うよ。"
+            },
             "voice": "main_01/Main_01_05/Main_01_05_07/main_01_05_07_027.mp3"
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "テキトーなこと言わないで。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "テキトーなこと言わないで。"
+            },
             "voice": "main_01/Main_01_05/Main_01_05_07/main_01_05_07_028.mp3"
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "こっちは真剣に話してんの。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "こっちは真剣に話してんの。"
+            },
             "voice": "main_01/Main_01_05/Main_01_05_07/main_01_05_07_029.mp3"
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "美晴、どうしたの……？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "美晴、どうしたの……？"
+            },
             "voice": ""
         },
         {
@@ -276,8 +396,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "ちょっと飲み過ぎて、熱くなっちゃって。\nお互い、おさまりがつかなくなったみたいで。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "ちょっと飲み過ぎて、熱くなっちゃって。\nお互い、おさまりがつかなくなったみたいで。"
+            },
             "voice": "main_01/Main_01_05/Main_01_05_07/main_01_05_07_031.mp3"
         },
         {
@@ -285,8 +409,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "莉子の甘い考えにはがっかりしたよ。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "莉子の甘い考えにはがっかりしたよ。"
+            },
             "voice": "main_01/Main_01_05/Main_01_05_07/main_01_05_07_032.mp3"
         },
         {
@@ -294,8 +422,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "いくら子役からやってたからって、\nそんな言い方ないんじゃない？",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "いくら子役からやってたからって、\nそんな言い方ないんじゃない？"
+            },
             "voice": "main_01/Main_01_05/Main_01_05_07/main_01_05_07_033.mp3"
         },
         {
@@ -303,8 +435,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "明日になって酔いが醒めれば大丈夫だと思うんですけど……。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "明日になって酔いが醒めれば大丈夫だと思うんですけど……。"
+            },
             "voice": "main_01/Main_01_05/Main_01_05_07/main_01_05_07_034.mp3"
         },
         {
@@ -312,8 +448,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "だといいんだけどね……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "だといいんだけどね……。"
+            },
             "voice": ""
         },
         {
@@ -321,8 +461,12 @@
             "heroineId": [
                 103
             ],
-            "name": "由良桐香",
-            "message": "はい。\nこれで今日のレッスンは終わります。",
+            "name": {
+                "default": "由良桐香"
+            },
+            "message": {
+                "default": "はい。\nこれで今日のレッスンは終わります。"
+            },
             "voice": "main_01/Main_01_05/Main_01_05_07/main_01_05_07_036.mp3"
         },
         {
@@ -330,8 +474,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "ありがとうございました！",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "ありがとうございました！"
+            },
             "voice": "main_01/Main_01_05/Main_01_05_07/main_01_05_07_037.mp3"
         },
         {
@@ -339,8 +487,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "美晴、あれから2人の様子どう？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "美晴、あれから2人の様子どう？"
+            },
             "voice": ""
         },
         {
@@ -348,8 +500,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "それが、さらに悪化しちゃって……。\n他の人達も巻き込んで、大事になってます……。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "それが、さらに悪化しちゃって……。\n他の人達も巻き込んで、大事になってます……。"
+            },
             "voice": "main_01/Main_01_05/Main_01_05_07/main_01_05_07_039.mp3"
         },
         {
@@ -357,8 +513,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "他の人達ってどういうこと……？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "他の人達ってどういうこと……？"
+            },
             "voice": ""
         },
         {
@@ -366,8 +526,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "成功絶対主義のまほろ派と、\n楽しむ主義の莉子派に分かれちゃいました。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "成功絶対主義のまほろ派と、\n楽しむ主義の莉子派に分かれちゃいました。"
+            },
             "voice": "main_01/Main_01_05/Main_01_05_07/main_01_05_07_041.mp3"
         },
         {
@@ -375,8 +539,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "えぇ？\n派閥？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "えぇ？\n派閥？"
+            },
             "voice": ""
         },
         {
@@ -384,8 +552,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "まほろ派が、舞花と、ほのかと、千紗、\nそして悠希です。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "まほろ派が、舞花と、ほのかと、千紗、\nそして悠希です。"
+            },
             "voice": "main_01/Main_01_05/Main_01_05_07/main_01_05_07_043.mp3"
         },
         {
@@ -393,8 +565,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "さぁ、帰って自主練しよう。\n舞花。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "さぁ、帰って自主練しよう。\n舞花。"
+            },
             "voice": "main_01/Main_01_05/Main_01_05_07/main_01_05_07_044.mp3"
         },
         {
@@ -402,8 +578,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "今、行きます。\n悠希、行くよ。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "今、行きます。\n悠希、行くよ。"
+            },
             "voice": "main_01/Main_01_05/Main_01_05_07/main_01_05_07_045.mp3"
         },
         {
@@ -411,8 +591,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "みんな、ちょっと待ってよ～！\nほのかも行くでしょ？",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "みんな、ちょっと待ってよ～！\nほのかも行くでしょ？"
+            },
             "voice": "main_01/Main_01_05/Main_01_05_07/main_01_05_07_046.mp3"
         },
         {
@@ -420,8 +604,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "当然でしょ。\nやるからには絶対いい作品にしたいもん。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "当然でしょ。\nやるからには絶対いい作品にしたいもん。"
+            },
             "voice": "main_01/Main_01_05/Main_01_05_07/main_01_05_07_047.mp3"
         },
         {
@@ -429,8 +617,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "本番で恥ずかしいものを観せて平気な人は、さようなら。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "本番で恥ずかしいものを観せて平気な人は、さようなら。"
+            },
             "voice": "main_01/Main_01_05/Main_01_05_07/main_01_05_07_048.mp3"
         },
         {
@@ -438,8 +630,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "なに？　あの言い草！\nあたし達だってあたし達なりに真剣にやってるよ。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "なに？　あの言い草！\nあたし達だってあたし達なりに真剣にやってるよ。"
+            },
             "voice": "main_01/Main_01_05/Main_01_05_07/main_01_05_07_049.mp3"
         },
         {
@@ -447,8 +643,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "莉子派は誰がいるの？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "莉子派は誰がいるの？"
+            },
             "voice": ""
         },
         {
@@ -456,8 +656,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "あいりと、柚葉と、凛音と、志穂です。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "あいりと、柚葉と、凛音と、志穂です。"
+            },
             "voice": "main_01/Main_01_05/Main_01_05_07/main_01_05_07_051.mp3"
         },
         {
@@ -465,8 +669,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "ねぇねぇ、みんなでクレープ食べに行かない？",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "ねぇねぇ、みんなでクレープ食べに行かない？"
+            },
             "voice": "main_01/Main_01_05/Main_01_05_07/main_01_05_07_052.mp3"
         },
         {
@@ -474,8 +682,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "グッドアイデア！\nシホも行くでしょ？",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "グッドアイデア！\nシホも行くでしょ？"
+            },
             "voice": "main_01/Main_01_05/Main_01_05_07/main_01_05_07_053.mp3"
         },
         {
@@ -483,8 +695,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "私は帰って寝る。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "私は帰って寝る。"
+            },
             "voice": "main_01/Main_01_05/Main_01_05_07/main_01_05_07_054.mp3"
         },
         {
@@ -492,8 +708,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "あいりは、カラオケ行こうかな……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "あいりは、カラオケ行こうかな……。"
+            },
             "voice": "main_01/Main_01_05/Main_01_05_07/main_01_05_07_055.mp3"
         },
         {
@@ -501,8 +721,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "いいね！\n歌っちゃう？",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "いいね！\n歌っちゃう？"
+            },
             "voice": "main_01/Main_01_05/Main_01_05_07/main_01_05_07_056.mp3"
         },
         {
@@ -510,8 +734,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "ううん。声に出して本を読むの。\nあいり、遅れてるから不安だし。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "ううん。声に出して本を読むの。\nあいり、遅れてるから不安だし。"
+            },
             "voice": "main_01/Main_01_05/Main_01_05_07/main_01_05_07_057.mp3"
         },
         {
@@ -519,8 +747,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "あいりは大丈夫。\n根詰めないで。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "あいりは大丈夫。\n根詰めないで。"
+            },
             "voice": "main_01/Main_01_05/Main_01_05_07/main_01_05_07_058.mp3"
         },
         {
@@ -528,8 +760,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "失敗したっていいよ。\n大切なのは楽しむことだよ。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "失敗したっていいよ。\n大切なのは楽しむことだよ。"
+            },
             "voice": "main_01/Main_01_05/Main_01_05_07/main_01_05_07_059.mp3"
         },
         {
@@ -537,8 +773,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "うん……、そうだね……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "うん……、そうだね……。"
+            },
             "voice": "main_01/Main_01_05/Main_01_05_07/main_01_05_07_060.mp3"
         },
         {
@@ -546,8 +786,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "陽菜とわたしは中立派。\n他の子は揉め事には関わりたくないみたいです。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "陽菜とわたしは中立派。\n他の子は揉め事には関わりたくないみたいです。"
+            },
             "voice": "main_01/Main_01_05/Main_01_05_07/main_01_05_07_061.mp3"
         },
         {
@@ -555,8 +799,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そっか……、困ったね……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そっか……、困ったね……。"
+            },
             "voice": ""
         },
         {
@@ -564,8 +812,12 @@
             "heroineId": [
                 103
             ],
-            "name": "由良桐香",
-            "message": "ねぇ、六石さん。\n何かあったの？",
+            "name": {
+                "default": "由良桐香"
+            },
+            "message": {
+                "default": "ねぇ、六石さん。\n何かあったの？"
+            },
             "voice": "main_01/Main_01_05/Main_01_05_07/main_01_05_07_063.mp3"
         },
         {
@@ -573,8 +825,12 @@
             "heroineId": [
                 103
             ],
-            "name": "由良桐香",
-            "message": "今日のレッスン、とても変だったわ。\n皆、気持ちがバラバラだった。",
+            "name": {
+                "default": "由良桐香"
+            },
+            "message": {
+                "default": "今日のレッスン、とても変だったわ。\n皆、気持ちがバラバラだった。"
+            },
             "voice": "main_01/Main_01_05/Main_01_05_07/main_01_05_07_064.mp3"
         },
         {
@@ -582,8 +838,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "すみません……、\n本番直前の大事な時期に……。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "すみません……、\n本番直前の大事な時期に……。"
+            },
             "voice": "main_01/Main_01_05/Main_01_05_07/main_01_05_07_065.mp3"
         },
         {
@@ -591,8 +851,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "実は昨日、朗読劇のことを話してて。\nそしたら、だんだん熱くなっちゃって。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "実は昨日、朗読劇のことを話してて。\nそしたら、だんだん熱くなっちゃって。"
+            },
             "voice": "main_01/Main_01_05/Main_01_05_07/main_01_05_07_066.mp3"
         },
         {
@@ -600,8 +864,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "このままじゃ、公演中止になっちゃうかも……。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "このままじゃ、公演中止になっちゃうかも……。"
+            },
             "voice": "main_01/Main_01_05/Main_01_05_07/main_01_05_07_067.mp3"
         },
         {
@@ -609,8 +877,12 @@
             "heroineId": [
                 103
             ],
-            "name": "由良桐香",
-            "message": "公演中止？",
+            "name": {
+                "default": "由良桐香"
+            },
+            "message": {
+                "default": "公演中止？"
+            },
             "voice": "main_01/Main_01_05/Main_01_05_07/main_01_05_07_068.mp3"
         }
     ]

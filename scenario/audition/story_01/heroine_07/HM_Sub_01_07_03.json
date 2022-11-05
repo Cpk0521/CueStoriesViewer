@@ -6,8 +6,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "あの、マネージャーさん。\nあいりって、やっぱり子どもっぽいですか？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "あの、マネージャーさん。\nあいりって、やっぱり子どもっぽいですか？"
+            },
             "voice": "audition/story_01/heroine_07/HM_Sub_01_07_03/hm_sub_01_07_03_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "え？\nそんなことないと思うけど、どうしたの？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "え？\nそんなことないと思うけど、どうしたの？"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "今日のレッスン、絢さんと一緒だったんですけど……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "今日のレッスン、絢さんと一緒だったんですけど……。"
+            },
             "voice": "audition/story_01/heroine_07/HM_Sub_01_07_03/hm_sub_01_07_03_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "背も高くて、大人っぽくて、優しくて……。\nすごく素敵だなぁって思ったんです。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "背も高くて、大人っぽくて、優しくて……。\nすごく素敵だなぁって思ったんです。"
+            },
             "voice": "audition/story_01/heroine_07/HM_Sub_01_07_03/hm_sub_01_07_03_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "あいりもいつか、\n絢さんみたいな素敵なお姉さんになりたいです。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "あいりもいつか、\n絢さんみたいな素敵なお姉さんになりたいです。"
+            },
             "voice": "audition/story_01/heroine_07/HM_Sub_01_07_03/hm_sub_01_07_03_005.mp3"
         }
     ]

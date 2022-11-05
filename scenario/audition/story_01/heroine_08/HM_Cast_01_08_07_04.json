@@ -6,8 +6,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "マネージャーさん、お疲れ様です。\nあの、ちょっといいですか？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "マネージャーさん、お疲れ様です。\nあの、ちょっといいですか？"
+            },
             "voice": "audition/story_01/heroine_08/HM_Cast_01_08_07_04/hm_cast_01_08_07_04_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "うん、どうしたの？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "うん、どうしたの？"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "柚葉ちゃんと、\nこの後どこかに寄り道しようって約束してるんですけど……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "柚葉ちゃんと、\nこの後どこかに寄り道しようって約束してるんですけど……。"
+            },
             "voice": "audition/story_01/heroine_08/HM_Cast_01_08_07_04/hm_cast_01_08_07_04_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "どこに行くか、まだ決めてなくて。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "どこに行くか、まだ決めてなくて。"
+            },
             "voice": "audition/story_01/heroine_08/HM_Cast_01_08_07_04/hm_cast_01_08_07_04_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "柚葉ちゃんは、あいりに任せるって言ってくれたんですけど。\n全然思いつかなくて。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "柚葉ちゃんは、あいりに任せるって言ってくれたんですけど。\n全然思いつかなくて。"
+            },
             "voice": "audition/story_01/heroine_08/HM_Cast_01_08_07_04/hm_cast_01_08_07_04_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "マネージャーさん、おすすめの場所とかありませんか？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "マネージャーさん、おすすめの場所とかありませんか？"
+            },
             "voice": "audition/story_01/heroine_08/HM_Cast_01_08_07_04/hm_cast_01_08_07_04_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "うーん、そうだなぁ……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "うーん、そうだなぁ……。"
+            },
             "voice": ""
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "アイリ、お待たせ！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "アイリ、お待たせ！"
+            },
             "voice": "audition/story_01/heroine_08/HM_Cast_01_08_07_04/hm_cast_01_08_07_04_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "あ、柚葉ちゃん！\nごめんね、まだどこに行くか決めてなくて……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "あ、柚葉ちゃん！\nごめんね、まだどこに行くか決めてなくて……。"
+            },
             "voice": "audition/story_01/heroine_08/HM_Cast_01_08_07_04/hm_cast_01_08_07_04_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "あら。謝らないで、アイリ。\n歩きながら一緒に考えればいいじゃない？　さぁ、行きましょ！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "あら。謝らないで、アイリ。\n歩きながら一緒に考えればいいじゃない？　さぁ、行きましょ！"
+            },
             "voice": "audition/story_01/heroine_08/HM_Cast_01_08_07_04/hm_cast_01_08_07_04_010.mp3"
         }
     ]

@@ -6,8 +6,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "あら？\nGood morning！　マネージャー！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "あら？\nGood morning！　マネージャー！"
+            },
             "voice": "audition/story_01/heroine_08/HM_Morning_01_08_03/hm_morning_01_08_03_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "早いのね。\nこれから事務所でミーティング？",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "早いのね。\nこれから事務所でミーティング？"
+            },
             "voice": "audition/story_01/heroine_08/HM_Morning_01_08_03/hm_morning_01_08_03_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "私もこれから、学校でホームルームがあるの。\nミーティングみたいなものよ！　ふふ。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "私もこれから、学校でホームルームがあるの。\nミーティングみたいなものよ！　ふふ。"
+            },
             "voice": "audition/story_01/heroine_08/HM_Morning_01_08_03/hm_morning_01_08_03_003.mp3"
         }
     ]

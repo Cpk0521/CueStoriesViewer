@@ -6,8 +6,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "お疲れ様でーす。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "お疲れ様でーす。"
+            },
             "voice": "audition/story_01/heroine_11/HM_Cast_01_11_10_02/hm_cast_01_11_10_02_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "まほろ、お疲れ様。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "まほろ、お疲れ様。"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "あ、ちょっとここでのんびりしていい？",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "あ、ちょっとここでのんびりしていい？"
+            },
             "voice": "audition/story_01/heroine_11/HM_Cast_01_11_10_02/hm_cast_01_11_10_02_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "うん。いいけど、どうしたの？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "うん。いいけど、どうしたの？"
+            },
             "voice": ""
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "ちょっと読みたい漫画があってさ。\n中途半端なところで、レッスン始まっちゃったんだよね。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "ちょっと読みたい漫画があってさ。\n中途半端なところで、レッスン始まっちゃったんだよね。"
+            },
             "voice": "audition/story_01/heroine_11/HM_Cast_01_11_10_02/hm_cast_01_11_10_02_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そうなんだ。その漫画、どうしたの？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そうなんだ。その漫画、どうしたの？"
+            },
             "voice": ""
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "まぁね。割と王道な少女漫画だったけど、\n読んでみたら結構面白くてビックリした。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "まぁね。割と王道な少女漫画だったけど、\n読んでみたら結構面白くてビックリした。"
+            },
             "voice": "audition/story_01/heroine_11/HM_Cast_01_11_10_02/hm_cast_01_11_10_02_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "絢がオススメって言ってたけど、\nまほろも結構こういうの好きかな。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "絢がオススメって言ってたけど、\nまほろも結構こういうの好きかな。"
+            },
             "voice": "audition/story_01/heroine_11/HM_Cast_01_11_10_02/hm_cast_01_11_10_02_008.mp3"
         }
     ]

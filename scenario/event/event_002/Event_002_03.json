@@ -6,8 +6,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "ねぇねぇみんな～！\nいまやってるテレビ、見て見てー！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "ねぇねぇみんな～！\nいまやってるテレビ、見て見てー！"
+            },
             "voice": "event/Event_002/Event_002_03/event_002_03_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "新人声優特集……？",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "新人声優特集……？"
+            },
             "voice": "event/Event_002/Event_002_03/event_002_03_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "最近はこんなのもやってるんだね。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "最近はこんなのもやってるんだね。"
+            },
             "voice": "event/Event_002/Event_002_03/event_002_03_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "うわあ、すごいなあ……。\nあっ、あの子知ってる！　こないだオーディションで隣だったよ！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "うわあ、すごいなあ……。\nあっ、あの子知ってる！　こないだオーディションで隣だったよ！"
+            },
             "voice": "event/Event_002/Event_002_03/event_002_03_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "我輩達も新人声優代表として、\n呼んでくれればよかったのに……。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "我輩達も新人声優代表として、\n呼んでくれればよかったのに……。"
+            },
             "voice": "event/Event_002/Event_002_03/event_002_03_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "代表？　うふふっ。\n利恵が代表としてテレビに出てたら、他の新人声優は怒りそうね。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "代表？　うふふっ。\n利恵が代表としてテレビに出てたら、他の新人声優は怒りそうね。"
+            },
             "voice": "event/Event_002/Event_002_03/event_002_03_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "それ、どういう意味～？",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "それ、どういう意味～？"
+            },
             "voice": "event/Event_002/Event_002_03/event_002_03_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "ほらほら！　最近注目を浴び始めている新人声優が、\nピックアップされてる！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "ほらほら！　最近注目を浴び始めている新人声優が、\nピックアップされてる！"
+            },
             "voice": "event/Event_002/Event_002_03/event_002_03_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "我輩達の名前はー……、\n無いわね……。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "我輩達の名前はー……、\n無いわね……。"
+            },
             "voice": "event/Event_002/Event_002_03/event_002_03_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "いやよく見て、個人では無かったけど、\nエールブルーが事務所としてピックアップされてる。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "いやよく見て、個人では無かったけど、\nエールブルーが事務所としてピックアップされてる。"
+            },
             "voice": "event/Event_002/Event_002_03/event_002_03_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "すごいすごい～！\nわたし達、テレビデビューしちゃってるよ！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "すごいすごい～！\nわたし達、テレビデビューしちゃってるよ！"
+            },
             "voice": "event/Event_002/Event_002_03/event_002_03_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "「今後もこの声優達に目が離せない！」だって～！\n照れちゃうねぇ～。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "「今後もこの声優達に目が離せない！」だって～！\n照れちゃうねぇ～。"
+            },
             "voice": "event/Event_002/Event_002_03/event_002_03_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "……あれ？\nあの特別ゲストって、聡里のお母さんじゃない？",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "……あれ？\nあの特別ゲストって、聡里のお母さんじゃない？"
+            },
             "voice": "event/Event_002/Event_002_03/event_002_03_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "あ、本当だ……。\nでも、なんでこんな番組に出てるんだろう？",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "あ、本当だ……。\nでも、なんでこんな番組に出てるんだろう？"
+            },
             "voice": "event/Event_002/Event_002_03/event_002_03_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "ふんふん……。\n「業界の先輩が物申す！」だって！　かっこいー……。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "ふんふん……。\n「業界の先輩が物申す！」だって！　かっこいー……。"
+            },
             "voice": "event/Event_002/Event_002_03/event_002_03_015.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "「実力はさておき、一種の流行りのようなもの」ですって？",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "「実力はさておき、一種の流行りのようなもの」ですって？"
+            },
             "voice": "event/Event_002/Event_002_03/event_002_03_016.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "……そんな風に思われてたの？",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "……そんな風に思われてたの？"
+            },
             "voice": "event/Event_002/Event_002_03/event_002_03_017.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "事実ではあるんだろうね。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "事実ではあるんだろうね。"
+            },
             "voice": "event/Event_002/Event_002_03/event_002_03_018.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "さとちん、大丈夫？　\n顔色あんまりよくないけど……。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "さとちん、大丈夫？　\n顔色あんまりよくないけど……。"
+            },
             "voice": "event/Event_002/Event_002_03/event_002_03_019.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "ごめん、ちょっと部屋に戻ってる。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "ごめん、ちょっと部屋に戻ってる。"
+            },
             "voice": "event/Event_002/Event_002_03/event_002_03_020.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "あ、行っちゃった……。\nもしかして、わたしまずいことしちゃった……？",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "あ、行っちゃった……。\nもしかして、わたしまずいことしちゃった……？"
+            },
             "voice": "event/Event_002/Event_002_03/event_002_03_021.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "凛音のせいでは、ないと思うけど……。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "凛音のせいでは、ないと思うけど……。"
+            },
             "voice": "event/Event_002/Event_002_03/event_002_03_022.mp3"
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "実の親のコメントだし、\n思うところがあるのかも。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "実の親のコメントだし、\n思うところがあるのかも。"
+            },
             "voice": "event/Event_002/Event_002_03/event_002_03_023.mp3"
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "あーでも、「どんな形であれ、声優を目指す人達に、\n仕事が行き渡るのは嬉しい。」とも言ってるよ？",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "あーでも、「どんな形であれ、声優を目指す人達に、\n仕事が行き渡るのは嬉しい。」とも言ってるよ？"
+            },
             "voice": "event/Event_002/Event_002_03/event_002_03_024.mp3"
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "わーい！\nわたし達、褒められてる？",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "わーい！\nわたし達、褒められてる？"
+            },
             "voice": "event/Event_002/Event_002_03/event_002_03_025.mp3"
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "業界全体についてコメントしてるだけだから、\n我輩達へのコメントではないと思うけど……。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "業界全体についてコメントしてるだけだから、\n我輩達へのコメントではないと思うけど……。"
+            },
             "voice": "event/Event_002/Event_002_03/event_002_03_026.mp3"
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "それに、聡里さんもう部屋に戻ってるし。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "それに、聡里さんもう部屋に戻ってるし。"
+            },
             "voice": "event/Event_002/Event_002_03/event_002_03_027.mp3"
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "あー！　そうだった……！\nこの事をすぐさとちんに伝えないと！　さとちーん！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "あー！　そうだった……！\nこの事をすぐさとちんに伝えないと！　さとちーん！"
+            },
             "voice": "event/Event_002/Event_002_03/event_002_03_028.mp3"
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "相変わらず元気ね、凛音は。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "相変わらず元気ね、凛音は。"
+            },
             "voice": "event/Event_002/Event_002_03/event_002_03_029.mp3"
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "私もゲームやるから、部屋戻るね。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "私もゲームやるから、部屋戻るね。"
+            },
             "voice": "event/Event_002/Event_002_03/event_002_03_030.mp3"
         },
         {
@@ -276,8 +396,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "……は！　「これから声優を目指す人が生き残っていく方法とは！？」\nふむふむ、勉強になるな。この番組……。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "……は！　「これから声優を目指す人が生き残っていく方法とは！？」\nふむふむ、勉強になるな。この番組……。"
+            },
             "voice": "event/Event_002/Event_002_03/event_002_03_031.mp3"
         },
         {
@@ -285,8 +409,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "おはよう。\n昨日は見苦しい姿を見せちゃったね。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "おはよう。\n昨日は見苦しい姿を見せちゃったね。"
+            },
             "voice": "event/Event_002/Event_002_03/event_002_03_032.mp3"
         },
         {
@@ -294,8 +422,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "調子は大丈夫？",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "調子は大丈夫？"
+            },
             "voice": "event/Event_002/Event_002_03/event_002_03_033.mp3"
         },
         {
@@ -303,8 +435,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "もう平気、そもそもなんでもないもの。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "もう平気、そもそもなんでもないもの。"
+            },
             "voice": "event/Event_002/Event_002_03/event_002_03_034.mp3"
         },
         {
@@ -312,8 +448,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "あの後、お母さんと連絡取ったの？",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "あの後、お母さんと連絡取ったの？"
+            },
             "voice": "event/Event_002/Event_002_03/event_002_03_035.mp3"
         },
         {
@@ -321,8 +461,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "取ってどうするのよ。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "取ってどうするのよ。"
+            },
             "voice": "event/Event_002/Event_002_03/event_002_03_036.mp3"
         },
         {
@@ -330,8 +474,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "テレビみたよー！\nすごいねー！　って。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "テレビみたよー！\nすごいねー！　って。"
+            },
             "voice": "event/Event_002/Event_002_03/event_002_03_037.mp3"
         },
         {
@@ -339,8 +487,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "そもそも、母さんは普段ああいう番組に出るタイプじゃない。\nオファーはよく来てるみたいだけど。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "そもそも、母さんは普段ああいう番組に出るタイプじゃない。\nオファーはよく来てるみたいだけど。"
+            },
             "voice": "event/Event_002/Event_002_03/event_002_03_038.mp3"
         },
         {
@@ -348,8 +500,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "もしかしたら、\n我輩達の後押しをしてくれてたんじゃない？",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "もしかしたら、\n我輩達の後押しをしてくれてたんじゃない？"
+            },
             "voice": "event/Event_002/Event_002_03/event_002_03_039.mp3"
         },
         {
@@ -357,8 +513,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "それこそありえない話よ。\nそういう人じゃないし。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "それこそありえない話よ。\nそういう人じゃないし。"
+            },
             "voice": "event/Event_002/Event_002_03/event_002_03_040.mp3"
         },
         {
@@ -366,8 +526,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "なんで？\n娘を応援しないお母さんなんて、いないと思うけど。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "なんで？\n娘を応援しないお母さんなんて、いないと思うけど。"
+            },
             "voice": "event/Event_002/Event_002_03/event_002_03_041.mp3"
         },
         {
@@ -375,8 +539,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "凛音の家はそうなのかもね。\nでもうちは違うの。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "凛音の家はそうなのかもね。\nでもうちは違うの。"
+            },
             "voice": "event/Event_002/Event_002_03/event_002_03_042.mp3"
         },
         {
@@ -384,8 +552,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "はい、この話はもうおしまい。\n朝ごはん、食べよう？",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "はい、この話はもうおしまい。\n朝ごはん、食べよう？"
+            },
             "voice": "event/Event_002/Event_002_03/event_002_03_043.mp3"
         },
         {
@@ -393,8 +565,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "さとちん……。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "さとちん……。"
+            },
             "voice": "event/Event_002/Event_002_03/event_002_03_044.mp3"
         }
     ]

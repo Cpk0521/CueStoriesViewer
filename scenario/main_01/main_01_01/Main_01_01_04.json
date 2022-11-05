@@ -6,8 +6,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "じゃ、いい。\n諦める。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "じゃ、いい。\n諦める。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_04/main_01_01_04_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "いや、いいよ。\nただし、今日だけね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "いや、いいよ。\nただし、今日だけね。"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "ほんとか？",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "ほんとか？"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_04/main_01_01_04_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "もちろん、他の人もOK出したらね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "もちろん、他の人もOK出したらね。"
+            },
             "voice": ""
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "舞花。\nいいか？",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "舞花。\nいいか？"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_04/main_01_01_04_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "まぁ、今日だけなら……。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "まぁ、今日だけなら……。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_04/main_01_01_04_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "陽菜やほのかにも聞く。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "陽菜やほのかにも聞く。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_04/main_01_01_04_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "ついでに聞くが、\nリンを鳴らすのはダメ？",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "ついでに聞くが、\nリンを鳴らすのはダメ？"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_04/main_01_01_04_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "リンてなに？",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "リンてなに？"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_04/main_01_01_04_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "仏壇の前にある、チーンて鳴らすやつ。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "仏壇の前にある、チーンて鳴らすやつ。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_04/main_01_01_04_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "それはやめて……。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "それはやめて……。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_04/main_01_01_04_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "マネージャー！\n片付け終わりました！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "マネージャー！\n片付け終わりました！"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_04/main_01_01_04_013.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "お疲れ様。\nずいぶん時間かかったね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "お疲れ様。\nずいぶん時間かかったね。"
+            },
             "voice": ""
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "運動器具とか、健康グッズが結構多くて。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "運動器具とか、健康グッズが結構多くて。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_04/main_01_01_04_015.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そんなに沢山持ってきたの？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そんなに沢山持ってきたの？"
+            },
             "voice": ""
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "通販番組でいいなって思ったら、\nつい買っちゃうんですよね。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "通販番組でいいなって思ったら、\nつい買っちゃうんですよね。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_04/main_01_01_04_017.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "腹筋を鍛える機器とか、\nフィットネスマシーンとか。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "腹筋を鍛える機器とか、\nフィットネスマシーンとか。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_04/main_01_01_04_018.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "まぁ、分からなくもないけど。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "まぁ、分からなくもないけど。"
+            },
             "voice": ""
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "無駄遣いすることなんて、ほとんどないんですけど、\n運動器具だけは我慢出来なくて。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "無駄遣いすることなんて、ほとんどないんですけど、\n運動器具だけは我慢出来なくて。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_04/main_01_01_04_020.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "大丈夫？\n全部部屋に入った？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "大丈夫？\n全部部屋に入った？"
+            },
             "voice": ""
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "一応、入りました。\nただ、寝る場所がなくて困ってます。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "一応、入りました。\nただ、寝る場所がなくて困ってます。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_04/main_01_01_04_022.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "少し実家に送り返した方がいいんじゃない？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "少し実家に送り返した方がいいんじゃない？"
+            },
             "voice": ""
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "そうしようかな。\n昨日、バランスボール5個も買っちゃったし。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "そうしようかな。\n昨日、バランスボール5個も買っちゃったし。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_04/main_01_01_04_024.mp3"
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "えっ！\n5個も！？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "えっ！\n5個も！？"
+            },
             "voice": ""
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "明日か明後日には、ここに届くと思います。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "明日か明後日には、ここに届くと思います。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_04/main_01_01_04_026.mp3"
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そんなに買ってどうするの？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そんなに買ってどうするの？"
+            },
             "voice": ""
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "みんなにプレゼントしようと思って。\nあ、もちろんマネージャーの分もありますよ。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "みんなにプレゼントしようと思って。\nあ、もちろんマネージャーの分もありますよ。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_04/main_01_01_04_028.mp3"
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "え、あ、ありがとう……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "え、あ、ありがとう……。"
+            },
             "voice": ""
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "体幹を鍛えるには、どんなときもバランスボールに乗るんです。\n仕事中とか勉強中とか、テレビ観てるときも。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "体幹を鍛えるには、どんなときもバランスボールに乗るんです。\n仕事中とか勉強中とか、テレビ観てるときも。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_04/main_01_01_04_030.mp3"
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "でも、まぁ、部屋が狭くなるかなぁ……。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "でも、まぁ、部屋が狭くなるかなぁ……。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_04/main_01_01_04_031.mp3"
         },
         {
@@ -276,8 +396,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "そうだ。\nベッドを無くして、バランスボールで寝ればいいんだ！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "そうだ。\nベッドを無くして、バランスボールで寝ればいいんだ！"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_04/main_01_01_04_032.mp3"
         },
         {
@@ -285,8 +409,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "いくらほのかでも、それは無理があると思うな……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "いくらほのかでも、それは無理があると思うな……。"
+            },
             "voice": ""
         },
         {
@@ -294,8 +422,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "いたっ！",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "いたっ！"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_04/main_01_01_04_034.mp3"
         },
         {
@@ -303,8 +435,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "この声は陽菜……？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "この声は陽菜……？"
+            },
             "voice": ""
         },
         {
@@ -312,8 +448,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "陽菜！\nどうかした？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "陽菜！\nどうかした？"
+            },
             "voice": ""
         },
         {
@@ -321,8 +461,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "えっと……、廊下にダンベルが置いてあって、\nそれにつまづいちゃいました……。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "えっと……、廊下にダンベルが置いてあって、\nそれにつまづいちゃいました……。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_04/main_01_01_04_037.mp3"
         },
         {
@@ -330,8 +474,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "ほのか……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "ほのか……。"
+            },
             "voice": ""
         },
         {
@@ -339,8 +487,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "ヤバイ、出しっぱなしだった！\n陽菜！　ごめん！　すぐ片付ける！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "ヤバイ、出しっぱなしだった！\n陽菜！　ごめん！　すぐ片付ける！"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_04/main_01_01_04_039.mp3"
         },
         {
@@ -348,8 +500,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "それじゃ、わたしは部屋に帰りますね……。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "それじゃ、わたしは部屋に帰りますね……。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_04/main_01_01_04_041.mp3"
         },
         {
@@ -357,8 +513,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "陽菜はまだ片付け終わってないの？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "陽菜はまだ片付け終わってないの？"
+            },
             "voice": ""
         },
         {
@@ -366,8 +526,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "ちょうどさっき終わりました。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "ちょうどさっき終わりました。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_04/main_01_01_04_043.mp3"
         },
         {
@@ -375,8 +539,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そうなんだ。\n陽菜もお疲れ様。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そうなんだ。\n陽菜もお疲れ様。"
+            },
             "voice": ""
         },
         {
@@ -384,8 +552,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "ん？\n何か買ってきたの？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "ん？\n何か買ってきたの？"
+            },
             "voice": ""
         },
         {
@@ -393,8 +565,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "えっと、部屋で食べようと思って……。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "えっと、部屋で食べようと思って……。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_04/main_01_01_04_046.mp3"
         },
         {
@@ -402,8 +578,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "いやぁ、ごめんごめん。\n片付けてきたから、もう大丈夫。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "いやぁ、ごめんごめん。\n片付けてきたから、もう大丈夫。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_04/main_01_01_04_047.mp3"
         },
         {
@@ -411,8 +591,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "あれ？\n陽菜、キャベツ買ってきたんだ。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "あれ？\n陽菜、キャベツ買ってきたんだ。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_04/main_01_01_04_048.mp3"
         },
         {
@@ -420,8 +604,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "え？\nキャベツ買ってきたの？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "え？\nキャベツ買ってきたの？"
+            },
             "voice": ""
         },
         {
@@ -429,8 +617,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "う、うん。\n急に食べたくなって……。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "う、うん。\n急に食べたくなって……。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_04/main_01_01_04_050.mp3"
         },
         {
@@ -438,8 +630,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "丸々1つ食べるの？\nしかも部屋で？　1人で？",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "丸々1つ食べるの？\nしかも部屋で？　1人で？"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_04/main_01_01_04_051.mp3"
         },
         {
@@ -447,8 +643,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "そ、そうなの。\n最近、野菜不足だから……。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "そ、そうなの。\n最近、野菜不足だから……。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_04/main_01_01_04_052.mp3"
         },
         {
@@ -456,8 +656,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "もしかして、何か隠してる……？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "もしかして、何か隠してる……？"
+            },
             "voice": ""
         }
     ]

@@ -6,8 +6,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "お疲れ様です。マネージャー。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "お疲れ様です。マネージャー。"
+            },
             "voice": "audition/story_01/heroine_10/HM_Sub_01_10_15/hm_sub_01_10_15_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "公園の近くを散歩してたら、\nみーちゃんに会ったんです。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "公園の近くを散歩してたら、\nみーちゃんに会ったんです。"
+            },
             "voice": "audition/story_01/heroine_10/HM_Sub_01_10_15/hm_sub_01_10_15_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "久しぶりに、少し遊ばせてもらったんですけど、\n相変わらず、すごく可愛かったなぁ……。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "久しぶりに、少し遊ばせてもらったんですけど、\n相変わらず、すごく可愛かったなぁ……。"
+            },
             "voice": "audition/story_01/heroine_10/HM_Sub_01_10_15/hm_sub_01_10_15_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "みーちゃんも、私のこと覚えてくれてたのかな。\nまた会いたいなぁ……。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "みーちゃんも、私のこと覚えてくれてたのかな。\nまた会いたいなぁ……。"
+            },
             "voice": "audition/story_01/heroine_10/HM_Sub_01_10_15/hm_sub_01_10_15_004.mp3"
         }
     ]

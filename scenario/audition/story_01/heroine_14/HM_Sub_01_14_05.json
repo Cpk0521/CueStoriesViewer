@@ -6,8 +6,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "お疲れ様です。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "お疲れ様です。"
+            },
             "voice": "audition/story_01/heroine_14/HM_Sub_01_14_05/hm_sub_01_14_05_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "お疲れ様、聡里。\nあれ？　今日は大荷物だね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "お疲れ様、聡里。\nあれ？　今日は大荷物だね。"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "はい、新刊の発売日が重なってて。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "はい、新刊の発売日が重なってて。"
+            },
             "voice": "audition/story_01/heroine_14/HM_Sub_01_14_05/hm_sub_01_14_05_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "でも、どれか買わない選択はありませんから。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "でも、どれか買わない選択はありませんから。"
+            },
             "voice": "audition/story_01/heroine_14/HM_Sub_01_14_05/hm_sub_01_14_05_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "帰ったら本棚を整理しないと。\n……入りきるかしら。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "帰ったら本棚を整理しないと。\n……入りきるかしら。"
+            },
             "voice": "audition/story_01/heroine_14/HM_Sub_01_14_05/hm_sub_01_14_05_005.mp3"
         }
     ]

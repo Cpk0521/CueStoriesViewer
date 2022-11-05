@@ -6,8 +6,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "お疲れ様です。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "お疲れ様です。"
+            },
             "voice": "audition/story_01/com/HM_Com_01_07_03/hm_com_01_07_03_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "ハロー、マネージャー！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "ハロー、マネージャー！"
+            },
             "voice": "audition/story_01/com/HM_Com_01_07_03/hm_com_01_07_03_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "マネージャー！　お疲れ！　",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "マネージャー！　お疲れ！　"
+            },
             "voice": "audition/story_01/com/HM_Com_01_07_03/hm_com_01_07_03_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "マネージャー、お疲れ様です。\nレッスン室の鍵、閉めてきました。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "マネージャー、お疲れ様です。\nレッスン室の鍵、閉めてきました。"
+            },
             "voice": "audition/story_01/com/HM_Com_01_07_03/hm_com_01_07_03_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "お疲れ様。今日は皆で最後？\nレッスン室の戸締まりはオッケーかな？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "お疲れ様。今日は皆で最後？\nレッスン室の戸締まりはオッケーかな？"
+            },
             "voice": ""
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "はい。大丈夫です……、だよね？　千紗ちゃん。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "はい。大丈夫です……、だよね？　千紗ちゃん。"
+            },
             "voice": "audition/story_01/com/HM_Com_01_07_03/hm_com_01_07_03_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "うん。大丈夫よ。\nそれじゃ、お先に失礼します。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "うん。大丈夫よ。\nそれじゃ、お先に失礼します。"
+            },
             "voice": "audition/story_01/com/HM_Com_01_07_03/hm_com_01_07_03_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "See you!　マネージャー。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "See you!　マネージャー。"
+            },
             "voice": "audition/story_01/com/HM_Com_01_07_03/hm_com_01_07_03_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "ほら、あいり、行くよ！\n帰り、どっちが駅まで早いか勝負ね！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "ほら、あいり、行くよ！\n帰り、どっちが駅まで早いか勝負ね！"
+            },
             "voice": "audition/story_01/com/HM_Com_01_07_03/hm_com_01_07_03_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "わ、わ、待ってよ、悠希ちゃん！\nマネージャーさん、お疲れ様でした！",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "わ、わ、待ってよ、悠希ちゃん！\nマネージャーさん、お疲れ様でした！"
+            },
             "voice": "audition/story_01/com/HM_Com_01_07_03/hm_com_01_07_03_010.mp3"
         }
     ]

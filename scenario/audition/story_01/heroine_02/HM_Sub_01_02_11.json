@@ -6,8 +6,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "お疲れ様でーす。\nあ、マネージャーって、バスケとかやってました？",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "お疲れ様でーす。\nあ、マネージャーって、バスケとかやってました？"
+            },
             "voice": "audition/story_01/heroine_02/HM_Sub_01_02_11/hm_sub_01_02_11_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "今日休み時間、友達とやったんすけど、\nめちゃくちゃ楽しかったんすよ。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "今日休み時間、友達とやったんすけど、\nめちゃくちゃ楽しかったんすよ。"
+            },
             "voice": "audition/story_01/heroine_02/HM_Sub_01_02_11/hm_sub_01_02_11_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "特に、最後に決まった逆転のスリーポイント……。\n気持ちよかったなあ。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "特に、最後に決まった逆転のスリーポイント……。\n気持ちよかったなあ。"
+            },
             "voice": "audition/story_01/heroine_02/HM_Sub_01_02_11/hm_sub_01_02_11_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "えへへ、たまにはいいっすよね、バスケ。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "えへへ、たまにはいいっすよね、バスケ。"
+            },
             "voice": "audition/story_01/heroine_02/HM_Sub_01_02_11/hm_sub_01_02_11_004.mp3"
         }
     ]

@@ -6,8 +6,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "まほろ、何してるの？　",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "まほろ、何してるの？　"
+            },
             "voice": ""
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "見てわかんない？　",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "見てわかんない？　"
+            },
             "voice": "audition/story_01/com/HM_Com_01_11_01/hm_com_01_11_01_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "自撮り……？\nでも、どうしてここで？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "自撮り……？\nでも、どうしてここで？"
+            },
             "voice": ""
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "事務所に届いてたファンレター、\nさっき受け取ったでしょ？",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "事務所に届いてたファンレター、\nさっき受け取ったでしょ？"
+            },
             "voice": "audition/story_01/com/HM_Com_01_11_01/hm_com_01_11_01_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "ほら、こうしてSNSに上げれば、ちゃんと受け取ったよって、\nメッセージにもなるわけ。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "ほら、こうしてSNSに上げれば、ちゃんと受け取ったよって、\nメッセージにもなるわけ。"
+            },
             "voice": "audition/story_01/com/HM_Com_01_11_01/hm_com_01_11_01_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "なるほど。　",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "なるほど。　"
+            },
             "voice": ""
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "ファンサービスは大事だしね。　",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "ファンサービスは大事だしね。　"
+            },
             "voice": "audition/story_01/com/HM_Com_01_11_01/hm_com_01_11_01_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そういうところに気が回るの、本当に偉いね。まほろは。　",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そういうところに気が回るの、本当に偉いね。まほろは。　"
+            },
             "voice": ""
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "何言ってんの。\n今いるファンを大事にするなんて当たり前じゃない？",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "何言ってんの。\n今いるファンを大事にするなんて当たり前じゃない？"
+            },
             "voice": "audition/story_01/com/HM_Com_01_11_01/hm_com_01_11_01_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "それじゃ、お疲れ様ー。　",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "それじゃ、お疲れ様ー。　"
+            },
             "voice": "audition/story_01/com/HM_Com_01_11_01/hm_com_01_11_01_010.mp3"
         }
     ]

@@ -6,8 +6,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "お疲れ、マネージャー。\n今日はもう上がってもいいんでしょ？",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "お疲れ、マネージャー。\n今日はもう上がってもいいんでしょ？"
+            },
             "voice": "audition/story_01/heroine_11/HM_Sub_01_11_16/hm_sub_01_11_16_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "お疲れ様、まほろ。\nなにか用事でもあるの？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "お疲れ様、まほろ。\nなにか用事でもあるの？"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "気分転換にちょっとね。\nお気に入りの場所、行こうかなって。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "気分転換にちょっとね。\nお気に入りの場所、行こうかなって。"
+            },
             "voice": "audition/story_01/heroine_11/HM_Sub_01_11_16/hm_sub_01_11_16_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "最後に行ったのは莉子と一緒の時だから、\n随分、間空いちゃってさ。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "最後に行ったのは莉子と一緒の時だから、\n随分、間空いちゃってさ。"
+            },
             "voice": "audition/story_01/heroine_11/HM_Sub_01_11_16/hm_sub_01_11_16_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "じゃ、お先でーす。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "じゃ、お先でーす。"
+            },
             "voice": "audition/story_01/heroine_11/HM_Sub_01_11_16/hm_sub_01_11_16_005.mp3"
         }
     ]

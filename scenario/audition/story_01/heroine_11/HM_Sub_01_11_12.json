@@ -6,8 +6,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "ねぇ、マネージャーって「雨上がりに」って舞台知ってる？",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "ねぇ、マネージャーって「雨上がりに」って舞台知ってる？"
+            },
             "voice": "audition/story_01/heroine_11/HM_Sub_01_11_12/hm_sub_01_11_12_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "え、知らないけど、どうかしたの？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "え、知らないけど、どうかしたの？"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "あー、やっぱそうだよね。\nまほろもタイトルしか知らないし。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "あー、やっぱそうだよね。\nまほろもタイトルしか知らないし。"
+            },
             "voice": "audition/story_01/heroine_11/HM_Sub_01_11_12/hm_sub_01_11_12_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "この間、稽古のときに話題に上がったの。\nオススメって言われたから、一応チェックしようと思って。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "この間、稽古のときに話題に上がったの。\nオススメって言われたから、一応チェックしようと思って。"
+            },
             "voice": "audition/story_01/heroine_11/HM_Sub_01_11_12/hm_sub_01_11_12_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "この舞台、ピアノを使った演出があるみたいなんだよね。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "この舞台、ピアノを使った演出があるみたいなんだよね。"
+            },
             "voice": "audition/story_01/heroine_11/HM_Sub_01_11_12/hm_sub_01_11_12_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "もしかして、美晴なら知ってるかな。\n帰ったら聞いてみるか……それじゃ。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "もしかして、美晴なら知ってるかな。\n帰ったら聞いてみるか……それじゃ。"
+            },
             "voice": "audition/story_01/heroine_11/HM_Sub_01_11_12/hm_sub_01_11_12_006.mp3"
         }
     ]

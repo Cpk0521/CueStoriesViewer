@@ -6,8 +6,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "（あぁぁ……、会場がザワザワしてきた……。）",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "（あぁぁ……、会場がザワザワしてきた……。）"
+            },
             "voice": "event/Event_004/Event_004_05/event_004_05_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "『わしが子どもの頃は、毎年鐘が鳴っていたのだがのぅ……。\nあぁ、またあの美しい鐘の音を聞いてみたいものじゃのぅ……』",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "『わしが子どもの頃は、毎年鐘が鳴っていたのだがのぅ……。\nあぁ、またあの美しい鐘の音を聞いてみたいものじゃのぅ……』"
+            },
             "voice": "event/Event_004/Event_004_05/event_004_05_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "千紗ちゃん！　やっと気づいてくれてありがとう。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "千紗ちゃん！　やっと気づいてくれてありがとう。"
+            },
             "voice": "event/Event_004/Event_004_05/event_004_05_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "何がよ。あいり、1行飛ばしてない？\n進まないから読んじゃった。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "何がよ。あいり、1行飛ばしてない？\n進まないから読んじゃった。"
+            },
             "voice": "event/Event_004/Event_004_05/event_004_05_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "え？　\n……ああ！",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "え？　\n……ああ！"
+            },
             "voice": "event/Event_004/Event_004_05/event_004_05_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "あいりのナレーション、待ってたんだよ！",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "あいりのナレーション、待ってたんだよ！"
+            },
             "voice": "event/Event_004/Event_004_05/event_004_05_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "ご、ごめんなさい！",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "ご、ごめんなさい！"
+            },
             "voice": "event/Event_004/Event_004_05/event_004_05_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "コッホン……。\n『町一番の長老ジョセフは、こう言いました』",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "コッホン……。\n『町一番の長老ジョセフは、こう言いました』"
+            },
             "voice": "event/Event_004/Event_004_05/event_004_05_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "『……ジョセフ、……ジョセフ！』",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "『……ジョセフ、……ジョセフ！』"
+            },
             "voice": "event/Event_004/Event_004_05/event_004_05_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "『よ、呼んだかの？』",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "『よ、呼んだかの？』"
+            },
             "voice": "event/Event_004/Event_004_05/event_004_05_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "『ジョセフ。おおジョセフ。おかえりジョセフ！\n待っていたよ……、ところで話ってなんだい？』",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "『ジョセフ。おおジョセフ。おかえりジョセフ！\n待っていたよ……、ところで話ってなんだい？』"
+            },
             "voice": "event/Event_004/Event_004_05/event_004_05_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "『お前さんに、話なんてないがのう……』",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "『お前さんに、話なんてないがのう……』"
+            },
             "voice": "event/Event_004/Event_004_05/event_004_05_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "『はははっ！　ジョセフ。\nジョセフが子どもの頃は、鐘が鳴っていたんだよね？』",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "『はははっ！　ジョセフ。\nジョセフが子どもの頃は、鐘が鳴っていたんだよね？』"
+            },
             "voice": "event/Event_004/Event_004_05/event_004_05_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "『……鳴ってたのぉ』",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "『……鳴ってたのぉ』"
+            },
             "voice": "event/Event_004/Event_004_05/event_004_05_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "『それはそれは美しい鐘の音だったんだろうなぁ』",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "『それはそれは美しい鐘の音だったんだろうなぁ』"
+            },
             "voice": "event/Event_004/Event_004_05/event_004_05_015.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "『そうじゃのぉ』",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "『そうじゃのぉ』"
+            },
             "voice": "event/Event_004/Event_004_05/event_004_05_016.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "『僕も聞いてみたいなぁ』",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "『僕も聞いてみたいなぁ』"
+            },
             "voice": "event/Event_004/Event_004_05/event_004_05_017.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "『そうじゃが……、あんた誰じゃ？』",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "『そうじゃが……、あんた誰じゃ？』"
+            },
             "voice": "event/Event_004/Event_004_05/event_004_05_018.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "『長老ジョセフの記憶はあいまいになっていました。\nそれほど長い期間、鐘は鳴っていなかったのです』",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "『長老ジョセフの記憶はあいまいになっていました。\nそれほど長い期間、鐘は鳴っていなかったのです』"
+            },
             "voice": "event/Event_004/Event_004_05/event_004_05_019.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "（なんとか、元に戻ったかな……。）",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "（なんとか、元に戻ったかな……。）"
+            },
             "voice": "event/Event_004/Event_004_05/event_004_05_020.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "（あれ？　笑われてる？　\n呼吸だ、呼吸をするんだ。口角を上げて、滑舌良く……！）",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "（あれ？　笑われてる？　\n呼吸だ、呼吸をするんだ。口角を上げて、滑舌良く……！）"
+            },
             "voice": "event/Event_004/Event_004_05/event_004_05_021.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "『さて、ペドロ兄弟の住む家は、その教会のある町からは、\nだいぶ離れた山の中にありました』",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "『さて、ペドロ兄弟の住む家は、その教会のある町からは、\nだいぶ離れた山の中にありました』"
+            },
             "voice": "event/Event_004/Event_004_05/event_004_05_022.mp3"
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "（さぁ、悠希ちゃん。弟のセリフだよ。\nもう漫才のダメージは消えたよね？）",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "（さぁ、悠希ちゃん。弟のセリフだよ。\nもう漫才のダメージは消えたよね？）"
+            },
             "voice": "event/Event_004/Event_004_05/event_004_05_023.mp3"
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "ニヤリ。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "ニヤリ。"
+            },
             "voice": "event/Event_004/Event_004_05/event_004_05_024.mp3"
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "『鳴らぬなら、鳴るまで待とう、鐘の音』",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "『鳴らぬなら、鳴るまで待とう、鐘の音』"
+            },
             "voice": "event/Event_004/Event_004_05/event_004_05_025.mp3"
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "『拙者、クリスマスの妖精でござる！』",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "『拙者、クリスマスの妖精でござる！』"
+            },
             "voice": "event/Event_004/Event_004_05/event_004_05_026.mp3"
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "『クリスマスの妖精だ！　\n妖精がこの町にやってきたよぉ！』",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "『クリスマスの妖精だ！　\n妖精がこの町にやってきたよぉ！』"
+            },
             "voice": "event/Event_004/Event_004_05/event_004_05_027.mp3"
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "ちょっと！　\n何が始まったの！？",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "ちょっと！　\n何が始まったの！？"
+            },
             "voice": "event/Event_004/Event_004_05/event_004_05_028.mp3"
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "わかんないけど、面白そう！　\nイッツ、ショータイム！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "わかんないけど、面白そう！　\nイッツ、ショータイム！"
+            },
             "voice": "event/Event_004/Event_004_05/event_004_05_029.mp3"
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "ええ……？　\nもしかしてこれが、悠希ちゃんの言ってた、アドリブ？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "ええ……？　\nもしかしてこれが、悠希ちゃんの言ってた、アドリブ？"
+            },
             "voice": "event/Event_004/Event_004_05/event_004_05_030.mp3"
         }
     ]

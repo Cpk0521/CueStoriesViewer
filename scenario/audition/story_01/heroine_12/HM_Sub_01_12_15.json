@@ -6,8 +6,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "マネージャー、お疲れ様！",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "マネージャー、お疲れ様！"
+            },
             "voice": "audition/story_01/heroine_12/HM_Sub_01_12_15/hm_sub_01_12_15_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "お疲れ様。\n美晴から聞いたよ。明日はチームで出掛けるんだって？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "お疲れ様。\n美晴から聞いたよ。明日はチームで出掛けるんだって？"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "えへへ、そうなんだー。ちょっと遠出して、カフェに行く予定！\n超かわいいケーキがあるんだって。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "えへへ、そうなんだー。ちょっと遠出して、カフェに行く予定！\n超かわいいケーキがあるんだって。"
+            },
             "voice": "audition/story_01/heroine_12/HM_Sub_01_12_15/hm_sub_01_12_15_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "……なんていうかさ、嬉しいんだよね、あたし。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "……なんていうかさ、嬉しいんだよね、あたし。"
+            },
             "voice": "audition/story_01/heroine_12/HM_Sub_01_12_15/hm_sub_01_12_15_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "今は当たり前だけど、美晴たちと、\nこうやって遊びに行く仲になれて良かったなーって思うんだ。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "今は当たり前だけど、美晴たちと、\nこうやって遊びに行く仲になれて良かったなーって思うんだ。"
+            },
             "voice": "audition/story_01/heroine_12/HM_Sub_01_12_15/hm_sub_01_12_15_005.mp3"
         }
     ]

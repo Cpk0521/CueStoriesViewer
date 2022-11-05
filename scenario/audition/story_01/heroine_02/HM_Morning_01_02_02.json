@@ -6,8 +6,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "あ、マネージャー。\nこれから仕事っすか？ ",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "あ、マネージャー。\nこれから仕事っすか？ "
+            },
             "voice": "audition/story_01/heroine_02/HM_Morning_01_02_02/hm_morning_01_02_02_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "自分、今日は小テストなんっすよ。\nだから、早く行って勉強しなくちゃいけなくて……。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "自分、今日は小テストなんっすよ。\nだから、早く行って勉強しなくちゃいけなくて……。"
+            },
             "voice": "audition/story_01/heroine_02/HM_Morning_01_02_02/hm_morning_01_02_02_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "じゃ、いってきます、マネージャー！",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "じゃ、いってきます、マネージャー！"
+            },
             "voice": "audition/story_01/heroine_02/HM_Morning_01_02_02/hm_morning_01_02_02_003.mp3"
         }
     ]

@@ -6,8 +6,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "みんな、今日もお疲れ様ー。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "みんな、今日もお疲れ様ー。"
+            },
             "voice": "card/Card_11/Card_3110007_1/card_3110007_1_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "うう……。\n感情移入って難しい……。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "うう……。\n感情移入って難しい……。"
+            },
             "voice": "card/Card_11/Card_3110007_1/card_3110007_1_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "どう～、この後ファミレスでも行かない？",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "どう～、この後ファミレスでも行かない？"
+            },
             "voice": "card/Card_11/Card_3110007_1/card_3110007_1_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "まほろはパスかな。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "まほろはパスかな。"
+            },
             "voice": "card/Card_11/Card_3110007_1/card_3110007_1_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "あ～、そう。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "あ～、そう。"
+            },
             "voice": "card/Card_11/Card_3110007_1/card_3110007_1_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "あんた達と毎日一緒だと、\nちょっと新鮮味がないのよね。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "あんた達と毎日一緒だと、\nちょっと新鮮味がないのよね。"
+            },
             "voice": "card/Card_11/Card_3110007_1/card_3110007_1_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "ま、ほ、ろ！\nわたしそんな悲しい言葉聞きたくない！",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "ま、ほ、ろ！\nわたしそんな悲しい言葉聞きたくない！"
+            },
             "voice": "card/Card_11/Card_3110007_1/card_3110007_1_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "毎日同じメンバーでファミレス行ってる写真ばっかり、\n投稿するわけにいかないでしょ。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "毎日同じメンバーでファミレス行ってる写真ばっかり、\n投稿するわけにいかないでしょ。"
+            },
             "voice": "card/Card_11/Card_3110007_1/card_3110007_1_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "投稿って……。\nそんな無理にしなきゃいいんじゃないの？",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "投稿って……。\nそんな無理にしなきゃいいんじゃないの？"
+            },
             "voice": "card/Card_11/Card_3110007_1/card_3110007_1_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "そういうんじゃないんだよね。\nわかるかなー？",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "そういうんじゃないんだよね。\nわかるかなー？"
+            },
             "voice": "card/Card_11/Card_3110007_1/card_3110007_1_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "難しい……。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "難しい……。"
+            },
             "voice": "card/Card_11/Card_3110007_1/card_3110007_1_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "あたしにもちょっとわかんないかも……。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "あたしにもちょっとわかんないかも……。"
+            },
             "voice": "card/Card_11/Card_3110007_1/card_3110007_1_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "まほろの新たな一面を、\nフォロワーのみんなにお届けするためには……。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "まほろの新たな一面を、\nフォロワーのみんなにお届けするためには……。"
+            },
             "voice": "card/Card_11/Card_3110007_1/card_3110007_1_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "あ！　あれは聡里……。\nうん。新たな一面は新たな組み合わせの中で生まれるはず……。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "あ！　あれは聡里……。\nうん。新たな一面は新たな組み合わせの中で生まれるはず……。"
+            },
             "voice": "card/Card_11/Card_3110007_1/card_3110007_1_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "聡里！　",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "聡里！　"
+            },
             "voice": "card/Card_11/Card_3110007_1/card_3110007_1_015.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "宮路さん……。\nどうしたの？　私に声をかけるなんて珍しい。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "宮路さん……。\nどうしたの？　私に声をかけるなんて珍しい。"
+            },
             "voice": "card/Card_11/Card_3110007_1/card_3110007_1_016.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "ほら、まほろも含めてエールブルーのみんなってさ、\n仕事以外でもチームで行動することが多いでしょ？　",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "ほら、まほろも含めてエールブルーのみんなってさ、\n仕事以外でもチームで行動することが多いでしょ？　"
+            },
             "voice": "card/Card_11/Card_3110007_1/card_3110007_1_017.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "ほかのチームの人達は、レッスンが終わった後、\nどんな風に過ごしてるのかなって思って。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "ほかのチームの人達は、レッスンが終わった後、\nどんな風に過ごしてるのかなって思って。"
+            },
             "voice": "card/Card_11/Card_3110007_1/card_3110007_1_018.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "特に変わったことはしてないわ。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "特に変わったことはしてないわ。"
+            },
             "voice": "card/Card_11/Card_3110007_1/card_3110007_1_019.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "うーん、そうだねえ……。\nじゃあ……、今からどこ行くつもりだった？",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "うーん、そうだねえ……。\nじゃあ……、今からどこ行くつもりだった？"
+            },
             "voice": "card/Card_11/Card_3110007_1/card_3110007_1_020.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "今から？\nそんなこと聞いてどうするの？",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "今から？\nそんなこと聞いてどうするの？"
+            },
             "voice": "card/Card_11/Card_3110007_1/card_3110007_1_021.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "……古書店街にでも行こうと思って。\nま、古本屋巡りね。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "……古書店街にでも行こうと思って。\nま、古本屋巡りね。"
+            },
             "voice": "card/Card_11/Card_3110007_1/card_3110007_1_022.mp3"
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "古書店街？\n古本屋巡り？",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "古書店街？\n古本屋巡り？"
+            },
             "voice": "card/Card_11/Card_3110007_1/card_3110007_1_023.mp3"
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "うん。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "うん。"
+            },
             "voice": "card/Card_11/Card_3110007_1/card_3110007_1_024.mp3"
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "古書店……。\n古本……。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "古書店……。\n古本……。"
+            },
             "voice": "card/Card_11/Card_3110007_1/card_3110007_1_025.mp3"
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "どうかした？",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "どうかした？"
+            },
             "voice": "card/Card_11/Card_3110007_1/card_3110007_1_026.mp3"
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "それは新しいね。うん。すごく新しい。\nちょっとまほろもついて行っていいかな？",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "それは新しいね。うん。すごく新しい。\nちょっとまほろもついて行っていいかな？"
+            },
             "voice": "card/Card_11/Card_3110007_1/card_3110007_1_027.mp3"
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "えっ？　宮路さんも一緒に？　まあいいけど。\n宮路さん、読書とかするの？",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "えっ？　宮路さんも一緒に？　まあいいけど。\n宮路さん、読書とかするの？"
+            },
             "voice": "card/Card_11/Card_3110007_1/card_3110007_1_028.mp3"
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "するよ。まほろだって小説くらい読むし……。\n……って、どういう意味よ。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "するよ。まほろだって小説くらい読むし……。\n……って、どういう意味よ。"
+            },
             "voice": "card/Card_11/Card_3110007_1/card_3110007_1_029.mp3"
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "いや、あんまり本とか読まなそうだったから。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "いや、あんまり本とか読まなそうだったから。"
+            },
             "voice": "card/Card_11/Card_3110007_1/card_3110007_1_030.mp3"
         },
         {
@@ -276,8 +396,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "……。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "……。"
+            },
             "voice": "card/Card_11/Card_3110007_1/card_3110007_1_031.mp3"
         },
         {
@@ -285,8 +409,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "なに？",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "なに？"
+            },
             "voice": "card/Card_11/Card_3110007_1/card_3110007_1_032.mp3"
         },
         {
@@ -294,8 +422,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "……まあいいか。\nはやく、その……。古書店街に行きましょ。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "……まあいいか。\nはやく、その……。古書店街に行きましょ。"
+            },
             "voice": "card/Card_11/Card_3110007_1/card_3110007_1_033.mp3"
         },
         {
@@ -303,8 +435,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "そうね……。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "そうね……。"
+            },
             "voice": "card/Card_11/Card_3110007_1/card_3110007_1_034.mp3"
         },
         {
@@ -312,8 +448,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "行こう行こう！\nほら、早く！　おいてくよ！",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "行こう行こう！\nほら、早く！　おいてくよ！"
+            },
             "voice": "card/Card_11/Card_3110007_1/card_3110007_1_035.mp3"
         },
         {
@@ -321,8 +461,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "ねえ、なんでそんな笑顔なの？",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "ねえ、なんでそんな笑顔なの？"
+            },
             "voice": "card/Card_11/Card_3110007_1/card_3110007_1_036.mp3"
         },
         {
@@ -330,8 +474,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "へー、古書店街ってレッスン室から歩ける距離だったんだ。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "へー、古書店街ってレッスン室から歩ける距離だったんだ。"
+            },
             "voice": "card/Card_11/Card_3110007_1/card_3110007_1_037.mp3"
         },
         {
@@ -339,8 +487,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "宮路さん、古書店街は初めて？",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "宮路さん、古書店街は初めて？"
+            },
             "voice": "card/Card_11/Card_3110007_1/card_3110007_1_038.mp3"
         },
         {
@@ -348,8 +500,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "うん。まほろ、名古屋出身だから。\n正直なとこ、都内でも行ったことない街はたくさんあるんだよね。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "うん。まほろ、名古屋出身だから。\n正直なとこ、都内でも行ったことない街はたくさんあるんだよね。"
+            },
             "voice": "card/Card_11/Card_3110007_1/card_3110007_1_039.mp3"
         },
         {
@@ -357,8 +513,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "ふぅん……、そうだったんだ。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "ふぅん……、そうだったんだ。"
+            },
             "voice": "card/Card_11/Card_3110007_1/card_3110007_1_040.mp3"
         },
         {
@@ -366,8 +526,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "わっ。\nこれ全部古本？",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "わっ。\nこれ全部古本？"
+            },
             "voice": "card/Card_11/Card_3110007_1/card_3110007_1_041.mp3"
         },
         {
@@ -375,8 +539,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "そうよ。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "そうよ。"
+            },
             "voice": "card/Card_11/Card_3110007_1/card_3110007_1_042.mp3"
         },
         {
@@ -384,8 +552,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "どの店ももう、並べてるってよりも\n積んじゃってるって感じだね。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "どの店ももう、並べてるってよりも\n積んじゃってるって感じだね。"
+            },
             "voice": "card/Card_11/Card_3110007_1/card_3110007_1_043.mp3"
         },
         {
@@ -393,8 +565,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "ああやって積まれた本の山に、最高の出会いがあったりするの。\n宝の山よ？",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "ああやって積まれた本の山に、最高の出会いがあったりするの。\n宝の山よ？"
+            },
             "voice": "card/Card_11/Card_3110007_1/card_3110007_1_044.mp3"
         },
         {
@@ -402,8 +578,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "なるほど……。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "なるほど……。"
+            },
             "voice": "card/Card_11/Card_3110007_1/card_3110007_1_045.mp3"
         },
         {
@@ -411,8 +591,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "ちょっといい？",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "ちょっといい？"
+            },
             "voice": "card/Card_11/Card_3110007_1/card_3110007_1_046.mp3"
         },
         {
@@ -420,8 +604,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "えっ？　なに？　スマホ出して……。\nセルフィ―？　",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "えっ？　なに？　スマホ出して……。\nセルフィ―？　"
+            },
             "voice": "card/Card_11/Card_3110007_1/card_3110007_1_047.mp3"
         },
         {
@@ -429,8 +617,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "ちょっと！\n店内じゃないとはいえ、迷惑よ！",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "ちょっと！\n店内じゃないとはいえ、迷惑よ！"
+            },
             "voice": "card/Card_11/Card_3110007_1/card_3110007_1_048.mp3"
         },
         {
@@ -438,8 +630,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "あ、そう？　\nじゃあちょっと離れて……。迷惑にならない場所で……。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "あ、そう？　\nじゃあちょっと離れて……。迷惑にならない場所で……。"
+            },
             "voice": "card/Card_11/Card_3110007_1/card_3110007_1_049.mp3"
         },
         {
@@ -447,8 +643,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "うん、いいんじゃない？",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "うん、いいんじゃない？"
+            },
             "voice": "card/Card_11/Card_3110007_1/card_3110007_1_050.mp3"
         },
         {
@@ -456,8 +656,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "……。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "……。"
+            },
             "voice": "card/Card_11/Card_3110007_1/card_3110007_1_051.mp3"
         },
         {
@@ -465,8 +669,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "今日は珍しくチームMoonの宇津木さんと！\n＃古書店街で　＃古本屋さん巡り　",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "今日は珍しくチームMoonの宇津木さんと！\n＃古書店街で　＃古本屋さん巡り　"
+            },
             "voice": "card/Card_11/Card_3110007_1/card_3110007_1_052.mp3"
         },
         {
@@ -474,8 +682,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "＃素敵な出会いがありますように\n＃みんなのおすすめの小説が知りたいな　……っと。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "＃素敵な出会いがありますように\n＃みんなのおすすめの小説が知りたいな　……っと。"
+            },
             "voice": "card/Card_11/Card_3110007_1/card_3110007_1_053.mp3"
         },
         {
@@ -483,8 +695,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "なによ、これ。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "なによ、これ。"
+            },
             "voice": "card/Card_11/Card_3110007_1/card_3110007_1_054.mp3"
         },
         {
@@ -492,8 +708,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "なにが？",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "なにが？"
+            },
             "voice": "card/Card_11/Card_3110007_1/card_3110007_1_055.mp3"
         },
         {
@@ -501,8 +721,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "はぁ、宮路さんってそういうタイプだったの……。\nなるほど……。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "はぁ、宮路さんってそういうタイプだったの……。\nなるほど……。"
+            },
             "voice": "card/Card_11/Card_3110007_1/card_3110007_1_056.mp3"
         },
         {
@@ -510,8 +734,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "自己プロデュースも、\nまほろ達に必要な要素の1つだよ？",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "自己プロデュースも、\nまほろ達に必要な要素の1つだよ？"
+            },
             "voice": "card/Card_11/Card_3110007_1/card_3110007_1_057.mp3"
         },
         {
@@ -519,8 +747,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "まぁ、それに異論はないけど……。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "まぁ、それに異論はないけど……。"
+            },
             "voice": "card/Card_11/Card_3110007_1/card_3110007_1_058.mp3"
         },
         {
@@ -528,8 +760,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "そういうわけで、今日は1冊、小説を買って帰るね。\n小説が多そうなお店ってどこ？",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "そういうわけで、今日は1冊、小説を買って帰るね。\n小説が多そうなお店ってどこ？"
+            },
             "voice": "card/Card_11/Card_3110007_1/card_3110007_1_059.mp3"
         },
         {
@@ -537,8 +773,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "凄い性格してるなこの人……。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "凄い性格してるなこの人……。"
+            },
             "voice": "card/Card_11/Card_3110007_1/card_3110007_1_060.mp3"
         },
         {
@@ -546,8 +786,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "ここはどっちかというと歴史小説が多い店かな。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "ここはどっちかというと歴史小説が多い店かな。"
+            },
             "voice": "card/Card_11/Card_3110007_1/card_3110007_1_061.mp3"
         },
         {
@@ -555,8 +799,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "ふむふむ……。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "ふむふむ……。"
+            },
             "voice": "card/Card_11/Card_3110007_1/card_3110007_1_062.mp3"
         },
         {
@@ -564,8 +812,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "あ、これ、知ってる。\n子役時代に出たことあるドラマだ。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "あ、これ、知ってる。\n子役時代に出たことあるドラマだ。"
+            },
             "voice": "card/Card_11/Card_3110007_1/card_3110007_1_063.mp3"
         },
         {
@@ -573,8 +825,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "へえ、宮路さんこのドラマに出てたんだ？",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "へえ、宮路さんこのドラマに出てたんだ？"
+            },
             "voice": "card/Card_11/Card_3110007_1/card_3110007_1_064.mp3"
         },
         {
@@ -582,8 +838,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "うん。\nまあ、このときはまだデビューしたてでちょい役だったけど……。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "うん。\nまあ、このときはまだデビューしたてでちょい役だったけど……。"
+            },
             "voice": "card/Card_11/Card_3110007_1/card_3110007_1_065.mp3"
         },
         {
@@ -591,8 +851,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "へえー。\nそうなんだ。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "へえー。\nそうなんだ。"
+            },
             "voice": "card/Card_11/Card_3110007_1/card_3110007_1_066.mp3"
         },
         {
@@ -600,8 +864,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "最近ファンになった人は意外と知らないんじゃない？　\n子役時代の宮路さんのこと。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "最近ファンになった人は意外と知らないんじゃない？　\n子役時代の宮路さんのこと。"
+            },
             "voice": "card/Card_11/Card_3110007_1/card_3110007_1_067.mp3"
         },
         {
@@ -609,8 +877,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "そっかー。\nたしかにそうかもね……。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "そっかー。\nたしかにそうかもね……。"
+            },
             "voice": "card/Card_11/Card_3110007_1/card_3110007_1_068.mp3"
         },
         {
@@ -618,8 +890,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "上下巻で2冊か……。\nよし。決めた。これ、買ってこう。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "上下巻で2冊か……。\nよし。決めた。これ、買ってこう。"
+            },
             "voice": "card/Card_11/Card_3110007_1/card_3110007_1_069.mp3"
         },
         {
@@ -627,8 +903,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "あれえ？　まほろは？\nもう晩御飯だよ？",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "あれえ？　まほろは？\nもう晩御飯だよ？"
+            },
             "voice": "card/Card_11/Card_3110007_1/card_3110007_1_070.mp3"
         },
         {
@@ -636,8 +916,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "部屋に閉じこもってる。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "部屋に閉じこもってる。"
+            },
             "voice": "card/Card_11/Card_3110007_1/card_3110007_1_071.mp3"
         },
         {
@@ -645,8 +929,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "何やってんの？\n帰って来たきりずっとじゃん……。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "何やってんの？\n帰って来たきりずっとじゃん……。"
+            },
             "voice": "card/Card_11/Card_3110007_1/card_3110007_1_072.mp3"
         },
         {
@@ -654,8 +942,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "ね、ちょっとこれ見て。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "ね、ちょっとこれ見て。"
+            },
             "voice": "card/Card_11/Card_3110007_1/card_3110007_1_073.mp3"
         },
         {
@@ -663,8 +955,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "なあに？",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "なあに？"
+            },
             "voice": "card/Card_11/Card_3110007_1/card_3110007_1_074.mp3"
         },
         {
@@ -672,8 +968,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "んー？",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "んー？"
+            },
             "voice": "card/Card_11/Card_3110007_1/card_3110007_1_075.mp3"
         },
         {
@@ -681,8 +981,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "読書の秋に運命の再開！\n＃古書店街で　＃素敵な出会い　＃みんなのおすすめの小説が知りたいな",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "読書の秋に運命の再開！\n＃古書店街で　＃素敵な出会い　＃みんなのおすすめの小説が知りたいな"
+            },
             "voice": "card/Card_11/Card_3110007_1/card_3110007_1_076.mp3"
         },
         {
@@ -690,8 +994,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "わあ、楽しそう！",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "わあ、楽しそう！"
+            },
             "voice": "card/Card_11/Card_3110007_1/card_3110007_1_077.mp3"
         },
         {
@@ -699,8 +1007,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "楽しそう？",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "楽しそう？"
+            },
             "voice": "card/Card_11/Card_3110007_1/card_3110007_1_078.mp3"
         },
         {
@@ -708,8 +1020,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "へえ～、まほろが読書……？\nはっはー……、珍しい。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "へえ～、まほろが読書……？\nはっはー……、珍しい。"
+            },
             "voice": "card/Card_11/Card_3110007_1/card_3110007_1_079.mp3"
         }
     ]

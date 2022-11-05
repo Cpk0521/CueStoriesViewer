@@ -6,8 +6,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "あ……、おはようございます。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "あ……、おはようございます。"
+            },
             "voice": "audition/story_01/heroine_16/HM_Morning_01_16_02/hm_morning_01_16_02_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "今日は午前からレッスンです。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "今日は午前からレッスンです。"
+            },
             "voice": "audition/story_01/heroine_16/HM_Morning_01_16_02/hm_morning_01_16_02_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "ランクマッチが早く終わったので、夜更かしはしてません。\n本読みにも集中出来ます。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "ランクマッチが早く終わったので、夜更かしはしてません。\n本読みにも集中出来ます。"
+            },
             "voice": "audition/story_01/heroine_16/HM_Morning_01_16_02/hm_morning_01_16_02_003.mp3"
         }
     ]

@@ -6,8 +6,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "ここがわたしの部屋かー！\n自分の部屋っていいですね！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "ここがわたしの部屋かー！\n自分の部屋っていいですね！"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_02/main_01_01_02_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "ほのかちゃんは素直ね～。\nわたしもうれしいな。",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "ほのかちゃんは素直ね～。\nわたしもうれしいな。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_02/main_01_01_02_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "何を置こうかな。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "何を置こうかな。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_02/main_01_01_02_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "ランニングマシーンはここに置いて、\nここら辺にダンベル置いて……。それから～……。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "ランニングマシーンはここに置いて、\nここら辺にダンベル置いて……。それから～……。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_02/main_01_01_02_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "夢中になっちゃったわね。",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "夢中になっちゃったわね。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_02/main_01_01_02_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "そうですね。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "そうですね。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_02/main_01_01_02_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "いいなー！\n部屋見るの楽しみ～！",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "いいなー！\n部屋見るの楽しみ～！"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_02/main_01_01_02_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "フローリング……。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "フローリング……。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_02/main_01_01_02_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "じゃ、次は志穂ちゃんの部屋を案内するね～。",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "じゃ、次は志穂ちゃんの部屋を案内するね～。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_02/main_01_01_02_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "む。了解。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "む。了解。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_02/main_01_01_02_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "どう？\nキレイな部屋でしょ？",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "どう？\nキレイな部屋でしょ？"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_02/main_01_01_02_012.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "またもやフローリング。\nできれば和室がよかった。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "またもやフローリング。\nできれば和室がよかった。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_02/main_01_01_02_013.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "贅沢言わないの。\nもしかして、ベッドより布団派？",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "贅沢言わないの。\nもしかして、ベッドより布団派？"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_02/main_01_01_02_014.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "布団派というより、コタツ派。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "布団派というより、コタツ派。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_02/main_01_01_02_015.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "コタツで寝るってこと？",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "コタツで寝るってこと？"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_02/main_01_01_02_016.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "寝るだけじゃない。\nコタツで生活する。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "寝るだけじゃない。\nコタツで生活する。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_02/main_01_01_02_017.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "部屋から出なくなりそう……。\n夏はどうするの？",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "部屋から出なくなりそう……。\n夏はどうするの？"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_02/main_01_01_02_018.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "夏はハンモックに決まっている。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "夏はハンモックに決まっている。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_02/main_01_01_02_019.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "そこはバケーションなのね。",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "そこはバケーションなのね。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_02/main_01_01_02_020.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "まぁ、ここはレッスンに集中するための寮生活なの。",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "まぁ、ここはレッスンに集中するための寮生活なの。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_02/main_01_01_02_021.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "とりあえず、コタツとハンモックは禁止。",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "とりあえず、コタツとハンモックは禁止。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_02/main_01_01_02_022.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "止むを得ない。\n致し方なし。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "止むを得ない。\n致し方なし。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_02/main_01_01_02_023.mp3"
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "次は？\n次は？",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "次は？\n次は？"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_02/main_01_01_02_024.mp3"
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "次は舞花ちゃんの部屋～。",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "次は舞花ちゃんの部屋～。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_02/main_01_01_02_025.mp3"
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "よっしゃっ。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "よっしゃっ。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_02/main_01_01_02_026.mp3"
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "ここが舞花ちゃんの部屋ね。",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "ここが舞花ちゃんの部屋ね。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_02/main_01_01_02_028.mp3"
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "憧れの1人部屋……。\n1人当たりの部屋って、こんなに広いんですか……？",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "憧れの1人部屋……。\n1人当たりの部屋って、こんなに広いんですか……？"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_02/main_01_01_02_029.mp3"
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "そうよ！\n贅沢でしょ！",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "そうよ！\n贅沢でしょ！"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_02/main_01_01_02_030.mp3"
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "贅沢すぎて泣きそうです……。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "贅沢すぎて泣きそうです……。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_02/main_01_01_02_031.mp3"
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "気に入ってくれた？",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "気に入ってくれた？"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_02/main_01_01_02_032.mp3"
         },
         {
@@ -276,8 +396,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "もちろんっす！\nめちゃくちゃ気に入りました！",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "もちろんっす！\nめちゃくちゃ気に入りました！"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_02/main_01_01_02_033.mp3"
         },
         {
@@ -285,8 +409,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "弟たちのケンカの声が聞こえないのは淋しいけど。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "弟たちのケンカの声が聞こえないのは淋しいけど。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_02/main_01_01_02_034.mp3"
         },
         {
@@ -294,8 +422,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "最初は、ちょっとホームシックになるかもねー。",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "最初は、ちょっとホームシックになるかもねー。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_02/main_01_01_02_035.mp3"
         },
         {
@@ -303,8 +435,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "でも、この部屋で頑張って、早く一人前の声優になる。\nそして弟達に、広い家をプレゼントするんだ！",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "でも、この部屋で頑張って、早く一人前の声優になる。\nそして弟達に、広い家をプレゼントするんだ！"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_02/main_01_01_02_036.mp3"
         },
         {
@@ -312,8 +448,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "いいねー！\nその意気だよ！",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "いいねー！\nその意気だよ！"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_02/main_01_01_02_037.mp3"
         },
         {
@@ -321,8 +461,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "よし！\n頑張るぞ！",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "よし！\n頑張るぞ！"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_02/main_01_01_02_038.mp3"
         },
         {
@@ -330,8 +474,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "じゃあ、最後は。\n陽菜ちゃんの部屋！",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "じゃあ、最後は。\n陽菜ちゃんの部屋！"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_02/main_01_01_02_039.mp3"
         },
         {
@@ -339,8 +487,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "はい！\n\n",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "はい！\n\n"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_02/main_01_01_02_040.mp3"
         },
         {
@@ -348,8 +500,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "ご到着～！\nここが陽菜ちゃんの部屋だよ～！",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "ご到着～！\nここが陽菜ちゃんの部屋だよ～！"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_02/main_01_01_02_042.mp3"
         },
         {
@@ -357,8 +513,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "って、ちょっと陽菜ちゃん！　どうしたの？\n目がうるうるしてるよ……？",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "って、ちょっと陽菜ちゃん！　どうしたの？\n目がうるうるしてるよ……？"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_02/main_01_01_02_043.mp3"
         },
         {
@@ -366,8 +526,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "すみません、部屋を見たら胸がいっぱいになって。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "すみません、部屋を見たら胸がいっぱいになって。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_02/main_01_01_02_044.mp3"
         },
         {
@@ -375,8 +539,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "もしかして、感激しちゃった？\nあー、それとも和室がよかった？　ランニングマシーン欲しくなった？",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "もしかして、感激しちゃった？\nあー、それとも和室がよかった？　ランニングマシーン欲しくなった？"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_02/main_01_01_02_045.mp3"
         },
         {
@@ -384,8 +552,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "いえ。\nいよいよ始まるんだなって思って……。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "いえ。\nいよいよ始まるんだなって思って……。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_02/main_01_01_02_046.mp3"
         },
         {
@@ -393,8 +565,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "夢を叶えるための、新しい生活が……。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "夢を叶えるための、新しい生活が……。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_02/main_01_01_02_047.mp3"
         },
         {
@@ -402,8 +578,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "……うん。\nここからがスタートだよ。",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "……うん。\nここからがスタートだよ。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_02/main_01_01_02_048.mp3"
         },
         {
@@ -411,8 +591,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "よーい、ドン！\nってね。",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "よーい、ドン！\nってね。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_02/main_01_01_02_049.mp3"
         },
         {
@@ -420,8 +604,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "わたし、全力で走ります。\n一生懸命頑張ります。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "わたし、全力で走ります。\n一生懸命頑張ります。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_02/main_01_01_02_050.mp3"
         },
         {
@@ -429,8 +617,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "もし転んじゃっても、\nすぐ近くに助けてくれる仲間がいる。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "もし転んじゃっても、\nすぐ近くに助けてくれる仲間がいる。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_02/main_01_01_02_051.mp3"
         },
         {
@@ -438,8 +630,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "それが、寮生活の良いところだよ。",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "それが、寮生活の良いところだよ。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_02/main_01_01_02_052.mp3"
         },
         {
@@ -447,8 +643,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "はい！\nきっと何度でも、立ち上がって走ることができます！",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "はい！\nきっと何度でも、立ち上がって走ることができます！"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_02/main_01_01_02_053.mp3"
         },
         {
@@ -456,8 +656,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "っと、陽菜ちゃんが言ってたわけよ。",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "っと、陽菜ちゃんが言ってたわけよ。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_02/main_01_01_02_055.mp3"
         },
         {
@@ -465,8 +669,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "へぇ、陽菜がそんなこと言ってたんですか。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "へぇ、陽菜がそんなこと言ってたんですか。"
+            },
             "voice": ""
         },
         {
@@ -474,8 +682,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "あの言葉、真咲さんに聞かせたかったな。\nきっと、寮を作って良かったと思ったはずよ。",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "あの言葉、真咲さんに聞かせたかったな。\nきっと、寮を作って良かったと思ったはずよ。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_02/main_01_01_02_057.mp3"
         },
         {
@@ -483,8 +695,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "ところで、皆は何してるんですか？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "ところで、皆は何してるんですか？"
+            },
             "voice": ""
         },
         {
@@ -492,8 +708,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "それぞれ、部屋を掃除してる。\nそろそろ、家具とか荷物が届くはずだからね。",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "それぞれ、部屋を掃除してる。\nそろそろ、家具とか荷物が届くはずだからね。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_02/main_01_01_02_059.mp3"
         },
         {
@@ -501,8 +721,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "あ、きたきた！\nは～い！",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "あ、きたきた！\nは～い！"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_02/main_01_01_02_061.mp3"
         }
     ]

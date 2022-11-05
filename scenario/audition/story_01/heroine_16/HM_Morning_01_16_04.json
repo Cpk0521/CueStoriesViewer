@@ -6,8 +6,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "あ、マネージャー。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "あ、マネージャー。"
+            },
             "voice": "audition/story_01/heroine_16/HM_Morning_01_16_04/hm_morning_01_16_04_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "ちょうど良かったです。\n利恵が借りてたイベントのディスク、返します。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "ちょうど良かったです。\n利恵が借りてたイベントのディスク、返します。"
+            },
             "voice": "audition/story_01/heroine_16/HM_Morning_01_16_04/hm_morning_01_16_04_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "「トークの参考になった」って言ってました。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "「トークの参考になった」って言ってました。"
+            },
             "voice": "audition/story_01/heroine_16/HM_Morning_01_16_04/hm_morning_01_16_04_003.mp3"
         }
     ]

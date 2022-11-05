@@ -6,8 +6,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "お疲れ様です。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "お疲れ様です。"
+            },
             "voice": "audition/story_01/heroine_16/HM_Sub_01_16_15/hm_sub_01_16_15_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "お疲れ様。\nあ、そうだ、鳴。プログラミングって面白いの？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "お疲れ様。\nあ、そうだ、鳴。プログラミングって面白いの？"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "はい。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "はい。"
+            },
             "voice": "audition/story_01/heroine_16/HM_Sub_01_16_15/hm_sub_01_16_15_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "作りたい物を作れるので。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "作りたい物を作れるので。"
+            },
             "voice": "audition/story_01/heroine_16/HM_Sub_01_16_15/hm_sub_01_16_15_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "あと、ソースは嘘つかないから。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "あと、ソースは嘘つかないから。"
+            },
             "voice": "audition/story_01/heroine_16/HM_Sub_01_16_15/hm_sub_01_16_15_005.mp3"
         }
     ]

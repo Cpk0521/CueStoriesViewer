@@ -6,8 +6,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "マネージャー。\nホラーの匂いってなんだかわかりますか？",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "マネージャー。\nホラーの匂いってなんだかわかりますか？"
+            },
             "voice": "audition/story_01/heroine_16/HM_Sub_01_16_05/hm_sub_01_16_05_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "え？　ホラーの匂い？\n何それ？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "え？　ホラーの匂い？\n何それ？"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "昨日、ホラー映画のCMが流れる時、\nホラーの匂いがするって、利恵が。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "昨日、ホラー映画のCMが流れる時、\nホラーの匂いがするって、利恵が。"
+            },
             "voice": "audition/story_01/heroine_16/HM_Sub_01_16_05/hm_sub_01_16_05_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "CM始まる前にテレビを切りました。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "CM始まる前にテレビを切りました。"
+            },
             "voice": "audition/story_01/heroine_16/HM_Sub_01_16_05/hm_sub_01_16_05_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "私にはわからないけど。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "私にはわからないけど。"
+            },
             "voice": "audition/story_01/heroine_16/HM_Sub_01_16_05/hm_sub_01_16_05_005.mp3"
         }
     ]

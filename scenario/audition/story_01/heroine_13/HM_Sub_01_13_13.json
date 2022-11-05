@@ -6,8 +6,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "今度、池袋でイルミネーションをするんだって。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "今度、池袋でイルミネーションをするんだって。"
+            },
             "voice": "audition/story_01/heroine_13/HM_Sub_01_13_13/hm_sub_01_13_13_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "前に行ったときは、\nちょうど終わっちゃってたんだよね。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "前に行ったときは、\nちょうど終わっちゃってたんだよね。"
+            },
             "voice": "audition/story_01/heroine_13/HM_Sub_01_13_13/hm_sub_01_13_13_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "今度こそ、鳴と見に行きたいな。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "今度こそ、鳴と見に行きたいな。"
+            },
             "voice": "audition/story_01/heroine_13/HM_Sub_01_13_13/hm_sub_01_13_13_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "……あ、我輩のお気に入りのお店、\nセールやってないかな？",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "……あ、我輩のお気に入りのお店、\nセールやってないかな？"
+            },
             "voice": "audition/story_01/heroine_13/HM_Sub_01_13_13/hm_sub_01_13_13_004.mp3"
         }
     ]

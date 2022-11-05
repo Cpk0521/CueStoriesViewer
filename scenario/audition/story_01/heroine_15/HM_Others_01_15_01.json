@@ -6,8 +6,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "そう……ですか。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "そう……ですか。"
+            },
             "voice": "audition/story_01/heroine_15/HM_Others_01_15_01/hm_others_01_15_01_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "わたし、ダメだったんですね。\nみんなとも約束したのになぁ。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "わたし、ダメだったんですね。\nみんなとも約束したのになぁ。"
+            },
             "voice": "audition/story_01/heroine_15/HM_Others_01_15_01/hm_others_01_15_01_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "……オーディションは運や相性も絡むから。\n次に生かそう。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "……オーディションは運や相性も絡むから。\n次に生かそう。"
+            },
             "voice": ""
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "……はい。\n次こそは、頑張ります！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "……はい。\n次こそは、頑張ります！"
+            },
             "voice": "audition/story_01/heroine_15/HM_Others_01_15_01/hm_others_01_15_01_004.mp3"
         }
     ]

@@ -6,8 +6,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "ねぇ、今ちょっと時間ある？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "ねぇ、今ちょっと時間ある？"
+            },
             "voice": ""
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "はい。\n時間ならありますけど。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "はい。\n時間ならありますけど。"
+            },
             "voice": "card/Card_07/Card_4070005_3/card_4070005_3_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "何かあったんですか？",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "何かあったんですか？"
+            },
             "voice": "card/Card_07/Card_4070005_3/card_4070005_3_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "どうしたんですか？\n痛いのはNGです。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "どうしたんですか？\n痛いのはNGです。"
+            },
             "voice": "card/Card_07/Card_4070005_3/card_4070005_3_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "大丈夫。\n痛くはないよ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "大丈夫。\n痛くはないよ。"
+            },
             "voice": ""
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "実は、あいりのお願いなんです。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "実は、あいりのお願いなんです。"
+            },
             "voice": "card/Card_07/Card_4070005_3/card_4070005_3_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "あいりちゃんの？",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "あいりちゃんの？"
+            },
             "voice": "card/Card_07/Card_4070005_3/card_4070005_3_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "オドオドした根性を叩き直して欲しいとか、そういう話ですか？",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "オドオドした根性を叩き直して欲しいとか、そういう話ですか？"
+            },
             "voice": "card/Card_07/Card_4070005_3/card_4070005_3_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "まっ、そんなに外れてないけど……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "まっ、そんなに外れてないけど……。"
+            },
             "voice": ""
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "大丈夫です。\n変なお願いじゃないですから。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "大丈夫です。\n変なお願いじゃないですから。"
+            },
             "voice": "card/Card_07/Card_4070005_3/card_4070005_3_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "うん、もちろん協力するよ。\nどうしたらいいの？",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "うん、もちろん協力するよ。\nどうしたらいいの？"
+            },
             "voice": "card/Card_07/Card_4070005_3/card_4070005_3_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "実はね……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "実はね……。"
+            },
             "voice": ""
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "マネージャーさん、あいりから……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "マネージャーさん、あいりから……。"
+            },
             "voice": "card/Card_07/Card_4070005_3/card_4070005_3_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "わかった。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "わかった。"
+            },
             "voice": ""
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "みなさん、聞いてもらえますか。\n実は……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "みなさん、聞いてもらえますか。\n実は……。"
+            },
             "voice": "card/Card_07/Card_4070005_3/card_4070005_3_015.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "そう……。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "そう……。"
+            },
             "voice": "card/Card_07/Card_4070005_3/card_4070005_3_016.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "つまり、あいりを元に戻してほしい。\nアンラッキーにしてほしいってこと？",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "つまり、あいりを元に戻してほしい。\nアンラッキーにしてほしいってこと？"
+            },
             "voice": "card/Card_07/Card_4070005_3/card_4070005_3_017.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "そうなんです。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "そうなんです。"
+            },
             "voice": "card/Card_07/Card_4070005_3/card_4070005_3_018.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "でも、どうやるのかな？",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "でも、どうやるのかな？"
+            },
             "voice": "card/Card_07/Card_4070005_3/card_4070005_3_019.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "マネージャーさんがいい方法を考えてくれました。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "マネージャーさんがいい方法を考えてくれました。"
+            },
             "voice": "card/Card_07/Card_4070005_3/card_4070005_3_020.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "いい方法って？",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "いい方法って？"
+            },
             "voice": "card/Card_07/Card_4070005_3/card_4070005_3_021.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "みんなで、ゲームをしよう。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "みんなで、ゲームをしよう。"
+            },
             "voice": ""
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "ゲーム？",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "ゲーム？"
+            },
             "voice": "card/Card_07/Card_4070005_3/card_4070005_3_023.mp3"
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "名付けて、寿司アンルーレット！",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "名付けて、寿司アンルーレット！"
+            },
             "voice": ""
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "寿司アンルーレット……？",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "寿司アンルーレット……？"
+            },
             "voice": "card/Card_07/Card_4070005_3/card_4070005_3_025.mp3"
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "さっ、準備できたよ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "さっ、準備できたよ。"
+            },
             "voice": ""
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "これは……？",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "これは……？"
+            },
             "voice": "card/Card_07/Card_4070005_3/card_4070005_3_027.mp3"
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "お寿司が4つ……。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "お寿司が4つ……。"
+            },
             "voice": "card/Card_07/Card_4070005_3/card_4070005_3_028.mp3"
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "美味しそう。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "美味しそう。"
+            },
             "voice": "card/Card_07/Card_4070005_3/card_4070005_3_029.mp3"
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "この4つのお寿司の1つに、大量のワサビが入っています。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "この4つのお寿司の1つに、大量のワサビが入っています。"
+            },
             "voice": ""
         },
         {
@@ -276,8 +396,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "大量ワサビのお寿司を食べた人が、アンラッキー。\n以前のあいりなら、必ずワサビ寿司を食べるはずです。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "大量ワサビのお寿司を食べた人が、アンラッキー。\n以前のあいりなら、必ずワサビ寿司を食べるはずです。"
+            },
             "voice": "card/Card_07/Card_4070005_3/card_4070005_3_033.mp3"
         },
         {
@@ -285,8 +409,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "えぇ！？",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "えぇ！？"
+            },
             "voice": "card/Card_07/Card_4070005_3/card_4070005_3_031.mp3"
         },
         {
@@ -294,8 +422,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "まさか……。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "まさか……。"
+            },
             "voice": "card/Card_07/Card_4070005_3/card_4070005_3_032.mp3"
         },
         {
@@ -303,8 +435,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "でもそれ、私たちが食べるかもしれないね。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "でもそれ、私たちが食べるかもしれないね。"
+            },
             "voice": "card/Card_07/Card_4070005_3/card_4070005_3_034.mp3"
         },
         {
@@ -312,8 +448,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "可能性はあるね……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "可能性はあるね……。"
+            },
             "voice": ""
         },
         {
@@ -321,8 +461,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "大丈夫！　あいりが絶対ワサビ寿司を食べます！\nそしてもう一度、アンラッキーに戻ります！",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "大丈夫！　あいりが絶対ワサビ寿司を食べます！\nそしてもう一度、アンラッキーに戻ります！"
+            },
             "voice": "card/Card_07/Card_4070005_3/card_4070005_3_036.mp3"
         },
         {
@@ -330,8 +474,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "協力してもらえないかな？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "協力してもらえないかな？"
+            },
             "voice": ""
         },
         {
@@ -339,8 +487,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "わかりました。協力します。\nあいりちゃん、困ったときはお互い様だよ。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "わかりました。協力します。\nあいりちゃん、困ったときはお互い様だよ。"
+            },
             "voice": "card/Card_07/Card_4070005_3/card_4070005_3_038.mp3"
         },
         {
@@ -348,8 +500,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "陽菜さん……！",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "陽菜さん……！"
+            },
             "voice": "card/Card_07/Card_4070005_3/card_4070005_3_039.mp3"
         },
         {
@@ -357,8 +513,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "お腹も空いてたし。\nお寿司が食べられるなら、ちょうどいいかも。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "お腹も空いてたし。\nお寿司が食べられるなら、ちょうどいいかも。"
+            },
             "voice": "card/Card_07/Card_4070005_3/card_4070005_3_040.mp3"
         },
         {
@@ -366,8 +526,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "絢さん……！",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "絢さん……！"
+            },
             "voice": "card/Card_07/Card_4070005_3/card_4070005_3_041.mp3"
         },
         {
@@ -375,8 +539,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "うん、あいりさんを不幸のどん底に突き落としてあげる。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "うん、あいりさんを不幸のどん底に突き落としてあげる。"
+            },
             "voice": "card/Card_07/Card_4070005_3/card_4070005_3_042.mp3"
         },
         {
@@ -384,8 +552,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "鳴さん……。\nみんな、ありがとうございます。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "鳴さん……。\nみんな、ありがとうございます。"
+            },
             "voice": "card/Card_07/Card_4070005_3/card_4070005_3_043.mp3"
         },
         {
@@ -393,8 +565,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "それじゃ、早速始めよう！",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "それじゃ、早速始めよう！"
+            },
             "voice": ""
         },
         {
@@ -402,8 +578,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "はい！\nよろしくお願いします！",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "はい！\nよろしくお願いします！"
+            },
             "voice": "card/Card_07/Card_4070005_3/card_4070005_3_045.mp3"
         },
         {
@@ -411,8 +591,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "それじゃ、それぞれ好きなお寿司を選んで。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "それじゃ、それぞれ好きなお寿司を選んで。"
+            },
             "voice": ""
         },
         {
@@ -420,8 +604,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "あいりが最初に選ぶといいよ。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "あいりが最初に選ぶといいよ。"
+            },
             "voice": "card/Card_07/Card_4070005_3/card_4070005_3_047.mp3"
         },
         {
@@ -429,8 +617,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "それじゃ……。\nマグロをもらいます！",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "それじゃ……。\nマグロをもらいます！"
+            },
             "voice": "card/Card_07/Card_4070005_3/card_4070005_3_048.mp3"
         },
         {
@@ -438,8 +630,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "じゃ、私はイカ。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "じゃ、私はイカ。"
+            },
             "voice": "card/Card_07/Card_4070005_3/card_4070005_3_049.mp3"
         },
         {
@@ -447,8 +643,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "わたしはサーモン。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "わたしはサーモン。"
+            },
             "voice": "card/Card_07/Card_4070005_3/card_4070005_3_050.mp3"
         },
         {
@@ -456,8 +656,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "私は卵焼きを……。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "私は卵焼きを……。"
+            },
             "voice": "card/Card_07/Card_4070005_3/card_4070005_3_051.mp3"
         },
         {
@@ -465,8 +669,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "じゃ、一斉に……、実食！",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "じゃ、一斉に……、実食！"
+            },
             "voice": ""
         },
         {
@@ -474,8 +682,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "いただきます……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "いただきます……。"
+            },
             "voice": "card/Card_07/Card_4070005_3/card_4070005_3_053.mp3"
         },
         {
@@ -483,8 +695,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "どう……？　\nワサビ寿司だった……？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "どう……？　\nワサビ寿司だった……？"
+            },
             "voice": ""
         },
         {
@@ -492,8 +708,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "辛い！",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "辛い！"
+            },
             "voice": "card/Card_07/Card_4070005_3/card_4070005_3_055.mp3"
         },
         {
@@ -501,8 +721,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "やった！",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "やった！"
+            },
             "voice": ""
         },
         {
@@ -510,8 +734,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "辛い辛い辛い辛い辛……くない？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "辛い辛い辛い辛い辛……くない？"
+            },
             "voice": "card/Card_07/Card_4070005_3/card_4070005_3_057.mp3"
         },
         {
@@ -519,8 +747,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "えっ？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "えっ？"
+            },
             "voice": ""
         },
         {
@@ -528,8 +760,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "美味しい……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "美味しい……。"
+            },
             "voice": "card/Card_07/Card_4070005_3/card_4070005_3_059.mp3"
         },
         {
@@ -537,8 +773,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "それじゃ……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "それじゃ……。"
+            },
             "voice": ""
         },
         {
@@ -546,8 +786,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "美味しいです。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "美味しいです。"
+            },
             "voice": "card/Card_07/Card_4070005_3/card_4070005_3_061.mp3"
         },
         {
@@ -555,8 +799,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "私も美味しい。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "私も美味しい。"
+            },
             "voice": "card/Card_07/Card_4070005_3/card_4070005_3_062.mp3"
         },
         {
@@ -564,8 +812,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "私も美味しい。\nワサビがたっぷり入ってて。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "私も美味しい。\nワサビがたっぷり入ってて。"
+            },
             "voice": "card/Card_07/Card_4070005_3/card_4070005_3_063.mp3"
         },
         {
@@ -573,8 +825,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "鳴って、ワサビ平気なの？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "鳴って、ワサビ平気なの？"
+            },
             "voice": ""
         },
         {
@@ -582,8 +838,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "はい。\n大好物です。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "はい。\n大好物です。"
+            },
             "voice": "card/Card_07/Card_4070005_3/card_4070005_3_065.mp3"
         },
         {
@@ -591,8 +851,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "じゃあ、ダメじゃん……。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "じゃあ、ダメじゃん……。"
+            },
             "voice": "card/Card_07/Card_4070005_3/card_4070005_3_066.mp3"
         },
         {
@@ -600,8 +864,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "マネージャーさぁん……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "マネージャーさぁん……。"
+            },
             "voice": "card/Card_07/Card_4070005_3/card_4070005_3_067.mp3"
         },
         {
@@ -609,8 +877,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "じゃ、次！",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "じゃ、次！"
+            },
             "voice": ""
         },
         {
@@ -618,8 +890,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "好きなお茶を取って。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "好きなお茶を取って。"
+            },
             "voice": ""
         },
         {
@@ -627,8 +903,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "このお茶のどれかが、すごく苦いせんぶり茶ってこと？",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "このお茶のどれかが、すごく苦いせんぶり茶ってこと？"
+            },
             "voice": "card/Card_07/Card_4070005_3/card_4070005_3_070.mp3"
         },
         {
@@ -636,8 +916,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "私、苦いのは苦手……。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "私、苦いのは苦手……。"
+            },
             "voice": "card/Card_07/Card_4070005_3/card_4070005_3_071.mp3"
         },
         {
@@ -645,8 +929,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "それじゃあ、みんなで一緒に飲もう？",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "それじゃあ、みんなで一緒に飲もう？"
+            },
             "voice": "card/Card_07/Card_4070005_3/card_4070005_3_072.mp3"
         },
         {
@@ -654,8 +942,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "今度こそあいりが……。\nいただきます！",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "今度こそあいりが……。\nいただきます！"
+            },
             "voice": "card/Card_07/Card_4070005_3/card_4070005_3_073.mp3"
         },
         {
@@ -663,8 +955,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "うっ……、苦い……。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "うっ……、苦い……。"
+            },
             "voice": "card/Card_07/Card_4070005_3/card_4070005_3_074.mp3"
         },
         {
@@ -672,8 +968,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "絢か……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "絢か……。"
+            },
             "voice": ""
         },
         {
@@ -681,8 +981,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "次、お願いします！",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "次、お願いします！"
+            },
             "voice": "card/Card_07/Card_4070005_3/card_4070005_3_076.mp3"
         },
         {
@@ -690,8 +994,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "次は低周波マシン！",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "次は低周波マシン！"
+            },
             "voice": ""
         },
         {
@@ -699,8 +1007,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "みんなに低周波治療器を取り付けて、\nスイッチを入れたら、どれかに電気が流れるわけね。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "みんなに低周波治療器を取り付けて、\nスイッチを入れたら、どれかに電気が流れるわけね。"
+            },
             "voice": "card/Card_07/Card_4070005_3/card_4070005_3_078.mp3"
         },
         {
@@ -708,8 +1020,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "パワーは最大にしてあります。\nマネージャーさん、スイッチお願いします。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "パワーは最大にしてあります。\nマネージャーさん、スイッチお願いします。"
+            },
             "voice": "card/Card_07/Card_4070005_3/card_4070005_3_079.mp3"
         },
         {
@@ -717,8 +1033,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "行くよ……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "行くよ……。"
+            },
             "voice": ""
         },
         {
@@ -726,8 +1046,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "スイッチオン！",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "スイッチオン！"
+            },
             "voice": ""
         },
         {
@@ -735,8 +1059,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "アガガガガガガガガ……。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "アガガガガガガガガ……。"
+            },
             "voice": "card/Card_07/Card_4070005_3/card_4070005_3_082.mp3"
         },
         {
@@ -744,8 +1072,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "陽菜さん……！",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "陽菜さん……！"
+            },
             "voice": "card/Card_07/Card_4070005_3/card_4070005_3_083.mp3"
         },
         {
@@ -753,8 +1085,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "止めて止めて！",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "止めて止めて！"
+            },
             "voice": "card/Card_07/Card_4070005_3/card_4070005_3_084.mp3"
         },
         {
@@ -762,8 +1098,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "マネージャーさん、次です！",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "マネージャーさん、次です！"
+            },
             "voice": "card/Card_07/Card_4070005_3/card_4070005_3_085.mp3"
         },
         {
@@ -771,8 +1111,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "もう何も用意してないよ……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "もう何も用意してないよ……。"
+            },
             "voice": ""
         },
         {
@@ -780,8 +1124,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "えっ……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "えっ……。"
+            },
             "voice": "card/Card_07/Card_4070005_3/card_4070005_3_087.mp3"
         },
         {
@@ -789,8 +1137,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "結局……、あいりは全部ラッキーだったね……。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "結局……、あいりは全部ラッキーだったね……。"
+            },
             "voice": "card/Card_07/Card_4070005_3/card_4070005_3_088.mp3"
         },
         {
@@ -798,8 +1150,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "きっと明日のライブは失敗します……。\nああ……、もうダメだ……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "きっと明日のライブは失敗します……。\nああ……、もうダメだ……。"
+            },
             "voice": "card/Card_07/Card_4070005_3/card_4070005_3_089.mp3"
         },
         {
@@ -807,8 +1163,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "えっ？\nなに？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "えっ？\nなに？"
+            },
             "voice": "card/Card_07/Card_4070005_3/card_4070005_3_090.mp3"
         },
         {
@@ -816,8 +1176,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "あいりちゃん！\nお尻！",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "あいりちゃん！\nお尻！"
+            },
             "voice": "card/Card_07/Card_4070005_3/card_4070005_3_091.mp3"
         },
         {
@@ -825,8 +1189,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "はぁ、ワサビがべっとり……。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "はぁ、ワサビがべっとり……。"
+            },
             "voice": "card/Card_07/Card_4070005_3/card_4070005_3_092.mp3"
         },
         {
@@ -834,8 +1202,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "ワサビのチューブの上に、座っちゃったんだね。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "ワサビのチューブの上に、座っちゃったんだね。"
+            },
             "voice": "card/Card_07/Card_4070005_3/card_4070005_3_093.mp3"
         },
         {
@@ -843,8 +1215,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "うそ……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "うそ……。"
+            },
             "voice": "card/Card_07/Card_4070005_3/card_4070005_3_094.mp3"
         },
         {
@@ -852,8 +1228,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "ごめん、うっかりそこに置いちゃった……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "ごめん、うっかりそこに置いちゃった……。"
+            },
             "voice": ""
         },
         {
@@ -861,8 +1241,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "マネージャーさん……。\nありがとうございます！",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "マネージャーさん……。\nありがとうございます！"
+            },
             "voice": "card/Card_07/Card_4070005_3/card_4070005_3_096.mp3"
         },
         {
@@ -870,8 +1254,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "へっ？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "へっ？"
+            },
             "voice": ""
         },
         {
@@ -879,8 +1267,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "ナイスアンラッキーです！\nこれでもう大丈夫な気がします！",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "ナイスアンラッキーです！\nこれでもう大丈夫な気がします！"
+            },
             "voice": "card/Card_07/Card_4070005_3/card_4070005_3_098.mp3"
         },
         {
@@ -888,8 +1280,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "あいり、あれからどんな感じ？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "あいり、あれからどんな感じ？"
+            },
             "voice": ""
         },
         {
@@ -897,8 +1293,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "はい！　バッチリです！\n朝の情報番組の占いは最下位でした！",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "はい！　バッチリです！\n朝の情報番組の占いは最下位でした！"
+            },
             "voice": "card/Card_07/Card_4070005_3/card_4070005_3_100.mp3"
         },
         {
@@ -906,8 +1306,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "来る途中でガムを踏んづけたし、\nバナナの皮で滑って転びました！",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "来る途中でガムを踏んづけたし、\nバナナの皮で滑って転びました！"
+            },
             "voice": "card/Card_07/Card_4070005_3/card_4070005_3_101.mp3"
         },
         {
@@ -915,8 +1319,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "これで今日のライブはバッチリです！",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "これで今日のライブはバッチリです！"
+            },
             "voice": "card/Card_07/Card_4070005_3/card_4070005_3_102.mp3"
         },
         {
@@ -924,8 +1332,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "何はともあれ、よかったよかった。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "何はともあれ、よかったよかった。"
+            },
             "voice": ""
         },
         {
@@ -933,8 +1345,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "よーし！　頑張るぞ！",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "よーし！　頑張るぞ！"
+            },
             "voice": "card/Card_07/Card_4070005_3/card_4070005_3_104.mp3"
         }
     ]

@@ -6,8 +6,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "まずは、1次通過おめでとう！",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "まずは、1次通過おめでとう！"
+            },
             "voice": ""
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "はい、ありがとうございます。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "はい、ありがとうございます。"
+            },
             "voice": "audition/story_01/heroine_01/HM_Main_01_01_03/hm_main_01_01_03_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "でも本番はここから……、ですよね。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "でも本番はここから……、ですよね。"
+            },
             "voice": "audition/story_01/heroine_01/HM_Main_01_01_03/hm_main_01_01_03_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "明日からもレッスン、しっかり頑張らないと。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "明日からもレッスン、しっかり頑張らないと。"
+            },
             "voice": "audition/story_01/heroine_01/HM_Main_01_01_03/hm_main_01_01_03_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "陽菜、ちょっと疲れてる？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "陽菜、ちょっと疲れてる？"
+            },
             "voice": ""
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "いえ、そんな……。\n……やっぱり、そう見えますか？",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "いえ、そんな……。\n……やっぱり、そう見えますか？"
+            },
             "voice": "audition/story_01/heroine_01/HM_Main_01_01_03/hm_main_01_01_03_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "自分に自信を持てるようにするためにはレッスンしかなくて、",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "自分に自信を持てるようにするためにはレッスンしかなくて、"
+            },
             "voice": "audition/story_01/heroine_01/HM_Main_01_01_03/hm_main_01_01_03_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "でも、すればするほど自信がなくなって……。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "でも、すればするほど自信がなくなって……。"
+            },
             "voice": "audition/story_01/heroine_01/HM_Main_01_01_03/hm_main_01_01_03_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "あはは……。わたしまだまだダメですね。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "あはは……。わたしまだまだダメですね。"
+            },
             "voice": "audition/story_01/heroine_01/HM_Main_01_01_03/hm_main_01_01_03_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "リーダーなんてやってるけど、結局……。\n自分のことで精一杯なんですから。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "リーダーなんてやってるけど、結局……。\n自分のことで精一杯なんですから。"
+            },
             "voice": "audition/story_01/heroine_01/HM_Main_01_01_03/hm_main_01_01_03_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "陽菜、しっかり休みは取ってる？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "陽菜、しっかり休みは取ってる？"
+            },
             "voice": ""
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "頑張りたい気持ちをぐっと堪えるのも、必要な努力だよ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "頑張りたい気持ちをぐっと堪えるのも、必要な努力だよ。"
+            },
             "voice": ""
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "必要な努力……、でもそれってすごく難しいです。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "必要な努力……、でもそれってすごく難しいです。"
+            },
             "voice": "audition/story_01/heroine_01/HM_Main_01_01_03/hm_main_01_01_03_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "じゃあ、明日は1日、オーディション以外のことを考えて過ごすこと。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "じゃあ、明日は1日、オーディション以外のことを考えて過ごすこと。"
+            },
             "voice": ""
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "休むことも仕事のうちだからね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "休むことも仕事のうちだからね。"
+            },
             "voice": ""
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "……はい。わかりました。でも……。\n明日、何をしたらいいんでしょう……？",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "……はい。わかりました。でも……。\n明日、何をしたらいいんでしょう……？"
+            },
             "voice": "audition/story_01/heroine_01/HM_Main_01_01_03/hm_main_01_01_03_016.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "あ、そろそろ亀井さんが春まで長いお休みに入る時期……。\n亀井さんが冬を越すためのベッドを作らなきゃ。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "あ、そろそろ亀井さんが春まで長いお休みに入る時期……。\n亀井さんが冬を越すためのベッドを作らなきゃ。"
+            },
             "voice": "audition/story_01/heroine_01/HM_Main_01_01_03/hm_main_01_01_03_018.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "うん、明日は亀井さんのために時間を使いたいと思います！",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "うん、明日は亀井さんのために時間を使いたいと思います！"
+            },
             "voice": "audition/story_01/heroine_01/HM_Main_01_01_03/hm_main_01_01_03_019.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "そうですね……。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "そうですね……。"
+            },
             "voice": "audition/story_01/heroine_01/HM_Main_01_01_03/hm_main_01_01_03_021.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "うん。久しぶりに映画でも見に行ってみようかな。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "うん。久しぶりに映画でも見に行ってみようかな。"
+            },
             "voice": "audition/story_01/heroine_01/HM_Main_01_01_03/hm_main_01_01_03_022.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "確かにそうかもしれないですね……。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "確かにそうかもしれないですね……。"
+            },
             "voice": "audition/story_01/heroine_01/HM_Main_01_01_03/hm_main_01_01_03_024.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "うん。明日は少し模様替えしてみようと思います！",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "うん。明日は少し模様替えしてみようと思います！"
+            },
             "voice": "audition/story_01/heroine_01/HM_Main_01_01_03/hm_main_01_01_03_025.mp3"
         }
     ]

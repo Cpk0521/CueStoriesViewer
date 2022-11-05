@@ -6,8 +6,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "ほのか……、話しかけてみなよ……。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "ほのか……、話しかけてみなよ……。"
+            },
             "voice": "card/Card_03/Card_2030003_2/card_2030003_2_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "嫌だよ……、気持ち悪いもん……。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "嫌だよ……、気持ち悪いもん……。"
+            },
             "voice": "card/Card_03/Card_2030003_2/card_2030003_2_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "じゃ、陽菜……。\nあんたリーダーでしょ……。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "じゃ、陽菜……。\nあんたリーダーでしょ……。"
+            },
             "voice": "card/Card_03/Card_2030003_2/card_2030003_2_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "わかった……、話しかけてみる……。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "わかった……、話しかけてみる……。"
+            },
             "voice": "card/Card_03/Card_2030003_2/card_2030003_2_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "志穂ちゃん、今日はいい天気だね。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "志穂ちゃん、今日はいい天気だね。"
+            },
             "voice": "card/Card_03/Card_2030003_2/card_2030003_2_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "パピパピポーパパ。\n（確かにそうだな。）",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "パピパピポーパパ。\n（確かにそうだな。）"
+            },
             "voice": "card/Card_03/Card_2030003_2/card_2030003_2_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "マネージャー、これなんすか……？",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "マネージャー、これなんすか……？"
+            },
             "voice": "card/Card_03/Card_2030003_2/card_2030003_2_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "分かんないよ、そんなこと……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "分かんないよ、そんなこと……。"
+            },
             "voice": ""
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "ピンパ、パパピポポポパ、ピピププパ。\n（みんな、私のことは気にするな。）",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "ピンパ、パパピポポポパ、ピピププパ。\n（みんな、私のことは気にするな。）"
+            },
             "voice": "card/Card_03/Card_2030003_2/card_2030003_2_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "何て言ったの……？",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "何て言ったの……？"
+            },
             "voice": "card/Card_03/Card_2030003_2/card_2030003_2_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "わかるわけないでしょ……。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "わかるわけないでしょ……。"
+            },
             "voice": "card/Card_03/Card_2030003_2/card_2030003_2_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "パッパピ、プパパパパピパ……。\n（やっぱり、伝わらないか……。）",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "パッパピ、プパパパパピパ……。\n（やっぱり、伝わらないか……。）"
+            },
             "voice": "card/Card_03/Card_2030003_2/card_2030003_2_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "もう限界……、ねぇ、志穂。\n気持ち悪いからそれ、やめてくれない？",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "もう限界……、ねぇ、志穂。\n気持ち悪いからそれ、やめてくれない？"
+            },
             "voice": "card/Card_03/Card_2030003_2/card_2030003_2_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "ポぺパ、ぺピパピ。\n（それは出来ない。）",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "ポぺパ、ぺピパピ。\n（それは出来ない。）"
+            },
             "voice": "card/Card_03/Card_2030003_2/card_2030003_2_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "もういいよ。\n志穂とは話したくない。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "もういいよ。\n志穂とは話したくない。"
+            },
             "voice": "card/Card_03/Card_2030003_2/card_2030003_2_015.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "舞花ちゃん、どこ行くの？　\nクレープ屋さんは？",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "舞花ちゃん、どこ行くの？　\nクレープ屋さんは？"
+            },
             "voice": "card/Card_03/Card_2030003_2/card_2030003_2_016.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "志穂と一緒に行きたくない。\n先に帰る。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "志穂と一緒に行きたくない。\n先に帰る。"
+            },
             "voice": "card/Card_03/Card_2030003_2/card_2030003_2_017.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "あーあ、怒っちゃった……。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "あーあ、怒っちゃった……。"
+            },
             "voice": "card/Card_03/Card_2030003_2/card_2030003_2_018.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "じゃあね！",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "じゃあね！"
+            },
             "voice": "card/Card_03/Card_2030003_2/card_2030003_2_019.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "あれ……？　\n舞花ちゃん、信号赤なのに渡ろうとしてる……？",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "あれ……？　\n舞花ちゃん、信号赤なのに渡ろうとしてる……？"
+            },
             "voice": "card/Card_03/Card_2030003_2/card_2030003_2_020.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "気付いてないんだ……、舞花！",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "気付いてないんだ……、舞花！"
+            },
             "voice": ""
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "パプパピ！\n（危ない！）",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "パプパピ！\n（危ない！）"
+            },
             "voice": "card/Card_03/Card_2030003_2/card_2030003_2_022.mp3"
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "えっ？\n危ない？",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "えっ？\n危ない？"
+            },
             "voice": "card/Card_03/Card_2030003_2/card_2030003_2_023.mp3"
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "危なかった……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "危なかった……。"
+            },
             "voice": ""
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "今、志穂の言ってることがわかった……。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "今、志穂の言ってることがわかった……。"
+            },
             "voice": "card/Card_03/Card_2030003_2/card_2030003_2_025.mp3"
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "思わずパピプぺポで叫んじゃった……。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "思わずパピプぺポで叫んじゃった……。"
+            },
             "voice": "card/Card_03/Card_2030003_2/card_2030003_2_026.mp3"
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "ねっ、このヨーグルト志穂の？",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "ねっ、このヨーグルト志穂の？"
+            },
             "voice": "card/Card_03/Card_2030003_2/card_2030003_2_027.mp3"
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "ポゥ。ポピパッパパパプ。\n（そう。欲しかったらやる。）",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "ポゥ。ポピパッパパパプ。\n（そう。欲しかったらやる。）"
+            },
             "voice": "card/Card_03/Card_2030003_2/card_2030003_2_028.mp3"
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "やったー！\nサンキュー。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "やったー！\nサンキュー。"
+            },
             "voice": "card/Card_03/Card_2030003_2/card_2030003_2_029.mp3"
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "ポポパパピ、ポンポパパパピーポ、パッペプぺ。\n（その代わり、今度新しいの買ってくれ。）",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "ポポパパピ、ポンポパパパピーポ、パッペプぺ。\n（その代わり、今度新しいの買ってくれ。）"
+            },
             "voice": "card/Card_03/Card_2030003_2/card_2030003_2_030.mp3"
         },
         {
@@ -276,8 +396,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "わかった。\n約束する。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "わかった。\n約束する。"
+            },
             "voice": "card/Card_03/Card_2030003_2/card_2030003_2_031.mp3"
         },
         {
@@ -285,8 +409,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "ペッパピパポ。\n（絶対だぞ。）",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "ペッパピパポ。\n（絶対だぞ。）"
+            },
             "voice": "card/Card_03/Card_2030003_2/card_2030003_2_032.mp3"
         },
         {
@@ -294,8 +422,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "いつの間にか、普通に会話してる……！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "いつの間にか、普通に会話してる……！"
+            },
             "voice": "card/Card_03/Card_2030003_2/card_2030003_2_033.mp3"
         },
         {
@@ -303,8 +435,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "わたしも、志穂ちゃんの言葉がわかるようになってきた……。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "わたしも、志穂ちゃんの言葉がわかるようになってきた……。"
+            },
             "voice": "card/Card_03/Card_2030003_2/card_2030003_2_034.mp3"
         },
         {
@@ -312,8 +448,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "実はわたしも……。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "実はわたしも……。"
+            },
             "voice": "card/Card_03/Card_2030003_2/card_2030003_2_035.mp3"
         },
         {
@@ -321,8 +461,12 @@
             "heroineId": [
                 103
             ],
-            "name": "由良桐香",
-            "message": "はい。今日のレッスンはここまで。\n鹿野さん、見違えるほど心で芝居ができるようになったわね。",
+            "name": {
+                "default": "由良桐香"
+            },
+            "message": {
+                "default": "はい。今日のレッスンはここまで。\n鹿野さん、見違えるほど心で芝居ができるようになったわね。"
+            },
             "voice": "card/Card_03/Card_2030003_2/card_2030003_2_036.mp3"
         },
         {
@@ -330,8 +474,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "パピ、ポップンポ、ポパペペプ。\n（はい、特訓のおかげです。）",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "パピ、ポップンポ、ポパペペプ。\n（はい、特訓のおかげです。）"
+            },
             "voice": "card/Card_03/Card_2030003_2/card_2030003_2_000.mp3"
         },
         {
@@ -339,8 +487,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "やばい、戻らない……。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "やばい、戻らない……。"
+            },
             "voice": "card/Card_03/Card_2030003_2/card_2030003_2_000.mp3"
         }
     ]

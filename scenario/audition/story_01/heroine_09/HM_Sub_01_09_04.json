@@ -6,8 +6,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "あら、この資料って……。\nもしかして、マネージャーさんが用意してくれたんですか？",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "あら、この資料って……。\nもしかして、マネージャーさんが用意してくれたんですか？"
+            },
             "voice": "audition/story_01/heroine_09/HM_Sub_01_09_04/hm_sub_01_09_04_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "うん、台本を読み返していて、\nこういうのも必要かなって思ったんだけど。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "うん、台本を読み返していて、\nこういうのも必要かなって思ったんだけど。"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "あら、ありがとうございます。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "あら、ありがとうございます。"
+            },
             "voice": "audition/story_01/heroine_09/HM_Sub_01_09_04/hm_sub_01_09_04_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "わたしも、ちょうどこういうの欲しいなって思ってたんですよ。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "わたしも、ちょうどこういうの欲しいなって思ってたんですよ。"
+            },
             "voice": "audition/story_01/heroine_09/HM_Sub_01_09_04/hm_sub_01_09_04_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "うふふ、本当、マネージャーさんが、\nわたしのマネージャーで良かった。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "うふふ、本当、マネージャーさんが、\nわたしのマネージャーで良かった。"
+            },
             "voice": "audition/story_01/heroine_09/HM_Sub_01_09_04/hm_sub_01_09_04_005.mp3"
         }
     ]

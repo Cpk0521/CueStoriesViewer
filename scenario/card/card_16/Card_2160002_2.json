@@ -6,8 +6,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "いい天気になってよかったね。\n絶好の釣り日和だよ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "いい天気になってよかったね。\n絶好の釣り日和だよ。"
+            },
             "voice": ""
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "はい。\nそうですね。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "はい。\nそうですね。"
+            },
             "voice": "card/Card_16/Card_2160002_2/card_2160002_2_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "しかし、釣りのときもその格好なんだね……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "しかし、釣りのときもその格好なんだね……。"
+            },
             "voice": ""
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "一応、ネットで釣りの格好を調べたんですけど。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "一応、ネットで釣りの格好を調べたんですけど。"
+            },
             "voice": "card/Card_16/Card_2160002_2/card_2160002_2_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "長靴を履いたり、\nポケットがいっぱいついたベストを着るんですよね？",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "長靴を履いたり、\nポケットがいっぱいついたベストを着るんですよね？"
+            },
             "voice": "card/Card_16/Card_2160002_2/card_2160002_2_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "そんな格好するなんて、耐えられない。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "そんな格好するなんて、耐えられない。"
+            },
             "voice": "card/Card_16/Card_2160002_2/card_2160002_2_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "確かに、見てるこっちも耐えられないかも……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "確かに、見てるこっちも耐えられないかも……。"
+            },
             "voice": ""
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "さっそく、釣竿をレンタルしましょう。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "さっそく、釣竿をレンタルしましょう。"
+            },
             "voice": "card/Card_16/Card_2160002_2/card_2160002_2_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "もう借りてきたよ。\nはいこれ。餌もどうぞ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "もう借りてきたよ。\nはいこれ。餌もどうぞ。"
+            },
             "voice": ""
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "この、ニョロニョロしてるの何ですか？　\nミミズですか？",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "この、ニョロニョロしてるの何ですか？　\nミミズですか？"
+            },
             "voice": "card/Card_16/Card_2160002_2/card_2160002_2_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "これはイソメっていうの。\n女の子には気持ち悪いよね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "これはイソメっていうの。\n女の子には気持ち悪いよね。"
+            },
             "voice": ""
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "いえ、とってもかわいいです。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "いえ、とってもかわいいです。"
+            },
             "voice": "card/Card_16/Card_2160002_2/card_2160002_2_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "すごい……、わしづかみにしてる……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "すごい……、わしづかみにしてる……。"
+            },
             "voice": ""
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "このイソメさんたちを、どうするんですか？",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "このイソメさんたちを、どうするんですか？"
+            },
             "voice": "card/Card_16/Card_2160002_2/card_2160002_2_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "この釣り針に刺すんだよ。\nでも、残酷で出来ないかな？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "この釣り針に刺すんだよ。\nでも、残酷で出来ないかな？"
+            },
             "voice": ""
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "これでいいですか？",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "これでいいですか？"
+            },
             "voice": "card/Card_16/Card_2160002_2/card_2160002_2_016.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "ぜんぜん平気なんだね……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "ぜんぜん平気なんだね……。"
+            },
             "voice": ""
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "で、この釣竿を池に投げ入れればいいんですか？",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "で、この釣竿を池に投げ入れればいいんですか？"
+            },
             "voice": "card/Card_16/Card_2160002_2/card_2160002_2_018.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そう。\n魚がいそうなところを狙ってね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そう。\n魚がいそうなところを狙ってね。"
+            },
             "voice": ""
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "そのあとはどうすればいいんですか？",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "そのあとはどうすればいいんですか？"
+            },
             "voice": "card/Card_16/Card_2160002_2/card_2160002_2_020.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そのあとは、ひたすら待つしかないよ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そのあとは、ひたすら待つしかないよ。"
+            },
             "voice": ""
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "何もしないで？\nただボーっと待つんですか？",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "何もしないで？\nただボーっと待つんですか？"
+            },
             "voice": "card/Card_16/Card_2160002_2/card_2160002_2_022.mp3"
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "それが釣りの醍醐味だから。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "それが釣りの醍醐味だから。"
+            },
             "voice": ""
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "それじゃ私、あっちの日陰で休んでます。\n魚が釣れたら教えてください。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "それじゃ私、あっちの日陰で休んでます。\n魚が釣れたら教えてください。"
+            },
             "voice": "card/Card_16/Card_2160002_2/card_2160002_2_024.mp3"
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "えっ？\n休んでる？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "えっ？\n休んでる？"
+            },
             "voice": ""
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "あっ……、大きいのをお願いします。\n利恵に見せたいので。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "あっ……、大きいのをお願いします。\n利恵に見せたいので。"
+            },
             "voice": "card/Card_16/Card_2160002_2/card_2160002_2_026.mp3"
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "（何しに来たんだろ……。）",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "（何しに来たんだろ……。）"
+            },
             "voice": ""
         }
     ]

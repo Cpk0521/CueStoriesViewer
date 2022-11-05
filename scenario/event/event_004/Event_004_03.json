@@ -6,8 +6,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "児童館のみんなー！　\nせーのっ。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "児童館のみんなー！　\nせーのっ。"
+            },
             "voice": "event/Event_004/Event_004_03/event_004_03_001.mp3"
         },
         {
@@ -18,8 +22,12 @@
                 7,
                 8
             ],
-            "name": "4人",
-            "message": "こーんにーちはー！！",
+            "name": {
+                "default": "4人"
+            },
+            "message": {
+                "default": "こーんにーちはー！！"
+            },
             "voice": "event/Event_004/Event_004_03/event_004_03_002.mp3"
         },
         {
@@ -27,8 +35,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "今日は、こんな素敵なクリスマスパーティーに呼んでくれて、\n本当にありがとうございます！",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "今日は、こんな素敵なクリスマスパーティーに呼んでくれて、\n本当にありがとうございます！"
+            },
             "voice": "event/Event_004/Event_004_03/event_004_03_003.mp3"
         },
         {
@@ -36,8 +48,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "これから私たちが、みなさんに披露するお話は、\n「クリスマスの鐘」という、とっても素敵なお話です。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "これから私たちが、みなさんに披露するお話は、\n「クリスマスの鐘」という、とっても素敵なお話です。"
+            },
             "voice": "event/Event_004/Event_004_03/event_004_03_004.mp3"
         },
         {
@@ -45,8 +61,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "この日のために、一生懸命練習してきました。\n最後までゆっくりお楽しみください。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "この日のために、一生懸命練習してきました。\n最後までゆっくりお楽しみください。"
+            },
             "voice": "event/Event_004/Event_004_03/event_004_03_005.mp3"
         },
         {
@@ -54,8 +74,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "みなさんは「ふぇありん∞ふぇありん」ってアニメ、知ってる？",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "みなさんは「ふぇありん∞ふぇありん」ってアニメ、知ってる？"
+            },
             "voice": "event/Event_004/Event_004_03/event_004_03_006.mp3"
         },
         {
@@ -63,8 +87,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "私たちは、そのアニメの声優をやっている、お姉さんたちでーす！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "私たちは、そのアニメの声優をやっている、お姉さんたちでーす！"
+            },
             "voice": "event/Event_004/Event_004_03/event_004_03_007.mp3"
         },
         {
@@ -72,8 +100,12 @@
             "heroineId": [
                 0
             ],
-            "name": "子どもたち",
-            "message": "……。",
+            "name": {
+                "default": "子どもたち"
+            },
+            "message": {
+                "default": "……。"
+            },
             "voice": ""
         },
         {
@@ -81,8 +113,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "（あ、あれ？　反応薄いな……。）",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "（あ、あれ？　反応薄いな……。）"
+            },
             "voice": "event/Event_004/Event_004_03/event_004_03_009.mp3"
         },
         {
@@ -90,8 +126,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "声優って聞くと、華やかなイメージを持ってる人いませんかぁ？",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "声優って聞くと、華やかなイメージを持ってる人いませんかぁ？"
+            },
             "voice": "event/Event_004/Event_004_03/event_004_03_010.mp3"
         },
         {
@@ -99,8 +139,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "まあ、今人気の職業ですからね。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "まあ、今人気の職業ですからね。"
+            },
             "voice": "event/Event_004/Event_004_03/event_004_03_011.mp3"
         },
         {
@@ -108,8 +152,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "でも普段は、\n暗くて狭ぁ～い洞窟みたいな所で仕事してるんですよぉ。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "でも普段は、\n暗くて狭ぁ～い洞窟みたいな所で仕事してるんですよぉ。"
+            },
             "voice": "event/Event_004/Event_004_03/event_004_03_012.mp3"
         },
         {
@@ -117,8 +165,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "スタジオね。まぁ確かに、閉塞感はありますよね。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "スタジオね。まぁ確かに、閉塞感はありますよね。"
+            },
             "voice": "event/Event_004/Event_004_03/event_004_03_013.mp3"
         },
         {
@@ -126,8 +178,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "たまにはこういう、日の当たる場所で仕事するのもいいですよね。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "たまにはこういう、日の当たる場所で仕事するのもいいですよね。"
+            },
             "voice": "event/Event_004/Event_004_03/event_004_03_014.mp3"
         },
         {
@@ -135,8 +191,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "言い方変でしょ！　でも本当にありがたいですよね、\nこんな沢山のお客さんに見ていただけるのは。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "言い方変でしょ！　でも本当にありがたいですよね、\nこんな沢山のお客さんに見ていただけるのは。"
+            },
             "voice": "event/Event_004/Event_004_03/event_004_03_015.mp3"
         },
         {
@@ -144,8 +204,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "この前なんか、スタジオ入ったら、重い扉を二重に閉められて、\n閉じ込められちゃって……。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "この前なんか、スタジオ入ったら、重い扉を二重に閉められて、\n閉じ込められちゃって……。"
+            },
             "voice": "event/Event_004/Event_004_03/event_004_03_016.mp3"
         },
         {
@@ -153,8 +217,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "それ防音のためだから。普通だから。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "それ防音のためだから。普通だから。"
+            },
             "voice": "event/Event_004/Event_004_03/event_004_03_017.mp3"
         },
         {
@@ -162,8 +230,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "どこからともなく、声が聞こえるんですよ……！\n「今日はよろしくお願いしま～す……」",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "どこからともなく、声が聞こえるんですよ……！\n「今日はよろしくお願いしま～す……」"
+            },
             "voice": "event/Event_004/Event_004_03/event_004_03_018.mp3"
         },
         {
@@ -171,8 +243,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "監督の声がスピーカーから聞こえてるだけっ！\n普通の挨拶だし。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "監督の声がスピーカーから聞こえてるだけっ！\n普通の挨拶だし。"
+            },
             "voice": "event/Event_004/Event_004_03/event_004_03_019.mp3"
         },
         {
@@ -180,8 +256,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "さらに怖い声が聞こえてきたんですよ！\n「もっと感情を込めて～……」",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "さらに怖い声が聞こえてきたんですよ！\n「もっと感情を込めて～……」"
+            },
             "voice": "event/Event_004/Event_004_03/event_004_03_020.mp3"
         },
         {
@@ -189,8 +269,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "ただのダメ出しでしょう！！\nいい加減にしなさい。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "ただのダメ出しでしょう！！\nいい加減にしなさい。"
+            },
             "voice": "event/Event_004/Event_004_03/event_004_03_021.mp3"
         },
         {
@@ -199,8 +283,12 @@
                 5,
                 6
             ],
-            "name": "2人",
-            "message": "どうも、ありがとうございましたー！",
+            "name": {
+                "default": "2人"
+            },
+            "message": {
+                "default": "どうも、ありがとうございましたー！"
+            },
             "voice": "event/Event_004/Event_004_03/event_004_03_022.mp3"
         },
         {
@@ -208,8 +296,12 @@
             "heroineId": [
                 0
             ],
-            "name": "子どもたち",
-            "message": "……。",
+            "name": {
+                "default": "子どもたち"
+            },
+            "message": {
+                "default": "……。"
+            },
             "voice": ""
         },
         {
@@ -217,8 +309,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "（全然ウケてない……。）",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "（全然ウケてない……。）"
+            },
             "voice": "event/Event_004/Event_004_03/event_004_03_024.mp3"
         },
         {
@@ -226,8 +322,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "……と、まあ、前置きはこのくらいにいたしまして。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "……と、まあ、前置きはこのくらいにいたしまして。"
+            },
             "voice": "event/Event_004/Event_004_03/event_004_03_025.mp3"
         },
         {
@@ -235,8 +335,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "あははは！　おもしろーい。\nイーネ、イーネ！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "あははは！　おもしろーい。\nイーネ、イーネ！"
+            },
             "voice": "event/Event_004/Event_004_03/event_004_03_026.mp3"
         },
         {
@@ -244,8 +348,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "もういいから、今のは忘れて。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "もういいから、今のは忘れて。"
+            },
             "voice": "event/Event_004/Event_004_03/event_004_03_027.mp3"
         },
         {
@@ -253,8 +361,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "コホン……。\nでは、早速始めましょう。「クリスマスの鐘」。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "コホン……。\nでは、早速始めましょう。「クリスマスの鐘」。"
+            },
             "voice": "event/Event_004/Event_004_03/event_004_03_028.mp3"
         },
         {
@@ -262,8 +374,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "（気を取り直して集中しなきゃ……。）",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "（気を取り直して集中しなきゃ……。）"
+            },
             "voice": "event/Event_004/Event_004_03/event_004_03_029.mp3"
         }
     ]

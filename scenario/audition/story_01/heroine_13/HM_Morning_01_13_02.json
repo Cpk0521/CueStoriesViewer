@@ -6,8 +6,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "あ、マネージャー。\nなかなか気持ちの良い朝だな。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "あ、マネージャー。\nなかなか気持ちの良い朝だな。"
+            },
             "voice": "audition/story_01/heroine_13/HM_Morning_01_13_02/hm_morning_01_13_02_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "昨日ぐっすり寝たからか、\nすごく頭がシャキっとしてるんだよね。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "昨日ぐっすり寝たからか、\nすごく頭がシャキっとしてるんだよね。"
+            },
             "voice": "audition/story_01/heroine_13/HM_Morning_01_13_02/hm_morning_01_13_02_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "今日は本読みとか、\nいつもより断然集中出来そう。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "今日は本読みとか、\nいつもより断然集中出来そう。"
+            },
             "voice": "audition/story_01/heroine_13/HM_Morning_01_13_02/hm_morning_01_13_02_003.mp3"
         }
     ]

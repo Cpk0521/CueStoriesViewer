@@ -6,8 +6,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "そ、そうなの。\n最近、野菜不足だから……。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "そ、そうなの。\n最近、野菜不足だから……。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_05/main_01_01_05_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "もしかして、何か隠してる……？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "もしかして、何か隠してる……？"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "いや、えっと、その、な、何も隠してないです！\nし、失礼します！",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "いや、えっと、その、な、何も隠してないです！\nし、失礼します！"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_05/main_01_01_05_004.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "あ！　陽菜！\n待って！",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "あ！　陽菜！\n待って！"
+            },
             "voice": ""
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "わかりやすい反応だな……。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "わかりやすい反応だな……。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_05/main_01_01_05_007.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "ちょっと陽菜の後を追いかけてみようか。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "ちょっと陽菜の後を追いかけてみようか。"
+            },
             "voice": ""
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "え、あ、はい。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "え、あ、はい。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_05/main_01_01_05_009.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "陽菜、ちょっといい？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "陽菜、ちょっといい？"
+            },
             "voice": ""
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "中から話し声が聞こえる。\n誰かと電話でもしてるのかな？",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "中から話し声が聞こえる。\n誰かと電話でもしてるのかな？"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_05/main_01_01_05_013.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "あ、カギが開いてる……。\n陽菜、入るよ……？",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "あ、カギが開いてる……。\n陽菜、入るよ……？"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_05/main_01_01_05_015.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "え……？\n陽菜！　何してんの！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "え……？\n陽菜！　何してんの！"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_05/main_01_01_05_017.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "ほのかちゃん！　マネージャーさん！\nいつからいたんですか……？",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "ほのかちゃん！　マネージャーさん！\nいつからいたんですか……？"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_05/main_01_01_05_018.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "それってもしかして……。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "それってもしかして……。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_05/main_01_01_05_019.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "亀……？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "亀……？"
+            },
             "voice": ""
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "亀って言わないで！",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "亀って言わないで！"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_05/main_01_01_05_021.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "えっ！\nあ、ご、ごめん。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "えっ！\nあ、ご、ごめん。"
+            },
             "voice": ""
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "いやいや。\nこれ亀でしょ。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "いやいや。\nこれ亀でしょ。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_05/main_01_01_05_023.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "ほのかちゃんだって、人間て呼ばれたら嫌でしょ？\nこの子には、亀井さんて名前がちゃんとあるの。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "ほのかちゃんだって、人間て呼ばれたら嫌でしょ？\nこの子には、亀井さんて名前がちゃんとあるの。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_05/main_01_01_05_024.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "亀井……、さん？",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "亀井……、さん？"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_05/main_01_01_05_025.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "そうだよ、亀井さん。\n見て。年上っぽい顔してるでしょ？",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "そうだよ、亀井さん。\n見て。年上っぽい顔してるでしょ？"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_05/main_01_01_05_026.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "亀って、みんなこういう顔してますよね。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "亀って、みんなこういう顔してますよね。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_05/main_01_01_05_027.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "まぁ……。\n確かに。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "まぁ……。\n確かに。"
+            },
             "voice": ""
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "いつもは専用の餌をあげてるんだけどね。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "いつもは専用の餌をあげてるんだけどね。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_05/main_01_01_05_029.mp3"
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "たまにはキャベツが食べたいよ～って言うから、\nさっき買ってきたの。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "たまにはキャベツが食べたいよ～って言うから、\nさっき買ってきたの。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_05/main_01_01_05_030.mp3"
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "でも、何で亀井さんを連れてきてるの？\n寮は、ペット禁止って紙に書いてあったじゃん。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "でも、何で亀井さんを連れてきてるの？\n寮は、ペット禁止って紙に書いてあったじゃん。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_05/main_01_01_05_031.mp3"
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "鳴き声とか、匂いとか、気にする人もいると思うからね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "鳴き声とか、匂いとか、気にする人もいると思うからね。"
+            },
             "voice": ""
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "あと、そもそも動物が嫌いって人もいるだろうし。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "あと、そもそも動物が嫌いって人もいるだろうし。"
+            },
             "voice": ""
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "亀井さんはペットじゃない。\nわたしの親友です。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "亀井さんはペットじゃない。\nわたしの親友です。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_05/main_01_01_05_034.mp3"
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "いや、親友だとしても……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "いや、親友だとしても……。"
+            },
             "voice": ""
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "わたしね。\nいつも悩んだりしたら、亀井さんに相談するの。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "わたしね。\nいつも悩んだりしたら、亀井さんに相談するの。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_05/main_01_01_05_036.mp3"
         },
         {
@@ -276,8 +396,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "亀井さんになら、何でも話せるの。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "亀井さんになら、何でも話せるの。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_05/main_01_01_05_037.mp3"
         },
         {
@@ -285,8 +409,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "ほらみて。\nどこか哲学者みたいな顔してるでしょ？",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "ほらみて。\nどこか哲学者みたいな顔してるでしょ？"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_05/main_01_01_05_038.mp3"
         },
         {
@@ -294,8 +422,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "亀井さんがいないとわたし、どうしたらいいのか……。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "亀井さんがいないとわたし、どうしたらいいのか……。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_05/main_01_01_05_039.mp3"
         },
         {
@@ -303,8 +435,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "……わかった。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "……わかった。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_05/main_01_01_05_040.mp3"
         },
         {
@@ -312,8 +448,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "マネージャー。\nこの寮の皆がOKしたら、亀井さんの同居を許可してくれますか？",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "マネージャー。\nこの寮の皆がOKしたら、亀井さんの同居を許可してくれますか？"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_05/main_01_01_05_041.mp3"
         },
         {
@@ -321,8 +461,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "ほのかちゃん？\n協力してくれるの？",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "ほのかちゃん？\n協力してくれるの？"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_05/main_01_01_05_042.mp3"
         },
         {
@@ -330,8 +474,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "わたしも犬飼ってんの。\n小さい頃からずっと一緒でさ。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "わたしも犬飼ってんの。\n小さい頃からずっと一緒でさ。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_05/main_01_01_05_043.mp3"
         },
         {
@@ -339,8 +487,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "すっごい、可愛がってたから気持ちはわかるよ。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "すっごい、可愛がってたから気持ちはわかるよ。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_05/main_01_01_05_044.mp3"
         },
         {
@@ -348,8 +500,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "皆がいいなら大丈夫だと思う。\nただし、1人でも嫌な人がいたらダメだよ？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "皆がいいなら大丈夫だと思う。\nただし、1人でも嫌な人がいたらダメだよ？"
+            },
             "voice": ""
         },
         {
@@ -357,8 +513,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "ほのかちゃん……！　マネージャーさん！\nありがとうございます！",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "ほのかちゃん……！　マネージャーさん！\nありがとうございます！"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_05/main_01_01_05_046.mp3"
         },
         {
@@ -366,8 +526,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "ふふっ。\n亀井さんも喜んでる！",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "ふふっ。\n亀井さんも喜んでる！"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_05/main_01_01_05_047.mp3"
         },
         {
@@ -375,8 +539,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "そ、そうだね。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "そ、そうだね。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_05/main_01_01_05_048.mp3"
         }
     ]

@@ -6,8 +6,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "それでは今から、「黒白のグィネヴィア」の、\nオーディション合格者と、配役を発表します。",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "それでは今から、「黒白のグィネヴィア」の、\nオーディション合格者と、配役を発表します。"
+            },
             "voice": "lesson/Lesson_10407/lesson_10407_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "（神様！\nお願いします！）",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "（神様！\nお願いします！）"
+            },
             "voice": "lesson/Lesson_10407/lesson_10407_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "凛音には、\n或耶の同級生、取戸芽瑠を演じてもらいます。",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "凛音には、\n或耶の同級生、取戸芽瑠を演じてもらいます。"
+            },
             "voice": "lesson/Lesson_10407/lesson_10407_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "さとちんの友達役ね！\nがんばりまっす！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "さとちんの友達役ね！\nがんばりまっす！"
+            },
             "voice": "lesson/Lesson_10407/lesson_10407_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "えっ？\nオカルト？",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "えっ？\nオカルト？"
+            },
             "voice": "lesson/Lesson_10407/lesson_10407_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "オカルトって、リエンヌがよく飲んでるやつ？",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "オカルトって、リエンヌがよく飲んでるやつ？"
+            },
             "voice": "lesson/Lesson_10407/lesson_10407_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "あれはヤクロト。\nオカルトって何か知らないの？",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "あれはヤクロト。\nオカルトって何か知らないの？"
+            },
             "voice": "lesson/Lesson_10407/lesson_10407_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "何となく聞いたことはあるけど。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "何となく聞いたことはあるけど。"
+            },
             "voice": "lesson/Lesson_10407/lesson_10407_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "オカルトっていうのは、\nUFOとか、幽霊とか、そういうやつだよ。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "オカルトっていうのは、\nUFOとか、幽霊とか、そういうやつだよ。"
+            },
             "voice": "lesson/Lesson_10407/lesson_10407_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "そっか……。わたしが演じる芽瑠って女の子はオカルト好きなの。\nでも、わたしってUFOとか幽霊とかぜんぜん興味ないんだよね～。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "そっか……。わたしが演じる芽瑠って女の子はオカルト好きなの。\nでも、わたしってUFOとか幽霊とかぜんぜん興味ないんだよね～。"
+            },
             "voice": "lesson/Lesson_10407/lesson_10407_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "凛音はそういうの、すごい信じてそうだけどな。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "凛音はそういうの、すごい信じてそうだけどな。"
+            },
             "voice": "lesson/Lesson_10407/lesson_10407_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "実際に見たら信じるかもしれないけど。\nでも、UFOも幽霊も見たことないもん。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "実際に見たら信じるかもしれないけど。\nでも、UFOも幽霊も見たことないもん。"
+            },
             "voice": "lesson/Lesson_10407/lesson_10407_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "私、UFOなら見たことあるよ？",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "私、UFOなら見たことあるよ？"
+            },
             "voice": "lesson/Lesson_10407/lesson_10407_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "うっそー！\nどこで？",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "うっそー！\nどこで？"
+            },
             "voice": "lesson/Lesson_10407/lesson_10407_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "小学生のとき、林間学校があったの。\n夜中に1人で山の中を散歩してたら、空に不思議な光が浮かんでた。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "小学生のとき、林間学校があったの。\n夜中に1人で山の中を散歩してたら、空に不思議な光が浮かんでた。"
+            },
             "voice": "lesson/Lesson_10407/lesson_10407_015.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "へぇ～！\nすごいね！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "へぇ～！\nすごいね！"
+            },
             "voice": "lesson/Lesson_10407/lesson_10407_016.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "それより、\n夜中に1人で山の中を散歩してる方が気になるんだけど。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "それより、\n夜中に1人で山の中を散歩してる方が気になるんだけど。"
+            },
             "voice": "lesson/Lesson_10407/lesson_10407_017.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "集団行動が苦手だから。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "集団行動が苦手だから。"
+            },
             "voice": "lesson/Lesson_10407/lesson_10407_018.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "でも、その光が本当にUFOかどうか分かんないよね。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "でも、その光が本当にUFOかどうか分かんないよね。"
+            },
             "voice": "lesson/Lesson_10407/lesson_10407_019.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "UFOじゃなかったら何？\n飛行機とか、ヘリコプターとは絶対に違う。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "UFOじゃなかったら何？\n飛行機とか、ヘリコプターとは絶対に違う。"
+            },
             "voice": "lesson/Lesson_10407/lesson_10407_020.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "ただの星かもしれないよ？\n都会ではあんまり星が見えないでしょ？",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "ただの星かもしれないよ？\n都会ではあんまり星が見えないでしょ？"
+            },
             "voice": "lesson/Lesson_10407/lesson_10407_021.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "小学生だったなるちゃんは、林間学校で、\n初めてキレイな星を見て驚いたのかも。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "小学生だったなるちゃんは、林間学校で、\n初めてキレイな星を見て驚いたのかも。"
+            },
             "voice": "lesson/Lesson_10407/lesson_10407_022.mp3"
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "そう言われるとそんな気もしてきた……。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "そう言われるとそんな気もしてきた……。"
+            },
             "voice": "lesson/Lesson_10407/lesson_10407_023.mp3"
         }
     ]

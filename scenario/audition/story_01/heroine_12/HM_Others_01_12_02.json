@@ -6,8 +6,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "よし！\nマネージャー、行ってきます！",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "よし！\nマネージャー、行ってきます！"
+            },
             "voice": "audition/story_01/heroine_12/HM_Others_01_12_02/hm_others_01_12_02_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "行ってらっしゃい。\n莉子なら大丈夫だよ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "行ってらっしゃい。\n莉子なら大丈夫だよ。"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "うん！",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "うん！"
+            },
             "voice": "audition/story_01/heroine_12/HM_Others_01_12_02/hm_others_01_12_02_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "……ふふっ、なんかほんとに大丈夫な気がしてきた！\nありがと、マネージャー。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "……ふふっ、なんかほんとに大丈夫な気がしてきた！\nありがと、マネージャー。"
+            },
             "voice": "audition/story_01/heroine_12/HM_Others_01_12_02/hm_others_01_12_02_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "あたし、全力でぶつかってくるね！",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "あたし、全力でぶつかってくるね！"
+            },
             "voice": "audition/story_01/heroine_12/HM_Others_01_12_02/hm_others_01_12_02_005.mp3"
         }
     ]

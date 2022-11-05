@@ -6,8 +6,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "空に浮く力、かー。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "空に浮く力、かー。"
+            },
             "voice": "audition/story_01/heroine_13/HM_Sub_01_13_15/hm_sub_01_13_15_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "ねえ、マネージャー。\nもしマネージャーが、空を飛べたらどうする？",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "ねえ、マネージャー。\nもしマネージャーが、空を飛べたらどうする？"
+            },
             "voice": "audition/story_01/heroine_13/HM_Sub_01_13_15/hm_sub_01_13_15_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "こんな力要らない、って思うこと、あるのかな？",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "こんな力要らない、って思うこと、あるのかな？"
+            },
             "voice": "audition/story_01/heroine_13/HM_Sub_01_13_15/hm_sub_01_13_15_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "まあ、悪魔にとって、空を飛ぶなど基礎中の基礎だがな。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "まあ、悪魔にとって、空を飛ぶなど基礎中の基礎だがな。"
+            },
             "voice": "audition/story_01/heroine_13/HM_Sub_01_13_15/hm_sub_01_13_15_004.mp3"
         }
     ]

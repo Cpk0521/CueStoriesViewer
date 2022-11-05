@@ -6,8 +6,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "あ、悠希。さっき柚葉から電話あったんだけど、\nちょっと前に空港に着いたみたい。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "あ、悠希。さっき柚葉から電話あったんだけど、\nちょっと前に空港に着いたみたい。"
+            },
             "voice": "card/Card_08/Card_4080007_3/card_4080007_3_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "お、じゃあ、みんなで外に出てお出迎えだ！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "お、じゃあ、みんなで外に出てお出迎えだ！"
+            },
             "voice": "card/Card_08/Card_4080007_3/card_4080007_3_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "大げさでしょ。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "大げさでしょ。"
+            },
             "voice": "card/Card_08/Card_4080007_3/card_4080007_3_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "こういうのは、\nちょっと大げさなくらいでちょうど良いんだよ。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "こういうのは、\nちょっと大げさなくらいでちょうど良いんだよ。"
+            },
             "voice": "card/Card_08/Card_4080007_3/card_4080007_3_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "悠希ちゃん、自分がはしゃぎたいだけじゃないかな……？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "悠希ちゃん、自分がはしゃぎたいだけじゃないかな……？"
+            },
             "voice": "card/Card_08/Card_4080007_3/card_4080007_3_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "私もそう思うわ、あいり。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "私もそう思うわ、あいり。"
+            },
             "voice": "card/Card_08/Card_4080007_3/card_4080007_3_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "でも、柚葉ちゃん、楽しそうだったね。\n昨日の夜の写真。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "でも、柚葉ちゃん、楽しそうだったね。\n昨日の夜の写真。"
+            },
             "voice": "card/Card_08/Card_4080007_3/card_4080007_3_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "そうね。　",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "そうね。　"
+            },
             "voice": "card/Card_08/Card_4080007_3/card_4080007_3_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "50枚くらい写真が送られてきたのは、\nちょっと嫌がらせに近かったかな。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "50枚くらい写真が送られてきたのは、\nちょっと嫌がらせに近かったかな。"
+            },
             "voice": "card/Card_08/Card_4080007_3/card_4080007_3_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "きっと、千紗ちゃんに見せたかったんだよ。\nシンガポールの景色。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "きっと、千紗ちゃんに見せたかったんだよ。\nシンガポールの景色。"
+            },
             "voice": "card/Card_08/Card_4080007_3/card_4080007_3_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "そう？\n何も考えてないだけだと思うけど。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "そう？\n何も考えてないだけだと思うけど。"
+            },
             "voice": "card/Card_08/Card_4080007_3/card_4080007_3_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "それより、柚葉……。\n本当に炒飯持って来てくれるのかな？",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "それより、柚葉……。\n本当に炒飯持って来てくれるのかな？"
+            },
             "voice": "card/Card_08/Card_4080007_3/card_4080007_3_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "あたし、実は、お昼ご飯食べずに待ってるんだよね。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "あたし、実は、お昼ご飯食べずに待ってるんだよね。"
+            },
             "voice": "card/Card_08/Card_4080007_3/card_4080007_3_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "あんたね……。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "あんたね……。"
+            },
             "voice": "card/Card_08/Card_4080007_3/card_4080007_3_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "悠希ちゃんはシンガポールの炒飯、食べたことないの？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "悠希ちゃんはシンガポールの炒飯、食べたことないの？"
+            },
             "voice": "card/Card_08/Card_4080007_3/card_4080007_3_015.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "あたしは親父の炒飯以外、食べたことないから！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "あたしは親父の炒飯以外、食べたことないから！"
+            },
             "voice": "card/Card_08/Card_4080007_3/card_4080007_3_016.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "それは言いすぎでしょ。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "それは言いすぎでしょ。"
+            },
             "voice": "card/Card_08/Card_4080007_3/card_4080007_3_017.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "っていうか、あいりは食べたことあるの？",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "っていうか、あいりは食べたことあるの？"
+            },
             "voice": "card/Card_08/Card_4080007_3/card_4080007_3_018.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "うん。\n小さい頃、お父さんに連れて行ってもらったことあるから……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "うん。\n小さい頃、お父さんに連れて行ってもらったことあるから……。"
+            },
             "voice": "card/Card_08/Card_4080007_3/card_4080007_3_019.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "でも、香港とか上海で食べたのもおいしかったよ？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "でも、香港とか上海で食べたのもおいしかったよ？"
+            },
             "voice": "card/Card_08/Card_4080007_3/card_4080007_3_020.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "はあ……。育ってきた環境の違いを感じるわ……。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "はあ……。育ってきた環境の違いを感じるわ……。"
+            },
             "voice": "card/Card_08/Card_4080007_3/card_4080007_3_021.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "柚葉、そろそろ着くって。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "柚葉、そろそろ着くって。"
+            },
             "voice": "card/Card_08/Card_4080007_3/card_4080007_3_022.mp3"
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "ちゃ～はん～♪　ちゃ～はん～♪\nあ、お腹が鳴った！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "ちゃ～はん～♪　ちゃ～はん～♪\nあ、お腹が鳴った！"
+            },
             "voice": "card/Card_08/Card_4080007_3/card_4080007_3_023.mp3"
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "もう、悠希。みんなでお出迎えとか言っといて、\n炒飯のことしか考えてないでしょ。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "もう、悠希。みんなでお出迎えとか言っといて、\n炒飯のことしか考えてないでしょ。"
+            },
             "voice": "card/Card_08/Card_4080007_3/card_4080007_3_024.mp3"
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "悠希ちゃん、よだれが出てるよ？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "悠希ちゃん、よだれが出てるよ？"
+            },
             "voice": "card/Card_08/Card_4080007_3/card_4080007_3_025.mp3"
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "お腹と背中がドッキング寸前だからね！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "お腹と背中がドッキング寸前だからね！"
+            },
             "voice": "card/Card_08/Card_4080007_3/card_4080007_3_026.mp3"
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "でも、本当にどうやって炒飯持ってくるつもりなのかしら。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "でも、本当にどうやって炒飯持ってくるつもりなのかしら。"
+            },
             "voice": "card/Card_08/Card_4080007_3/card_4080007_3_027.mp3"
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "「ごめん、みんな！　やっぱり持ってこれなかったわ！」\nって結果になるかもよ？",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "「ごめん、みんな！　やっぱり持ってこれなかったわ！」\nって結果になるかもよ？"
+            },
             "voice": "card/Card_08/Card_4080007_3/card_4080007_3_028.mp3"
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "ええー。\nそれは困るなー。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "ええー。\nそれは困るなー。"
+            },
             "voice": "card/Card_08/Card_4080007_3/card_4080007_3_029.mp3"
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "あ、柚葉ちゃん、あの車じゃないかな？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "あ、柚葉ちゃん、あの車じゃないかな？"
+            },
             "voice": "card/Card_08/Card_4080007_3/card_4080007_3_030.mp3"
         },
         {
@@ -276,8 +396,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "おお！　炒飯の香りが漂ってくる！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "おお！　炒飯の香りが漂ってくる！"
+            },
             "voice": "card/Card_08/Card_4080007_3/card_4080007_3_031.mp3"
         },
         {
@@ -285,8 +409,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "そんなわけ無いでしょ。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "そんなわけ無いでしょ。"
+            },
             "voice": "card/Card_08/Card_4080007_3/card_4080007_3_032.mp3"
         },
         {
@@ -294,8 +422,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "チサ、アイリ、ユーキ、ただいまー！\nみんなでお迎えしてくれたの？",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "チサ、アイリ、ユーキ、ただいまー！\nみんなでお迎えしてくれたの？"
+            },
             "voice": "card/Card_08/Card_4080007_3/card_4080007_3_033.mp3"
         },
         {
@@ -303,8 +435,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "おかえりー！\n……ん？",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "おかえりー！\n……ん？"
+            },
             "voice": "card/Card_08/Card_4080007_3/card_4080007_3_034.mp3"
         },
         {
@@ -312,8 +448,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "あれ？　",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "あれ？　"
+            },
             "voice": "card/Card_08/Card_4080007_3/card_4080007_3_035.mp3"
         },
         {
@@ -321,8 +461,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "お、おかえり……。　",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "お、おかえり……。　"
+            },
             "voice": "card/Card_08/Card_4080007_3/card_4080007_3_036.mp3"
         },
         {
@@ -330,8 +474,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "……で、その人は……、どちら様？",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "……で、その人は……、どちら様？"
+            },
             "voice": "card/Card_08/Card_4080007_3/card_4080007_3_037.mp3"
         },
         {
@@ -339,8 +487,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "シェフよ？",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "シェフよ？"
+            },
             "voice": "card/Card_08/Card_4080007_3/card_4080007_3_038.mp3"
         },
         {
@@ -348,8 +500,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "チャーハンはやっぱり出来たてがおいしいでしょ？\nだからシェフを連れてきたの！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "チャーハンはやっぱり出来たてがおいしいでしょ？\nだからシェフを連れてきたの！"
+            },
             "voice": "card/Card_08/Card_4080007_3/card_4080007_3_039.mp3"
         },
         {
@@ -357,8 +513,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "いやいやいやいや……。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "いやいやいやいや……。"
+            },
             "voice": "card/Card_08/Card_4080007_3/card_4080007_3_040.mp3"
         },
         {
@@ -366,8 +526,12 @@
             "heroineId": [
                 0
             ],
-            "name": "シェフ",
-            "message": "ナイストゥミーチュー！　",
+            "name": {
+                "default": "シェフ"
+            },
+            "message": {
+                "default": "ナイストゥミーチュー！　"
+            },
             "voice": ""
         },
         {
@@ -375,8 +539,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "ハ、ハロー……。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "ハ、ハロー……。"
+            },
             "voice": "card/Card_08/Card_4080007_3/card_4080007_3_042.mp3"
         },
         {
@@ -384,8 +552,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "よろしく！　だって。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "よろしく！　だって。"
+            },
             "voice": "card/Card_08/Card_4080007_3/card_4080007_3_043.mp3"
         },
         {
@@ -393,8 +565,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "わかるわよそれくらい！　",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "わかるわよそれくらい！　"
+            },
             "voice": "card/Card_08/Card_4080007_3/card_4080007_3_044.mp3"
         },
         {
@@ -402,8 +578,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "どーするつもりなのよ、柚葉。\nシェフなんか連れてきちゃって！",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "どーするつもりなのよ、柚葉。\nシェフなんか連れてきちゃって！"
+            },
             "voice": "card/Card_08/Card_4080007_3/card_4080007_3_045.mp3"
         },
         {
@@ -411,8 +591,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "千紗ちゃん……。\n動物を拾ってきた子どもを叱ってるみたい。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "千紗ちゃん……。\n動物を拾ってきた子どもを叱ってるみたい。"
+            },
             "voice": "card/Card_08/Card_4080007_3/card_4080007_3_046.mp3"
         },
         {
@@ -420,8 +604,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "もちろん今から、\nチャーハンを作ってもらうに決まってるじゃない。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "もちろん今から、\nチャーハンを作ってもらうに決まってるじゃない。"
+            },
             "voice": "card/Card_08/Card_4080007_3/card_4080007_3_047.mp3"
         },
         {
@@ -429,8 +617,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "やったー！　\nそうこなくっちゃ！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "やったー！　\nそうこなくっちゃ！"
+            },
             "voice": "card/Card_08/Card_4080007_3/card_4080007_3_048.mp3"
         },
         {
@@ -438,8 +630,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "お腹減らして待ってた甲斐があったってもんだよ！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "お腹減らして待ってた甲斐があったってもんだよ！"
+            },
             "voice": "card/Card_08/Card_4080007_3/card_4080007_3_049.mp3"
         },
         {
@@ -447,8 +643,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "はぁ……。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "はぁ……。"
+            },
             "voice": "card/Card_08/Card_4080007_3/card_4080007_3_050.mp3"
         },
         {
@@ -456,8 +656,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "あ、そうだ、チサ！\n昨日の夜に送った写真、見てくれた？",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "あ、そうだ、チサ！\n昨日の夜に送った写真、見てくれた？"
+            },
             "voice": "card/Card_08/Card_4080007_3/card_4080007_3_051.mp3"
         },
         {
@@ -465,8 +669,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "私の生まれ育った街。\n今度はみんなで行こうね！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "私の生まれ育った街。\n今度はみんなで行こうね！"
+            },
             "voice": "card/Card_08/Card_4080007_3/card_4080007_3_052.mp3"
         }
     ]

@@ -6,8 +6,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "お疲れ様です、マネージャーさん。\nこれ、見てください！",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "お疲れ様です、マネージャーさん。\nこれ、見てください！"
+            },
             "voice": "audition/story_01/heroine_07/HM_Sub_01_07_17/hm_sub_01_07_17_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "ん？　なに、この動画？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "ん？　なに、この動画？"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "あいりが最近好きな、お笑い芸人さんの動画です！",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "あいりが最近好きな、お笑い芸人さんの動画です！"
+            },
             "voice": "audition/story_01/heroine_07/HM_Sub_01_07_17/hm_sub_01_07_17_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "すーっごく面白いんですよ！\nこれは見ないと損です！",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "すーっごく面白いんですよ！\nこれは見ないと損です！"
+            },
             "voice": "audition/story_01/heroine_07/HM_Sub_01_07_17/hm_sub_01_07_17_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "あいり、見るの50回目くらいなんですけど、\n今でも涙が出るくらい笑っちゃうんです。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "あいり、見るの50回目くらいなんですけど、\n今でも涙が出るくらい笑っちゃうんです。"
+            },
             "voice": "audition/story_01/heroine_07/HM_Sub_01_07_17/hm_sub_01_07_17_005.mp3"
         }
     ]

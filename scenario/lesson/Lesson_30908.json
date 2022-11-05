@@ -6,8 +6,12 @@
             "heroineId": [
                 0
             ],
-            "name": "フロックス",
-            "message": "「他に何か知りたいことはあるかね？」",
+            "name": {
+                "default": "フロックス"
+            },
+            "message": {
+                "default": "「他に何か知りたいことはあるかね？」"
+            },
             "voice": ""
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "最初は、魔法のアイテムの効果がなんなのか\n知れればよかったんだが、話が変わった。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "最初は、魔法のアイテムの効果がなんなのか\n知れればよかったんだが、話が変わった。"
+            },
             "voice": "lesson/Lesson_30908/lesson_30908_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "その魔法のアイテムが最近に作られたものというのなら、\n誰か、それを作った人間に心当たりはないか？",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "その魔法のアイテムが最近に作られたものというのなら、\n誰か、それを作った人間に心当たりはないか？"
+            },
             "voice": "lesson/Lesson_30908/lesson_30908_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 0
             ],
-            "name": "フロックス",
-            "message": "「ふむ……。」",
+            "name": {
+                "default": "フロックス"
+            },
+            "message": {
+                "default": "「ふむ……。」"
+            },
             "voice": ""
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 0
             ],
-            "name": "フロックス",
-            "message": "「道具に魔法の効果を付与する術式が、\n非常に複雑な構文だということは知っていると思うが……。」",
+            "name": {
+                "default": "フロックス"
+            },
+            "message": {
+                "default": "「道具に魔法の効果を付与する術式が、\n非常に複雑な構文だということは知っていると思うが……。」"
+            },
             "voice": ""
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "うむ。知ってるということにしよう。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "うむ。知ってるということにしよう。"
+            },
             "voice": "lesson/Lesson_30908/lesson_30908_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 0
             ],
-            "name": "フロックス",
-            "message": "「その構文は、作った人間の個性が出るものなのだ。」",
+            "name": {
+                "default": "フロックス"
+            },
+            "message": {
+                "default": "「その構文は、作った人間の個性が出るものなのだ。」"
+            },
             "voice": ""
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "なんの話をしている？",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "なんの話をしている？"
+            },
             "voice": "lesson/Lesson_30908/lesson_30908_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 0
             ],
-            "name": "フロックス",
-            "message": "「つまり、私はこの魔術構文を書いた人間に心当たりがある。」",
+            "name": {
+                "default": "フロックス"
+            },
+            "message": {
+                "default": "「つまり、私はこの魔術構文を書いた人間に心当たりがある。」"
+            },
             "voice": ""
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "なるほど。\n回りくどい言い方をするやつだな。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "なるほど。\n回りくどい言い方をするやつだな。"
+            },
             "voice": "lesson/Lesson_30908/lesson_30908_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "じゃあ、私もそれに倣うとしよう。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "じゃあ、私もそれに倣うとしよう。"
+            },
             "voice": "lesson/Lesson_30908/lesson_30908_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "この道具を作った人物と、\n使った人物がもし同じだとすると……。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "この道具を作った人物と、\n使った人物がもし同じだとすると……。"
+            },
             "voice": "lesson/Lesson_30908/lesson_30908_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "それは、ルピナス家の領地の民に害をなした人物、\nという話になるんだが……。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "それは、ルピナス家の領地の民に害をなした人物、\nという話になるんだが……。"
+            },
             "voice": "lesson/Lesson_30908/lesson_30908_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "言っていることはわかるか？",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "言っていることはわかるか？"
+            },
             "voice": "lesson/Lesson_30908/lesson_30908_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 0
             ],
-            "name": "フロックス",
-            "message": "「なるほど。ルピナス家お抱えの魔術師としては、\n答えんわけにはいかんということか。」",
+            "name": {
+                "default": "フロックス"
+            },
+            "message": {
+                "default": "「なるほど。ルピナス家お抱えの魔術師としては、\n答えんわけにはいかんということか。」"
+            },
             "voice": ""
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "そういうことだ。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "そういうことだ。"
+            },
             "voice": "lesson/Lesson_30908/lesson_30908_016.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "個人的には、臣下とか、部下とか、義理とか、\nそういうのはよくわからん価値観だが。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "個人的には、臣下とか、部下とか、義理とか、\nそういうのはよくわからん価値観だが。"
+            },
             "voice": "lesson/Lesson_30908/lesson_30908_017.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "ただ、答えてもらえると助かるぞ。\n色々と。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "ただ、答えてもらえると助かるぞ。\n色々と。"
+            },
             "voice": "lesson/Lesson_30908/lesson_30908_018.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 0
             ],
-            "name": "フロックス",
-            "message": "「変わったやつだな。」",
+            "name": {
+                "default": "フロックス"
+            },
+            "message": {
+                "default": "「変わったやつだな。」"
+            },
             "voice": ""
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "おまえもな。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "おまえもな。"
+            },
             "voice": "lesson/Lesson_30908/lesson_30908_020.mp3"
         }
     ]

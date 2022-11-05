@@ -6,8 +6,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "お疲れ様です。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "お疲れ様です。"
+            },
             "voice": "audition/story_01/heroine_15/HM_Cast_01_15_16_03/hm_cast_01_15_16_03_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "マネージャーさん、お疲れ様でーす！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "マネージャーさん、お疲れ様でーす！"
+            },
             "voice": "audition/story_01/heroine_15/HM_Cast_01_15_16_03/hm_cast_01_15_16_03_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "あ、お疲れ様。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "あ、お疲れ様。"
+            },
             "voice": ""
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "なるちゃん、一緒に帰ろー！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "なるちゃん、一緒に帰ろー！"
+            },
             "voice": "audition/story_01/heroine_15/HM_Cast_01_15_16_03/hm_cast_01_15_16_03_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "うん。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "うん。"
+            },
             "voice": "audition/story_01/heroine_15/HM_Cast_01_15_16_03/hm_cast_01_15_16_03_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "あ、ちょっとコンビニ寄ってもいい？",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "あ、ちょっとコンビニ寄ってもいい？"
+            },
             "voice": "audition/story_01/heroine_15/HM_Cast_01_15_16_03/hm_cast_01_15_16_03_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "いいよ。\nこの後予定あるから、手短に。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "いいよ。\nこの後予定あるから、手短に。"
+            },
             "voice": "audition/story_01/heroine_15/HM_Cast_01_15_16_03/hm_cast_01_15_16_03_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "ありがとう！\nえへへ、なんのお菓子買おうかなー。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "ありがとう！\nえへへ、なんのお菓子買おうかなー。"
+            },
             "voice": "audition/story_01/heroine_15/HM_Cast_01_15_16_03/hm_cast_01_15_16_03_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "そうだ！\nなるちゃんが勝てるように、カツの駄菓子買ってあげるね！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "そうだ！\nなるちゃんが勝てるように、カツの駄菓子買ってあげるね！"
+            },
             "voice": "audition/story_01/heroine_15/HM_Cast_01_15_16_03/hm_cast_01_15_16_03_009.mp3"
         }
     ]

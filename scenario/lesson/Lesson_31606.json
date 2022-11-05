@@ -6,8 +6,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "さあみんな、ちょっと洗濯物運ぶの手伝ってちょうだい！",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "さあみんな、ちょっと洗濯物運ぶの手伝ってちょうだい！"
+            },
             "voice": "lesson/Lesson_31606/lesson_31606_001.mp3"
         },
         {
@@ -16,8 +20,12 @@
                 5,
                 7
             ],
-            "name": "2人",
-            "message": "はーい。",
+            "name": {
+                "default": "2人"
+            },
+            "message": {
+                "default": "はーい。"
+            },
             "voice": "lesson/Lesson_31606/lesson_31606_002.mp3"
         },
         {
@@ -25,8 +33,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "オッケーチサ！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "オッケーチサ！"
+            },
             "voice": "lesson/Lesson_31606/lesson_31606_003.mp3"
         },
         {
@@ -34,8 +46,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "はい、あいり、このかご使って。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "はい、あいり、このかご使って。"
+            },
             "voice": "lesson/Lesson_31606/lesson_31606_004.mp3"
         },
         {
@@ -43,8 +59,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "うん。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "うん。"
+            },
             "voice": "lesson/Lesson_31606/lesson_31606_005.mp3"
         },
         {
@@ -52,8 +72,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "ふふっ。なんだかんだ聞きわけはいいのよね。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "ふふっ。なんだかんだ聞きわけはいいのよね。"
+            },
             "voice": "lesson/Lesson_31606/lesson_31606_006.mp3"
         },
         {
@@ -61,8 +85,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "うん。\nほんと、今日はいい天気。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "うん。\nほんと、今日はいい天気。"
+            },
             "voice": "lesson/Lesson_31606/lesson_31606_007.mp3"
         },
         {
@@ -70,8 +98,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "ふふっ。\n最近鳥の声をよく聞くわね。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "ふふっ。\n最近鳥の声をよく聞くわね。"
+            },
             "voice": "lesson/Lesson_31606/lesson_31606_008.mp3"
         },
         {
@@ -79,8 +111,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "あら、あなた……。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "あら、あなた……。"
+            },
             "voice": "lesson/Lesson_31606/lesson_31606_009.mp3"
         },
         {
@@ -88,8 +124,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "千紗、かごここ置いとくよ。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "千紗、かごここ置いとくよ。"
+            },
             "voice": "lesson/Lesson_31606/lesson_31606_010.mp3"
         },
         {
@@ -97,8 +137,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "あ、うん。\nそうね。そこ置いといて。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "あ、うん。\nそうね。そこ置いといて。"
+            },
             "voice": "lesson/Lesson_31606/lesson_31606_011.mp3"
         },
         {
@@ -106,8 +150,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "さ、さっさと終わらせちゃおうかな。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "さ、さっさと終わらせちゃおうかな。"
+            },
             "voice": "lesson/Lesson_31606/lesson_31606_012.mp3"
         }
     ]

@@ -6,8 +6,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "柚葉、なんだって？",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "柚葉、なんだって？"
+            },
             "voice": "card/Card_08/Card_4080014_2/card_4080014_2_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "うう、頭痛い……。\nよくわかんなくなってきた。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "うう、頭痛い……。\nよくわかんなくなってきた。"
+            },
             "voice": "card/Card_08/Card_4080014_2/card_4080014_2_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "……柚葉ちゃん、もしかして海外にいるの？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "……柚葉ちゃん、もしかして海外にいるの？"
+            },
             "voice": "card/Card_08/Card_4080014_2/card_4080014_2_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "そうみたいね。\n……ちょっともう1回電話するわ。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "そうみたいね。\n……ちょっともう1回電話するわ。"
+            },
             "voice": "card/Card_08/Card_4080014_2/card_4080014_2_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "柚葉……、もう1回。\n最初から、ちゃんと説明して。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "柚葉……、もう1回。\n最初から、ちゃんと説明して。"
+            },
             "voice": "card/Card_08/Card_4080014_2/card_4080014_2_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "んっ、むぐ……。\n今ね、すっごいフェスティバルをしてるの！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "んっ、むぐ……。\n今ね、すっごいフェスティバルをしてるの！"
+            },
             "voice": "card/Card_08/Card_4080014_2/card_4080014_2_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "チサも来る？\nきっとみんなも歓迎してくれるわ！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "チサも来る？\nきっとみんなも歓迎してくれるわ！"
+            },
             "voice": "card/Card_08/Card_4080014_2/card_4080014_2_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "いや、そうじゃなくて、\nなんであんたがドイツのお祭りにいるのよ？",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "いや、そうじゃなくて、\nなんであんたがドイツのお祭りにいるのよ？"
+            },
             "voice": "card/Card_08/Card_4080014_2/card_4080014_2_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "もしかして、そのお祭りのために、\nドイツまで向かったってこと？",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "もしかして、そのお祭りのために、\nドイツまで向かったってこと？"
+            },
             "voice": "card/Card_08/Card_4080014_2/card_4080014_2_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "ううん。\nたまたま来たらやっていただけよ。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "ううん。\nたまたま来たらやっていただけよ。"
+            },
             "voice": "card/Card_08/Card_4080014_2/card_4080014_2_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "そしたら、女神が来たーって！\nお祭りも大盛り上がりなの。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "そしたら、女神が来たーって！\nお祭りも大盛り上がりなの。"
+            },
             "voice": "card/Card_08/Card_4080014_2/card_4080014_2_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "は……？",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "は……？"
+            },
             "voice": "card/Card_08/Card_4080014_2/card_4080014_2_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "女神……？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "女神……？"
+            },
             "voice": "card/Card_08/Card_4080014_2/card_4080014_2_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "そう！\nよくわかんないけど、前に私がこの村を救ったんだって！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "そう！\nよくわかんないけど、前に私がこの村を救ったんだって！"
+            },
             "voice": "card/Card_08/Card_4080014_2/card_4080014_2_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "村の人たちもみんな優しいし、\nもうサイコーよ！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "村の人たちもみんな優しいし、\nもうサイコーよ！"
+            },
             "voice": "card/Card_08/Card_4080014_2/card_4080014_2_015.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "……なんであんたは、\nこう何事もスケールが大きいのよ。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "……なんであんたは、\nこう何事もスケールが大きいのよ。"
+            },
             "voice": "card/Card_08/Card_4080014_2/card_4080014_2_016.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "女神柚葉！\nなんかかっこいいね！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "女神柚葉！\nなんかかっこいいね！"
+            },
             "voice": "card/Card_08/Card_4080014_2/card_4080014_2_017.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "そう！　それにすごいのよ！\n小さな村なんだけど、みんな笑顔で楽しそうなの！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "そう！　それにすごいのよ！\n小さな村なんだけど、みんな笑顔で楽しそうなの！"
+            },
             "voice": "card/Card_08/Card_4080014_2/card_4080014_2_018.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "村が1つになってお祭りを楽しむのって、\nとっても素敵よね！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "村が1つになってお祭りを楽しむのって、\nとっても素敵よね！"
+            },
             "voice": "card/Card_08/Card_4080014_2/card_4080014_2_019.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "あ、プロジーット！\nふふっ。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "あ、プロジーット！\nふふっ。"
+            },
             "voice": "card/Card_08/Card_4080014_2/card_4080014_2_020.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "はぁ……、よくわかんないけど、\nあんたが女神で、お祭りを楽しんでるってことはわかったわ。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "はぁ……、よくわかんないけど、\nあんたが女神で、お祭りを楽しんでるってことはわかったわ。"
+            },
             "voice": "card/Card_08/Card_4080014_2/card_4080014_2_021.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "いいなー、あたしも行きたい！\nねぇねぇ、今から行こうよ！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "いいなー、あたしも行きたい！\nねぇねぇ、今から行こうよ！"
+            },
             "voice": "card/Card_08/Card_4080014_2/card_4080014_2_022.mp3"
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "今から行っても、\nお祭りは終わっちゃってると思うけど……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "今から行っても、\nお祭りは終わっちゃってると思うけど……。"
+            },
             "voice": "card/Card_08/Card_4080014_2/card_4080014_2_023.mp3"
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "で、柚葉。聞きたいことは色々あるんだけど、\nそのお祭り、いつ終わるの？　明日には帰ってこれるのよね？",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "で、柚葉。聞きたいことは色々あるんだけど、\nそのお祭り、いつ終わるの？　明日には帰ってこれるのよね？"
+            },
             "voice": "card/Card_08/Card_4080014_2/card_4080014_2_024.mp3"
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "もう、チサはシンパイショーね。\nNo Problem！　終わったらちゃんと帰るから！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "もう、チサはシンパイショーね。\nNo Problem！　終わったらちゃんと帰るから！"
+            },
             "voice": "card/Card_08/Card_4080014_2/card_4080014_2_025.mp3"
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "あら？　あなた村の人の……。\nどうしたの？",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "あら？　あなた村の人の……。\nどうしたの？"
+            },
             "voice": "card/Card_08/Card_4080014_2/card_4080014_2_026.mp3"
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "……うん、うん。\nふふーん、任せといて！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "……うん、うん。\nふふーん、任せといて！"
+            },
             "voice": "card/Card_08/Card_4080014_2/card_4080014_2_027.mp3"
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "呼ばれちゃったからもう行くわね。\nお土産、楽しみにしてて！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "呼ばれちゃったからもう行くわね。\nお土産、楽しみにしてて！"
+            },
             "voice": "card/Card_08/Card_4080014_2/card_4080014_2_028.mp3"
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "あっ、ちょっと柚葉……。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "あっ、ちょっと柚葉……。"
+            },
             "voice": "card/Card_08/Card_4080014_2/card_4080014_2_029.mp3"
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "ほんとにドイツにいるんだね！\nそれに女神だって！　柚葉、すごいなー。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "ほんとにドイツにいるんだね！\nそれに女神だって！　柚葉、すごいなー。"
+            },
             "voice": "card/Card_08/Card_4080014_2/card_4080014_2_030.mp3"
         },
         {
@@ -276,8 +396,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "向こうの人とも、\nすごく楽しそうにしてたね。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "向こうの人とも、\nすごく楽しそうにしてたね。"
+            },
             "voice": "card/Card_08/Card_4080014_2/card_4080014_2_031.mp3"
         },
         {
@@ -285,8 +409,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "あー……、もう。\n……とりあえず、晩御飯の材料買いに行ってくるわ。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "あー……、もう。\n……とりあえず、晩御飯の材料買いに行ってくるわ。"
+            },
             "voice": "card/Card_08/Card_4080014_2/card_4080014_2_032.mp3"
         },
         {
@@ -294,8 +422,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "いってらっしゃーい！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "いってらっしゃーい！"
+            },
             "voice": "card/Card_08/Card_4080014_2/card_4080014_2_033.mp3"
         },
         {
@@ -303,8 +435,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "うーん、お腹いっぱーい！\nすごい食べちゃった。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "うーん、お腹いっぱーい！\nすごい食べちゃった。"
+            },
             "voice": "card/Card_08/Card_4080014_2/card_4080014_2_034.mp3"
         },
         {
@@ -312,8 +448,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "お祭りも、どんどん賑やかになってきてるし！\nふふふっ、楽しい！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "お祭りも、どんどん賑やかになってきてるし！\nふふふっ、楽しい！"
+            },
             "voice": "card/Card_08/Card_4080014_2/card_4080014_2_035.mp3"
         },
         {
@@ -321,8 +461,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "あ……、でも、結構遅い時間になっちゃった。\nみんな、大丈夫かしら？",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "あ……、でも、結構遅い時間になっちゃった。\nみんな、大丈夫かしら？"
+            },
             "voice": "card/Card_08/Card_4080014_2/card_4080014_2_036.mp3"
         },
         {
@@ -330,8 +474,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "あら、アイリ。\nもしもし？",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "あら、アイリ。\nもしもし？"
+            },
             "voice": "card/Card_08/Card_4080014_2/card_4080014_2_037.mp3"
         },
         {
@@ -339,8 +487,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "あ、もしもし？　柚葉ちゃん？\n今大丈夫かな。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "あ、もしもし？　柚葉ちゃん？\n今大丈夫かな。"
+            },
             "voice": "card/Card_08/Card_4080014_2/card_4080014_2_038.mp3"
         },
         {
@@ -348,8 +500,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "寝る前にちょっとお話ししたいなって思って。\nそっちはまだお祭り中？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "寝る前にちょっとお話ししたいなって思って。\nそっちはまだお祭り中？"
+            },
             "voice": "card/Card_08/Card_4080014_2/card_4080014_2_039.mp3"
         },
         {
@@ -357,8 +513,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "そうよ！\nでも、まだまだコウフンサメヤラヌって感じね！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "そうよ！\nでも、まだまだコウフンサメヤラヌって感じね！"
+            },
             "voice": "card/Card_08/Card_4080014_2/card_4080014_2_040.mp3"
         },
         {
@@ -366,8 +526,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "うふふっ、もしかしたら、\n朝まで続いちゃうかも！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "うふふっ、もしかしたら、\n朝まで続いちゃうかも！"
+            },
             "voice": "card/Card_08/Card_4080014_2/card_4080014_2_041.mp3"
         },
         {
@@ -375,8 +539,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "ふふ、そうなんだ。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "ふふ、そうなんだ。"
+            },
             "voice": "card/Card_08/Card_4080014_2/card_4080014_2_042.mp3"
         },
         {
@@ -384,8 +552,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "でも、すごいね。柚葉ちゃん。\n女神様、なんて呼ばれてるの。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "でも、すごいね。柚葉ちゃん。\n女神様、なんて呼ばれてるの。"
+            },
             "voice": "card/Card_08/Card_4080014_2/card_4080014_2_043.mp3"
         },
         {
@@ -393,8 +565,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "うーん……。でも、村を救ったとか、\n実はあんまり覚えてないの。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "うーん……。でも、村を救ったとか、\n実はあんまり覚えてないの。"
+            },
             "voice": "card/Card_08/Card_4080014_2/card_4080014_2_044.mp3"
         },
         {
@@ -402,8 +578,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "でも、みんな楽しそうだから、\nきっと良かったのよ！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "でも、みんな楽しそうだから、\nきっと良かったのよ！"
+            },
             "voice": "card/Card_08/Card_4080014_2/card_4080014_2_045.mp3"
         },
         {
@@ -411,8 +591,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "ええっ、そうなんだ……。\nやっぱりすごいなぁ、柚葉ちゃんは。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "ええっ、そうなんだ……。\nやっぱりすごいなぁ、柚葉ちゃんは。"
+            },
             "voice": "card/Card_08/Card_4080014_2/card_4080014_2_046.mp3"
         },
         {
@@ -420,8 +604,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "それで？　今日は、そっちでお泊まりするの？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "それで？　今日は、そっちでお泊まりするの？"
+            },
             "voice": "card/Card_08/Card_4080014_2/card_4080014_2_047.mp3"
         },
         {
@@ -429,8 +617,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "ええ。\n寝る場所とかも、村の人が色々用意してくれているみたい！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "ええ。\n寝る場所とかも、村の人が色々用意してくれているみたい！"
+            },
             "voice": "card/Card_08/Card_4080014_2/card_4080014_2_048.mp3"
         },
         {
@@ -438,8 +630,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "せっかくだから、\nゴコウイに甘えるとするわ！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "せっかくだから、\nゴコウイに甘えるとするわ！"
+            },
             "voice": "card/Card_08/Card_4080014_2/card_4080014_2_049.mp3"
         },
         {
@@ -447,8 +643,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "……そっ、か。\n柚葉ちゃんが楽しそうで良かった。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "……そっ、か。\n柚葉ちゃんが楽しそうで良かった。"
+            },
             "voice": "card/Card_08/Card_4080014_2/card_4080014_2_050.mp3"
         },
         {
@@ -456,8 +656,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "でも、あんまり遅くなりすぎないでね。\n……あいりたち、待ってるから。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "でも、あんまり遅くなりすぎないでね。\n……あいりたち、待ってるから。"
+            },
             "voice": "card/Card_08/Card_4080014_2/card_4080014_2_051.mp3"
         },
         {
@@ -465,8 +669,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "もちろんよ。\nお土産買ってくるから、楽しみにしてて！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "もちろんよ。\nお土産買ってくるから、楽しみにしてて！"
+            },
             "voice": "card/Card_08/Card_4080014_2/card_4080014_2_052.mp3"
         },
         {
@@ -474,8 +682,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "それじゃあ、Good night！\nアイリ。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "それじゃあ、Good night！\nアイリ。"
+            },
             "voice": "card/Card_08/Card_4080014_2/card_4080014_2_053.mp3"
         },
         {
@@ -483,8 +695,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "うん、おやすみ。\n柚葉ちゃん。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "うん、おやすみ。\n柚葉ちゃん。"
+            },
             "voice": "card/Card_08/Card_4080014_2/card_4080014_2_054.mp3"
         },
         {
@@ -492,8 +708,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "はぁ……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "はぁ……。"
+            },
             "voice": "card/Card_08/Card_4080014_2/card_4080014_2_055.mp3"
         }
     ]

@@ -6,8 +6,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "でも、それじゃ次のセリフに繋がらないじゃん！",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "でも、それじゃ次のセリフに繋がらないじゃん！"
+            },
             "voice": "audition/story_01/heroine_04/HM_Cast_01_04_02_03/hm_cast_01_04_02_03_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "繋がってるよ。\n感情としては、ここでもう切り替わってて……。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "繋がってるよ。\n感情としては、ここでもう切り替わってて……。"
+            },
             "voice": "audition/story_01/heroine_04/HM_Cast_01_04_02_03/hm_cast_01_04_02_03_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "お疲れ様。\nどうしたの、2人とも？　ずいぶん白熱してるけど。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "お疲れ様。\nどうしたの、2人とも？　ずいぶん白熱してるけど。"
+            },
             "voice": ""
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "ちょっと、解釈が……。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "ちょっと、解釈が……。"
+            },
             "voice": "audition/story_01/heroine_04/HM_Cast_01_04_02_03/hm_cast_01_04_02_03_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "ぜんっぜん合わなくって！",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "ぜんっぜん合わなくって！"
+            },
             "voice": "audition/story_01/heroine_04/HM_Cast_01_04_02_03/hm_cast_01_04_02_03_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "だけど、やっぱりこの時点じゃまだ……。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "だけど、やっぱりこの時点じゃまだ……。"
+            },
             "voice": "audition/story_01/heroine_04/HM_Cast_01_04_02_03/hm_cast_01_04_02_03_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "……だとしてもさっきのは、\n明らかにおかしいじゃん！",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "……だとしてもさっきのは、\n明らかにおかしいじゃん！"
+            },
             "voice": "audition/story_01/heroine_04/HM_Cast_01_04_02_03/hm_cast_01_04_02_03_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "一応、事務所だから控えめにね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "一応、事務所だから控えめにね。"
+            },
             "voice": ""
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "すみません、マネージャー。\nねえ、舞花……どこか寄ってこ？",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "すみません、マネージャー。\nねえ、舞花……どこか寄ってこ？"
+            },
             "voice": "audition/story_01/heroine_04/HM_Cast_01_04_02_03/hm_cast_01_04_02_03_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "もちろん。白黒ハッキリさせないとね！",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "もちろん。白黒ハッキリさせないとね！"
+            },
             "voice": "audition/story_01/heroine_04/HM_Cast_01_04_02_03/hm_cast_01_04_02_03_010.mp3"
         }
     ]

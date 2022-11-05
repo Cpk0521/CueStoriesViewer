@@ -6,8 +6,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "ここが武器庫か……。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "ここが武器庫か……。"
+            },
             "voice": "lesson/Lesson_30910/lesson_30910_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "ホノカが武器庫を見回していると、\n女剣士のエリカが補足するように説明してくれるよ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "ホノカが武器庫を見回していると、\n女剣士のエリカが補足するように説明してくれるよ。"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 0
             ],
-            "name": "エリカ",
-            "message": "「ああ。\n剣に槍、盾や鎧に馬具までもたくさん揃っておるぞ。」",
+            "name": {
+                "default": "エリカ"
+            },
+            "message": {
+                "default": "「ああ。\n剣に槍、盾や鎧に馬具までもたくさん揃っておるぞ。」"
+            },
             "voice": ""
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "さすが、ちゃんとした兵舎の武器庫は違いますね。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "さすが、ちゃんとした兵舎の武器庫は違いますね。"
+            },
             "voice": "lesson/Lesson_30910/lesson_30910_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "でも……、\nここに、今使ってる剣よりもいい剣はあるんですか？",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "でも……、\nここに、今使ってる剣よりもいい剣はあるんですか？"
+            },
             "voice": "lesson/Lesson_30910/lesson_30910_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 0
             ],
-            "name": "エリカ",
-            "message": "「いや、ここに並んでるのは\n武器屋に並んでるような物と変わらない。」",
+            "name": {
+                "default": "エリカ"
+            },
+            "message": {
+                "default": "「いや、ここに並んでるのは\n武器屋に並んでるような物と変わらない。」"
+            },
             "voice": ""
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 0
             ],
-            "name": "エリカ",
-            "message": "「ホノカ殿に使っていただきたいのはこっちだ。」",
+            "name": {
+                "default": "エリカ"
+            },
+            "message": {
+                "default": "「ホノカ殿に使っていただきたいのはこっちだ。」"
+            },
             "voice": ""
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "ん？　まだどこかに行くんですか？",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "ん？　まだどこかに行くんですか？"
+            },
             "voice": "lesson/Lesson_30910/lesson_30910_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 0
             ],
-            "name": "エリカ",
-            "message": "「この武器庫をぬけた先にな。」",
+            "name": {
+                "default": "エリカ"
+            },
+            "message": {
+                "default": "「この武器庫をぬけた先にな。」"
+            },
             "voice": ""
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "抜けた先……。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "抜けた先……。"
+            },
             "voice": "lesson/Lesson_30910/lesson_30910_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 0
             ],
-            "name": "エリカ",
-            "message": "「さ、着いた。\nここにあるのは全て特別な物ばかりだ。」",
+            "name": {
+                "default": "エリカ"
+            },
+            "message": {
+                "default": "「さ、着いた。\nここにあるのは全て特別な物ばかりだ。」"
+            },
             "voice": ""
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "特別って……。\nそんな物、貰っていいんですか？",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "特別って……。\nそんな物、貰っていいんですか？"
+            },
             "voice": "lesson/Lesson_30910/lesson_30910_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 0
             ],
-            "name": "エリカ",
-            "message": "「ああ、報酬の一部ということで、遠慮なく受け取ってほしい。」",
+            "name": {
+                "default": "エリカ"
+            },
+            "message": {
+                "default": "「ああ、報酬の一部ということで、遠慮なく受け取ってほしい。」"
+            },
             "voice": ""
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 0
             ],
-            "name": "エリカ",
-            "message": "「ルピナス家初代当主から伝わる魔法の剣……、\nなんて物を渡すわけにはいかんけどな。」",
+            "name": {
+                "default": "エリカ"
+            },
+            "message": {
+                "default": "「ルピナス家初代当主から伝わる魔法の剣……、\nなんて物を渡すわけにはいかんけどな。」"
+            },
             "voice": ""
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "いやいや。\nさすがにそんな立派な物は！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "いやいや。\nさすがにそんな立派な物は！"
+            },
             "voice": "lesson/Lesson_30910/lesson_30910_015.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 0
             ],
-            "name": "エリカ",
-            "message": "「そこで……、だ。\nホノカ殿には、これを使って貰おうと思ってな。」",
+            "name": {
+                "default": "エリカ"
+            },
+            "message": {
+                "default": "「そこで……、だ。\nホノカ殿には、これを使って貰おうと思ってな。」"
+            },
             "voice": ""
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "これって……？",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "これって……？"
+            },
             "voice": "lesson/Lesson_30910/lesson_30910_017.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 0
             ],
-            "name": "エリカ",
-            "message": "「現当主が街で一番の職人に作らせた、高品質の逸品だ。」",
+            "name": {
+                "default": "エリカ"
+            },
+            "message": {
+                "default": "「現当主が街で一番の職人に作らせた、高品質の逸品だ。」"
+            },
             "voice": ""
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "高品質の逸品……！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "高品質の逸品……！"
+            },
             "voice": "lesson/Lesson_30910/lesson_30910_019.mp3"
         }
     ]

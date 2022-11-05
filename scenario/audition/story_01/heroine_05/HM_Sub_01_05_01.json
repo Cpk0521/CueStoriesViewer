@@ -6,8 +6,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "オーディションのことって、\n人に話せないからムズムズするよねー。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "オーディションのことって、\n人に話せないからムズムズするよねー。"
+            },
             "voice": "audition/story_01/heroine_05/HM_Sub_01_05_01/hm_sub_01_05_01_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "くっ……。声優とは、孤独で悲しい生き物よ……。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "くっ……。声優とは、孤独で悲しい生き物よ……。"
+            },
             "voice": "audition/story_01/heroine_05/HM_Sub_01_05_01/hm_sub_01_05_01_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "言いたいことあったら、\n全部マネージャーにぶつけるしかないね！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "言いたいことあったら、\n全部マネージャーにぶつけるしかないね！"
+            },
             "voice": "audition/story_01/heroine_05/HM_Sub_01_05_01/hm_sub_01_05_01_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "にしし、頼んだよ、マネージャー！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "にしし、頼んだよ、マネージャー！"
+            },
             "voice": "audition/story_01/heroine_05/HM_Sub_01_05_01/hm_sub_01_05_01_004.mp3"
         }
     ]

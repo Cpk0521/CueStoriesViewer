@@ -6,8 +6,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "ところで志穂ちゃん、どうしたの？",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "ところで志穂ちゃん、どうしたの？"
+            },
             "voice": "lesson/Lesson_31203/lesson_31203_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "うむ。\nさっき、ほのかと話して出発時間を決めたから、伝えに来た。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "うむ。\nさっき、ほのかと話して出発時間を決めたから、伝えに来た。"
+            },
             "voice": "lesson/Lesson_31203/lesson_31203_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "あっ、そうなんだ。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "あっ、そうなんだ。"
+            },
             "voice": "lesson/Lesson_31203/lesson_31203_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "9時前には出るとのことだ。\n1時間半ちょっとで着く。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "9時前には出るとのことだ。\n1時間半ちょっとで着く。"
+            },
             "voice": "lesson/Lesson_31203/lesson_31203_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "うん、わかった。\nふふっ。楽しみだなー。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "うん、わかった。\nふふっ。楽しみだなー。"
+            },
             "voice": "lesson/Lesson_31203/lesson_31203_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "そうだな。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "そうだな。"
+            },
             "voice": "lesson/Lesson_31203/lesson_31203_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "すまんが、明日は留守を頼んだぞ。\n亀岡さん。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "すまんが、明日は留守を頼んだぞ。\n亀岡さん。"
+            },
             "voice": "lesson/Lesson_31203/lesson_31203_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "亀井さんだよ、志穂ちゃん！",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "亀井さんだよ、志穂ちゃん！"
+            },
             "voice": "lesson/Lesson_31203/lesson_31203_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "冗談だ。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "冗談だ。"
+            },
             "voice": "lesson/Lesson_31203/lesson_31203_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "もう……。\n明日はお留守番よろしくね、亀井さん。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "もう……。\n明日はお留守番よろしくね、亀井さん。"
+            },
             "voice": "lesson/Lesson_31203/lesson_31203_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "うむ……。明日はモバイルバッテリーを忘れずにな。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "うむ……。明日はモバイルバッテリーを忘れずにな。"
+            },
             "voice": "lesson/Lesson_31203/lesson_31203_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "うん？　もちろん持って行くけど……。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "うん？　もちろん持って行くけど……。"
+            },
             "voice": "lesson/Lesson_31203/lesson_31203_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "写真。たくさん撮るだろ？",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "写真。たくさん撮るだろ？"
+            },
             "voice": "lesson/Lesson_31203/lesson_31203_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "あ……、うん！",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "あ……、うん！"
+            },
             "voice": "lesson/Lesson_31203/lesson_31203_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "ふふっ、たくさん写真撮ってくるから、\n楽しみにしていてね、亀井さん。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "ふふっ、たくさん写真撮ってくるから、\n楽しみにしていてね、亀井さん。"
+            },
             "voice": "lesson/Lesson_31203/lesson_31203_015.mp3"
         }
     ]

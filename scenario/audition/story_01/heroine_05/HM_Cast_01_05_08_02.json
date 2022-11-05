@@ -6,8 +6,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "ユーキ、マネージャー。\nお疲れ様デース！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "ユーキ、マネージャー。\nお疲れ様デース！"
+            },
             "voice": "audition/story_01/heroine_05/HM_Cast_01_05_08_02/hm_cast_01_05_08_02_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "お、柚葉。お疲れー。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "お、柚葉。お疲れー。"
+            },
             "voice": "audition/story_01/heroine_05/HM_Cast_01_05_08_02/hm_cast_01_05_08_02_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "柚葉、お疲れ様。\nこの前は差し入れありがとう。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "柚葉、お疲れ様。\nこの前は差し入れありがとう。"
+            },
             "voice": ""
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "ふふっ、使ってみてどうだった？",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "ふふっ、使ってみてどうだった？"
+            },
             "voice": "audition/story_01/heroine_05/HM_Cast_01_05_08_02/hm_cast_01_05_08_02_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "うん。すごく楽になったよ。\nありがとう。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "うん。すごく楽になったよ。\nありがとう。"
+            },
             "voice": ""
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "柚葉、マネージャーに何あげたの？",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "柚葉、マネージャーに何あげたの？"
+            },
             "voice": "audition/story_01/heroine_05/HM_Cast_01_05_08_02/hm_cast_01_05_08_02_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "なんか肩こり？　に効くグッズ。\n私、使わないから。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "なんか肩こり？　に効くグッズ。\n私、使わないから。"
+            },
             "voice": "audition/story_01/heroine_05/HM_Cast_01_05_08_02/hm_cast_01_05_08_02_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "へぇーいいじゃん！\nこの前さ、あたしにも快眠グッズくれたよね！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "へぇーいいじゃん！\nこの前さ、あたしにも快眠グッズくれたよね！"
+            },
             "voice": "audition/story_01/heroine_05/HM_Cast_01_05_08_02/hm_cast_01_05_08_02_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "ふふっ、リラックスグッズはいっぱいあるから。\nまたいいのがあったら、教えてあげる！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "ふふっ、リラックスグッズはいっぱいあるから。\nまたいいのがあったら、教えてあげる！"
+            },
             "voice": "audition/story_01/heroine_05/HM_Cast_01_05_08_02/hm_cast_01_05_08_02_009.mp3"
         }
     ]

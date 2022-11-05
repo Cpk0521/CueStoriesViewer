@@ -6,8 +6,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "莉子、合格おめでとう！",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "莉子、合格おめでとう！"
+            },
             "voice": ""
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "うん、ありがとうマネージャー！\nもうめちゃくちゃ嬉しい！",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "うん、ありがとうマネージャー！\nもうめちゃくちゃ嬉しい！"
+            },
             "voice": "audition/story_01/heroine_12/HM_Ending_01_12_02/hm_ending_01_12_02_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "自信はあったんだけど、やっぱりドキドキしたー！\n受かってよかったよー！",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "自信はあったんだけど、やっぱりドキドキしたー！\n受かってよかったよー！"
+            },
             "voice": "audition/story_01/heroine_12/HM_Ending_01_12_02/hm_ending_01_12_02_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "莉子が頑張ったからだよ！\n報われて本当に良かった。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "莉子が頑張ったからだよ！\n報われて本当に良かった。"
+            },
             "voice": ""
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "えへへ、うんそうだね！\nでも改めて言われるとちょっと照れちゃうな。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "えへへ、うんそうだね！\nでも改めて言われるとちょっと照れちゃうな。"
+            },
             "voice": "audition/story_01/heroine_12/HM_Ending_01_12_02/hm_ending_01_12_02_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "はー。でも本っ当にみんなにかっこ悪いところ見せなくて済むし、\nアニメにも出られるし、嬉しいな！",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "はー。でも本っ当にみんなにかっこ悪いところ見せなくて済むし、\nアニメにも出られるし、嬉しいな！"
+            },
             "voice": "audition/story_01/heroine_12/HM_Ending_01_12_02/hm_ending_01_12_02_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そうだね。\nきっとみんなも喜んでくれるよ！",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そうだね。\nきっとみんなも喜んでくれるよ！"
+            },
             "voice": ""
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "うん！　そうだと思う！",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "うん！　そうだと思う！"
+            },
             "voice": "audition/story_01/heroine_12/HM_Ending_01_12_02/hm_ending_01_12_02_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "本番まで、ますます忙しくしちゃうけど……。\nこれからもよろしくね、マネージャー！",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "本番まで、ますます忙しくしちゃうけど……。\nこれからもよろしくね、マネージャー！"
+            },
             "voice": "audition/story_01/heroine_12/HM_Ending_01_12_02/hm_ending_01_12_02_009.mp3"
         }
     ]

@@ -6,8 +6,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "今朝出かける時にさ、\n千紗に「お弁当忘れてるわよ！」って、止められたんだよね。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "今朝出かける時にさ、\n千紗に「お弁当忘れてるわよ！」って、止められたんだよね。"
+            },
             "voice": "audition/story_01/heroine_05/HM_Sub_01_05_12/hm_sub_01_05_12_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "あいりや柚葉のこともちゃんと見てるし、\n千紗は目が何個もあるんじゃないかな。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "あいりや柚葉のこともちゃんと見てるし、\n千紗は目が何個もあるんじゃないかな。"
+            },
             "voice": "audition/story_01/heroine_05/HM_Sub_01_05_12/hm_sub_01_05_12_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "10個くらいついてたら面白いよね！\n妖怪千紗お化け～みたいな！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "10個くらいついてたら面白いよね！\n妖怪千紗お化け～みたいな！"
+            },
             "voice": "audition/story_01/heroine_05/HM_Sub_01_05_12/hm_sub_01_05_12_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "おおっ、ブルッとした……。なんでだろ？",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "おおっ、ブルッとした……。なんでだろ？"
+            },
             "voice": "audition/story_01/heroine_05/HM_Sub_01_05_12/hm_sub_01_05_12_004.mp3"
         }
     ]

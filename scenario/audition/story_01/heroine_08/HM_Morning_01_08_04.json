@@ -6,8 +6,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "マネージャー！\nサワディーカー！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "マネージャー！\nサワディーカー！"
+            },
             "voice": "audition/story_01/heroine_08/HM_Morning_01_08_04/hm_morning_01_08_04_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "聞いて。\n昨日パパから電話があったの。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "聞いて。\n昨日パパから電話があったの。"
+            },
             "voice": "audition/story_01/heroine_08/HM_Morning_01_08_04/hm_morning_01_08_04_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "最近あったこととか、たくさんお話ししたわ！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "最近あったこととか、たくさんお話ししたわ！"
+            },
             "voice": "audition/story_01/heroine_08/HM_Morning_01_08_04/hm_morning_01_08_04_003.mp3"
         }
     ]

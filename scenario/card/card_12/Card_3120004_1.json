@@ -6,8 +6,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "ここのところ、すっごいツイてるの。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "ここのところ、すっごいツイてるの。"
+            },
             "voice": "card/Card_12/Card_3120004_1/card_3120004_1_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "ツイてるって？",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "ツイてるって？"
+            },
             "voice": "card/Card_12/Card_3120004_1/card_3120004_1_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "遅刻しそうなとき、電車が遅延してくれたおかげで間に合ったり。\n雨の予報がはずれたり。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "遅刻しそうなとき、電車が遅延してくれたおかげで間に合ったり。\n雨の予報がはずれたり。"
+            },
             "voice": "card/Card_12/Card_3120004_1/card_3120004_1_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "ささやかな幸せだね。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "ささやかな幸せだね。"
+            },
             "voice": "card/Card_12/Card_3120004_1/card_3120004_1_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "そういえばね。\nわたしも、この間生き埋めになったよ。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "そういえばね。\nわたしも、この間生き埋めになったよ。"
+            },
             "voice": "card/Card_12/Card_3120004_1/card_3120004_1_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "うへぇ……。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "うへぇ……。"
+            },
             "voice": "card/Card_12/Card_3120004_1/card_3120004_1_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "夢でだけどね。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "夢でだけどね。"
+            },
             "voice": "card/Card_12/Card_3120004_1/card_3120004_1_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "そりゃそうでしょうけど……。\nそれのどこがツイてるの？",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "そりゃそうでしょうけど……。\nそれのどこがツイてるの？"
+            },
             "voice": "card/Card_12/Card_3120004_1/card_3120004_1_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "吉夢なんだよね。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "吉夢なんだよね。"
+            },
             "voice": "card/Card_12/Card_3120004_1/card_3120004_1_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "そうらしいの、大吉夢なんだって。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "そうらしいの、大吉夢なんだって。"
+            },
             "voice": "card/Card_12/Card_3120004_1/card_3120004_1_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "それで言うとあたし、\n富士山で、茄子食べてる鷹の夢を見たよ。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "それで言うとあたし、\n富士山で、茄子食べてる鷹の夢を見たよ。"
+            },
             "voice": "card/Card_12/Card_3120004_1/card_3120004_1_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "すごーい莉子！\n一富士二鷹三茄子ね。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "すごーい莉子！\n一富士二鷹三茄子ね。"
+            },
             "voice": "card/Card_12/Card_3120004_1/card_3120004_1_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "鷹は肉食だけど……。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "鷹は肉食だけど……。"
+            },
             "voice": "card/Card_12/Card_3120004_1/card_3120004_1_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "宝くじ買ってきたら？",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "宝くじ買ってきたら？"
+            },
             "voice": "card/Card_12/Card_3120004_1/card_3120004_1_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "そうやってよく言うじゃない？　\nでも、そんなことで幸運使うの勿体なくない？",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "そうやってよく言うじゃない？　\nでも、そんなことで幸運使うの勿体なくない？"
+            },
             "voice": "card/Card_12/Card_3120004_1/card_3120004_1_015.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "勿体ない？",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "勿体ない？"
+            },
             "voice": "card/Card_12/Card_3120004_1/card_3120004_1_016.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "なんかもっと、大きなことが、起こる気がするんだよね……。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "なんかもっと、大きなことが、起こる気がするんだよね……。"
+            },
             "voice": "card/Card_12/Card_3120004_1/card_3120004_1_017.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "う～ん、天気がいい！　気持ちもいいー！\nこんな日に散歩できるだけでもラッキーだなー。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "う～ん、天気がいい！　気持ちもいいー！\nこんな日に散歩できるだけでもラッキーだなー。"
+            },
             "voice": "card/Card_12/Card_3120004_1/card_3120004_1_018.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "っあ！\n帽子が！",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "っあ！\n帽子が！"
+            },
             "voice": "card/Card_12/Card_3120004_1/card_3120004_1_019.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "ああぁ、ちょっと誰か！　\nすみません！　帽子とってください！",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "ああぁ、ちょっと誰か！　\nすみません！　帽子とってください！"
+            },
             "voice": "card/Card_12/Card_3120004_1/card_3120004_1_020.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 0
             ],
-            "name": "スーツの女性",
-            "message": "これ、ですか？",
+            "name": {
+                "default": "スーツの女性"
+            },
+            "message": {
+                "default": "これ、ですか？"
+            },
             "voice": ""
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "ありがとうございます！　助かりました。\nお気に入りの帽子なんで。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "ありがとうございます！　助かりました。\nお気に入りの帽子なんで。"
+            },
             "voice": "card/Card_12/Card_3120004_1/card_3120004_1_021.mp3"
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 0
             ],
-            "name": "スーツの女性",
-            "message": "あの……、今お時間あります？",
+            "name": {
+                "default": "スーツの女性"
+            },
+            "message": {
+                "default": "あの……、今お時間あります？"
+            },
             "voice": ""
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "ん？　ありますけど。\nちょ、ちょっとどこに行くんですか？",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "ん？　ありますけど。\nちょ、ちょっとどこに行くんですか？"
+            },
             "voice": "card/Card_12/Card_3120004_1/card_3120004_1_024.mp3"
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 0
             ],
-            "name": "スーツの女性",
-            "message": "ちょっと……、こちらへ。",
+            "name": {
+                "default": "スーツの女性"
+            },
+            "message": {
+                "default": "ちょっと……、こちらへ。"
+            },
             "voice": ""
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "なにここ？\nレッスン室みたいだけど……。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "なにここ？\nレッスン室みたいだけど……。"
+            },
             "voice": "card/Card_12/Card_3120004_1/card_3120004_1_026.mp3"
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 0
             ],
-            "name": "スーツの女性",
-            "message": "すみません、\nこちらの方、飛び入りでオーディション受けに来ました。",
+            "name": {
+                "default": "スーツの女性"
+            },
+            "message": {
+                "default": "すみません、\nこちらの方、飛び入りでオーディション受けに来ました。"
+            },
             "voice": ""
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "オ、オーディション？",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "オ、オーディション？"
+            },
             "voice": "card/Card_12/Card_3120004_1/card_3120004_1_028.mp3"
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 0
             ],
-            "name": "スーツの女性",
-            "message": "ご紹介します。\n映画監督の黒山明子さんです。",
+            "name": {
+                "default": "スーツの女性"
+            },
+            "message": {
+                "default": "ご紹介します。\n映画監督の黒山明子さんです。"
+            },
             "voice": ""
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "（うわー！\n日本映画界の巨匠、黒山監督だ！）",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "（うわー！\n日本映画界の巨匠、黒山監督だ！）"
+            },
             "voice": "card/Card_12/Card_3120004_1/card_3120004_1_030.mp3"
         },
         {
@@ -276,8 +396,12 @@
             "heroineId": [
                 0
             ],
-            "name": "黒山監督",
-            "message": "お名前は？",
+            "name": {
+                "default": "黒山監督"
+            },
+            "message": {
+                "default": "お名前は？"
+            },
             "voice": ""
         },
         {
@@ -285,8 +409,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "ひ、日名倉莉子です。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "ひ、日名倉莉子です。"
+            },
             "voice": "card/Card_12/Card_3120004_1/card_3120004_1_032.mp3"
         },
         {
@@ -294,8 +422,12 @@
             "heroineId": [
                 0
             ],
-            "name": "黒山監督",
-            "message": "映画に出た経験は？",
+            "name": {
+                "default": "黒山監督"
+            },
+            "message": {
+                "default": "映画に出た経験は？"
+            },
             "voice": ""
         },
         {
@@ -303,8 +435,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "ありません！",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "ありません！"
+            },
             "voice": "card/Card_12/Card_3120004_1/card_3120004_1_034.mp3"
         },
         {
@@ -312,8 +448,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "（わ、わ、どうしよう。\n事務所に断らなくていいのかな？）",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "（わ、わ、どうしよう。\n事務所に断らなくていいのかな？）"
+            },
             "voice": "card/Card_12/Card_3120004_1/card_3120004_1_035.mp3"
         },
         {
@@ -321,8 +461,12 @@
             "heroineId": [
                 0
             ],
-            "name": "黒山監督",
-            "message": "ちょっと……、泣いてみてください。",
+            "name": {
+                "default": "黒山監督"
+            },
+            "message": {
+                "default": "ちょっと……、泣いてみてください。"
+            },
             "voice": ""
         },
         {
@@ -330,8 +474,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "へっ？\n……今、ここでですか？",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "へっ？\n……今、ここでですか？"
+            },
             "voice": "card/Card_12/Card_3120004_1/card_3120004_1_037.mp3"
         },
         {
@@ -339,8 +487,12 @@
             "heroineId": [
                 0
             ],
-            "name": "黒山監督",
-            "message": "……。",
+            "name": {
+                "default": "黒山監督"
+            },
+            "message": {
+                "default": "……。"
+            },
             "voice": ""
         },
         {
@@ -348,8 +500,12 @@
             "heroineId": [
                 0
             ],
-            "name": "スーツの女性",
-            "message": "今ここでです。",
+            "name": {
+                "default": "スーツの女性"
+            },
+            "message": {
+                "default": "今ここでです。"
+            },
             "voice": ""
         },
         {
@@ -357,8 +513,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "でも。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "でも。"
+            },
             "voice": "card/Card_12/Card_3120004_1/card_3120004_1_040.mp3"
         },
         {
@@ -366,8 +526,12 @@
             "heroineId": [
                 0
             ],
-            "name": "スーツの女性",
-            "message": "あなた、絶対この役のイメージにぴったりなんです。\nお願いします。",
+            "name": {
+                "default": "スーツの女性"
+            },
+            "message": {
+                "default": "あなた、絶対この役のイメージにぴったりなんです。\nお願いします。"
+            },
             "voice": ""
         },
         {
@@ -375,8 +539,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "（……いや。やっぱりまずい。\n勝手にオーディションなんか受けたら、真咲さんに叱られちゃう。）",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "（……いや。やっぱりまずい。\n勝手にオーディションなんか受けたら、真咲さんに叱られちゃう。）"
+            },
             "voice": "card/Card_12/Card_3120004_1/card_3120004_1_042.mp3"
         },
         {
@@ -384,8 +552,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "あの……、泣きたくもないのに、\n泣くことなんかできません。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "あの……、泣きたくもないのに、\n泣くことなんかできません。"
+            },
             "voice": "card/Card_12/Card_3120004_1/card_3120004_1_043.mp3"
         },
         {
@@ -393,8 +565,12 @@
             "heroineId": [
                 0
             ],
-            "name": "黒山監督",
-            "message": "……。",
+            "name": {
+                "default": "黒山監督"
+            },
+            "message": {
+                "default": "……。"
+            },
             "voice": ""
         },
         {
@@ -402,8 +578,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "すみません、失礼しますっ！",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "すみません、失礼しますっ！"
+            },
             "voice": "card/Card_12/Card_3120004_1/card_3120004_1_045.mp3"
         },
         {
@@ -411,8 +591,12 @@
             "heroineId": [
                 0
             ],
-            "name": "黒山監督",
-            "message": "合格よ。",
+            "name": {
+                "default": "黒山監督"
+            },
+            "message": {
+                "default": "合格よ。"
+            },
             "voice": ""
         },
         {
@@ -420,8 +604,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "へっ！？",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "へっ！？"
+            },
             "voice": "card/Card_12/Card_3120004_1/card_3120004_1_047.mp3"
         },
         {
@@ -429,8 +617,12 @@
             "heroineId": [
                 0
             ],
-            "name": "スーツの女性",
-            "message": "おめでとうございます。\n最終オーディションに進めましたよ。",
+            "name": {
+                "default": "スーツの女性"
+            },
+            "message": {
+                "default": "おめでとうございます。\n最終オーディションに進めましたよ。"
+            },
             "voice": ""
         },
         {
@@ -438,8 +630,12 @@
             "heroineId": [
                 0
             ],
-            "name": "スーツの女性",
-            "message": "これ……、資料です。\n1週間後、またここに来てください！",
+            "name": {
+                "default": "スーツの女性"
+            },
+            "message": {
+                "default": "これ……、資料です。\n1週間後、またここに来てください！"
+            },
             "voice": ""
         },
         {
@@ -447,8 +643,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "……という事の次第でして……。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "……という事の次第でして……。"
+            },
             "voice": "card/Card_12/Card_3120004_1/card_3120004_1_050.mp3"
         },
         {
@@ -456,8 +656,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "勝手にオーディション受けてしまって、\nおまけに最終まで残ってしまって、すみませんでした！",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "勝手にオーディション受けてしまって、\nおまけに最終まで残ってしまって、すみませんでした！"
+            },
             "voice": "card/Card_12/Card_3120004_1/card_3120004_1_051.mp3"
         },
         {
@@ -465,8 +669,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "ラッキーじゃない！！",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "ラッキーじゃない！！"
+            },
             "voice": "card/Card_12/Card_3120004_1/card_3120004_1_053.mp3"
         },
         {
@@ -474,8 +682,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "へっ？",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "へっ？"
+            },
             "voice": "card/Card_12/Card_3120004_1/card_3120004_1_000.mp3"
         },
         {
@@ -483,8 +695,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "黒山監督の映画なんて、\nオーディションを受けることすら難しいのよ。",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "黒山監督の映画なんて、\nオーディションを受けることすら難しいのよ。"
+            },
             "voice": "card/Card_12/Card_3120004_1/card_3120004_1_055.mp3"
         },
         {
@@ -492,8 +708,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "でもあたし、声優を目指してるわけですし……。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "でもあたし、声優を目指してるわけですし……。"
+            },
             "voice": "card/Card_12/Card_3120004_1/card_3120004_1_000.mp3"
         },
         {
@@ -501,8 +721,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "今の時代、声優が声優だけをやって稼ぐなんて難しいの。\n最終オーディション、全力で闘ってきなさい。",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "今の時代、声優が声優だけをやって稼ぐなんて難しいの。\n最終オーディション、全力で闘ってきなさい。"
+            },
             "voice": "card/Card_12/Card_3120004_1/card_3120004_1_057.mp3"
         },
         {
@@ -510,8 +734,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "いいんですか？",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "いいんですか？"
+            },
             "voice": "card/Card_12/Card_3120004_1/card_3120004_1_000.mp3"
         },
         {
@@ -519,8 +747,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "全面的にバックアップするわ。\nマネージャー。",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "全面的にバックアップするわ。\nマネージャー。"
+            },
             "voice": "card/Card_12/Card_3120004_1/card_3120004_1_059.mp3"
         },
         {
@@ -528,8 +760,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "はい。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "はい。"
+            },
             "voice": ""
         },
         {
@@ -537,8 +773,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "向こう1週間の莉子スケジュール、全部ばらして。",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "向こう1週間の莉子スケジュール、全部ばらして。"
+            },
             "voice": "card/Card_12/Card_3120004_1/card_3120004_1_061.mp3"
         },
         {
@@ -546,8 +786,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "分かりました。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "分かりました。"
+            },
             "voice": ""
         },
         {
@@ -555,8 +799,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "桐香。",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "桐香。"
+            },
             "voice": "card/Card_12/Card_3120004_1/card_3120004_1_063.mp3"
         },
         {
@@ -564,8 +812,12 @@
             "heroineId": [
                 103
             ],
-            "name": "由良桐香",
-            "message": "分かってるわ。\n特別プログラムで日名倉さんを鍛え上げます。",
+            "name": {
+                "default": "由良桐香"
+            },
+            "message": {
+                "default": "分かってるわ。\n特別プログラムで日名倉さんを鍛え上げます。"
+            },
             "voice": "card/Card_12/Card_3120004_1/card_3120004_1_064.mp3"
         },
         {
@@ -573,8 +825,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "1週間、全力を挙げて莉子をサポートします！\n各所、最優先課題として調整願います。",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "1週間、全力を挙げて莉子をサポートします！\n各所、最優先課題として調整願います。"
+            },
             "voice": "card/Card_12/Card_3120004_1/card_3120004_1_065.mp3"
         },
         {
@@ -582,8 +838,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "（なんだか、すごいことになってきた……。）",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "（なんだか、すごいことになってきた……。）"
+            },
             "voice": "card/Card_12/Card_3120004_1/card_3120004_1_000.mp3"
         }
     ]

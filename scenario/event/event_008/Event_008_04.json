@@ -6,8 +6,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "「今日は、ショッピングセンターで美晴と出会った。」",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "「今日は、ショッピングセンターで美晴と出会った。」"
+            },
             "voice": "event/Event_008/Event_008_04/event_008_04_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "「美晴は、どちらかというと、ショッピングセンターよりも、\n高級なデパートで買い物をしているようなイメージだと思う。」",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "「美晴は、どちらかというと、ショッピングセンターよりも、\n高級なデパートで買い物をしているようなイメージだと思う。」"
+            },
             "voice": "event/Event_008/Event_008_04/event_008_04_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "「私も以前はそう思っていた。だけど……、\n買い物に限らず、意外と庶民的なところが多かったりする。」",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "「私も以前はそう思っていた。だけど……、\n買い物に限らず、意外と庶民的なところが多かったりする。」"
+            },
             "voice": "event/Event_008/Event_008_04/event_008_04_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "「もしかすると美晴は、自分の価値観みたいなものを、\nしっかり持っているだけなのかもしれない。」",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "「もしかすると美晴は、自分の価値観みたいなものを、\nしっかり持っているだけなのかもしれない。」"
+            },
             "voice": "event/Event_008/Event_008_04/event_008_04_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "美晴、買い物？",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "美晴、買い物？"
+            },
             "voice": "event/Event_008/Event_008_04/event_008_04_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "あら、絢。\nこんなところで会うなんて、もしかして運命？",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "あら、絢。\nこんなところで会うなんて、もしかして運命？"
+            },
             "voice": "event/Event_008/Event_008_04/event_008_04_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "大げさだよ美晴。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "大げさだよ美晴。"
+            },
             "voice": "event/Event_008/Event_008_04/event_008_04_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "そう？　大げさなんかじゃないと思うけど。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "そう？　大げさなんかじゃないと思うけど。"
+            },
             "voice": "event/Event_008/Event_008_04/event_008_04_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "何を買いに来たの？",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "何を買いに来たの？"
+            },
             "voice": "event/Event_008/Event_008_04/event_008_04_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "文房具屋さんへ、ボールペンの替芯を買いに来たの。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "文房具屋さんへ、ボールペンの替芯を買いに来たの。"
+            },
             "voice": "event/Event_008/Event_008_04/event_008_04_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "美晴のボールペンって、イギリスのブランドのものでしょ？\n替芯ってここでも売ってるの？",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "美晴のボールペンって、イギリスのブランドのものでしょ？\n替芯ってここでも売ってるの？"
+            },
             "voice": "event/Event_008/Event_008_04/event_008_04_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "うふふ。やだ絢ったら、そんなところまで見てるの？\n替芯は、このお店でも買えるのよ。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "うふふ。やだ絢ったら、そんなところまで見てるの？\n替芯は、このお店でも買えるのよ。"
+            },
             "voice": "event/Event_008/Event_008_04/event_008_04_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "美晴のボールペン、すてきだなって思って、\n検索したことがあるから。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "美晴のボールペン、すてきだなって思って、\n検索したことがあるから。"
+            },
             "voice": "event/Event_008/Event_008_04/event_008_04_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "私にはちょっと高くて……、買えないけど。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "私にはちょっと高くて……、買えないけど。"
+            },
             "voice": "event/Event_008/Event_008_04/event_008_04_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "そうねぇ。これはわたしの考えだけど……。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "そうねぇ。これはわたしの考えだけど……。"
+            },
             "voice": "event/Event_008/Event_008_04/event_008_04_015.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "いい仕事をするためにはね、\nいい道具を持っていたほうがいいのよ。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "いい仕事をするためにはね、\nいい道具を持っていたほうがいいのよ。"
+            },
             "voice": "event/Event_008/Event_008_04/event_008_04_016.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "いい道具？",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "いい道具？"
+            },
             "voice": "event/Event_008/Event_008_04/event_008_04_017.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "使う人のことを考えて、心を込めて作られた道具を持つとね。\nわたしも負けない仕事をしなくちゃって。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "使う人のことを考えて、心を込めて作られた道具を持つとね。\nわたしも負けない仕事をしなくちゃって。"
+            },
             "voice": "event/Event_008/Event_008_04/event_008_04_018.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "自然と、そう思えるものなの。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "自然と、そう思えるものなの。"
+            },
             "voice": "event/Event_008/Event_008_04/event_008_04_019.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "うーん、少しだけどわかる気はするかも……。\nじゃあ私もいつか、美晴と同じボールペン買おうかな。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "うーん、少しだけどわかる気はするかも……。\nじゃあ私もいつか、美晴と同じボールペン買おうかな。"
+            },
             "voice": "event/Event_008/Event_008_04/event_008_04_020.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "うふふ。お買い物は、自分の無理のない範囲でね。\nでも、その時には、わたしが選んであげる。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "うふふ。お買い物は、自分の無理のない範囲でね。\nでも、その時には、わたしが選んであげる。"
+            },
             "voice": "event/Event_008/Event_008_04/event_008_04_021.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "うん。お願い。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "うん。お願い。"
+            },
             "voice": "event/Event_008/Event_008_04/event_008_04_022.mp3"
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "そうだ。\nもう1件、お店に寄っていい？",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "そうだ。\nもう1件、お店に寄っていい？"
+            },
             "voice": "event/Event_008/Event_008_04/event_008_04_023.mp3"
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "いいよ。次は何屋さん？\n……本屋さんとか？",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "いいよ。次は何屋さん？\n……本屋さんとか？"
+            },
             "voice": "event/Event_008/Event_008_04/event_008_04_024.mp3"
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "うふふ。惜しい。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "うふふ。惜しい。"
+            },
             "voice": "event/Event_008/Event_008_04/event_008_04_025.mp3"
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "このフロアのもう少し先にあるんだけど……。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "このフロアのもう少し先にあるんだけど……。"
+            },
             "voice": "event/Event_008/Event_008_04/event_008_04_026.mp3"
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "はい、到着。このお店。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "はい、到着。このお店。"
+            },
             "voice": "event/Event_008/Event_008_04/event_008_04_027.mp3"
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "え？　ここって酒屋さんでしょ？\n本屋さんと酒屋さんじゃ、全然惜しくないと思う。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "え？　ここって酒屋さんでしょ？\n本屋さんと酒屋さんじゃ、全然惜しくないと思う。"
+            },
             "voice": "event/Event_008/Event_008_04/event_008_04_028.mp3"
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "あら、わからない？\n本もお酒も、心を豊かにしてくれるものよ？",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "あら、わからない？\n本もお酒も、心を豊かにしてくれるものよ？"
+            },
             "voice": "event/Event_008/Event_008_04/event_008_04_029.mp3"
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "そうなの？",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "そうなの？"
+            },
             "voice": "event/Event_008/Event_008_04/event_008_04_030.mp3"
         },
         {
@@ -276,8 +396,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "そういうものなの。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "そういうものなの。"
+            },
             "voice": "event/Event_008/Event_008_04/event_008_04_031.mp3"
         },
         {
@@ -285,8 +409,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "美晴……、1本持とうか？",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "美晴……、1本持とうか？"
+            },
             "voice": "event/Event_008/Event_008_04/event_008_04_032.mp3"
         },
         {
@@ -294,8 +422,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "あら、いいわよ。そんな気を使わなくても。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "あら、いいわよ。そんな気を使わなくても。"
+            },
             "voice": "event/Event_008/Event_008_04/event_008_04_033.mp3"
         },
         {
@@ -303,8 +435,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "ううん。さすがに、一升瓶2本は美晴も重いでしょ？",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "ううん。さすがに、一升瓶2本は美晴も重いでしょ？"
+            },
             "voice": "event/Event_008/Event_008_04/event_008_04_034.mp3"
         },
         {
@@ -312,8 +448,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "そうね……。じゃあ、甘えちゃおっかな。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "そうね……。じゃあ、甘えちゃおっかな。"
+            },
             "voice": "event/Event_008/Event_008_04/event_008_04_035.mp3"
         },
         {
@@ -321,8 +461,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "うん。\nでも美晴、2本は買いすぎじゃない？",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "うん。\nでも美晴、2本は買いすぎじゃない？"
+            },
             "voice": "event/Event_008/Event_008_04/event_008_04_036.mp3"
         },
         {
@@ -330,8 +474,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "そう？　\nでも、数量限定の芋焼酎、買い逃すわけにはいかないから。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "そう？　\nでも、数量限定の芋焼酎、買い逃すわけにはいかないから。"
+            },
             "voice": "event/Event_008/Event_008_04/event_008_04_037.mp3"
         },
         {
@@ -339,8 +487,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "何、それ。\n……まるで、限定グッズみたい。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "何、それ。\n……まるで、限定グッズみたい。"
+            },
             "voice": "event/Event_008/Event_008_04/event_008_04_038.mp3"
         },
         {
@@ -348,8 +500,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "うふふ、同じよ。\n心を豊かにしてくれる、って意味でも。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "うふふ、同じよ。\n心を豊かにしてくれる、って意味でも。"
+            },
             "voice": "event/Event_008/Event_008_04/event_008_04_039.mp3"
         },
         {
@@ -357,8 +513,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "そうなの？",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "そうなの？"
+            },
             "voice": "event/Event_008/Event_008_04/event_008_04_040.mp3"
         },
         {
@@ -366,8 +526,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "うふふ。そういうものなの。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "うふふ。そういうものなの。"
+            },
             "voice": "event/Event_008/Event_008_04/event_008_04_041.mp3"
         },
         {
@@ -375,8 +539,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "「やっぱり、美晴の言うことは、私には少し難しい。\n私がもう少し大人になれば……。」",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "「やっぱり、美晴の言うことは、私には少し難しい。\n私がもう少し大人になれば……。」"
+            },
             "voice": "event/Event_008/Event_008_04/event_008_04_042.mp3"
         },
         {
@@ -384,8 +552,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "「少なくとも、お酒が飲めるくらいの大人になれば、\n美晴の言葉もわかるようになるのだろうか。」",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "「少なくとも、お酒が飲めるくらいの大人になれば、\n美晴の言葉もわかるようになるのだろうか。」"
+            },
             "voice": "event/Event_008/Event_008_04/event_008_04_043.mp3"
         },
         {
@@ -393,8 +565,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "「でも時々、ほんの少しだけど、\n美晴の言っていることがわかる気がしたりして。」",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "「でも時々、ほんの少しだけど、\n美晴の言っていることがわかる気がしたりして。」"
+            },
             "voice": "event/Event_008/Event_008_04/event_008_04_044.mp3"
         },
         {
@@ -402,8 +578,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "「それはきっと、美晴の心に触れられたからじゃないかって、\n私は勝手にそう思ってる。」",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "「それはきっと、美晴の心に触れられたからじゃないかって、\n私は勝手にそう思ってる。」"
+            },
             "voice": "event/Event_008/Event_008_04/event_008_04_045.mp3"
         },
         {
@@ -411,8 +591,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "「もしかしたら、勘違いかもしれないけど。」",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "「もしかしたら、勘違いかもしれないけど。」"
+            },
             "voice": "event/Event_008/Event_008_04/event_008_04_046.mp3"
         }
     ]

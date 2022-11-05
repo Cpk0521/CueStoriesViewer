@@ -6,8 +6,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "……だからさ、ラジオって本っ当に最高なんだー。\n……って、ちょっと美晴、聞いてる？",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "……だからさ、ラジオって本っ当に最高なんだー。\n……って、ちょっと美晴、聞いてる？"
+            },
             "voice": "lesson/Lesson_30503/lesson_30503_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "うふふ。聞いてますよー。　\n莉子は本当にラジオが好きなのねー。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "うふふ。聞いてますよー。　\n莉子は本当にラジオが好きなのねー。"
+            },
             "voice": "lesson/Lesson_30503/lesson_30503_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "あ、飲み物、空になっちゃった。取ってこよっと。\n莉子はある？",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "あ、飲み物、空になっちゃった。取ってこよっと。\n莉子はある？"
+            },
             "voice": "lesson/Lesson_30503/lesson_30503_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "あ、お願い。　",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "あ、お願い。　"
+            },
             "voice": "lesson/Lesson_30503/lesson_30503_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "わたしたち、寮で一緒に暮らしてるけど、\nそれでもお互い、知らないことがいっぱいあるものね。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "わたしたち、寮で一緒に暮らしてるけど、\nそれでもお互い、知らないことがいっぱいあるものね。"
+            },
             "voice": "lesson/Lesson_30503/lesson_30503_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "そうだねー。\nでも、そういうの、ちょっとずつ知れると嬉しくなるよねー。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "そうだねー。\nでも、そういうの、ちょっとずつ知れると嬉しくなるよねー。"
+            },
             "voice": "lesson/Lesson_30503/lesson_30503_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "うんうん。　\nこういうの、もっとファンの人たちに届けられるといいかもね。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "うんうん。　\nこういうの、もっとファンの人たちに届けられるといいかもね。"
+            },
             "voice": "lesson/Lesson_30503/lesson_30503_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "ん？　こういうの？　どういうの？　",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "ん？　こういうの？　どういうの？　"
+            },
             "voice": "lesson/Lesson_30503/lesson_30503_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "新しい発見、みたいなのしてもらえたらなって。　\nわたしたちの、いろんなところ。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "新しい発見、みたいなのしてもらえたらなって。　\nわたしたちの、いろんなところ。"
+            },
             "voice": "lesson/Lesson_30503/lesson_30503_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "あー、そうだね。　",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "あー、そうだね。　"
+            },
             "voice": "lesson/Lesson_30503/lesson_30503_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "あたしも1人のファンとして、先輩声優さん追いかけてた時、\nそういうの、嬉しかったもんねー。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "あたしも1人のファンとして、先輩声優さん追いかけてた時、\nそういうの、嬉しかったもんねー。"
+            },
             "voice": "lesson/Lesson_30503/lesson_30503_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "ただいま。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "ただいま。"
+            },
             "voice": "lesson/Lesson_30503/lesson_30503_014.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "あ、絢、おかえりー。　",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "あ、絢、おかえりー。　"
+            },
             "voice": "lesson/Lesson_30503/lesson_30503_015.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "え？　もう飲んでるの？　\nまだ夕方なのに？　",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "え？　もう飲んでるの？　\nまだ夕方なのに？　"
+            },
             "voice": "lesson/Lesson_30503/lesson_30503_016.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "夕方だから飲んでんの。わかんないかなあ。　",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "夕方だから飲んでんの。わかんないかなあ。　"
+            },
             "voice": "lesson/Lesson_30503/lesson_30503_017.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "そうだ、美晴。マネージャーが探してたよ。　\n美晴にお願いしたいことがあるみたい。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "そうだ、美晴。マネージャーが探してたよ。　\n美晴にお願いしたいことがあるみたい。"
+            },
             "voice": "lesson/Lesson_30503/lesson_30503_018.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "あら、何だろう？\nわかった。連絡してみるねー。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "あら、何だろう？\nわかった。連絡してみるねー。"
+            },
             "voice": "lesson/Lesson_30503/lesson_30503_019.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "ちょっと飲んじゃったけど……。\nうふふ、いいよね？",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "ちょっと飲んじゃったけど……。\nうふふ、いいよね？"
+            },
             "voice": "lesson/Lesson_30503/lesson_30503_020.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "あはは。\nマネージャーに絡まないようにね。　",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "あはは。\nマネージャーに絡まないようにね。　"
+            },
             "voice": "lesson/Lesson_30503/lesson_30503_021.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "もう！　わたし、絡み酒はしませんよー。　",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "もう！　わたし、絡み酒はしませんよー。　"
+            },
             "voice": "lesson/Lesson_30503/lesson_30503_022.mp3"
         }
     ]

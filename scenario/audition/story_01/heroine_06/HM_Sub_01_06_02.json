@@ -6,8 +6,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "この前、柚葉からトートバッグをもらったんです。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "この前、柚葉からトートバッグをもらったんです。"
+            },
             "voice": "audition/story_01/heroine_06/HM_Sub_01_06_02/hm_sub_01_06_02_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "お店のノベルティらしいんですけど、\nデザインがすごくかわいいんですよ。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "お店のノベルティらしいんですけど、\nデザインがすごくかわいいんですよ。"
+            },
             "voice": "audition/story_01/heroine_06/HM_Sub_01_06_02/hm_sub_01_06_02_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "それにたくさん入るから、すごく優秀で……。\nお醤油とみりんと牛乳を入れても、全然平気でした。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "それにたくさん入るから、すごく優秀で……。\nお醤油とみりんと牛乳を入れても、全然平気でした。"
+            },
             "voice": "audition/story_01/heroine_06/HM_Sub_01_06_02/hm_sub_01_06_02_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "良い生地使ってるんだろうなぁ。\nそれじゃ、失礼します。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "良い生地使ってるんだろうなぁ。\nそれじゃ、失礼します。"
+            },
             "voice": "audition/story_01/heroine_06/HM_Sub_01_06_02/hm_sub_01_06_02_004.mp3"
         }
     ]

@@ -6,8 +6,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "お疲れ様です。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "お疲れ様です。"
+            },
             "voice": "audition/story_01/heroine_16/HM_Sub_01_16_03/hm_sub_01_16_03_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "お疲れ様、鳴。\n取引先の人から映画のチケット貰ったんだけど見てみない？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "お疲れ様、鳴。\n取引先の人から映画のチケット貰ったんだけど見てみない？"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "映画？",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "映画？"
+            },
             "voice": "audition/story_01/heroine_16/HM_Sub_01_16_03/hm_sub_01_16_03_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そう。今度のオーディションの役に立つかもしれないし。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そう。今度のオーディションの役に立つかもしれないし。"
+            },
             "voice": ""
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "そうですか。\nそれなら見ます。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "そうですか。\nそれなら見ます。"
+            },
             "voice": "audition/story_01/heroine_16/HM_Sub_01_16_03/hm_sub_01_16_03_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "……これ、もう1枚ないんですか？",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "……これ、もう1枚ないんですか？"
+            },
             "voice": "audition/story_01/heroine_16/HM_Sub_01_16_03/hm_sub_01_16_03_006.mp3"
         }
     ]

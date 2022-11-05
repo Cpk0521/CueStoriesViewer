@@ -6,8 +6,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "ジャーマネ。\n休日はいつも何をしてる？",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "ジャーマネ。\n休日はいつも何をしてる？"
+            },
             "voice": "audition/story_01/heroine_03/HM_Sub_01_03_25/hm_sub_01_03_25_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "出かけたり、家でゆっくりしたりかな。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "出かけたり、家でゆっくりしたりかな。"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "無難な答えだった。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "無難な答えだった。"
+            },
             "voice": "audition/story_01/heroine_03/HM_Sub_01_03_25/hm_sub_01_03_25_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そういう志穂はどうなの？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そういう志穂はどうなの？"
+            },
             "voice": ""
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "昼までは寝てる。\n二度寝は基本。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "昼までは寝てる。\n二度寝は基本。"
+            },
             "voice": "audition/story_01/heroine_03/HM_Sub_01_03_25/hm_sub_01_03_25_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "まぁ、最近はできてないけどな。\n陽菜たちには困ったものだ。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "まぁ、最近はできてないけどな。\n陽菜たちには困ったものだ。"
+            },
             "voice": "audition/story_01/heroine_03/HM_Sub_01_03_25/hm_sub_01_03_25_006.mp3"
         }
     ]

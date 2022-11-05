@@ -6,8 +6,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "ねぇ、マネージャー。\nグラバの季節限定、見た？",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "ねぇ、マネージャー。\nグラバの季節限定、見た？"
+            },
             "voice": "audition/story_01/heroine_11/HM_Sub_01_11_02/hm_sub_01_11_02_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "えっ、わからないかも。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "えっ、わからないかも。"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "そうなの？　今度のやつも結構、映えるんだよね。\nポラスタでも受けいいし。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "そうなの？　今度のやつも結構、映えるんだよね。\nポラスタでも受けいいし。"
+            },
             "voice": "audition/story_01/heroine_11/HM_Sub_01_11_02/hm_sub_01_11_02_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "だからまほろ、季節限定は必ずチェックしてるんだよね。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "だからまほろ、季節限定は必ずチェックしてるんだよね。"
+            },
             "voice": "audition/story_01/heroine_11/HM_Sub_01_11_02/hm_sub_01_11_02_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "あとで、マネージャーもチェックしといたら？",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "あとで、マネージャーもチェックしといたら？"
+            },
             "voice": "audition/story_01/heroine_11/HM_Sub_01_11_02/hm_sub_01_11_02_005.mp3"
         }
     ]

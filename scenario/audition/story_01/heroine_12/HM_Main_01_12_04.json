@@ -6,8 +6,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "とうとう来週だけど、準備はどう？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "とうとう来週だけど、準備はどう？"
+            },
             "voice": ""
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "うん、順調だよ。\nでもねー……。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "うん、順調だよ。\nでもねー……。"
+            },
             "voice": "audition/story_01/heroine_12/HM_Main_01_12_04/hm_main_01_12_04_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "うん？　なにかあったの？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "うん？　なにかあったの？"
+            },
             "voice": ""
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "いやー、最近サーフィン控えててさ。\nやっぱり怪我とかしたらまずいじゃん？",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "いやー、最近サーフィン控えててさ。\nやっぱり怪我とかしたらまずいじゃん？"
+            },
             "voice": "audition/story_01/heroine_12/HM_Main_01_12_04/hm_main_01_12_04_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "確かに、今の時期はまずいね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "確かに、今の時期はまずいね。"
+            },
             "voice": ""
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "でしょ？",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "でしょ？"
+            },
             "voice": "audition/story_01/heroine_12/HM_Main_01_12_04/hm_main_01_12_04_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "だけど、サーフィンしたいって気持ちは日に日に溜まってくわけ。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "だけど、サーフィンしたいって気持ちは日に日に溜まってくわけ。"
+            },
             "voice": "audition/story_01/heroine_12/HM_Main_01_12_04/hm_main_01_12_04_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "だから、終わったらぜーったい海に行くんだ！",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "だから、終わったらぜーったい海に行くんだ！"
+            },
             "voice": "audition/story_01/heroine_12/HM_Main_01_12_04/hm_main_01_12_04_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "あはは。\n莉子にとっては、それもモチベーションになってるんだね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "あはは。\n莉子にとっては、それもモチベーションになってるんだね。"
+            },
             "voice": ""
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "うん！\nやっぱり気持ちよく波に乗りたいしね！",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "うん！\nやっぱり気持ちよく波に乗りたいしね！"
+            },
             "voice": "audition/story_01/heroine_12/HM_Main_01_12_04/hm_main_01_12_04_011.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "バッチリ受かって、最高の波に乗るんだ！",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "バッチリ受かって、最高の波に乗るんだ！"
+            },
             "voice": "audition/story_01/heroine_12/HM_Main_01_12_04/hm_main_01_12_04_012.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "もう最っ高だよ！\n波に乗れた瞬間のあの感じ、たまんないの！",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "もう最っ高だよ！\n波に乗れた瞬間のあの感じ、たまんないの！"
+            },
             "voice": "audition/story_01/heroine_12/HM_Main_01_12_04/hm_main_01_12_04_014.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "そうだ、マネージャーもやってみようよ！\n大丈夫、あたしが全部教えてあげるから！",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "そうだ、マネージャーもやってみようよ！\n大丈夫、あたしが全部教えてあげるから！"
+            },
             "voice": "audition/story_01/heroine_12/HM_Main_01_12_04/hm_main_01_12_04_015.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "ちょっとちょっとマネージャー！\nダメだったらなんて言わないでよー。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "ちょっとちょっとマネージャー！\nダメだったらなんて言わないでよー。"
+            },
             "voice": "audition/story_01/heroine_12/HM_Main_01_12_04/hm_main_01_12_04_017.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "ぜーったい受かるから、安心しててね！",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "ぜーったい受かるから、安心しててね！"
+            },
             "voice": "audition/story_01/heroine_12/HM_Main_01_12_04/hm_main_01_12_04_018.mp3"
         }
     ]

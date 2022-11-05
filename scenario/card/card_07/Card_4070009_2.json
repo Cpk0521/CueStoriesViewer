@@ -6,8 +6,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "というわけでマネージャー。\nよろしく頼んだよ！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "というわけでマネージャー。\nよろしく頼んだよ！"
+            },
             "voice": "card/Card_07/Card_4070009_2/card_4070009_2_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "というわけも何も、まだ何も聞いてないんだけど……。　",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "というわけも何も、まだ何も聞いてないんだけど……。　"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "そうだっけ？　",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "そうだっけ？　"
+            },
             "voice": "card/Card_07/Card_4070009_2/card_4070009_2_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "さすがユーキ。\nいつだって前のめりね！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "さすがユーキ。\nいつだって前のめりね！"
+            },
             "voice": "card/Card_07/Card_4070009_2/card_4070009_2_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "もっちろん！\n生まれたからには死ぬ時だって前のめりだよ！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "もっちろん！\n生まれたからには死ぬ時だって前のめりだよ！"
+            },
             "voice": "card/Card_07/Card_4070009_2/card_4070009_2_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "はいはい、もういい？\n私が説明するから。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "はいはい、もういい？\n私が説明するから。"
+            },
             "voice": "card/Card_07/Card_4070009_2/card_4070009_2_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "あの……、\nつまり、マネージャーにお願いしたいのは……。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "あの……、\nつまり、マネージャーにお願いしたいのは……。"
+            },
             "voice": "card/Card_07/Card_4070009_2/card_4070009_2_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "なるほど。あいりの旅を見守れと。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "なるほど。あいりの旅を見守れと。"
+            },
             "voice": ""
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "そうそう。\nさすがマネージャー、ものわかりがいいね！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "そうそう。\nさすがマネージャー、ものわかりがいいね！"
+            },
             "voice": "card/Card_07/Card_4070009_2/card_4070009_2_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "ものわかりって……。　",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "ものわかりって……。　"
+            },
             "voice": ""
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "ま、あたしはあいりのことだから、\n大丈夫だとは思うんだけどさー。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "ま、あたしはあいりのことだから、\n大丈夫だとは思うんだけどさー。"
+            },
             "voice": "card/Card_07/Card_4070009_2/card_4070009_2_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "千紗が心配性だから、しょうがないんだよー。　",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "千紗が心配性だから、しょうがないんだよー。　"
+            },
             "voice": "card/Card_07/Card_4070009_2/card_4070009_2_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "……はいはい。　",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "……はいはい。　"
+            },
             "voice": "card/Card_07/Card_4070009_2/card_4070009_2_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "あのね、マネージャー。　",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "あのね、マネージャー。　"
+            },
             "voice": "card/Card_07/Card_4070009_2/card_4070009_2_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "ああ言ってるけど、この作戦を考えたの、\n実はユーキなのよ？",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "ああ言ってるけど、この作戦を考えたの、\n実はユーキなのよ？"
+            },
             "voice": "card/Card_07/Card_4070009_2/card_4070009_2_015.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "わっ！　バラすなって。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "わっ！　バラすなって。"
+            },
             "voice": "card/Card_07/Card_4070009_2/card_4070009_2_016.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "そうそう。\nそれなのに、私だけが心配性だ、みたいなこと言うんだから。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "そうそう。\nそれなのに、私だけが心配性だ、みたいなこと言うんだから。"
+            },
             "voice": "card/Card_07/Card_4070009_2/card_4070009_2_017.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "へぇ、悠希がねぇ。　",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "へぇ、悠希がねぇ。　"
+            },
             "voice": ""
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "だって、そうじゃんかー！\nこうでもしないと、1人旅、認めないでしょ？",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "だって、そうじゃんかー！\nこうでもしないと、1人旅、認めないでしょ？"
+            },
             "voice": "card/Card_07/Card_4070009_2/card_4070009_2_019.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "みんな、アイリのことが大好きなの。\n私も、もちろん大好きよ！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "みんな、アイリのことが大好きなの。\n私も、もちろん大好きよ！"
+            },
             "voice": "card/Card_07/Card_4070009_2/card_4070009_2_020.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "うんうん。　",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "うんうん。　"
+            },
             "voice": "card/Card_07/Card_4070009_2/card_4070009_2_021.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "というわけで、マネージャー、お願いします。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "というわけで、マネージャー、お願いします。"
+            },
             "voice": "card/Card_07/Card_4070009_2/card_4070009_2_022.mp3"
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "うん、それはいいけど……。　",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "うん、それはいいけど……。　"
+            },
             "voice": ""
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "皆、自分のこと、マネージャーっていうよりも、\n色々頼める便利屋さんだと思ってるフシがない？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "皆、自分のこと、マネージャーっていうよりも、\n色々頼める便利屋さんだと思ってるフシがない？"
+            },
             "voice": ""
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "あれ……？　違ったの？",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "あれ……？　違ったの？"
+            },
             "voice": "card/Card_07/Card_4070009_2/card_4070009_2_025.mp3"
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "違うよ……。　",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "違うよ……。　"
+            },
             "voice": ""
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "でも、わかった。\nあいりのことが心配なのは自分も同じだからね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "でも、わかった。\nあいりのことが心配なのは自分も同じだからね。"
+            },
             "voice": ""
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "じゃあ……、これ。\nあいりが書いてくれた、旅行計画書です。　",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "じゃあ……、これ。\nあいりが書いてくれた、旅行計画書です。　"
+            },
             "voice": "card/Card_07/Card_4070009_2/card_4070009_2_028.mp3"
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "へぇ、随分と細かいね。　",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "へぇ、随分と細かいね。　"
+            },
             "voice": ""
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "そうなの。\nこういうのも、あいりらしいわ。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "そうなの。\nこういうのも、あいりらしいわ。"
+            },
             "voice": "card/Card_07/Card_4070009_2/card_4070009_2_030.mp3"
         },
         {
@@ -276,8 +396,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "この計画書を見れば、追跡もしやすいでしょ。　",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "この計画書を見れば、追跡もしやすいでしょ。　"
+            },
             "voice": "card/Card_07/Card_4070009_2/card_4070009_2_031.mp3"
         },
         {
@@ -285,8 +409,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "うん。そうだね。\nじゃあ、やってみるよ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "うん。そうだね。\nじゃあ、やってみるよ。"
+            },
             "voice": ""
         },
         {
@@ -294,8 +422,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "で、どれどれ？\n出発時間は……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "で、どれどれ？\n出発時間は……。"
+            },
             "voice": ""
         },
         {
@@ -303,8 +435,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "明日の6時半！！！\n早いな……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "明日の6時半！！！\n早いな……。"
+            },
             "voice": ""
         },
         {
@@ -312,8 +448,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "頼んだよマネージャー！\n後方支援はあたしたちにバッチリ任せてくれていいからさ！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "頼んだよマネージャー！\n後方支援はあたしたちにバッチリ任せてくれていいからさ！"
+            },
             "voice": "card/Card_07/Card_4070009_2/card_4070009_2_035.mp3"
         },
         {
@@ -321,8 +461,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "0620……、よし。作戦時間だ！\nこれより、オペレーション「K.A.M.I.N.A.」を決行する！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "0620……、よし。作戦時間だ！\nこれより、オペレーション「K.A.M.I.N.A.」を決行する！"
+            },
             "voice": "card/Card_07/Card_4070009_2/card_4070009_2_036.mp3"
         },
         {
@@ -330,8 +474,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "柚葉隊員！　",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "柚葉隊員！　"
+            },
             "voice": "card/Card_07/Card_4070009_2/card_4070009_2_037.mp3"
         },
         {
@@ -339,8 +487,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "OK、ユーキ隊長！\n現地特派員をミーティングルームに召致するわ！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "OK、ユーキ隊長！\n現地特派員をミーティングルームに召致するわ！"
+            },
             "voice": "card/Card_07/Card_4070009_2/card_4070009_2_038.mp3"
         },
         {
@@ -348,8 +500,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "マネージャーを、グループチャットに招待するのね……。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "マネージャーを、グループチャットに招待するのね……。"
+            },
             "voice": "card/Card_07/Card_4070009_2/card_4070009_2_039.mp3"
         },
         {
@@ -357,8 +513,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "「こちら、“K.A.M.I.N.A.”本部」っと。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "「こちら、“K.A.M.I.N.A.”本部」っと。"
+            },
             "voice": "card/Card_07/Card_4070009_2/card_4070009_2_040.mp3"
         },
         {
@@ -366,8 +526,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "「現地特派員は直ちに応答せよ！」っと！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "「現地特派員は直ちに応答せよ！」っと！"
+            },
             "voice": "card/Card_07/Card_4070009_2/card_4070009_2_041.mp3"
         },
         {
@@ -375,8 +539,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "いちいち大げさなのよね。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "いちいち大げさなのよね。"
+            },
             "voice": "card/Card_07/Card_4070009_2/card_4070009_2_042.mp3"
         },
         {
@@ -384,8 +552,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "あ、マネージャーから返答きたわ！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "あ、マネージャーから返答きたわ！"
+            },
             "voice": "card/Card_07/Card_4070009_2/card_4070009_2_043.mp3"
         },
         {
@@ -393,8 +565,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "「はい。こちら、現地特派員」",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "「はい。こちら、現地特派員」"
+            },
             "voice": ""
         },
         {
@@ -402,8 +578,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "マネージャーもノリノリね……。　",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "マネージャーもノリノリね……。　"
+            },
             "voice": "card/Card_07/Card_4070009_2/card_4070009_2_045.mp3"
         },
         {
@@ -411,8 +591,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "「あいりは今、新幹線の改札を通りました」",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "「あいりは今、新幹線の改札を通りました」"
+            },
             "voice": ""
         },
         {
@@ -420,8 +604,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "この時間の新幹線、たぶんロボに変形するやつだ！　",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "この時間の新幹線、たぶんロボに変形するやつだ！　"
+            },
             "voice": "card/Card_07/Card_4070009_2/card_4070009_2_047.mp3"
         },
         {
@@ -429,8 +617,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "するわけないでしょ！　",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "するわけないでしょ！　"
+            },
             "voice": "card/Card_07/Card_4070009_2/card_4070009_2_048.mp3"
         },
         {
@@ -438,8 +630,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "まったく……。\n「あいりを、見失わないようにしてくださいねっ！」っと。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "まったく……。\n「あいりを、見失わないようにしてくださいねっ！」っと。"
+            },
             "voice": "card/Card_07/Card_4070009_2/card_4070009_2_049.mp3"
         },
         {
@@ -447,8 +643,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "「はい、了解。では、自分も新幹線に乗ります」",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "「はい、了解。では、自分も新幹線に乗ります」"
+            },
             "voice": ""
         },
         {
@@ -456,8 +656,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "とりあえず、これでマネージャーとの連携は問題なさそうね。 ",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "とりあえず、これでマネージャーとの連携は問題なさそうね。 "
+            },
             "voice": "card/Card_07/Card_4070009_2/card_4070009_2_051.mp3"
         },
         {
@@ -465,8 +669,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "いいなぁ、新幹線……。\nあたしも乗りたいなー。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "いいなぁ、新幹線……。\nあたしも乗りたいなー。"
+            },
             "voice": "card/Card_07/Card_4070009_2/card_4070009_2_052.mp3"
         },
         {
@@ -474,8 +682,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "私もー！\n日本の新幹線は、見るだけでテンションが上がるの！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "私もー！\n日本の新幹線は、見るだけでテンションが上がるの！"
+            },
             "voice": "card/Card_07/Card_4070009_2/card_4070009_2_053.mp3"
         },
         {
@@ -483,8 +695,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "あれ？　もしかして柚葉、いける口？",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "あれ？　もしかして柚葉、いける口？"
+            },
             "voice": "card/Card_07/Card_4070009_2/card_4070009_2_054.mp3"
         },
         {
@@ -492,8 +708,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "オフコース！　一般常識でしょ？",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "オフコース！　一般常識でしょ？"
+            },
             "voice": "card/Card_07/Card_4070009_2/card_4070009_2_055.mp3"
         },
         {
@@ -501,8 +721,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "チェンジ！！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "チェンジ！！"
+            },
             "voice": "card/Card_07/Card_4070009_2/card_4070009_2_056.mp3"
         },
         {
@@ -510,8 +734,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "シンカディアン！！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "シンカディアン！！"
+            },
             "voice": "card/Card_07/Card_4070009_2/card_4070009_2_057.mp3"
         },
         {
@@ -519,8 +747,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "……はぁ。　",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "……はぁ。　"
+            },
             "voice": "card/Card_07/Card_4070009_2/card_4070009_2_058.mp3"
         }
     ]

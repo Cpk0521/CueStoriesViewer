@@ -6,8 +6,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "「グレイゼファー」の資料を読んでたんだけど。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "「グレイゼファー」の資料を読んでたんだけど。"
+            },
             "voice": "audition/story_01/heroine_13/HM_Sub_01_13_12/hm_sub_01_13_12_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "この、ケルッコって……、天才ハッカー少年。\nシステムの作成が得意。……って、なんか、鳴みたい。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "この、ケルッコって……、天才ハッカー少年。\nシステムの作成が得意。……って、なんか、鳴みたい。"
+            },
             "voice": "audition/story_01/heroine_13/HM_Sub_01_13_12/hm_sub_01_13_12_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "性格も似てるし。\nちょっと、親近感が湧いちゃうな。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "性格も似てるし。\nちょっと、親近感が湧いちゃうな。"
+            },
             "voice": "audition/story_01/heroine_13/HM_Sub_01_13_12/hm_sub_01_13_12_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "ふふ、よく見ると、髪型も似てるような気がしてきちゃった。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "ふふ、よく見ると、髪型も似てるような気がしてきちゃった。"
+            },
             "voice": "audition/story_01/heroine_13/HM_Sub_01_13_12/hm_sub_01_13_12_004.mp3"
         }
     ]

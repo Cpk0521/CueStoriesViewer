@@ -439,16 +439,40 @@ img {
     flex-direction: column;
     border-bottom: 1px solid #e6e6e6;
     cursor: pointer;
-    padding: 15px 0;
+    padding: 10px 0;
 }
 
 .editor-controller-btn:hover {
     background-color: #e6e6e6;
 }
 
+.editor-info-detail {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    border-bottom: 1px solid #e6e6e6;
+    padding: 5px 15px 10px 15px;
+    text-align: start;
+}
+
+.editor-info-detail-col {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.editor-option {
+    font-size: large;
+    padding: 1px 2px;
+    border-radius: 5px;
+    border: 1px solid #7d7d7d;
+    font-family: 'RodinCattleya_Pro_B';
+}
+
 input[type=text] {
     border-radius: 5px;
     border: 1px solid #7d7d7d;
+    font-family: 'RodinCattleya_Pro_B';
 }
 
 .chapterFilter-list::-webkit-scrollbar {

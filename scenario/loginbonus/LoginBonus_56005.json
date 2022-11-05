@@ -9,8 +9,12 @@
                 12,
                 16
             ],
-            "name": "4人",
-            "message": "おはようございます。　",
+            "name": {
+                "default": "4人"
+            },
+            "message": {
+                "default": "おはようございます。　"
+            },
             "voice": "loginbonus/LoginBonus_56005/loginbonus_56005_001.mp3"
         },
         {
@@ -18,8 +22,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "おっはよー。あなたたち、なんで呼ばれたかわかるかな？",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "おっはよー。あなたたち、なんで呼ばれたかわかるかな？"
+            },
             "voice": "loginbonus/LoginBonus_56005/loginbonus_56005_002.mp3"
         },
         {
@@ -27,8 +35,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "えっと……、なんでしょう？　",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "えっと……、なんでしょう？　"
+            },
             "voice": "loginbonus/LoginBonus_56005/loginbonus_56005_003.mp3"
         },
         {
@@ -36,8 +48,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "またうちの子が何かやりました……？　",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "またうちの子が何かやりました……？　"
+            },
             "voice": "loginbonus/LoginBonus_56005/loginbonus_56005_004.mp3"
         },
         {
@@ -45,8 +61,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "なんだろう……。うーん、仕事？　オーディション？",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "なんだろう……。うーん、仕事？　オーディション？"
+            },
             "voice": "loginbonus/LoginBonus_56005/loginbonus_56005_005.mp3"
         },
         {
@@ -54,8 +74,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "……。　",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "……。　"
+            },
             "voice": "loginbonus/LoginBonus_56005/loginbonus_56005_000.mp3"
         },
         {
@@ -63,8 +87,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "えー、んっんー。　",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "えー、んっんー。　"
+            },
             "voice": "loginbonus/LoginBonus_56005/loginbonus_56005_007.mp3"
         },
         {
@@ -72,8 +100,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "今度から、この4人でCUE!ROOMをやってもらいます。　",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "今度から、この4人でCUE!ROOMをやってもらいます。　"
+            },
             "voice": "loginbonus/LoginBonus_56005/loginbonus_56005_008.mp3"
         },
         {
@@ -84,8 +116,12 @@
                 12,
                 16
             ],
-            "name": "4人",
-            "message": "ええっー？　",
+            "name": {
+                "default": "4人"
+            },
+            "message": {
+                "default": "ええっー？　"
+            },
             "voice": "loginbonus/LoginBonus_56005/loginbonus_56005_009.mp3"
         },
         {
@@ -93,8 +129,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "そうよ。皆のおかげで、CUE!ROOMも好評みたいなの。",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "そうよ。皆のおかげで、CUE!ROOMも好評みたいなの。"
+            },
             "voice": "loginbonus/LoginBonus_56005/loginbonus_56005_010.mp3"
         },
         {
@@ -102,8 +142,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "不慣れなりに、それでも前向きに頑張った姿が、\n観てくれてる人の心を掴んだのかしらね。",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "不慣れなりに、それでも前向きに頑張った姿が、\n観てくれてる人の心を掴んだのかしらね。"
+            },
             "voice": "loginbonus/LoginBonus_56005/loginbonus_56005_011.mp3"
         },
         {
@@ -111,8 +155,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "そうそう！　そこで今回は、\nファンの皆にAiRBLUEの新しい一面をお届け……ってね。",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "そうそう！　そこで今回は、\nファンの皆にAiRBLUEの新しい一面をお届け……ってね。"
+            },
             "voice": "loginbonus/LoginBonus_56005/loginbonus_56005_012.mp3"
         },
         {
@@ -120,8 +168,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "りおさん、その台詞……。　",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "りおさん、その台詞……。　"
+            },
             "voice": "loginbonus/LoginBonus_56005/loginbonus_56005_013.mp3"
         },
         {
@@ -129,8 +181,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "これはりおさん自ら、社長にかけあった、魂の企画だからね。\n皆、協力してね！",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "これはりおさん自ら、社長にかけあった、魂の企画だからね。\n皆、協力してね！"
+            },
             "voice": "loginbonus/LoginBonus_56005/loginbonus_56005_014.mp3"
         },
         {
@@ -138,8 +194,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "楽しみにしてるわ。　",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "楽しみにしてるわ。　"
+            },
             "voice": "loginbonus/LoginBonus_56005/loginbonus_56005_015.mp3"
         },
         {
@@ -147,8 +207,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "じゃ、皆！　頑張ってね。",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "じゃ、皆！　頑張ってね。"
+            },
             "voice": "loginbonus/LoginBonus_56005/loginbonus_56005_016.mp3"
         },
         {
@@ -159,8 +223,12 @@
                 12,
                 16
             ],
-            "name": "4人",
-            "message": "はい！　",
+            "name": {
+                "default": "4人"
+            },
+            "message": {
+                "default": "はい！　"
+            },
             "voice": "loginbonus/LoginBonus_56005/loginbonus_56005_017.mp3"
         }
     ]

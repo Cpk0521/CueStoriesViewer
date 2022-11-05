@@ -6,8 +6,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "ねえ、ユーキ。あの鳥、ちょっと飛び方が変じゃない？",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "ねえ、ユーキ。あの鳥、ちょっと飛び方が変じゃない？"
+            },
             "voice": "event/Event_016/Event_016_01/event_016_01_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "あ、ほんとだ。\nどこか怪我してるのかなぁ。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "あ、ほんとだ。\nどこか怪我してるのかなぁ。"
+            },
             "voice": "event/Event_016/Event_016_01/event_016_01_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "危なっかしい飛び方……。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "危なっかしい飛び方……。"
+            },
             "voice": "event/Event_016/Event_016_01/event_016_01_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "あ！　もう、落ちちゃいそう。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "あ！　もう、落ちちゃいそう。"
+            },
             "voice": "event/Event_016/Event_016_01/event_016_01_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "ねえユーキ、助けに行こ？",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "ねえユーキ、助けに行こ？"
+            },
             "voice": "event/Event_016/Event_016_01/event_016_01_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "うん！　そうしよう！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "うん！　そうしよう！"
+            },
             "voice": "event/Event_016/Event_016_01/event_016_01_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "ふあ～あ……。むにゅむにゅ……。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "ふあ～あ……。むにゅむにゅ……。"
+            },
             "voice": "event/Event_016/Event_016_01/event_016_01_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "……夢？",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "……夢？"
+            },
             "voice": "event/Event_016/Event_016_01/event_016_01_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "ふふっ。懐かしい夢見ちゃった。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "ふふっ。懐かしい夢見ちゃった。"
+            },
             "voice": "event/Event_016/Event_016_01/event_016_01_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "鳥の鳴き声のせいかしら。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "鳥の鳴き声のせいかしら。"
+            },
             "voice": "event/Event_016/Event_016_01/event_016_01_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "悠希！　柚葉！　朝よ！　起きなさーい！\nあいりはもう起きてるわよー！",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "悠希！　柚葉！　朝よ！　起きなさーい！\nあいりはもう起きてるわよー！"
+            },
             "voice": "event/Event_016/Event_016_01/event_016_01_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "はーい！　チサ！　私、もう起きてるわ。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "はーい！　チサ！　私、もう起きてるわ。"
+            },
             "voice": "event/Event_016/Event_016_01/event_016_01_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "ふふっ。I win！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "ふふっ。I win！"
+            },
             "voice": "event/Event_016/Event_016_01/event_016_01_013.mp3"
         }
     ]

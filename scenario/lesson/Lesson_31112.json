@@ -6,8 +6,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "ま、あたしは当然のことをしただけなんだよな。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "ま、あたしは当然のことをしただけなんだよな。"
+            },
             "voice": "lesson/Lesson_31112/lesson_31112_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "船長だから？　",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "船長だから？　"
+            },
             "voice": "lesson/Lesson_31112/lesson_31112_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "そういうこと。　",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "そういうこと。　"
+            },
             "voice": "lesson/Lesson_31112/lesson_31112_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "ふふっ。とっても頼りになるわ。さすがユーキね。　",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "ふふっ。とっても頼りになるわ。さすがユーキね。　"
+            },
             "voice": "lesson/Lesson_31112/lesson_31112_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "でも今回は千紗もあいりも、みんながいたからさ。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "でも今回は千紗もあいりも、みんながいたからさ。"
+            },
             "voice": "lesson/Lesson_31112/lesson_31112_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "悠希ちゃん。　",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "悠希ちゃん。　"
+            },
             "voice": "lesson/Lesson_31112/lesson_31112_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "ほんと、あんたたちには引っ掻き回されっぱなしよ。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "ほんと、あんたたちには引っ掻き回されっぱなしよ。"
+            },
             "voice": "lesson/Lesson_31112/lesson_31112_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "ふふ。千紗、メルシー。　",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "ふふ。千紗、メルシー。　"
+            },
             "voice": "lesson/Lesson_31112/lesson_31112_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "はいはい。\nでも、ま、あんなのもたまには悪くないのかもね。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "はいはい。\nでも、ま、あんなのもたまには悪くないのかもね。"
+            },
             "voice": "lesson/Lesson_31112/lesson_31112_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "でしょ？　",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "でしょ？　"
+            },
             "voice": "lesson/Lesson_31112/lesson_31112_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "しばらくは遠慮したいけど。\nさ、そんなことより、柚葉の探し物、見つけに行くわよ。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "しばらくは遠慮したいけど。\nさ、そんなことより、柚葉の探し物、見つけに行くわよ。"
+            },
             "voice": "lesson/Lesson_31112/lesson_31112_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "うん。カネコのバイク、お願いね！　",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "うん。カネコのバイク、お願いね！　"
+            },
             "voice": "lesson/Lesson_31112/lesson_31112_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "カネコのフィギュアってあれでしょ？\nあの赤いやつでしょ？",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "カネコのフィギュアってあれでしょ？\nあの赤いやつでしょ？"
+            },
             "voice": "lesson/Lesson_31112/lesson_31112_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "そう。赤いやつ。\n成田山のステッカーがポイントなの。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "そう。赤いやつ。\n成田山のステッカーがポイントなの。"
+            },
             "voice": "lesson/Lesson_31112/lesson_31112_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "おっけー！　",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "おっけー！　"
+            },
             "voice": "lesson/Lesson_31112/lesson_31112_015.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "ふふ。さあ、みんなで神瑞町をくまなく探すわよ！",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "ふふ。さあ、みんなで神瑞町をくまなく探すわよ！"
+            },
             "voice": "lesson/Lesson_31112/lesson_31112_016.mp3"
         },
         {
@@ -152,8 +216,12 @@
                 5,
                 7
             ],
-            "name": "3人",
-            "message": "おおー！　",
+            "name": {
+                "default": "3人"
+            },
+            "message": {
+                "default": "おおー！　"
+            },
             "voice": "lesson/Lesson_31112/lesson_31112_017.mp3"
         }
     ]

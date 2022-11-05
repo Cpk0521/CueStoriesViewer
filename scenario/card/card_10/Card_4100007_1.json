@@ -6,8 +6,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "はい、皆、本日も収録お疲れ様でした。\n夜も遅くなったし、気をつけて帰ってね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "はい、皆、本日も収録お疲れ様でした。\n夜も遅くなったし、気をつけて帰ってね。"
+            },
             "voice": ""
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "おつかれさまー。\nあたしはバイクで帰るから！",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "おつかれさまー。\nあたしはバイクで帰るから！"
+            },
             "voice": "card/Card_10/Card_4100007_1/card_4100007_1_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "あと1人乗れるけど、誰か乗ってく？",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "あと1人乗れるけど、誰か乗ってく？"
+            },
             "voice": "card/Card_10/Card_4100007_1/card_4100007_1_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "はーい、わたし乗っていきたい！\nあのね莉子、この前いいお店を見つけたの。少し飲んでいかない？",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "はーい、わたし乗っていきたい！\nあのね莉子、この前いいお店を見つけたの。少し飲んでいかない？"
+            },
             "voice": "card/Card_10/Card_4100007_1/card_4100007_1_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "はあ？　何言ってんの！\nダメに決まってるでしょ。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "はあ？　何言ってんの！\nダメに決まってるでしょ。"
+            },
             "voice": "card/Card_10/Card_4100007_1/card_4100007_1_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "あ、莉子、勘違いしてる。飲酒運転がダメなの当たり前でしょ？\nわたしだけ飲むから、莉子は烏龍茶でってこと。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "あ、莉子、勘違いしてる。飲酒運転がダメなの当たり前でしょ？\nわたしだけ飲むから、莉子は烏龍茶でってこと。"
+            },
             "voice": "card/Card_10/Card_4100007_1/card_4100007_1_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "それもおかしいでしょ！　却下！　却下！",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "それもおかしいでしょ！　却下！　却下！"
+            },
             "voice": "card/Card_10/Card_4100007_1/card_4100007_1_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "え～。そんなぁ。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "え～。そんなぁ。"
+            },
             "voice": "card/Card_10/Card_4100007_1/card_4100007_1_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "……莉子、ほんと、くれぐれも運転気をつけてね……。\nじゃあ、まほろと絢は今日はもうタクシーで帰って。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "……莉子、ほんと、くれぐれも運転気をつけてね……。\nじゃあ、まほろと絢は今日はもうタクシーで帰って。"
+            },
             "voice": ""
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "はい。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "はい。"
+            },
             "voice": "card/Card_10/Card_4100007_1/card_4100007_1_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "領収書、忘れずもらっておいてね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "領収書、忘れずもらっておいてね。"
+            },
             "voice": ""
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "はいはーい。　",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "はいはーい。　"
+            },
             "voice": "card/Card_10/Card_4100007_1/card_4100007_1_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "じゃ、絢、まほろ、気をつけて帰るんだよー。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "じゃ、絢、まほろ、気をつけて帰るんだよー。"
+            },
             "voice": "card/Card_10/Card_4100007_1/card_4100007_1_015.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "むしろそっちが気をつけて。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "むしろそっちが気をつけて。"
+            },
             "voice": "card/Card_10/Card_4100007_1/card_4100007_1_016.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "マネージャーは？",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "マネージャーは？"
+            },
             "voice": "card/Card_10/Card_4100007_1/card_4100007_1_017.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "自分？　自分はこのあと、音響監督さんと打ち合わせがあるから。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "自分？　自分はこのあと、音響監督さんと打ち合わせがあるから。"
+            },
             "voice": ""
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "そうですか。じゃあ行こうか、まほろ。　",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "そうですか。じゃあ行こうか、まほろ。　"
+            },
             "voice": "card/Card_10/Card_4100007_1/card_4100007_1_019.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "じゃ、マネージャー、おつかれー。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "じゃ、マネージャー、おつかれー。"
+            },
             "voice": "card/Card_10/Card_4100007_1/card_4100007_1_020.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "はい、2人ともお疲れ様。\n領収書もらうの忘れないでね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "はい、2人ともお疲れ様。\n領収書もらうの忘れないでね。"
+            },
             "voice": ""
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "タクシー、大通りまで出ないと捕まりそうにないね。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "タクシー、大通りまで出ないと捕まりそうにないね。"
+            },
             "voice": "card/Card_10/Card_4100007_1/card_4100007_1_022.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "そうだね。さ、早く行こ。\nまほろ、もう眠い。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "そうだね。さ、早く行こ。\nまほろ、もう眠い。"
+            },
             "voice": "card/Card_10/Card_4100007_1/card_4100007_1_023.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "うーん、タクシーなかなかつかまんない。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "うーん、タクシーなかなかつかまんない。"
+            },
             "voice": "card/Card_10/Card_4100007_1/card_4100007_1_024.mp3"
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "……都心とはいえ、この時間になると、\nそんなにタクシーは走ってないんだね。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "……都心とはいえ、この時間になると、\nそんなにタクシーは走ってないんだね。"
+            },
             "voice": "card/Card_10/Card_4100007_1/card_4100007_1_025.mp3"
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "繁華街じゃないからかな、このへんは。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "繁華街じゃないからかな、このへんは。"
+            },
             "voice": "card/Card_10/Card_4100007_1/card_4100007_1_026.mp3"
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "……結構風が強いね。ちょっと寒いくらい。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "……結構風が強いね。ちょっと寒いくらい。"
+            },
             "voice": "card/Card_10/Card_4100007_1/card_4100007_1_027.mp3"
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "そろそろ冬……、だしね。　",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "そろそろ冬……、だしね。　"
+            },
             "voice": "card/Card_10/Card_4100007_1/card_4100007_1_028.mp3"
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "ねえ、東京ってさ、冬になると風がほんと強くなるよね。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "ねえ、東京ってさ、冬になると風がほんと強くなるよね。"
+            },
             "voice": "card/Card_10/Card_4100007_1/card_4100007_1_029.mp3"
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "そうなの？ ",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "そうなの？ "
+            },
             "voice": "card/Card_10/Card_4100007_1/card_4100007_1_030.mp3"
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "あー、あんた東京生まれだっけ？\nって、ほら、言ってるそばから強い風！",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "あー、あんた東京生まれだっけ？\nって、ほら、言ってるそばから強い風！"
+            },
             "voice": "card/Card_10/Card_4100007_1/card_4100007_1_031.mp3"
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "うわあ……、凄い……。\nもう！　髪がボサボサ……。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "うわあ……、凄い……。\nもう！　髪がボサボサ……。"
+            },
             "voice": "card/Card_10/Card_4100007_1/card_4100007_1_032.mp3"
         },
         {
@@ -276,8 +396,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "あっ！",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "あっ！"
+            },
             "voice": "card/Card_10/Card_4100007_1/card_4100007_1_033.mp3"
         },
         {
@@ -285,8 +409,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "どうしたの？",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "どうしたの？"
+            },
             "voice": "card/Card_10/Card_4100007_1/card_4100007_1_034.mp3"
         },
         {
@@ -294,8 +422,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "私のキャップ、飛ばされちゃった！",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "私のキャップ、飛ばされちゃった！"
+            },
             "voice": "card/Card_10/Card_4100007_1/card_4100007_1_035.mp3"
         },
         {
@@ -303,8 +435,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "え？　\nあ！　絢！　あっち！",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "え？　\nあ！　絢！　あっち！"
+            },
             "voice": "card/Card_10/Card_4100007_1/card_4100007_1_036.mp3"
         },
         {
@@ -312,8 +448,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "待って！",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "待って！"
+            },
             "voice": "card/Card_10/Card_4100007_1/card_4100007_1_037.mp3"
         },
         {
@@ -321,8 +461,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "ほんとチーム「Wind」ね……。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "ほんとチーム「Wind」ね……。"
+            },
             "voice": "card/Card_10/Card_4100007_1/card_4100007_1_038.mp3"
         },
         {
@@ -330,8 +474,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "はぁはぁ……、追いついたのはいいけど……。\n見事に木に引っかかってんね……。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "はぁはぁ……、追いついたのはいいけど……。\n見事に木に引っかかってんね……。"
+            },
             "voice": "card/Card_10/Card_4100007_1/card_4100007_1_039.mp3"
         },
         {
@@ -339,8 +487,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "飛んでどっかいっちゃうより、全然いいけど……。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "飛んでどっかいっちゃうより、全然いいけど……。"
+            },
             "voice": "card/Card_10/Card_4100007_1/card_4100007_1_040.mp3"
         },
         {
@@ -348,8 +500,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "でも、どうすんのあれ？　ちょっと届かないでしょ。\nはしごとか台とか、こんな道端に落ちてるはずもないし……。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "でも、どうすんのあれ？　ちょっと届かないでしょ。\nはしごとか台とか、こんな道端に落ちてるはずもないし……。"
+            },
             "voice": "card/Card_10/Card_4100007_1/card_4100007_1_041.mp3"
         },
         {
@@ -357,8 +513,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "……登る。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "……登る。"
+            },
             "voice": "card/Card_10/Card_4100007_1/card_4100007_1_042.mp3"
         },
         {
@@ -366,8 +526,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "え？　本気？　\nやめときなって。危ないから。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "え？　本気？　\nやめときなって。危ないから。"
+            },
             "voice": "card/Card_10/Card_4100007_1/card_4100007_1_043.mp3"
         },
         {
@@ -375,8 +539,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "大丈夫、木登りくらい。\n……多分、できるから。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "大丈夫、木登りくらい。\n……多分、できるから。"
+            },
             "voice": "card/Card_10/Card_4100007_1/card_4100007_1_044.mp3"
         },
         {
@@ -384,8 +552,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "多分って……。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "多分って……。"
+            },
             "voice": "card/Card_10/Card_4100007_1/card_4100007_1_045.mp3"
         },
         {
@@ -393,8 +565,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "はっ。\nよいしょ。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "はっ。\nよいしょ。"
+            },
             "voice": "card/Card_10/Card_4100007_1/card_4100007_1_046.mp3"
         },
         {
@@ -402,8 +578,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "ちょっと、本当に気をつけなよ。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "ちょっと、本当に気をつけなよ。"
+            },
             "voice": "card/Card_10/Card_4100007_1/card_4100007_1_047.mp3"
         },
         {
@@ -411,8 +591,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "わ、かっ、てる。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "わ、かっ、てる。"
+            },
             "voice": "card/Card_10/Card_4100007_1/card_4100007_1_048.mp3"
         },
         {
@@ -420,8 +604,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "よいっしょ。あと少し……、もう、ちょっと……、うーん。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "よいっしょ。あと少し……、もう、ちょっと……、うーん。"
+            },
             "voice": "card/Card_10/Card_4100007_1/card_4100007_1_049.mp3"
         },
         {
@@ -429,8 +617,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "お！　あと少し！",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "お！　あと少し！"
+            },
             "voice": "card/Card_10/Card_4100007_1/card_4100007_1_050.mp3"
         },
         {
@@ -438,8 +630,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "ううううう、あと、1センチ、届け……。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "ううううう、あと、1センチ、届け……。"
+            },
             "voice": "card/Card_10/Card_4100007_1/card_4100007_1_051.mp3"
         },
         {
@@ -448,8 +644,12 @@
                 20,
                 11
             ],
-            "name": "2人",
-            "message": "あ！！",
+            "name": {
+                "default": "2人"
+            },
+            "message": {
+                "default": "あ！！"
+            },
             "voice": "card/Card_10/Card_4100007_1/card_4100007_1_050.mp3"
         }
     ]

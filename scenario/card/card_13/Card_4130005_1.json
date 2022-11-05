@@ -6,8 +6,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "利恵？\n利恵？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "利恵？\n利恵？"
+            },
             "voice": ""
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "あれ？\nどこにいるんだろ？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "あれ？\nどこにいるんだろ？"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "マネージャー。\nここよ。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "マネージャー。\nここよ。"
+            },
             "voice": "card/Card_13/Card_4130005_1/card_4130005_1_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "あ、こんなとこに隠れてたんだ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "あ、こんなとこに隠れてたんだ。"
+            },
             "voice": ""
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "誰にも見つからなかった？",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "誰にも見つからなかった？"
+            },
             "voice": "card/Card_13/Card_4130005_1/card_4130005_1_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "大丈夫。\nバッチリ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "大丈夫。\nバッチリ。"
+            },
             "voice": ""
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "……で？\n例のブツは？",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "……で？\n例のブツは？"
+            },
             "voice": "card/Card_13/Card_4130005_1/card_4130005_1_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "手に入れたよ。どうぞ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "手に入れたよ。どうぞ。"
+            },
             "voice": ""
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "見せて……。\nこれよ！　これ！",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "見せて……。\nこれよ！　これ！"
+            },
             "voice": "card/Card_13/Card_4130005_1/card_4130005_1_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "間違いない？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "間違いない？"
+            },
             "voice": ""
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "間違いないわ……。\nこれが例のブツよ……。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "間違いないわ……。\nこれが例のブツよ……。"
+            },
             "voice": "card/Card_13/Card_4130005_1/card_4130005_1_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "ふふふ……、ふはははは……。\nついに……、ついに手に入れたわ！",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "ふふふ……、ふはははは……。\nついに……、ついに手に入れたわ！"
+            },
             "voice": "card/Card_13/Card_4130005_1/card_4130005_1_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "声が大きいよ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "声が大きいよ。"
+            },
             "voice": ""
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "しまった……。\nつい嬉しくて……。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "しまった……。\nつい嬉しくて……。"
+            },
             "voice": "card/Card_13/Card_4130005_1/card_4130005_1_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "……例のブツって何？",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "……例のブツって何？"
+            },
             "voice": "card/Card_13/Card_4130005_1/card_4130005_1_015.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "シッ……、声が大きい、見つかるでしょ。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "シッ……、声が大きい、見つかるでしょ。"
+            },
             "voice": "card/Card_13/Card_4130005_1/card_4130005_1_016.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "利恵は、マネージャーに何を持って来てもらったの……？",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "利恵は、マネージャーに何を持って来てもらったの……？"
+            },
             "voice": "card/Card_13/Card_4130005_1/card_4130005_1_017.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "私にわかるわけないでしょ。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "私にわかるわけないでしょ。"
+            },
             "voice": "card/Card_13/Card_4130005_1/card_4130005_1_018.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "ただ、利恵にとってとても大事なもの。\nしかも、絶対に誰にもバレたくないものよ。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "ただ、利恵にとってとても大事なもの。\nしかも、絶対に誰にもバレたくないものよ。"
+            },
             "voice": "card/Card_13/Card_4130005_1/card_4130005_1_019.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "何でバレたくないの……？",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "何でバレたくないの……？"
+            },
             "voice": "card/Card_13/Card_4130005_1/card_4130005_1_020.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "そりゃ、ヤバいものだからでしょ……。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "そりゃ、ヤバいものだからでしょ……。"
+            },
             "voice": "card/Card_13/Card_4130005_1/card_4130005_1_021.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "ヤバいもの！？",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "ヤバいもの！？"
+            },
             "voice": "card/Card_13/Card_4130005_1/card_4130005_1_022.mp3"
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "シッ……！",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "シッ……！"
+            },
             "voice": "card/Card_13/Card_4130005_1/card_4130005_1_023.mp3"
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "……ん？　\n今、何か声がしなかった……？",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "……ん？　\n今、何か声がしなかった……？"
+            },
             "voice": "card/Card_13/Card_4130005_1/card_4130005_1_024.mp3"
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "ヤバイ……！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "ヤバイ……！"
+            },
             "voice": "card/Card_13/Card_4130005_1/card_4130005_1_025.mp3"
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "任せといて……。\nにゃ～お。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "任せといて……。\nにゃ～お。"
+            },
             "voice": "card/Card_13/Card_4130005_1/card_4130005_1_026.mp3"
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "何だ、猫か……。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "何だ、猫か……。"
+            },
             "voice": "card/Card_13/Card_4130005_1/card_4130005_1_027.mp3"
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "助かったー……。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "助かったー……。"
+            },
             "voice": "card/Card_13/Card_4130005_1/card_4130005_1_028.mp3"
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "猫の鳴き声は、得意なの。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "猫の鳴き声は、得意なの。"
+            },
             "voice": "card/Card_13/Card_4130005_1/card_4130005_1_029.mp3"
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "あの鳴き声は、たぶん汚いドラ猫だな。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "あの鳴き声は、たぶん汚いドラ猫だな。"
+            },
             "voice": "card/Card_13/Card_4130005_1/card_4130005_1_030.mp3"
         },
         {
@@ -276,8 +396,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "可愛い子猫のつもりだったのに……。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "可愛い子猫のつもりだったのに……。"
+            },
             "voice": "card/Card_13/Card_4130005_1/card_4130005_1_031.mp3"
         },
         {
@@ -285,8 +409,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "ね、ヤバいものって何……？",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "ね、ヤバいものって何……？"
+            },
             "voice": "card/Card_13/Card_4130005_1/card_4130005_1_032.mp3"
         },
         {
@@ -294,8 +422,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "わかんないけど……。\nこんな人目につかないところで、コソコソやってるのが証拠よ。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "わかんないけど……。\nこんな人目につかないところで、コソコソやってるのが証拠よ。"
+            },
             "voice": "card/Card_13/Card_4130005_1/card_4130005_1_033.mp3"
         },
         {
@@ -303,8 +435,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "利恵に直接、聞いてみようか？",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "利恵に直接、聞いてみようか？"
+            },
             "voice": "card/Card_13/Card_4130005_1/card_4130005_1_034.mp3"
         },
         {
@@ -312,8 +448,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "そんなこと出来るわけないでしょ。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "そんなこと出来るわけないでしょ。"
+            },
             "voice": "card/Card_13/Card_4130005_1/card_4130005_1_035.mp3"
         },
         {
@@ -321,8 +461,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "でも、こんなとこでコソコソ盗み聞きしてるのは悪いよ。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "でも、こんなとこでコソコソ盗み聞きしてるのは悪いよ。"
+            },
             "voice": "card/Card_13/Card_4130005_1/card_4130005_1_036.mp3"
         },
         {
@@ -330,8 +474,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "しょうがないでしょ。思わず隠れちゃったんだから。\n今さら出るに出れないわ。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "しょうがないでしょ。思わず隠れちゃったんだから。\n今さら出るに出れないわ。"
+            },
             "voice": "card/Card_13/Card_4130005_1/card_4130005_1_037.mp3"
         },
         {
@@ -339,8 +487,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "これ、どこで手に入れたの？",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "これ、どこで手に入れたの？"
+            },
             "voice": "card/Card_13/Card_4130005_1/card_4130005_1_038.mp3"
         },
         {
@@ -348,8 +500,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "苦労したよ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "苦労したよ。"
+            },
             "voice": ""
         },
         {
@@ -357,8 +513,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "そうでしょう。\nこのあたりじゃ手に入らないもの。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "そうでしょう。\nこのあたりじゃ手に入らないもの。"
+            },
             "voice": "card/Card_13/Card_4130005_1/card_4130005_1_040.mp3"
         },
         {
@@ -366,8 +526,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "かなり遠くまで行って、何とか手に入れたよ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "かなり遠くまで行って、何とか手に入れたよ。"
+            },
             "voice": ""
         },
         {
@@ -375,8 +539,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "苦労かけたわね。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "苦労かけたわね。"
+            },
             "voice": "card/Card_13/Card_4130005_1/card_4130005_1_042.mp3"
         },
         {
@@ -384,8 +552,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "でも、喜んでもらえてよかった。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "でも、喜んでもらえてよかった。"
+            },
             "voice": ""
         },
         {
@@ -393,8 +565,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "喜んだわ。\n大喜びよ。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "喜んだわ。\n大喜びよ。"
+            },
             "voice": "card/Card_13/Card_4130005_1/card_4130005_1_044.mp3"
         },
         {
@@ -402,8 +578,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そんなに大事なものなんだ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そんなに大事なものなんだ。"
+            },
             "voice": ""
         },
         {
@@ -411,8 +591,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "ええ、何よりも大事よ。\nこれが無いと、我輩の力は半減する。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "ええ、何よりも大事よ。\nこれが無いと、我輩の力は半減する。"
+            },
             "voice": "card/Card_13/Card_4130005_1/card_4130005_1_046.mp3"
         },
         {
@@ -420,8 +604,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "でもこれさえあれば……、これさえあれば……。\n我輩は無敵になれる！",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "でもこれさえあれば……、これさえあれば……。\n我輩は無敵になれる！"
+            },
             "voice": "card/Card_13/Card_4130005_1/card_4130005_1_047.mp3"
         },
         {
@@ -429,8 +617,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "無敵になれる……？",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "無敵になれる……？"
+            },
             "voice": "card/Card_13/Card_4130005_1/card_4130005_1_048.mp3"
         },
         {
@@ -438,8 +630,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "間違いない……。\n私達は、知ってはならないことを知ってしまったのかも……。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "間違いない……。\n私達は、知ってはならないことを知ってしまったのかも……。"
+            },
             "voice": "card/Card_13/Card_4130005_1/card_4130005_1_049.mp3"
         },
         {
@@ -447,8 +643,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "知ってはならないこと……！？",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "知ってはならないこと……！？"
+            },
             "voice": "card/Card_13/Card_4130005_1/card_4130005_1_050.mp3"
         },
         {
@@ -456,8 +656,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "もし……、利恵にバレたら……。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "もし……、利恵にバレたら……。"
+            },
             "voice": "card/Card_13/Card_4130005_1/card_4130005_1_051.mp3"
         },
         {
@@ -465,8 +669,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "バレたら……、どうなるの？",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "バレたら……、どうなるの？"
+            },
             "voice": "card/Card_13/Card_4130005_1/card_4130005_1_052.mp3"
         },
         {
@@ -474,8 +682,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "下手したら、消されるかも……。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "下手したら、消されるかも……。"
+            },
             "voice": "card/Card_13/Card_4130005_1/card_4130005_1_053.mp3"
         },
         {
@@ -483,8 +695,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "消される！？",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "消される！？"
+            },
             "voice": "card/Card_13/Card_4130005_1/card_4130005_1_054.mp3"
         },
         {
@@ -492,8 +708,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "……ん？\n何か言ったか？",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "……ん？\n何か言ったか？"
+            },
             "voice": "card/Card_13/Card_4130005_1/card_4130005_1_055.mp3"
         },
         {
@@ -501,8 +721,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "いや、何も……？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "いや、何も……？"
+            },
             "voice": ""
         },
         {
@@ -510,8 +734,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "まさか、誰かいるんじゃないだろうな……？",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "まさか、誰かいるんじゃないだろうな……？"
+            },
             "voice": "card/Card_13/Card_4130005_1/card_4130005_1_057.mp3"
         },
         {
@@ -519,8 +747,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "誰もいないと思うけど……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "誰もいないと思うけど……。"
+            },
             "voice": ""
         },
         {
@@ -528,8 +760,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "もし……、もしこの秘密が誰かに知れたら……。\nそいつを生かしておくわけにはいかない。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "もし……、もしこの秘密が誰かに知れたら……。\nそいつを生かしておくわけにはいかない。"
+            },
             "voice": "card/Card_13/Card_4130005_1/card_4130005_1_059.mp3"
         },
         {
@@ -537,8 +773,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "やっぱり……。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "やっぱり……。"
+            },
             "voice": "card/Card_13/Card_4130005_1/card_4130005_1_060.mp3"
         },
         {
@@ -546,8 +786,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "どうしよう……。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "どうしよう……。"
+            },
             "voice": "card/Card_13/Card_4130005_1/card_4130005_1_061.mp3"
         },
         {
@@ -555,8 +799,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そんな、大げさな……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そんな、大げさな……。"
+            },
             "voice": ""
         },
         {
@@ -564,8 +812,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "大げさ？　マネージャーは全然わかってないようだな。\nこの秘密がバレた場合、どうなるか。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "大げさ？　マネージャーは全然わかってないようだな。\nこの秘密がバレた場合、どうなるか。"
+            },
             "voice": "card/Card_13/Card_4130005_1/card_4130005_1_063.mp3"
         },
         {
@@ -573,8 +825,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "え、どうなるの……？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "え、どうなるの……？"
+            },
             "voice": ""
         },
         {
@@ -582,8 +838,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "もしこの秘密がバレたら……、全てが終わる。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "もしこの秘密がバレたら……、全てが終わる。"
+            },
             "voice": "card/Card_13/Card_4130005_1/card_4130005_1_065.mp3"
         },
         {
@@ -591,8 +851,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "全てが……！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "全てが……！"
+            },
             "voice": "card/Card_13/Card_4130005_1/card_4130005_1_066.mp3"
         },
         {
@@ -600,8 +864,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "終わる……！",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "終わる……！"
+            },
             "voice": "card/Card_13/Card_4130005_1/card_4130005_1_067.mp3"
         }
     ]

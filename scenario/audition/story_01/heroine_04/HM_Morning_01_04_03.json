@@ -6,8 +6,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "おはようございます！\n早いですね！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "おはようございます！\n早いですね！"
+            },
             "voice": "audition/story_01/heroine_04/HM_Morning_01_04_03/hm_morning_01_04_03_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "今日はなんか体の調子がいいんですよ。\nだから、もう学校まで走っちゃおうかなって！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "今日はなんか体の調子がいいんですよ。\nだから、もう学校まで走っちゃおうかなって！"
+            },
             "voice": "audition/story_01/heroine_04/HM_Morning_01_04_03/hm_morning_01_04_03_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "じゃあ、いってきます、マネージャー！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "じゃあ、いってきます、マネージャー！"
+            },
             "voice": "audition/story_01/heroine_04/HM_Morning_01_04_03/hm_morning_01_04_03_003.mp3"
         }
     ]

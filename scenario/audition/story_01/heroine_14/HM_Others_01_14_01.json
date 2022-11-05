@@ -6,8 +6,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "……準備不足だったって事ですね。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "……準備不足だったって事ですね。"
+            },
             "voice": "audition/story_01/heroine_14/HM_Others_01_14_01/hm_others_01_14_01_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "聡里、えっと……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "聡里、えっと……。"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "あなたが落ち込まないでください。\n私の落ち度なんですから。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "あなたが落ち込まないでください。\n私の落ち度なんですから。"
+            },
             "voice": "audition/story_01/heroine_14/HM_Others_01_14_01/hm_others_01_14_01_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そんなこと……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そんなこと……。"
+            },
             "voice": ""
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "慰めはいりません。\nみじめになるだけですから。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "慰めはいりません。\nみじめになるだけですから。"
+            },
             "voice": "audition/story_01/heroine_14/HM_Others_01_14_01/hm_others_01_14_01_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "……次はこんな醜態晒しません。\n絶対に、受かってみせます。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "……次はこんな醜態晒しません。\n絶対に、受かってみせます。"
+            },
             "voice": "audition/story_01/heroine_14/HM_Others_01_14_01/hm_others_01_14_01_006.mp3"
         }
     ]

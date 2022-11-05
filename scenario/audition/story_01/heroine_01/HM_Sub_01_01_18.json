@@ -6,8 +6,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "あの、マネージャーさんすみません……。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "あの、マネージャーさんすみません……。"
+            },
             "voice": "audition/story_01/heroine_01/HM_Sub_01_01_18/hm_sub_01_01_18_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "充電ケーブルの種類って何種類あるんですか？",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "充電ケーブルの種類って何種類あるんですか？"
+            },
             "voice": "audition/story_01/heroine_01/HM_Sub_01_01_18/hm_sub_01_01_18_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "買ってきて繋ごうと思ったら差込口の形が違って……、って、\nわたし、何度もやっちゃうんです。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "買ってきて繋ごうと思ったら差込口の形が違って……、って、\nわたし、何度もやっちゃうんです。"
+            },
             "voice": "audition/story_01/heroine_01/HM_Sub_01_01_18/hm_sub_01_01_18_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "えっと、つまり今、必要な形は、\nUSB3.0のマイクロなんとかCってやつみたいなんですけど……。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "えっと、つまり今、必要な形は、\nUSB3.0のマイクロなんとかCってやつみたいなんですけど……。"
+            },
             "voice": "audition/story_01/heroine_01/HM_Sub_01_01_18/hm_sub_01_01_18_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "これってどういう形の物を買えばいいんですか？",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "これってどういう形の物を買えばいいんですか？"
+            },
             "voice": "audition/story_01/heroine_01/HM_Sub_01_01_18/hm_sub_01_01_18_005.mp3"
         }
     ]

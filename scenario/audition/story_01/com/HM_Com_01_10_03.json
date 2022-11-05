@@ -6,8 +6,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "マネージャー、お疲れ様です。　",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "マネージャー、お疲れ様です。　"
+            },
             "voice": "audition/story_01/com/HM_Com_01_10_03/hm_com_01_10_03_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "お疲れ様です、マネージャーさん。　",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "お疲れ様です、マネージャーさん。　"
+            },
             "voice": "audition/story_01/com/HM_Com_01_10_03/hm_com_01_10_03_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "ああ、お疲れ様。　",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "ああ、お疲れ様。　"
+            },
             "voice": ""
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "あれ？　莉子とまほろは？　",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "あれ？　莉子とまほろは？　"
+            },
             "voice": ""
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "先に2人で出かけちゃいました。　",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "先に2人で出かけちゃいました。　"
+            },
             "voice": "audition/story_01/com/HM_Com_01_10_03/hm_com_01_10_03_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "わたしたちは置いてけぼり。ねぇ、絢。\nわたしたちだけで何か食べに行きましょ？",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "わたしたちは置いてけぼり。ねぇ、絢。\nわたしたちだけで何か食べに行きましょ？"
+            },
             "voice": "audition/story_01/com/HM_Com_01_10_03/hm_com_01_10_03_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "うん。でも、美晴もいつもまほろや莉子と出かけるでしょ？　",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "うん。でも、美晴もいつもまほろや莉子と出かけるでしょ？　"
+            },
             "voice": "audition/story_01/com/HM_Com_01_10_03/hm_com_01_10_03_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "そう？　そんなことないわよ。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "そう？　そんなことないわよ。"
+            },
             "voice": "audition/story_01/com/HM_Com_01_10_03/hm_com_01_10_03_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "ふふっ。そういうことにしとく。　",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "ふふっ。そういうことにしとく。　"
+            },
             "voice": "audition/story_01/com/HM_Com_01_10_03/hm_com_01_10_03_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "絢ってほんと、みんなにかわいがられてるよね……。　",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "絢ってほんと、みんなにかわいがられてるよね……。　"
+            },
             "voice": ""
         }
     ]

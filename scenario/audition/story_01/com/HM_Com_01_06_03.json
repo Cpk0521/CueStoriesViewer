@@ -6,8 +6,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "チサは物事を悲観的に考えすぎなのよ。\nもう少し気楽に考えてもいいんじゃない？",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "チサは物事を悲観的に考えすぎなのよ。\nもう少し気楽に考えてもいいんじゃない？"
+            },
             "voice": "audition/story_01/com/HM_Com_01_06_03/hm_com_01_06_03_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "はいはい。\nじゃあもう少し気楽に考えられるように、協力お願いね。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "はいはい。\nじゃあもう少し気楽に考えられるように、協力お願いね。"
+            },
             "voice": "audition/story_01/com/HM_Com_01_06_03/hm_com_01_06_03_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "マネージャー、柚葉連れてきました。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "マネージャー、柚葉連れてきました。"
+            },
             "voice": "audition/story_01/com/HM_Com_01_06_03/hm_com_01_06_03_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "ああ、ありがとう。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "ああ、ありがとう。"
+            },
             "voice": ""
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "ハーイ！　マネージャー！\n今日はなんの用？",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "ハーイ！　マネージャー！\n今日はなんの用？"
+            },
             "voice": "audition/story_01/com/HM_Com_01_06_03/hm_com_01_06_03_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "柚葉、この前の経費の精算についてなんだけどね、\n柚葉の海外渡航費はこっちに回さないでくれるかな……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "柚葉、この前の経費の精算についてなんだけどね、\n柚葉の海外渡航費はこっちに回さないでくれるかな……。"
+            },
             "voice": ""
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "あら、Sorry。混ざってたみたい。\nでも悪気はないのよ？",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "あら、Sorry。混ざってたみたい。\nでも悪気はないのよ？"
+            },
             "voice": "audition/story_01/com/HM_Com_01_06_03/hm_com_01_06_03_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "え？　そんなの混ざってたの？\nあんたね……、悪気の有る無しの問題じゃないでしょ。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "え？　そんなの混ざってたの？\nあんたね……、悪気の有る無しの問題じゃないでしょ。"
+            },
             "voice": "audition/story_01/com/HM_Com_01_06_03/hm_com_01_06_03_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "っていうか、柚葉はやっぱり、\nどこに行くにもファーストクラスなんだね……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "っていうか、柚葉はやっぱり、\nどこに行くにもファーストクラスなんだね……。"
+            },
             "voice": ""
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "ファーストクラス……。\nはあ……。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "ファーストクラス……。\nはあ……。"
+            },
             "voice": "audition/story_01/com/HM_Com_01_06_03/hm_com_01_06_03_010.mp3"
         }
     ]

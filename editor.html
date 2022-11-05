@@ -67,11 +67,22 @@
             <aside class="reader-left">
               <div class='infoBlock sticky'>
                 <div class='info-contain'>
-                  <div>
-
+                  <div class="editor-info-detail">
+                    <div class="editor-info-detail-col">
+                      <nav>Translator :</nav>
+                      <input type="text" id="translator"/>
+                    </div>
+                    <div class="editor-info-detail-col">
+                      <nav>language :</nav>
+                      <select class="editor-option" id="editor-option">
+                        <option value="default" selected disabled>---</option>
+                        <option value="zh">Chinese</option>
+                        <option value="eng">English</option>
+                      </select>
+                    </div>
                   </div>
                   <div class="editor-controller">
-                    <div class="editor-controller-btn" onclick="preview()">
+                    <div class="editor-controller-btn" id='editor-preview-btn' onclick="preview()">
                       <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 12s3-7 10-7 10 7 10 7-3 7-10 7-10-7-10-7Z"></path><circle cx="12" cy="12" r="3"></circle></svg>
                       <div>preview</div>
                     </div>

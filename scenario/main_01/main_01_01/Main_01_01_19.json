@@ -6,8 +6,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "失礼します。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "失礼します。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_19/main_01_01_19_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "実際はどうなの？",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "実際はどうなの？"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_19/main_01_01_19_003.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "平静を装ってますけど、まだかなり辛いみたいです。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "平静を装ってますけど、まだかなり辛いみたいです。"
+            },
             "voice": ""
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "そう……。",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "そう……。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_19/main_01_01_19_005.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "ほのかちゃん、プリン食べる……？",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "ほのかちゃん、プリン食べる……？"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_19/main_01_01_19_007.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "甘いもの食べると太るし。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "甘いもの食べると太るし。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_19/main_01_01_19_008.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "大丈夫だよ、ほのかちゃん運動してるし。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "大丈夫だよ、ほのかちゃん運動してるし。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_19/main_01_01_19_009.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "最近全然出来てないよ。\nそれどころじゃなかったし……。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "最近全然出来てないよ。\nそれどころじゃなかったし……。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_19/main_01_01_19_010.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "あっ……。\nごめん……。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "あっ……。\nごめん……。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_19/main_01_01_19_011.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "ほのかは大丈夫でしょ。\n少しくらい筋トレしなくても。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "ほのかは大丈夫でしょ。\n少しくらい筋トレしなくても。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_19/main_01_01_19_012.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "そんなわけない。\nトレーニングを舐めないで。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "そんなわけない。\nトレーニングを舐めないで。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_19/main_01_01_19_013.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "ごめん……。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "ごめん……。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_19/main_01_01_19_014.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "こんばんはー。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "こんばんはー。"
+            },
             "voice": ""
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "あ、マネージャーさん。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "あ、マネージャーさん。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_19/main_01_01_19_016.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "助かったぁー……。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "助かったぁー……。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_19/main_01_01_19_017.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "どうしたの？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "どうしたの？"
+            },
             "voice": ""
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "ほのかと、どう接していいかわかんなくて……。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "ほのかと、どう接していいかわかんなくて……。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_19/main_01_01_19_019.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "志穂ちゃんなんて、ほのかちゃんと一言も喋ってません。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "志穂ちゃんなんて、ほのかちゃんと一言も喋ってません。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_19/main_01_01_19_020.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そっか……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そっか……。"
+            },
             "voice": ""
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "マネージャー……。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "マネージャー……。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_19/main_01_01_19_022.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "なに？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "なに？"
+            },
             "voice": ""
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "わたし、何日もレッスン休んじゃったから……。\n正直、みんなとかなり差がつきましたよね……。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "わたし、何日もレッスン休んじゃったから……。\n正直、みんなとかなり差がつきましたよね……。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_19/main_01_01_19_024.mp3"
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そんなことないよ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そんなことないよ。"
+            },
             "voice": ""
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "うん、今からでも大丈夫。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "うん、今からでも大丈夫。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_19/main_01_01_19_026.mp3"
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "そんな甘い世界じゃないでしょ……？",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "そんな甘い世界じゃないでしょ……？"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_19/main_01_01_19_027.mp3"
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そうだけど……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そうだけど……。"
+            },
             "voice": ""
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "あーあ……。実家出る前、あの子に宣言してきたのに……。\n絶対に立派な声優になるって……。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "あーあ……。実家出る前、あの子に宣言してきたのに……。\n絶対に立派な声優になるって……。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_19/main_01_01_19_029.mp3"
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "そっか……。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "そっか……。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_19/main_01_01_19_030.mp3"
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "悲しいこと思い出させてごめんね……。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "悲しいこと思い出させてごめんね……。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_19/main_01_01_19_031.mp3"
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "（これは大変だな……。）",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "（これは大変だな……。）"
+            },
             "voice": ""
         },
         {
@@ -276,8 +396,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "ほのか、いい加減にしろ。\nみんなが気を遣ってるの、わからないか？",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "ほのか、いい加減にしろ。\nみんなが気を遣ってるの、わからないか？"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_19/main_01_01_19_033.mp3"
         },
         {
@@ -285,8 +409,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "ちょっと……。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "ちょっと……。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_19/main_01_01_19_034.mp3"
         },
         {
@@ -294,8 +422,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "二度とそんな陰気臭い顔するな。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "二度とそんな陰気臭い顔するな。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_19/main_01_01_19_035.mp3"
         },
         {
@@ -303,8 +435,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "志穂が言うのかそれ……。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "志穂が言うのかそれ……。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_19/main_01_01_19_036.mp3"
         },
         {
@@ -312,8 +448,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "志穂にはわたしの気持ちなんて分からないよ……。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "志穂にはわたしの気持ちなんて分からないよ……。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_19/main_01_01_19_037.mp3"
         },
         {
@@ -321,8 +461,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "分からない。私はほのかじゃないし。\nほのかの犬のことなんて知らない。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "分からない。私はほのかじゃないし。\nほのかの犬のことなんて知らない。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_19/main_01_01_19_038.mp3"
         },
         {
@@ -330,8 +474,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "志穂……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "志穂……。"
+            },
             "voice": ""
         },
         {
@@ -339,8 +487,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "最低……、最低だよ。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "最低……、最低だよ。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_19/main_01_01_19_040.mp3"
         },
         {
@@ -348,8 +500,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "最低で結構。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "最低で結構。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_19/main_01_01_19_041.mp3"
         },
         {
@@ -357,8 +513,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "……。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "……。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_19/main_01_01_19_042.mp3"
         },
         {
@@ -366,8 +526,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "……。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "……。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_19/main_01_01_19_043.mp3"
         },
         {
@@ -375,8 +539,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "（険悪な空気だな……。\nどうなっちゃうんだ……？） ",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "（険悪な空気だな……。\nどうなっちゃうんだ……？） "
+            },
             "voice": ""
         }
     ]

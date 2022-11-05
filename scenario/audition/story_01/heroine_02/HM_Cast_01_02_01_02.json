@@ -6,8 +6,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "お疲れっすー！",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "お疲れっすー！"
+            },
             "voice": "audition/story_01/heroine_02/HM_Cast_01_02_01_02/hm_cast_01_02_01_02_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "お疲れ様です。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "お疲れ様です。"
+            },
             "voice": "audition/story_01/heroine_02/HM_Cast_01_02_01_02/hm_cast_01_02_01_02_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "マネージャー！\n見てくださいよ、これ！",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "マネージャー！\n見てくださいよ、これ！"
+            },
             "voice": "audition/story_01/heroine_02/HM_Cast_01_02_01_02/hm_cast_01_02_01_02_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "え？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "え？"
+            },
             "voice": ""
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "じゃーん！　ハコダテ一番  すき焼き味！\nコンビニ限定のやつなんすよ。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "じゃーん！　ハコダテ一番  すき焼き味！\nコンビニ限定のやつなんすよ。"
+            },
             "voice": "audition/story_01/heroine_02/HM_Cast_01_02_01_02/hm_cast_01_02_01_02_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "いやー。どこも売り切れって聞いてたんで、\n買えてよかったっす。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "いやー。どこも売り切れって聞いてたんで、\n買えてよかったっす。"
+            },
             "voice": "audition/story_01/heroine_02/HM_Cast_01_02_01_02/hm_cast_01_02_01_02_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "うふふ、よかったね。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "うふふ、よかったね。"
+            },
             "voice": "audition/story_01/heroine_02/HM_Cast_01_02_01_02/hm_cast_01_02_01_02_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "陽菜も食べてみる？",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "陽菜も食べてみる？"
+            },
             "voice": "audition/story_01/heroine_02/HM_Cast_01_02_01_02/hm_cast_01_02_01_02_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "あ、うん。\nでも、すき焼き味のラーメンっておいしいのかな？",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "あ、うん。\nでも、すき焼き味のラーメンっておいしいのかな？"
+            },
             "voice": "audition/story_01/heroine_02/HM_Cast_01_02_01_02/hm_cast_01_02_01_02_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "おいしいおいしい！\n帰ったらリビング集合ね。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "おいしいおいしい！\n帰ったらリビング集合ね。"
+            },
             "voice": "audition/story_01/heroine_02/HM_Cast_01_02_01_02/hm_cast_01_02_01_02_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "ふふっ、はーい。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "ふふっ、はーい。"
+            },
             "voice": "audition/story_01/heroine_02/HM_Cast_01_02_01_02/hm_cast_01_02_01_02_011.mp3"
         }
     ]

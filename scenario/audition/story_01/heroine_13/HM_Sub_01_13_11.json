@@ -6,8 +6,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "今日は夕飯の当番だから、いつもより早く帰るんだ。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "今日は夕飯の当番だから、いつもより早く帰るんだ。"
+            },
             "voice": "audition/story_01/heroine_13/HM_Sub_01_13_11/hm_sub_01_13_11_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "でも、何作ろう。\n……決めた。１つはハンバーグのディアボラ風だ。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "でも、何作ろう。\n……決めた。１つはハンバーグのディアボラ風だ。"
+            },
             "voice": "audition/story_01/heroine_13/HM_Sub_01_13_11/hm_sub_01_13_11_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "……え？\nいや、ちょっとは上達してるから！",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "……え？\nいや、ちょっとは上達してるから！"
+            },
             "voice": "audition/story_01/heroine_13/HM_Sub_01_13_11/hm_sub_01_13_11_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "もう黒くなったりしないし。\n鳴だっておいしそうに食べてくれてるし！",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "もう黒くなったりしないし。\n鳴だっておいしそうに食べてくれてるし！"
+            },
             "voice": "audition/story_01/heroine_13/HM_Sub_01_13_11/hm_sub_01_13_11_004.mp3"
         }
     ]

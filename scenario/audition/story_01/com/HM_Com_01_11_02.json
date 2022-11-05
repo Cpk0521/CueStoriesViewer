@@ -6,8 +6,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "あ、まほろ、お疲れ様。　",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "あ、まほろ、お疲れ様。　"
+            },
             "voice": ""
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "んー、たまにはマネージャーも……。\nよし。マネージャーちょっとこっち来て。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "んー、たまにはマネージャーも……。\nよし。マネージャーちょっとこっち来て。"
+            },
             "voice": "audition/story_01/com/HM_Com_01_11_02/hm_com_01_11_02_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "え？　何？　ちょ、ちょっと、まほろ？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "え？　何？　ちょ、ちょっと、まほろ？"
+            },
             "voice": ""
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "ほら、いいからいいから。\nはい、３・２・１。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "ほら、いいからいいから。\nはい、３・２・１。"
+            },
             "voice": "audition/story_01/com/HM_Com_01_11_02/hm_com_01_11_02_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "ん。いいじゃん。\nほら、マネージャーいい顔してる。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "ん。いいじゃん。\nほら、マネージャーいい顔してる。"
+            },
             "voice": "audition/story_01/com/HM_Com_01_11_02/hm_com_01_11_02_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "これなら、マネージャーにもファンがつくんじゃない？　",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "これなら、マネージャーにもファンがつくんじゃない？　"
+            },
             "voice": "audition/story_01/com/HM_Com_01_11_02/hm_com_01_11_02_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "いやいや、自分はそういうのは……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "いやいや、自分はそういうのは……。"
+            },
             "voice": ""
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "何言ってんの。\n今は裏方スタッフにファンがつくことだってあるんだから。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "何言ってんの。\n今は裏方スタッフにファンがつくことだってあるんだから。"
+            },
             "voice": "audition/story_01/com/HM_Com_01_11_02/hm_com_01_11_02_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "マネージャーの好感度次第で、\n回り回ってタレントの人気に繋がるわけ。わかる？",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "マネージャーの好感度次第で、\n回り回ってタレントの人気に繋がるわけ。わかる？"
+            },
             "voice": "audition/story_01/com/HM_Com_01_11_02/hm_com_01_11_02_009.mp3"
         }
     ]

@@ -6,8 +6,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "自分にいいアイデアがあるの。　",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "自分にいいアイデアがあるの。　"
+            },
             "voice": "event/Event_001/Event_001_08/event_001_08_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "アイデアって、何？　",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "アイデアって、何？　"
+            },
             "voice": "event/Event_001/Event_001_08/event_001_08_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "ここの貼り紙、見て。　",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "ここの貼り紙、見て。　"
+            },
             "voice": "event/Event_001/Event_001_08/event_001_08_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "何これ……。\n「テント貸し出します」？　",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "何これ……。\n「テント貸し出します」？　"
+            },
             "voice": "event/Event_001/Event_001_08/event_001_08_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "テントを借りるってこと？　",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "テントを借りるってこと？　"
+            },
             "voice": "event/Event_001/Event_001_08/event_001_08_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "防水のテントを借りれば、\n突然の雨も平気じゃない？",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "防水のテントを借りれば、\n突然の雨も平気じゃない？"
+            },
             "voice": "event/Event_001/Event_001_08/event_001_08_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "でも、そんなお金どこにある？　",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "でも、そんなお金どこにある？　"
+            },
             "voice": "event/Event_001/Event_001_08/event_001_08_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "このバーベキュー場は、うちでずっと利用してたの。\nだから自分は、割引券を持ってる。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "このバーベキュー場は、うちでずっと利用してたの。\nだから自分は、割引券を持ってる。"
+            },
             "voice": "event/Event_001/Event_001_08/event_001_08_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "安く借りられるってこと？　",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "安く借りられるってこと？　"
+            },
             "voice": "event/Event_001/Event_001_08/event_001_08_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "券は何枚かあるから、\nタダ同然で借りられるよ。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "券は何枚かあるから、\nタダ同然で借りられるよ。"
+            },
             "voice": "event/Event_001/Event_001_08/event_001_08_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "舞花ちゃん、すごい！　",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "舞花ちゃん、すごい！　"
+            },
             "voice": "event/Event_001/Event_001_08/event_001_08_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "でも、雨が降らなかったら？　",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "でも、雨が降らなかったら？　"
+            },
             "voice": "event/Event_001/Event_001_08/event_001_08_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "それでも、テントがあれば便利だよ。\n中は日陰で涼しいし。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "それでも、テントがあれば便利だよ。\n中は日陰で涼しいし。"
+            },
             "voice": "event/Event_001/Event_001_08/event_001_08_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "問題は、どうやってテントを張るかだよねー。　",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "問題は、どうやってテントを張るかだよねー。　"
+            },
             "voice": "event/Event_001/Event_001_08/event_001_08_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "まさか……。\n全部、自分達でやるの？　",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "まさか……。\n全部、自分達でやるの？　"
+            },
             "voice": "event/Event_001/Event_001_08/event_001_08_015.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "そんなの無理だよ。\nか弱い女の子だけだもん。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "そんなの無理だよ。\nか弱い女の子だけだもん。"
+            },
             "voice": "event/Event_001/Event_001_08/event_001_08_016.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "ちょっと待って～、誰か忘れてない？\nこういう時、頼りになる人がいるでしょ？",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "ちょっと待って～、誰か忘れてない？\nこういう時、頼りになる人がいるでしょ？"
+            },
             "voice": "event/Event_001/Event_001_08/event_001_08_017.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "だよね？\nほのか。　",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "だよね？\nほのか。　"
+            },
             "voice": "event/Event_001/Event_001_08/event_001_08_018.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "こういうのなら、わたしに任せといて！　",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "こういうのなら、わたしに任せといて！　"
+            },
             "voice": "event/Event_001/Event_001_08/event_001_08_019.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "テントを借りてきたよ～。\nあとはほのか、よろしく。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "テントを借りてきたよ～。\nあとはほのか、よろしく。"
+            },
             "voice": "event/Event_001/Event_001_08/event_001_08_020.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "OK！　みんなにも手伝ってもらうよ。\nわたしの指示通り、テキパキ動いてね。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "OK！　みんなにも手伝ってもらうよ。\nわたしの指示通り、テキパキ動いてね。"
+            },
             "voice": "event/Event_001/Event_001_08/event_001_08_021.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "はい。\nがんばります！　",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "はい。\nがんばります！　"
+            },
             "voice": "event/Event_001/Event_001_08/event_001_08_022.mp3"
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "そこそこ、がんばります。　",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "そこそこ、がんばります。　"
+            },
             "voice": "event/Event_001/Event_001_08/event_001_08_023.mp3"
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "じゃあ、まずはテントを広げるね。\nみんな、四隅を持って広がって。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "じゃあ、まずはテントを広げるね。\nみんな、四隅を持って広がって。"
+            },
             "voice": "event/Event_001/Event_001_08/event_001_08_024.mp3"
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "ほのかー、広がったよ？　",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "ほのかー、広がったよ？　"
+            },
             "voice": "event/Event_001/Event_001_08/event_001_08_025.mp3"
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "次は、このポールを使って……。　",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "次は、このポールを使って……。　"
+            },
             "voice": "event/Event_001/Event_001_08/event_001_08_026.mp3"
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "ポールダンスをするんだね？　",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "ポールダンスをするんだね？　"
+            },
             "voice": "event/Event_001/Event_001_08/event_001_08_027.mp3"
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "志穂ちゃん、変なこと言わない。　",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "志穂ちゃん、変なこと言わない。　"
+            },
             "voice": "event/Event_001/Event_001_08/event_001_08_028.mp3"
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "どうせなら楽しくやった方がいいのに……。　",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "どうせなら楽しくやった方がいいのに……。　"
+            },
             "voice": "event/Event_001/Event_001_08/event_001_08_029.mp3"
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "そのポールを使ってどうするの？　",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "そのポールを使ってどうするの？　"
+            },
             "voice": "event/Event_001/Event_001_08/event_001_08_030.mp3"
         },
         {
@@ -276,8 +396,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "このポールで、テントをドーム状にするの。　",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "このポールで、テントをドーム状にするの。　"
+            },
             "voice": "event/Event_001/Event_001_08/event_001_08_031.mp3"
         },
         {
@@ -285,8 +409,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "この穴にポールを通して……。\nこうやって、ぐいっと曲げる。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "この穴にポールを通して……。\nこうやって、ぐいっと曲げる。"
+            },
             "voice": "event/Event_001/Event_001_08/event_001_08_032.mp3"
         },
         {
@@ -294,8 +422,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "あ、なんかテントっぽくなってきた。　",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "あ、なんかテントっぽくなってきた。　"
+            },
             "voice": "event/Event_001/Event_001_08/event_001_08_033.mp3"
         },
         {
@@ -303,8 +435,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "それじゃ、みんなもやってみて。　",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "それじゃ、みんなもやってみて。　"
+            },
             "voice": "event/Event_001/Event_001_08/event_001_08_034.mp3"
         },
         {
@@ -312,8 +448,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "よいしょっ……、と。\n……これでいいの？　",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "よいしょっ……、と。\n……これでいいの？　"
+            },
             "voice": "event/Event_001/Event_001_08/event_001_08_035.mp3"
         },
         {
@@ -321,8 +461,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "お～、いいかんじ！\nそれじゃ、ポールとテントを固定して。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "お～、いいかんじ！\nそれじゃ、ポールとテントを固定して。"
+            },
             "voice": "event/Event_001/Event_001_08/event_001_08_036.mp3"
         },
         {
@@ -330,8 +474,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "ほのか、助けて～……。　",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "ほのか、助けて～……。　"
+            },
             "voice": "event/Event_001/Event_001_08/event_001_08_037.mp3"
         },
         {
@@ -339,8 +487,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "何これ？\nぜんぜんできてないよ？　",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "何これ？\nぜんぜんできてないよ？　"
+            },
             "voice": "event/Event_001/Event_001_08/event_001_08_038.mp3"
         },
         {
@@ -348,8 +500,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "私、文系だから。　",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "私、文系だから。　"
+            },
             "voice": "event/Event_001/Event_001_08/event_001_08_039.mp3"
         },
         {
@@ -357,8 +513,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "ちょっとどいてて。\n……これでよし。　",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "ちょっとどいてて。\n……これでよし。　"
+            },
             "voice": "event/Event_001/Event_001_08/event_001_08_040.mp3"
         },
         {
@@ -366,8 +526,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "ほのか、これでいい？　",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "ほのか、これでいい？　"
+            },
             "voice": "event/Event_001/Event_001_08/event_001_08_041.mp3"
         },
         {
@@ -375,8 +539,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "どれどれ……？\nさすが舞花！　バッチリ！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "どれどれ……？\nさすが舞花！　バッチリ！"
+            },
             "voice": "event/Event_001/Event_001_08/event_001_08_042.mp3"
         },
         {
@@ -384,8 +552,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "やった！\nよくお父さんを手伝ってたんだよね。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "やった！\nよくお父さんを手伝ってたんだよね。"
+            },
             "voice": "event/Event_001/Event_001_08/event_001_08_043.mp3"
         },
         {
@@ -393,8 +565,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "くそ、私も褒められたい……。　",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "くそ、私も褒められたい……。　"
+            },
             "voice": "event/Event_001/Event_001_08/event_001_08_044.mp3"
         },
         {
@@ -402,8 +578,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "じゃ、次の工程に進むよ？\n地面にペグを打ち込んで、テントを固定して。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "じゃ、次の工程に進むよ？\n地面にペグを打ち込んで、テントを固定して。"
+            },
             "voice": "event/Event_001/Event_001_08/event_001_08_045.mp3"
         },
         {
@@ -411,8 +591,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "ペグってどれだろ……？　",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "ペグってどれだろ……？　"
+            },
             "voice": "event/Event_001/Event_001_08/event_001_08_046.mp3"
         },
         {
@@ -420,8 +604,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "フックの付いた大きな釘みたいなやつ。　",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "フックの付いた大きな釘みたいなやつ。　"
+            },
             "voice": "event/Event_001/Event_001_08/event_001_08_047.mp3"
         },
         {
@@ -429,8 +617,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "あった！　これだ。　",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "あった！　これだ。　"
+            },
             "voice": "event/Event_001/Event_001_08/event_001_08_048.mp3"
         },
         {
@@ -438,8 +630,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "それをカナヅチで地面に打ち込むの。　",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "それをカナヅチで地面に打ち込むの。　"
+            },
             "voice": "event/Event_001/Event_001_08/event_001_08_049.mp3"
         },
         {
@@ -447,8 +643,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "カナヅチなんて触ったこともないよ……。　",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "カナヅチなんて触ったこともないよ……。　"
+            },
             "voice": "event/Event_001/Event_001_08/event_001_08_050.mp3"
         },
         {
@@ -456,8 +656,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "貸して。\n私がやってあげる。　",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "貸して。\n私がやってあげる。　"
+            },
             "voice": "event/Event_001/Event_001_08/event_001_08_051.mp3"
         },
         {
@@ -465,8 +669,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "志穂ちゃん、できるの？　",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "志穂ちゃん、できるの？　"
+            },
             "voice": "event/Event_001/Event_001_08/event_001_08_052.mp3"
         },
         {
@@ -474,8 +682,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "これくらい、余裕っしょ。　",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "これくらい、余裕っしょ。　"
+            },
             "voice": "event/Event_001/Event_001_08/event_001_08_053.mp3"
         },
         {
@@ -483,8 +695,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "手を打たないよう、気を付けてね。　",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "手を打たないよう、気を付けてね。　"
+            },
             "voice": "event/Event_001/Event_001_08/event_001_08_054.mp3"
         },
         {
@@ -492,8 +708,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "危ないっ……！　　",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "危ないっ……！　　"
+            },
             "voice": "event/Event_001/Event_001_08/event_001_08_055.mp3"
         },
         {
@@ -501,8 +721,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "志穂ちゃん！\n大丈夫！？　",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "志穂ちゃん！\n大丈夫！？　"
+            },
             "voice": "event/Event_001/Event_001_08/event_001_08_056.mp3"
         },
         {
@@ -510,8 +734,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "あ～あ、言わんこっちゃない。\n怪我した？　手を見せて。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "あ～あ、言わんこっちゃない。\n怪我した？　手を見せて。"
+            },
             "voice": "event/Event_001/Event_001_08/event_001_08_057.mp3"
         },
         {
@@ -519,8 +747,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "あれ？\n何ともなってない。　",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "あれ？\n何ともなってない。　"
+            },
             "voice": "event/Event_001/Event_001_08/event_001_08_058.mp3"
         },
         {
@@ -528,8 +760,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "手を打ちそうだったから、\nとっさに手を引いた。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "手を打ちそうだったから、\nとっさに手を引いた。"
+            },
             "voice": "event/Event_001/Event_001_08/event_001_08_059.mp3"
         },
         {
@@ -537,8 +773,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "すごい。\nそんなことできるんだ。　",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "すごい。\nそんなことできるんだ。　"
+            },
             "voice": "event/Event_001/Event_001_08/event_001_08_060.mp3"
         },
         {
@@ -546,8 +786,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "ほのかに褒められた。\n……嬉しい。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "ほのかに褒められた。\n……嬉しい。"
+            },
             "voice": "event/Event_001/Event_001_08/event_001_08_061.mp3"
         },
         {
@@ -555,8 +799,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "そんなことで褒められてどうするの……。　",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "そんなことで褒められてどうするの……。　"
+            },
             "voice": "event/Event_001/Event_001_08/event_001_08_062.mp3"
         },
         {
@@ -564,8 +812,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "志穂ちゃん、ありがとう。\n自分で、カナヅチやってみるよ。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "志穂ちゃん、ありがとう。\n自分で、カナヅチやってみるよ。"
+            },
             "voice": "event/Event_001/Event_001_08/event_001_08_063.mp3"
         },
         {
@@ -573,8 +825,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "斜め45度に打ち込むと、強度が増すよ？　",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "斜め45度に打ち込むと、強度が増すよ？　"
+            },
             "voice": "event/Event_001/Event_001_08/event_001_08_064.mp3"
         },
         {
@@ -582,8 +838,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "わかった。\n45度ね！　",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "わかった。\n45度ね！　"
+            },
             "voice": "event/Event_001/Event_001_08/event_001_08_065.mp3"
         },
         {
@@ -591,8 +851,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "結構、上手いじゃない！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "結構、上手いじゃない！"
+            },
             "voice": "event/Event_001/Event_001_08/event_001_08_066.mp3"
         },
         {
@@ -600,8 +864,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "確かに、褒められると嬉しいね。　",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "確かに、褒められると嬉しいね。　"
+            },
             "voice": "event/Event_001/Event_001_08/event_001_08_067.mp3"
         },
         {
@@ -609,8 +877,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "そうでしょ？　",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "そうでしょ？　"
+            },
             "voice": "event/Event_001/Event_001_08/event_001_08_068.mp3"
         },
         {
@@ -618,8 +890,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "……よし、これでテント完成！　",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "……よし、これでテント完成！　"
+            },
             "voice": "event/Event_001/Event_001_08/event_001_08_069.mp3"
         },
         {
@@ -627,8 +903,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "やったぁー！\nできた！　",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "やったぁー！\nできた！　"
+            },
             "voice": "event/Event_001/Event_001_08/event_001_08_070.mp3"
         },
         {
@@ -636,8 +916,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "ほとんど、ほのかにやってもらったけどね。　",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "ほとんど、ほのかにやってもらったけどね。　"
+            },
             "voice": "event/Event_001/Event_001_08/event_001_08_071.mp3"
         },
         {
@@ -645,8 +929,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "完成したのはいいけど、\n雨なんてぜんぜん降りそうにない。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "完成したのはいいけど、\n雨なんてぜんぜん降りそうにない。"
+            },
             "voice": "event/Event_001/Event_001_08/event_001_08_072.mp3"
         },
         {
@@ -654,8 +942,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "どんどん、天気がよくなってきた。　",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "どんどん、天気がよくなってきた。　"
+            },
             "voice": "event/Event_001/Event_001_08/event_001_08_073.mp3"
         },
         {
@@ -663,8 +955,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "うん。\n暑いくらい。　",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "うん。\n暑いくらい。　"
+            },
             "voice": "event/Event_001/Event_001_08/event_001_08_074.mp3"
         },
         {
@@ -672,8 +968,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "ねぇ、隣の家族を見て。\n子供が寝ちゃってる。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "ねぇ、隣の家族を見て。\n子供が寝ちゃってる。"
+            },
             "voice": "event/Event_001/Event_001_08/event_001_08_075.mp3"
         },
         {
@@ -681,8 +981,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "ホントだ。\n汗かいて暑そう……。　",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "ホントだ。\n汗かいて暑そう……。　"
+            },
             "voice": "event/Event_001/Event_001_08/event_001_08_076.mp3"
         },
         {
@@ -690,8 +994,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "あのー、ちょっと提案なんですが……。　",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "あのー、ちょっと提案なんですが……。　"
+            },
             "voice": "event/Event_001/Event_001_08/event_001_08_077.mp3"
         },
         {
@@ -699,8 +1007,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "舞花が隣の家族に話しかけた。　",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "舞花が隣の家族に話しかけた。　"
+            },
             "voice": "event/Event_001/Event_001_08/event_001_08_078.mp3"
         },
         {
@@ -708,8 +1020,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "もしよかったら、このテント使いません？\nとっても涼しいですよ。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "もしよかったら、このテント使いません？\nとっても涼しいですよ。"
+            },
             "voice": "event/Event_001/Event_001_08/event_001_08_079.mp3"
         }
     ]

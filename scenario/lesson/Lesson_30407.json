@@ -6,8 +6,12 @@
             "heroineId": [
                 0
             ],
-            "name": "ディレクター",
-            "message": "はい……、仕方ないでしょう……。\nとりあえず、いただきました。",
+            "name": {
+                "default": "ディレクター"
+            },
+            "message": {
+                "default": "はい……、仕方ないでしょう……。\nとりあえず、いただきました。"
+            },
             "voice": ""
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "あ、あの、すみません。\n申し訳ありませんでした。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "あ、あの、すみません。\n申し訳ありませんでした。"
+            },
             "voice": "lesson/Lesson_30407/lesson_30407_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 0
             ],
-            "name": "ディレクター",
-            "message": "謝られてもねぇ。ナレーション苦手なの？\n基礎からやりなおしてね。",
+            "name": {
+                "default": "ディレクター"
+            },
+            "message": {
+                "default": "謝られてもねぇ。ナレーション苦手なの？\n基礎からやりなおしてね。"
+            },
             "voice": ""
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "ちょっとあいり……、大丈夫？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "ちょっとあいり……、大丈夫？"
+            },
             "voice": ""
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "すみません……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "すみません……。"
+            },
             "voice": "lesson/Lesson_30407/lesson_30407_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "落ち込まなくていいよ。\nあーいうディレクターもいるからさ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "落ち込まなくていいよ。\nあーいうディレクターもいるからさ。"
+            },
             "voice": ""
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "すみません。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "すみません。"
+            },
             "voice": "lesson/Lesson_30407/lesson_30407_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "今日のナレーションの原稿は、あいり向きじゃなかったかも。\nごめんね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "今日のナレーションの原稿は、あいり向きじゃなかったかも。\nごめんね。"
+            },
             "voice": ""
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "すみません……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "すみません……。"
+            },
             "voice": "lesson/Lesson_30407/lesson_30407_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "たまたま合わなかっただけだよ。言われたことは参考にしてさ。\nこれからまた頑張ればいいじゃない。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "たまたま合わなかっただけだよ。言われたことは参考にしてさ。\nこれからまた頑張ればいいじゃない。"
+            },
             "voice": ""
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "はい……。すみません。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "はい……。すみません。"
+            },
             "voice": "lesson/Lesson_30407/lesson_30407_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "（まいったなぁ。今日は何を言ってもダメか。）",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "（まいったなぁ。今日は何を言ってもダメか。）"
+            },
             "voice": ""
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "また機会はあるから。落ち込み過ぎないでね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "また機会はあるから。落ち込み過ぎないでね。"
+            },
             "voice": ""
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "すみません。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "すみません。"
+            },
             "voice": "lesson/Lesson_30407/lesson_30407_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "やっぱり……、向いてないのかなぁ。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "やっぱり……、向いてないのかなぁ。"
+            },
             "voice": "lesson/Lesson_30407/lesson_30407_015.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "アイリいる？　",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "アイリいる？　"
+            },
             "voice": "lesson/Lesson_30407/lesson_30407_016.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "あ、柚葉ちゃん。どうぞ。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "あ、柚葉ちゃん。どうぞ。"
+            },
             "voice": "lesson/Lesson_30407/lesson_30407_017.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "私のお店で、明日、バーゲンやるの。クリスマス前の大放出！\nよかったら来ない？",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "私のお店で、明日、バーゲンやるの。クリスマス前の大放出！\nよかったら来ない？"
+            },
             "voice": "lesson/Lesson_30407/lesson_30407_018.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "あ……、明日はちょっと。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "あ……、明日はちょっと。"
+            },
             "voice": "lesson/Lesson_30407/lesson_30407_019.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "アイリに似合いそうなアイテム、沢山あるんだけどなぁ。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "アイリに似合いそうなアイテム、沢山あるんだけどなぁ。"
+            },
             "voice": "lesson/Lesson_30407/lesson_30407_020.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "ごめんね……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "ごめんね……。"
+            },
             "voice": "lesson/Lesson_30407/lesson_30407_021.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "オーケー！　悠希と千紗も来るからさ。もし予定変わったら来てね！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "オーケー！　悠希と千紗も来るからさ。もし予定変わったら来てね！"
+            },
             "voice": "lesson/Lesson_30407/lesson_30407_022.mp3"
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "はぁ……、みんなで休日かぁ……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "はぁ……、みんなで休日かぁ……。"
+            },
             "voice": "lesson/Lesson_30407/lesson_30407_023.mp3"
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "なんであいりはダメなんだろう……、ますます落ち込むよぉ……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "なんであいりはダメなんだろう……、ますます落ち込むよぉ……。"
+            },
             "voice": "lesson/Lesson_30407/lesson_30407_024.mp3"
         }
     ]

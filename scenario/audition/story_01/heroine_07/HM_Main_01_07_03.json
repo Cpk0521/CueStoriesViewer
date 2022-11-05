@@ -6,8 +6,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "あいり！\n1次審査、合格おめでとう！",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "あいり！\n1次審査、合格おめでとう！"
+            },
             "voice": ""
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "はい！\nありがとうございます、マネージャーさん。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "はい！\nありがとうございます、マネージャーさん。"
+            },
             "voice": "audition/story_01/heroine_07/HM_Main_01_07_03/hm_main_01_07_03_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "合格できて、本当に良かったです……。\nはぁ……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "合格できて、本当に良かったです……。\nはぁ……。"
+            },
             "voice": "audition/story_01/heroine_07/HM_Main_01_07_03/hm_main_01_07_03_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "ちょっとホッとした？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "ちょっとホッとした？"
+            },
             "voice": ""
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "えへへ……はい。\nまだ1次なのはわかってるんですけど、嬉しくて。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "えへへ……はい。\nまだ1次なのはわかってるんですけど、嬉しくて。"
+            },
             "voice": "audition/story_01/heroine_07/HM_Main_01_07_03/hm_main_01_07_03_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "うんうん。この調子で、次の審査も頑張ろうね。\nあいりなら大丈夫だよ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "うんうん。この調子で、次の審査も頑張ろうね。\nあいりなら大丈夫だよ。"
+            },
             "voice": ""
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "は、はい……。\nマネージャーさんがそう言ってくれると、ちょっと安心します……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "は、はい……。\nマネージャーさんがそう言ってくれると、ちょっと安心します……。"
+            },
             "voice": "audition/story_01/heroine_07/HM_Main_01_07_03/hm_main_01_07_03_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "ううっ、でも……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "ううっ、でも……。"
+            },
             "voice": "audition/story_01/heroine_07/HM_Main_01_07_03/hm_main_01_07_03_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "どうしたの？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "どうしたの？"
+            },
             "voice": ""
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "ごめんなさい……これは、あいりの悪い癖なんです。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "ごめんなさい……これは、あいりの悪い癖なんです。"
+            },
             "voice": "audition/story_01/heroine_07/HM_Main_01_07_03/hm_main_01_07_03_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "いいことがあると、今度は逆に、アンラッキーなことが\n起きるんじゃないかって……つい考えちゃって。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "いいことがあると、今度は逆に、アンラッキーなことが\n起きるんじゃないかって……つい考えちゃって。"
+            },
             "voice": "audition/story_01/heroine_07/HM_Main_01_07_03/hm_main_01_07_03_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "あいり、次もちゃんとできるのかな……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "あいり、次もちゃんとできるのかな……。"
+            },
             "voice": "audition/story_01/heroine_07/HM_Main_01_07_03/hm_main_01_07_03_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "うう……マネージャーさん。\nどんどん不安になってきました。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "うう……マネージャーさん。\nどんどん不安になってきました。"
+            },
             "voice": "audition/story_01/heroine_07/HM_Main_01_07_03/hm_main_01_07_03_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "マネージャーさん……！",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "マネージャーさん……！"
+            },
             "voice": "audition/story_01/heroine_07/HM_Main_01_07_03/hm_main_01_07_03_015.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "ありがとうございます。\nとっても心強いです！",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "ありがとうございます。\nとっても心強いです！"
+            },
             "voice": "audition/story_01/heroine_07/HM_Main_01_07_03/hm_main_01_07_03_016.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "ううっ……。\nやっぱり、本番でアンラッキーなことが……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "ううっ……。\nやっぱり、本番でアンラッキーなことが……。"
+            },
             "voice": "audition/story_01/heroine_07/HM_Main_01_07_03/hm_main_01_07_03_018.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "あいり、明日神社にお参りに行ってきます……！",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "あいり、明日神社にお参りに行ってきます……！"
+            },
             "voice": "audition/story_01/heroine_07/HM_Main_01_07_03/hm_main_01_07_03_019.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "ええっ！　それはダメです！",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "ええっ！　それはダメです！"
+            },
             "voice": "audition/story_01/heroine_07/HM_Main_01_07_03/hm_main_01_07_03_021.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "マネージャーさんが不幸になるほうが、あいりは嫌です。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "マネージャーさんが不幸になるほうが、あいりは嫌です。"
+            },
             "voice": "audition/story_01/heroine_07/HM_Main_01_07_03/hm_main_01_07_03_022.mp3"
         }
     ]

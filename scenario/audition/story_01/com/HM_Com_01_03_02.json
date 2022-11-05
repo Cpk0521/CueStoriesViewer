@@ -6,8 +6,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "えーっと、志穂？\n今日もまだ帰らないの？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "えーっと、志穂？\n今日もまだ帰らないの？"
+            },
             "voice": ""
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "まぁまぁ。\nたまにはいいだろ。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "まぁまぁ。\nたまにはいいだろ。"
+            },
             "voice": "audition/story_01/com/HM_Com_01_03_02/hm_com_01_03_02_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "いや、ここ最近そうなんだけど……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "いや、ここ最近そうなんだけど……。"
+            },
             "voice": ""
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "お疲れしたー。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "お疲れしたー。"
+            },
             "voice": "audition/story_01/com/HM_Com_01_03_02/hm_com_01_03_02_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "お疲れ様、舞花。\nあ、ちゃんと課題やるんだよー。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "お疲れ様、舞花。\nあ、ちゃんと課題やるんだよー。"
+            },
             "voice": ""
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "わかってますよー。\n失礼しまーす。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "わかってますよー。\n失礼しまーす。"
+            },
             "voice": "audition/story_01/com/HM_Com_01_03_02/hm_com_01_03_02_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "……ふむ。今日はこのまま真っ直ぐのはずだな……。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "……ふむ。今日はこのまま真っ直ぐのはずだな……。"
+            },
             "voice": "audition/story_01/com/HM_Com_01_03_02/hm_com_01_03_02_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "ん？　何か言った？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "ん？　何か言った？"
+            },
             "voice": ""
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "私も帰る、って言った。\nじゃあ、またな、ジャーマネ。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "私も帰る、って言った。\nじゃあ、またな、ジャーマネ。"
+            },
             "voice": "audition/story_01/com/HM_Com_01_03_02/hm_com_01_03_02_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "お疲れ様……。\nうーん、もしかして、志穂って……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "お疲れ様……。\nうーん、もしかして、志穂って……。"
+            },
             "voice": ""
         }
     ]

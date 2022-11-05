@@ -6,8 +6,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "ほ、本当ですか……？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "ほ、本当ですか……？"
+            },
             "voice": "audition/story_01/heroine_07/HM_Ending_01_07_02/hm_ending_01_07_02_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "うん、本当だよ。\n合格おめでとう、あいり！",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "うん、本当だよ。\n合格おめでとう、あいり！"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "わあ……！\nありがとうございます！",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "わあ……！\nありがとうございます！"
+            },
             "voice": "audition/story_01/heroine_07/HM_Ending_01_07_02/hm_ending_01_07_02_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "新しい資料が来たら、また連絡するね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "新しい資料が来たら、また連絡するね。"
+            },
             "voice": ""
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "はい！　えへへ、嬉しいなぁ……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "はい！　えへへ、嬉しいなぁ……。"
+            },
             "voice": "audition/story_01/heroine_07/HM_Ending_01_07_02/hm_ending_01_07_02_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "あいり、精一杯頑張ります。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "あいり、精一杯頑張ります。"
+            },
             "voice": "audition/story_01/heroine_07/HM_Ending_01_07_02/hm_ending_01_07_02_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "うん、その意気だよ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "うん、その意気だよ。"
+            },
             "voice": ""
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "はい！\n明日からもよろしくお願いします、マネージャーさん！",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "はい！\n明日からもよろしくお願いします、マネージャーさん！"
+            },
             "voice": "audition/story_01/heroine_07/HM_Ending_01_07_02/hm_ending_01_07_02_008.mp3"
         }
     ]

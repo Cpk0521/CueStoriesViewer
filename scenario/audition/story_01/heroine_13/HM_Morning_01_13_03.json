@@ -6,8 +6,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "あ、マネージャー。\nおはよう。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "あ、マネージャー。\nおはよう。"
+            },
             "voice": "audition/story_01/heroine_13/HM_Morning_01_13_03/hm_morning_01_13_03_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "昨日健康についてのブログを読んだんだけど、\nやっぱり健康には運動が大事なんだって！",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "昨日健康についてのブログを読んだんだけど、\nやっぱり健康には運動が大事なんだって！"
+            },
             "voice": "audition/story_01/heroine_13/HM_Morning_01_13_03/hm_morning_01_13_03_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "今日はダンスレッスンとか、やってみよっかな。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "今日はダンスレッスンとか、やってみよっかな。"
+            },
             "voice": "audition/story_01/heroine_13/HM_Morning_01_13_03/hm_morning_01_13_03_003.mp3"
         }
     ]

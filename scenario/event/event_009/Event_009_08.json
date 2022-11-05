@@ -6,8 +6,12 @@
             "heroineId": [
                 0
             ],
-            "name": "エリカ",
-            "message": "「すまぬ。部下の不手際で……。」",
+            "name": {
+                "default": "エリカ"
+            },
+            "message": {
+                "default": "「すまぬ。部下の不手際で……。」"
+            },
             "voice": ""
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "とりあえず、家に行ってみるしかないんじゃないかな？\n手がかりはそこしかないし。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "とりあえず、家に行ってみるしかないんじゃないかな？\n手がかりはそこしかないし。"
+            },
             "voice": "event/Event_009/Event_009_08/event_009_08_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "マイカちゃん、家の場所も聞いてきたんでしょ？",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "マイカちゃん、家の場所も聞いてきたんでしょ？"
+            },
             "voice": "event/Event_009/Event_009_08/event_009_08_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "うん。街の外れの、\n他に住む人もいないような、寂しいところだってさ。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "うん。街の外れの、\n他に住む人もいないような、寂しいところだってさ。"
+            },
             "voice": "event/Event_009/Event_009_08/event_009_08_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "私が聞いてきた話では、\n魔法のアイテムは量産出来るだろうとも言っていた。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "私が聞いてきた話では、\n魔法のアイテムは量産出来るだろうとも言っていた。"
+            },
             "voice": "event/Event_009/Event_009_08/event_009_08_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "早めに対処しないと、良くないことが起こるかも……。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "早めに対処しないと、良くないことが起こるかも……。"
+            },
             "voice": "event/Event_009/Event_009_08/event_009_08_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "うん。今すぐ行くしかないね。その家に！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "うん。今すぐ行くしかないね。その家に！"
+            },
             "voice": "event/Event_009/Event_009_08/event_009_08_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "マイカが聞いた場所に来てみると、たしかに家がある。\n元貴族の家とは想像も出来ないくらい貧しいあばら家だね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "マイカが聞いた場所に来てみると、たしかに家がある。\n元貴族の家とは想像も出来ないくらい貧しいあばら家だね。"
+            },
             "voice": ""
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "君たちが観察していると、屋敷に人が入っていくのが見えた。\nでも、逃げた男ではないね。老人と言っていい。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "君たちが観察していると、屋敷に人が入っていくのが見えた。\nでも、逃げた男ではないね。老人と言っていい。"
+            },
             "voice": ""
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "うーん。どういう関係だろ。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "うーん。どういう関係だろ。"
+            },
             "voice": "event/Event_009/Event_009_08/event_009_08_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "ご家族、とか？",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "ご家族、とか？"
+            },
             "voice": "event/Event_009/Event_009_08/event_009_08_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "とりあえず自分が忍び足で近寄って、聞き耳立ててみるよ。\nなぜなら！　自分は忍者！　だからね！",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "とりあえず自分が忍び足で近寄って、聞き耳立ててみるよ。\nなぜなら！　自分は忍者！　だからね！"
+            },
             "voice": "event/Event_009/Event_009_08/event_009_08_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "わかったわかった。忍者忍者。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "わかったわかった。忍者忍者。"
+            },
             "voice": "event/Event_009/Event_009_08/event_009_08_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "成功判定、したほうがいい？",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "成功判定、したほうがいい？"
+            },
             "voice": "event/Event_009/Event_009_08/event_009_08_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "ま、草むらだし、シーフ……、じゃなかった、\n忍者なら難しくはないかな。1ゾロ以外成功にしよう。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "ま、草むらだし、シーフ……、じゃなかった、\n忍者なら難しくはないかな。1ゾロ以外成功にしよう。"
+            },
             "voice": ""
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そのかわり1ゾロがでたら大失敗ということで。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そのかわり1ゾロがでたら大失敗ということで。"
+            },
             "voice": ""
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "そんなの楽勝でしょ！",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "そんなの楽勝でしょ！"
+            },
             "voice": "event/Event_009/Event_009_08/event_009_08_017.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "嫌な予感がする……。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "嫌な予感がする……。"
+            },
             "voice": "event/Event_009/Event_009_08/event_009_08_018.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "よし行くよ！",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "よし行くよ！"
+            },
             "voice": "event/Event_009/Event_009_08/event_009_08_019.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "あ……。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "あ……。"
+            },
             "voice": "event/Event_009/Event_009_08/event_009_08_020.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "1のゾロ目……。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "1のゾロ目……。"
+            },
             "voice": "event/Event_009/Event_009_08/event_009_08_021.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "やはりフラグだったか……。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "やはりフラグだったか……。"
+            },
             "voice": "event/Event_009/Event_009_08/event_009_08_022.mp3"
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "うん。致命的な大失敗になるね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "うん。致命的な大失敗になるね。"
+            },
             "voice": ""
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "なんで！？　嘘でしょ！？",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "なんで！？　嘘でしょ！？"
+            },
             "voice": "event/Event_009/Event_009_08/event_009_08_024.mp3"
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "これはもう、草がガサガサしたってレベルを超えて、\n途中で転んで、転がって落ちて壁にぶつかったってレベルかな。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "これはもう、草がガサガサしたってレベルを超えて、\n途中で転んで、転がって落ちて壁にぶつかったってレベルかな。"
+            },
             "voice": ""
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "え！？　そんなに！？",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "え！？　そんなに！？"
+            },
             "voice": "event/Event_009/Event_009_08/event_009_08_026.mp3"
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "もう、何してんの！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "もう、何してんの！"
+            },
             "voice": "event/Event_009/Event_009_08/event_009_08_027.mp3"
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "全部こいつが悪いんだって！\nこの2つの四角いサイコロのせいなんだよ！",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "全部こいつが悪いんだって！\nこの2つの四角いサイコロのせいなんだよ！"
+            },
             "voice": "event/Event_009/Event_009_08/event_009_08_028.mp3"
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "老人が不審な動きをしたマイカに気付いて、こう言うよ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "老人が不審な動きをしたマイカに気付いて、こう言うよ。"
+            },
             "voice": ""
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 0
             ],
-            "name": "老人",
-            "message": "「ん？　なんだ？　おい、そこで何してる？」",
+            "name": {
+                "default": "老人"
+            },
+            "message": {
+                "default": "「ん？　なんだ？　おい、そこで何してる？」"
+            },
             "voice": ""
         },
         {
@@ -276,8 +396,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "え、えーっと、あやしいものでは……。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "え、えーっと、あやしいものでは……。"
+            },
             "voice": "event/Event_009/Event_009_08/event_009_08_031.mp3"
         },
         {
@@ -285,8 +409,12 @@
             "heroineId": [
                 0
             ],
-            "name": "老人",
-            "message": "「怪しいものではないと自分で言うやつは、\n昔から怪しいやつと決まっとる。」",
+            "name": {
+                "default": "老人"
+            },
+            "message": {
+                "default": "「怪しいものではないと自分で言うやつは、\n昔から怪しいやつと決まっとる。」"
+            },
             "voice": ""
         },
         {
@@ -294,8 +422,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "あはは……、そうっすよね……。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "あはは……、そうっすよね……。"
+            },
             "voice": "event/Event_009/Event_009_08/event_009_08_033.mp3"
         },
         {
@@ -303,8 +435,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "これは、マイカに任せておくと余計にまずい事になりそう。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "これは、マイカに任せておくと余計にまずい事になりそう。"
+            },
             "voice": "event/Event_009/Event_009_08/event_009_08_034.mp3"
         },
         {
@@ -312,8 +448,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "うん、わたしたちもそっちに向かおう。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "うん、わたしたちもそっちに向かおう。"
+            },
             "voice": "event/Event_009/Event_009_08/event_009_08_035.mp3"
         },
         {
@@ -321,8 +461,12 @@
             "heroineId": [
                 0
             ],
-            "name": "老人",
-            "message": "「ん？　なんだお前たちは。この怪しい女の仲間か？」",
+            "name": {
+                "default": "老人"
+            },
+            "message": {
+                "default": "「ん？　なんだお前たちは。この怪しい女の仲間か？」"
+            },
             "voice": ""
         },
         {
@@ -330,8 +474,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "すみません、あの、こちらシオンさんのお宅でしょうか？",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "すみません、あの、こちらシオンさんのお宅でしょうか？"
+            },
             "voice": "event/Event_009/Event_009_08/event_009_08_037.mp3"
         },
         {
@@ -339,8 +487,12 @@
             "heroineId": [
                 0
             ],
-            "name": "老人",
-            "message": "「あ、ああ。そうだが……。」",
+            "name": {
+                "default": "老人"
+            },
+            "message": {
+                "default": "「あ、ああ。そうだが……。」"
+            },
             "voice": ""
         },
         {
@@ -348,8 +500,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "最初からそうやって普通に行けばよかったんじゃない？\nわざわざ忍び足で近づいたりしないでさ。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "最初からそうやって普通に行けばよかったんじゃない？\nわざわざ忍び足で近づいたりしないでさ。"
+            },
             "voice": "event/Event_009/Event_009_08/event_009_08_039.mp3"
         },
         {
@@ -357,8 +513,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "マイカが自分から行くって言ったんでしょ？",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "マイカが自分から行くって言ったんでしょ？"
+            },
             "voice": "event/Event_009/Event_009_08/event_009_08_040.mp3"
         },
         {
@@ -366,8 +526,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "ん？　そうだったっけ……。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "ん？　そうだったっけ……。"
+            },
             "voice": "event/Event_009/Event_009_08/event_009_08_041.mp3"
         },
         {
@@ -375,8 +539,12 @@
             "heroineId": [
                 0
             ],
-            "name": "老人",
-            "message": "「なるほど。話を聞くに、それはわしの息子だよ。\nその短剣は先祖代々の短剣、わしが息子に譲ったものだ。」",
+            "name": {
+                "default": "老人"
+            },
+            "message": {
+                "default": "「なるほど。話を聞くに、それはわしの息子だよ。\nその短剣は先祖代々の短剣、わしが息子に譲ったものだ。」"
+            },
             "voice": ""
         },
         {
@@ -384,8 +552,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "ふむ。いよいよ真相に近づいてきたな。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "ふむ。いよいよ真相に近づいてきたな。"
+            },
             "voice": "event/Event_009/Event_009_08/event_009_08_043.mp3"
         },
         {
@@ -393,8 +565,12 @@
             "heroineId": [
                 0
             ],
-            "name": "老人",
-            "message": "「最近ずっと、何やら良からぬことをしておるようだった……。」",
+            "name": {
+                "default": "老人"
+            },
+            "message": {
+                "default": "「最近ずっと、何やら良からぬことをしておるようだった……。」"
+            },
             "voice": ""
         },
         {
@@ -402,8 +578,12 @@
             "heroineId": [
                 0
             ],
-            "name": "老人",
-            "message": "「もうすぐ恨みを返せる……、などと言っておったが、\nまさかそんなだいそれた事をしよるとはなあ。」",
+            "name": {
+                "default": "老人"
+            },
+            "message": {
+                "default": "「もうすぐ恨みを返せる……、などと言っておったが、\nまさかそんなだいそれた事をしよるとはなあ。」"
+            },
             "voice": ""
         },
         {
@@ -411,8 +591,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "恨み？　何か理由があったんですか？",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "恨み？　何か理由があったんですか？"
+            },
             "voice": "event/Event_009/Event_009_08/event_009_08_046.mp3"
         },
         {
@@ -420,8 +604,12 @@
             "heroineId": [
                 0
             ],
-            "name": "老人",
-            "message": "「恨みの理由かね？　\nふむ……、理由など、あってないような恨みじゃよ。」",
+            "name": {
+                "default": "老人"
+            },
+            "message": {
+                "default": "「恨みの理由かね？　\nふむ……、理由など、あってないような恨みじゃよ。」"
+            },
             "voice": ""
         },
         {
@@ -429,8 +617,12 @@
             "heroineId": [
                 0
             ],
-            "name": "老人",
-            "message": "「息子の恨みというのはな、三大名家へと連なるかつての貴族が、\nこんな生活をしておることへの恨みじゃよ。」",
+            "name": {
+                "default": "老人"
+            },
+            "message": {
+                "default": "「息子の恨みというのはな、三大名家へと連なるかつての貴族が、\nこんな生活をしておることへの恨みじゃよ。」"
+            },
             "voice": ""
         },
         {
@@ -438,8 +630,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "家が没落したきっかけが、ルピナス家にあるとか……、ですか？",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "家が没落したきっかけが、ルピナス家にあるとか……、ですか？"
+            },
             "voice": "event/Event_009/Event_009_08/event_009_08_049.mp3"
         },
         {
@@ -447,8 +643,12 @@
             "heroineId": [
                 0
             ],
-            "name": "老人",
-            "message": "「いや、没落の原因など今となってはわからん。\nわしの祖父の祖父の頃の話のようなものだからな。」",
+            "name": {
+                "default": "老人"
+            },
+            "message": {
+                "default": "「いや、没落の原因など今となってはわからん。\nわしの祖父の祖父の頃の話のようなものだからな。」"
+            },
             "voice": ""
         },
         {
@@ -456,8 +656,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "ええ、何それ。\nそれじゃ、八つ当たりしてるみたいなもんじゃん。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "ええ、何それ。\nそれじゃ、八つ当たりしてるみたいなもんじゃん。"
+            },
             "voice": "event/Event_009/Event_009_08/event_009_08_051.mp3"
         },
         {
@@ -465,8 +669,12 @@
             "heroineId": [
                 0
             ],
-            "name": "老人",
-            "message": "「あのバカ息子め……、ゴブリン共を操って何がしたかったのか。\n何をしようとしておるのか。」",
+            "name": {
+                "default": "老人"
+            },
+            "message": {
+                "default": "「あのバカ息子め……、ゴブリン共を操って何がしたかったのか。\n何をしようとしておるのか。」"
+            },
             "voice": ""
         },
         {
@@ -474,8 +682,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "あの、その息子さんが今どこにいるか……、\nわかりますか？",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "あの、その息子さんが今どこにいるか……、\nわかりますか？"
+            },
             "voice": "event/Event_009/Event_009_08/event_009_08_053.mp3"
         },
         {
@@ -483,8 +695,12 @@
             "heroineId": [
                 0
             ],
-            "name": "老人",
-            "message": "「おそらく、あそこじゃろうな……。\nここから北に行った小さな村の近くの古代の遺跡じゃ。」",
+            "name": {
+                "default": "老人"
+            },
+            "message": {
+                "default": "「おそらく、あそこじゃろうな……。\nここから北に行った小さな村の近くの古代の遺跡じゃ。」"
+            },
             "voice": ""
         },
         {
@@ -492,8 +708,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "え？　それって、あの村の近くの？",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "え？　それって、あの村の近くの？"
+            },
             "voice": "event/Event_009/Event_009_08/event_009_08_055.mp3"
         },
         {
@@ -501,8 +721,12 @@
             "heroineId": [
                 0
             ],
-            "name": "老人",
-            "message": "「あの遺跡には地下に広い空間があってな。\n子どもの頃からこもりきりで、魔法の実験をしておったよ。」",
+            "name": {
+                "default": "老人"
+            },
+            "message": {
+                "default": "「あの遺跡には地下に広い空間があってな。\n子どもの頃からこもりきりで、魔法の実験をしておったよ。」"
+            },
             "voice": ""
         },
         {
@@ -510,8 +734,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "え？　え？　これってもしかして……。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "え？　え？　これってもしかして……。"
+            },
             "voice": "event/Event_009/Event_009_08/event_009_08_057.mp3"
         },
         {
@@ -519,8 +747,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "そうか、最初からあそこが……。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "そうか、最初からあそこが……。"
+            },
             "voice": "event/Event_009/Event_009_08/event_009_08_058.mp3"
         },
         {
@@ -528,8 +760,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "なるほどな……。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "なるほどな……。"
+            },
             "voice": "event/Event_009/Event_009_08/event_009_08_059.mp3"
         },
         {
@@ -537,8 +773,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "ねえ、あの時、自分が言うとおりに遺跡探索してたら、\nもっと早く解決したんじゃないの？",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "ねえ、あの時、自分が言うとおりに遺跡探索してたら、\nもっと早く解決したんじゃないの？"
+            },
             "voice": "event/Event_009/Event_009_08/event_009_08_060.mp3"
         },
         {
@@ -546,8 +786,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "急いで駆けつけよう。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "急いで駆けつけよう。"
+            },
             "voice": "event/Event_009/Event_009_08/event_009_08_061.mp3"
         },
         {
@@ -555,8 +799,12 @@
             "heroineId": [
                 0
             ],
-            "name": "老人",
-            "message": "「すまぬ。息子を止めてくれ。\n事が終わったら、わしも馬鹿な息子の罪をともに償おう。」",
+            "name": {
+                "default": "老人"
+            },
+            "message": {
+                "default": "「すまぬ。息子を止めてくれ。\n事が終わったら、わしも馬鹿な息子の罪をともに償おう。」"
+            },
             "voice": ""
         },
         {
@@ -564,8 +812,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "ご老人、気を強く！\n待っていてください！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "ご老人、気を強く！\n待っていてください！"
+            },
             "voice": "event/Event_009/Event_009_08/event_009_08_063.mp3"
         },
         {
@@ -573,8 +825,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "さあ、行こう。みんな。\n息子さんを止めに！",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "さあ、行こう。みんな。\n息子さんを止めに！"
+            },
             "voice": "event/Event_009/Event_009_08/event_009_08_064.mp3"
         },
         {
@@ -582,8 +838,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "まさか、マイカが正しかったとは……。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "まさか、マイカが正しかったとは……。"
+            },
             "voice": "event/Event_009/Event_009_08/event_009_08_065.mp3"
         },
         {
@@ -591,8 +851,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "あ！　今、マイカが正しかったって言った！\nでしょ？　自分、間違ってなかったでしょ？",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "あ！　今、マイカが正しかったって言った！\nでしょ？　自分、間違ってなかったでしょ？"
+            },
             "voice": "event/Event_009/Event_009_08/event_009_08_066.mp3"
         },
         {
@@ -600,8 +864,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "ま、そういうこともある。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "ま、そういうこともある。"
+            },
             "voice": "event/Event_009/Event_009_08/event_009_08_067.mp3"
         },
         {
@@ -609,8 +877,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "えー、もっと褒めてくれてもいいじゃんー。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "えー、もっと褒めてくれてもいいじゃんー。"
+            },
             "voice": "event/Event_009/Event_009_08/event_009_08_068.mp3"
         },
         {
@@ -618,8 +890,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "さ、行くぞ行くぞ。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "さ、行くぞ行くぞ。"
+            },
             "voice": "event/Event_009/Event_009_08/event_009_08_069.mp3"
         },
         {
@@ -627,8 +903,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "ちょっと待ってってばー！",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "ちょっと待ってってばー！"
+            },
             "voice": "event/Event_009/Event_009_08/event_009_08_070.mp3"
         }
     ]

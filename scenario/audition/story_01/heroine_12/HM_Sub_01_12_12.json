@@ -6,8 +6,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "お疲れ様ー。\nはぁ……。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "お疲れ様ー。\nはぁ……。"
+            },
             "voice": "audition/story_01/heroine_12/HM_Sub_01_12_12/hm_sub_01_12_12_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "お疲れ様、莉子。\n元気無さそうだけど、どうしたの？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "お疲れ様、莉子。\n元気無さそうだけど、どうしたの？"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "いやぁ、ちょっとね……。\nあたしはいつまで標準語に苦戦するんだろう、って思ってさ。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "いやぁ、ちょっとね……。\nあたしはいつまで標準語に苦戦するんだろう、って思ってさ。"
+            },
             "voice": "audition/story_01/heroine_12/HM_Sub_01_12_12/hm_sub_01_12_12_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "地元の友達と電話したりするとね、\n次の日、アクセントとか引きずっちゃうんだー。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "地元の友達と電話したりするとね、\n次の日、アクセントとか引きずっちゃうんだー。"
+            },
             "voice": "audition/story_01/heroine_12/HM_Sub_01_12_12/hm_sub_01_12_12_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "……ま、でも、どうにかするしかないよね！\n悩むより、練習あるのみ！",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "……ま、でも、どうにかするしかないよね！\n悩むより、練習あるのみ！"
+            },
             "voice": "audition/story_01/heroine_12/HM_Sub_01_12_12/hm_sub_01_12_12_005.mp3"
         }
     ]

@@ -6,8 +6,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "マネージャーさん、お疲れ様です。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "マネージャーさん、お疲れ様です。"
+            },
             "voice": "audition/story_01/heroine_14/HM_Sub_01_14_02/hm_sub_01_14_02_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "聡里、お疲れ様。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "聡里、お疲れ様。"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "あ、その本……。\nマネージャーさんも読んでるんですね。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "あ、その本……。\nマネージャーさんも読んでるんですね。"
+            },
             "voice": "audition/story_01/heroine_14/HM_Sub_01_14_02/hm_sub_01_14_02_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "うん。マネジメントのことを学べるみたいだったから。\n聡里、こういうのも読むんだ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "うん。マネジメントのことを学べるみたいだったから。\n聡里、こういうのも読むんだ。"
+            },
             "voice": ""
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "はい。\n様々なジャンルに触れれば、視野も広がりますから。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "はい。\n様々なジャンルに触れれば、視野も広がりますから。"
+            },
             "voice": "audition/story_01/heroine_14/HM_Sub_01_14_02/hm_sub_01_14_02_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "それに、この作品はアニメ化もされてるので。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "それに、この作品はアニメ化もされてるので。"
+            },
             "voice": "audition/story_01/heroine_14/HM_Sub_01_14_02/hm_sub_01_14_02_006.mp3"
         }
     ]

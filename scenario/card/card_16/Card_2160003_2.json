@@ -6,8 +6,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "なるちゃ～ん！　\nマネージャーさんがリビングで呼んでるよ～！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "なるちゃ～ん！　\nマネージャーさんがリビングで呼んでるよ～！"
+            },
             "voice": "card/Card_16/Card_2160003_2/card_2160003_2_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "何ですか。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "何ですか。"
+            },
             "voice": "card/Card_16/Card_2160003_2/card_2160003_2_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "聞いたよ。\nレッスンで利恵とケンカしたんだって？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "聞いたよ。\nレッスンで利恵とケンカしたんだって？"
+            },
             "voice": ""
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "別にケンカじゃないです。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "別にケンカじゃないです。"
+            },
             "voice": "card/Card_16/Card_2160003_2/card_2160003_2_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "じゃ、何？\n利恵、気にしてたよ？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "じゃ、何？\n利恵、気にしてたよ？"
+            },
             "voice": ""
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "言いたくありません。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "言いたくありません。"
+            },
             "voice": "card/Card_16/Card_2160003_2/card_2160003_2_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "今までこんなこと、一度もなかったじゃない。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "今までこんなこと、一度もなかったじゃない。"
+            },
             "voice": ""
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "……。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "……。"
+            },
             "voice": "card/Card_16/Card_2160003_2/card_2160003_2_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "力になるから。\n言って。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "力になるから。\n言って。"
+            },
             "voice": ""
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "実は、ちょっと体がだるくて……。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "実は、ちょっと体がだるくて……。"
+            },
             "voice": "card/Card_16/Card_2160003_2/card_2160003_2_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "えっ？\n風邪引いたの？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "えっ？\n風邪引いたの？"
+            },
             "voice": ""
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "風邪じゃないです。\nだるいだけです。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "風邪じゃないです。\nだるいだけです。"
+            },
             "voice": "card/Card_16/Card_2160003_2/card_2160003_2_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "認めたくないわけね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "認めたくないわけね。"
+            },
             "voice": ""
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "花粉症だって、自分で認めたらダメって言うし。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "花粉症だって、自分で認めたらダメって言うし。"
+            },
             "voice": "card/Card_16/Card_2160003_2/card_2160003_2_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "認めようが、認めまいが、花粉症は花粉症。\n風邪は風邪だよ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "認めようが、認めまいが、花粉症は花粉症。\n風邪は風邪だよ。"
+            },
             "voice": ""
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "でも、明日は発表なんです。\n風邪を引いてる場合じゃないんです。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "でも、明日は発表なんです。\n風邪を引いてる場合じゃないんです。"
+            },
             "voice": "card/Card_16/Card_2160003_2/card_2160003_2_016.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "2人ペアで作ってきたお芝居の発表だよね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "2人ペアで作ってきたお芝居の発表だよね。"
+            },
             "voice": ""
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "今まで、利恵と一緒に練習してきたのに。\n風邪を引いたなんて、とても言えなくて。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "今まで、利恵と一緒に練習してきたのに。\n風邪を引いたなんて、とても言えなくて。"
+            },
             "voice": "card/Card_16/Card_2160003_2/card_2160003_2_018.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "だから、利恵と距離を取ってたんだ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "だから、利恵と距離を取ってたんだ。"
+            },
             "voice": ""
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "大丈夫です。\n明日までに絶対治しますから。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "大丈夫です。\n明日までに絶対治しますから。"
+            },
             "voice": "card/Card_16/Card_2160003_2/card_2160003_2_020.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "じゃ、今から風邪薬とか、栄養ドリンクとか、買ってくるよ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "じゃ、今から風邪薬とか、栄養ドリンクとか、買ってくるよ。"
+            },
             "voice": ""
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "その必要はないわ。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "その必要はないわ。"
+            },
             "voice": "card/Card_16/Card_2160003_2/card_2160003_2_022.mp3"
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "利恵……。\n聞いてたの？",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "利恵……。\n聞いてたの？"
+            },
             "voice": "card/Card_16/Card_2160003_2/card_2160003_2_023.mp3"
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "聞かなくても分かるわ。\nはいこれ。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "聞かなくても分かるわ。\nはいこれ。"
+            },
             "voice": "card/Card_16/Card_2160003_2/card_2160003_2_024.mp3"
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "あ、風邪薬と栄養ドリンク……。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "あ、風邪薬と栄養ドリンク……。"
+            },
             "voice": "card/Card_16/Card_2160003_2/card_2160003_2_025.mp3"
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "利恵、知ってたんだ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "利恵、知ってたんだ。"
+            },
             "voice": ""
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "我輩が、鳴のこと気づかないわけがないでしょ。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "我輩が、鳴のこと気づかないわけがないでしょ。"
+            },
             "voice": "card/Card_16/Card_2160003_2/card_2160003_2_027.mp3"
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "利恵、ありがとう。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "利恵、ありがとう。"
+            },
             "voice": "card/Card_16/Card_2160003_2/card_2160003_2_028.mp3"
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "これ飲んで。\nしっかり治して。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "これ飲んで。\nしっかり治して。"
+            },
             "voice": "card/Card_16/Card_2160003_2/card_2160003_2_029.mp3"
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "うん……。\n明日の発表には治すね。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "うん……。\n明日の発表には治すね。"
+            },
             "voice": "card/Card_16/Card_2160003_2/card_2160003_2_030.mp3"
         }
     ]

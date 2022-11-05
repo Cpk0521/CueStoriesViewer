@@ -6,8 +6,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "お疲れ様です。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "お疲れ様です。"
+            },
             "voice": "audition/story_01/heroine_11/HM_Cast_01_11_10_01/hm_cast_01_11_10_01_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "今日も遅くまで、お疲れ様。\n気をつけて帰ってね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "今日も遅くまで、お疲れ様。\n気をつけて帰ってね。"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "ありがとうございます。\n……あれ、まほろは？",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "ありがとうございます。\n……あれ、まほろは？"
+            },
             "voice": "audition/story_01/heroine_11/HM_Cast_01_11_10_01/hm_cast_01_11_10_01_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "ん？　あぁ、今日は急なリスケでスタジオ行ってるよ。\n何かあったの？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "ん？　あぁ、今日は急なリスケでスタジオ行ってるよ。\n何かあったの？"
+            },
             "voice": ""
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "あ、いえ、まほろが漫画貸して欲しいって。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "あ、いえ、まほろが漫画貸して欲しいって。"
+            },
             "voice": "audition/story_01/heroine_11/HM_Cast_01_11_10_01/hm_cast_01_11_10_01_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "でも、今まで私が持ってる漫画、\n読みたいって言ったことなかったから。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "でも、今まで私が持ってる漫画、\n読みたいって言ったことなかったから。"
+            },
             "voice": "audition/story_01/heroine_11/HM_Cast_01_11_10_01/hm_cast_01_11_10_01_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "まほろ、急にどうしたのかな。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "まほろ、急にどうしたのかな。"
+            },
             "voice": "audition/story_01/heroine_11/HM_Cast_01_11_10_01/hm_cast_01_11_10_01_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "んー、もしかして誰かと話を合わせるためにとかかな？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "んー、もしかして誰かと話を合わせるためにとかかな？"
+            },
             "voice": ""
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "あ。現場のスタッフさん、とか？",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "あ。現場のスタッフさん、とか？"
+            },
             "voice": "audition/story_01/heroine_11/HM_Cast_01_11_10_01/hm_cast_01_11_10_01_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そうそう。それならありえるんじゃない。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そうそう。それならありえるんじゃない。"
+            },
             "voice": ""
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "うん、そうかも。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "うん、そうかも。"
+            },
             "voice": "audition/story_01/heroine_11/HM_Cast_01_11_10_01/hm_cast_01_11_10_01_011.mp3"
         }
     ]

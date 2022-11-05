@@ -6,8 +6,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "お疲れ様です、マネージャーさん。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "お疲れ様です、マネージャーさん。"
+            },
             "voice": "audition/story_01/heroine_15/HM_Cast_01_15_14_04/hm_cast_01_15_14_04_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "あ、まだ残ってたんだ。お疲れ様。\n帰り道、気をつけてね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "あ、まだ残ってたんだ。お疲れ様。\n帰り道、気をつけてね。"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "ありがとうございます。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "ありがとうございます。"
+            },
             "voice": "audition/story_01/heroine_15/HM_Cast_01_15_14_04/hm_cast_01_15_14_04_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "……最近、仕事、大変なんですか？",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "……最近、仕事、大変なんですか？"
+            },
             "voice": "audition/story_01/heroine_15/HM_Cast_01_15_14_04/hm_cast_01_15_14_04_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "え？　まぁ、そうだね。\nでも、もうひと踏ん張りってところかな。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "え？　まぁ、そうだね。\nでも、もうひと踏ん張りってところかな。"
+            },
             "voice": ""
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "そうですか……。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "そうですか……。"
+            },
             "voice": "audition/story_01/heroine_15/HM_Cast_01_15_14_04/hm_cast_01_15_14_04_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "……これ、どうぞ。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "……これ、どうぞ。"
+            },
             "voice": "audition/story_01/heroine_15/HM_Cast_01_15_14_04/hm_cast_01_15_14_04_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "え？　これって……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "え？　これって……。"
+            },
             "voice": ""
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "こないだのお返しです。\nお疲れ様でした。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "こないだのお返しです。\nお疲れ様でした。"
+            },
             "voice": "audition/story_01/heroine_15/HM_Cast_01_15_14_04/hm_cast_01_15_14_04_009.mp3"
         }
     ]

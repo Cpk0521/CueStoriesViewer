@@ -6,8 +6,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "マネージャー、行ってくるわね！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "マネージャー、行ってくるわね！"
+            },
             "voice": "audition/story_01/heroine_08/HM_Others_01_08_02/hm_others_01_08_02_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "うん、頑張っておいでね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "うん、頑張っておいでね。"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "ええ！\nオオブネに乗ったつもりで待ってて！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "ええ！\nオオブネに乗ったつもりで待ってて！"
+            },
             "voice": "audition/story_01/heroine_08/HM_Others_01_08_02/hm_others_01_08_02_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "やれるだけのことは、しっかりやってきたもの。\nきっと大丈夫！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "やれるだけのことは、しっかりやってきたもの。\nきっと大丈夫！"
+            },
             "voice": "audition/story_01/heroine_08/HM_Others_01_08_02/hm_others_01_08_02_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "うふふ。\n受かったらパーティーね！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "うふふ。\n受かったらパーティーね！"
+            },
             "voice": "audition/story_01/heroine_08/HM_Others_01_08_02/hm_others_01_08_02_005.mp3"
         }
     ]

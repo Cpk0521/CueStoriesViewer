@@ -6,8 +6,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "アフレコが始まると、実感してこない？　\n今、自分は、声優って仕事をしてるんだーって。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "アフレコが始まると、実感してこない？　\n今、自分は、声優って仕事をしてるんだーって。"
+            },
             "voice": "lesson/Lesson_30501/lesson_30501_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "そうだねー。\nそれに、早くみんなに見てほしいなって思うよね。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "そうだねー。\nそれに、早くみんなに見てほしいなって思うよね。"
+            },
             "voice": "lesson/Lesson_30501/lesson_30501_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "うんうん。　",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "うんうん。　"
+            },
             "voice": "lesson/Lesson_30501/lesson_30501_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "でもさ……、しょうがない話なんだけど......。\n人気が出たり、あまり人気が出なかったりするじゃん？",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "でもさ……、しょうがない話なんだけど......。\n人気が出たり、あまり人気が出なかったりするじゃん？"
+            },
             "voice": "lesson/Lesson_30501/lesson_30501_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "うん。　\nでも、わたしたちはどっちにしても一生懸命やるだけ、でしょ？",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "うん。　\nでも、わたしたちはどっちにしても一生懸命やるだけ、でしょ？"
+            },
             "voice": "lesson/Lesson_30501/lesson_30501_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "それはそうなんだけどね。　",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "それはそうなんだけどね。　"
+            },
             "voice": "lesson/Lesson_30501/lesson_30501_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "確かに、　\nわたしたちが全力で声と魂を吹き込んだアニメだもの。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "確かに、　\nわたしたちが全力で声と魂を吹き込んだアニメだもの。"
+            },
             "voice": "lesson/Lesson_30501/lesson_30501_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "できるだけたくさんの人に見てもらいたいかな。　",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "できるだけたくさんの人に見てもらいたいかな。　"
+            },
             "voice": "lesson/Lesson_30501/lesson_30501_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "でしょ？　",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "でしょ？　"
+            },
             "voice": "lesson/Lesson_30501/lesson_30501_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "でも、今は配信でプロモーションの番組とかもあるし、\nみんなの目に届く機会は増えたのかも。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "でも、今は配信でプロモーションの番組とかもあるし、\nみんなの目に届く機会は増えたのかも。"
+            },
             "voice": "lesson/Lesson_30501/lesson_30501_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "あ、そういえば。莉子、MCでしょ？　\n頑張ってね。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "あ、そういえば。莉子、MCでしょ？　\n頑張ってね。"
+            },
             "voice": "lesson/Lesson_30501/lesson_30501_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "あはは……。もう、今から緊張しちゃってるよ……。　",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "あはは……。もう、今から緊張しちゃってるよ……。　"
+            },
             "voice": "lesson/Lesson_30501/lesson_30501_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "わたしも、何か出来ることないかなあ。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "わたしも、何か出来ることないかなあ。"
+            },
             "voice": "lesson/Lesson_30501/lesson_30501_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "ん？　何が？　",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "ん？　何が？　"
+            },
             "voice": "lesson/Lesson_30501/lesson_30501_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "ほら、「トッケン」をもっとたくさんの人に楽しんでもらうために、\n出来ること。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "ほら、「トッケン」をもっとたくさんの人に楽しんでもらうために、\n出来ること。"
+            },
             "voice": "lesson/Lesson_30501/lesson_30501_015.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "うーん、何が出来るかな？\nでも、美晴だけそんな責任を感じることもないんじゃない？",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "うーん、何が出来るかな？\nでも、美晴だけそんな責任を感じることもないんじゃない？"
+            },
             "voice": "lesson/Lesson_30501/lesson_30501_016.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "出来ることは何でもやりたいの、わたし。　",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "出来ることは何でもやりたいの、わたし。　"
+            },
             "voice": "lesson/Lesson_30501/lesson_30501_019.mp3"
         }
     ]

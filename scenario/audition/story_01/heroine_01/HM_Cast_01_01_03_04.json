@@ -6,8 +6,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "あ。志穂！　この前のすごく効いたよ。\n飲んだその日からぐっすりねむれて、もうすっかり元気みたい。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "あ。志穂！　この前のすごく効いたよ。\n飲んだその日からぐっすりねむれて、もうすっかり元気みたい。"
+            },
             "voice": ""
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "そうか。それは良かった。\nすっかり憑き物が落ちた顔、だな。ジャーマネ。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "そうか。それは良かった。\nすっかり憑き物が落ちた顔、だな。ジャーマネ。"
+            },
             "voice": "audition/story_01/heroine_01/HM_Cast_01_01_03_04/hm_cast_01_01_03_04_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "（ねえ、志穂ちゃん……。\nマネージャーさんって、やっぱりつかれてたの？）",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "（ねえ、志穂ちゃん……。\nマネージャーさんって、やっぱりつかれてたの？）"
+            },
             "voice": "audition/story_01/heroine_01/HM_Cast_01_01_03_04/hm_cast_01_01_03_04_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "（事実は１つ。確かにジャーマネはつかれてたということだ。）",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "（事実は１つ。確かにジャーマネはつかれてたということだ。）"
+            },
             "voice": "audition/story_01/heroine_01/HM_Cast_01_01_03_04/hm_cast_01_01_03_04_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "（え？　じゃああの信州長野の秘伝のお酒って……？）",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "（え？　じゃああの信州長野の秘伝のお酒って……？）"
+            },
             "voice": "audition/story_01/heroine_01/HM_Cast_01_01_03_04/hm_cast_01_01_03_04_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "（寺の住職も愛用する、信州長野に伝わる薬草酒だが？\n一応お酒だからな、未成年では買えないから美晴に頼んだ。）",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "（寺の住職も愛用する、信州長野に伝わる薬草酒だが？\n一応お酒だからな、未成年では買えないから美晴に頼んだ。）"
+            },
             "voice": "audition/story_01/heroine_01/HM_Cast_01_01_03_04/hm_cast_01_01_03_04_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "（え？　じゃあやっぱりつかれてたってこと？）",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "（え？　じゃあやっぱりつかれてたってこと？）"
+            },
             "voice": "audition/story_01/heroine_01/HM_Cast_01_01_03_04/hm_cast_01_01_03_04_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "（なあ、陽菜、ジャーマネは1度でもつかれてると言ったか？）",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "（なあ、陽菜、ジャーマネは1度でもつかれてると言ったか？）"
+            },
             "voice": "audition/story_01/heroine_01/HM_Cast_01_01_03_04/hm_cast_01_01_03_04_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "（あれ……？　\nなんだかわからなくなってきちゃった……。）",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "（あれ……？　\nなんだかわからなくなってきちゃった……。）"
+            },
             "voice": "audition/story_01/heroine_01/HM_Cast_01_01_03_04/hm_cast_01_01_03_04_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "全ては言霊。\nこの世に不思議なことなど何もないのだよ六石くん。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "全ては言霊。\nこの世に不思議なことなど何もないのだよ六石くん。"
+            },
             "voice": "audition/story_01/heroine_01/HM_Cast_01_01_03_04/hm_cast_01_01_03_04_010.mp3"
         }
     ]

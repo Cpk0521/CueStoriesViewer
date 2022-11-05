@@ -6,8 +6,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "えーっ！？\nあたし達に仕事の依頼が！？",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "えーっ！？\nあたし達に仕事の依頼が！？"
+            },
             "voice": "lesson/Lesson_10204/lesson_10204_002.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "そうよ。新しく始まるアニメ「ふぇありん∞ふぇありん」に、\nあなた達がキャスティングされる事になったの。",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "そうよ。新しく始まるアニメ「ふぇありん∞ふぇありん」に、\nあなた達がキャスティングされる事になったの。"
+            },
             "voice": "lesson/Lesson_10204/lesson_10204_003.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "そ、それって……。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "そ、それって……。"
+            },
             "voice": "lesson/Lesson_10204/lesson_10204_004.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "デビュー出来るという事よ。",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "デビュー出来るという事よ。"
+            },
             "voice": "lesson/Lesson_10204/lesson_10204_005.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "デビュー……！",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "デビュー……！"
+            },
             "voice": "lesson/Lesson_10204/lesson_10204_006.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "喜ぶのは仕事を完璧にこなしてからにして頂戴。",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "喜ぶのは仕事を完璧にこなしてからにして頂戴。"
+            },
             "voice": "lesson/Lesson_10204/lesson_10204_007.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "はい、これが台本。\nしっかり読んでおいて。",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "はい、これが台本。\nしっかり読んでおいて。"
+            },
             "voice": "lesson/Lesson_10204/lesson_10204_009.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "はいっ！！",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "はいっ！！"
+            },
             "voice": "lesson/Lesson_10204/lesson_10204_010.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "ん？　\nこの台本、番号が書いてある……。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "ん？　\nこの台本、番号が書いてある……。"
+            },
             "voice": "lesson/Lesson_10204/lesson_10204_011.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "そうよ。台本には番号が振ってあってね。\n紛失してもすぐに分かるようにしてあるの。",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "そうよ。台本には番号が振ってあってね。\n紛失してもすぐに分かるようにしてあるの。"
+            },
             "voice": "lesson/Lesson_10204/lesson_10204_012.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "へぇー……。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "へぇー……。"
+            },
             "voice": "lesson/Lesson_10204/lesson_10204_013.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "公開前の台本が第三者の手に渡って、\n億単位の損害になったこともあるの。取扱いには十分注意してね。",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "公開前の台本が第三者の手に渡って、\n億単位の損害になったこともあるの。取扱いには十分注意してね。"
+            },
             "voice": "lesson/Lesson_10204/lesson_10204_014.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "はい！！",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "はい！！"
+            },
             "voice": "lesson/Lesson_10204/lesson_10204_015.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "いい？　皆……。\nこのチャンス、絶対に無駄にしちゃダメよ。",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "いい？　皆……。\nこのチャンス、絶対に無駄にしちゃダメよ。"
+            },
             "voice": "lesson/Lesson_10204/lesson_10204_016.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "『このわたし……。\nリーリエにかかれば、どんな事件も一発解決よ！』",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "『このわたし……。\nリーリエにかかれば、どんな事件も一発解決よ！』"
+            },
             "voice": "lesson/Lesson_10204/lesson_10204_017.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "だって私は！",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "だって私は！"
+            },
             "voice": "lesson/Lesson_10204/lesson_10204_018.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 0
             ],
-            "name": "女子高生",
-            "message": "クスクス……。\nあの人、独り言はげしいね。",
+            "name": {
+                "default": "女子高生"
+            },
+            "message": {
+                "default": "クスクス……。\nあの人、独り言はげしいね。"
+            },
             "voice": ""
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 0
             ],
-            "name": "女子高生",
-            "message": "ずっとブツブツ言ってる……。\nクスクス。",
+            "name": {
+                "default": "女子高生"
+            },
+            "message": {
+                "default": "ずっとブツブツ言ってる……。\nクスクス。"
+            },
             "voice": ""
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "（嘘ぉ！？　私、声出てた……？　\n恥ずかしい……。）",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "（嘘ぉ！？　私、声出てた……？　\n恥ずかしい……。）"
+            },
             "voice": "lesson/Lesson_10204/lesson_10204_021.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 0
             ],
-            "name": "お婆さん",
-            "message": "よいっしょっと。\n……ふぅ、容易じゃない。",
+            "name": {
+                "default": "お婆さん"
+            },
+            "message": {
+                "default": "よいっしょっと。\n……ふぅ、容易じゃない。"
+            },
             "voice": ""
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "（あ……。）",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "（あ……。）"
+            },
             "voice": "lesson/Lesson_10204/lesson_10204_023.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "どうぞ、おばあさん。\n私の席に座って下さい。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "どうぞ、おばあさん。\n私の席に座って下さい。"
+            },
             "voice": "lesson/Lesson_10204/lesson_10204_024.mp3"
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 0
             ],
-            "name": "お婆さん",
-            "message": "まぁ、ご親切に。\n有難う。",
+            "name": {
+                "default": "お婆さん"
+            },
+            "message": {
+                "default": "まぁ、ご親切に。\n有難う。"
+            },
             "voice": ""
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "いえ！",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "いえ！"
+            },
             "voice": "lesson/Lesson_10204/lesson_10204_026.mp3"
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "よし！　部屋についたし、もう周りを気にせず、\n声に出して台本読もう！",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "よし！　部屋についたし、もう周りを気にせず、\n声に出して台本読もう！"
+            },
             "voice": "lesson/Lesson_10204/lesson_10204_027.mp3"
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "あれ。\nあれ……？",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "あれ。\nあれ……？"
+            },
             "voice": "lesson/Lesson_10204/lesson_10204_028.mp3"
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "うそ……。\n私の台本が、無い……。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "うそ……。\n私の台本が、無い……。"
+            },
             "voice": "lesson/Lesson_10204/lesson_10204_029.mp3"
         }
     ]

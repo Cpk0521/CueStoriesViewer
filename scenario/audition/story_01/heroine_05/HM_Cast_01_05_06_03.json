@@ -6,8 +6,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "じゃあ千紗、マネージャー。\nあたしこの後自主練だから！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "じゃあ千紗、マネージャー。\nあたしこの後自主練だから！"
+            },
             "voice": "audition/story_01/heroine_05/HM_Cast_01_05_06_03/hm_cast_01_05_06_03_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "うん、気をつけてね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "うん、気をつけてね。"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "あ、悠希。\nちょっと待って。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "あ、悠希。\nちょっと待って。"
+            },
             "voice": "audition/story_01/heroine_05/HM_Cast_01_05_06_03/hm_cast_01_05_06_03_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "ん？\nどうしたの？",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "ん？\nどうしたの？"
+            },
             "voice": "audition/story_01/heroine_05/HM_Cast_01_05_06_03/hm_cast_01_05_06_03_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "ほら、あんたのレッスン着。\nほつれてるとこ、簡単にだけど直しといたから。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "ほら、あんたのレッスン着。\nほつれてるとこ、簡単にだけど直しといたから。"
+            },
             "voice": "audition/story_01/heroine_05/HM_Cast_01_05_06_03/hm_cast_01_05_06_03_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "えっ、いつの間に！？\nありがとう、千紗！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "えっ、いつの間に！？\nありがとう、千紗！"
+            },
             "voice": "audition/story_01/heroine_05/HM_Cast_01_05_06_03/hm_cast_01_05_06_03_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "はいはい。どういたしまして。\nあと、あんまり雑に洗濯しないようにね。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "はいはい。どういたしまして。\nあと、あんまり雑に洗濯しないようにね。"
+            },
             "voice": "audition/story_01/heroine_05/HM_Cast_01_05_06_03/hm_cast_01_05_06_03_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "いやー、最近帰るの遅いからさ。\nついバーっとやっちゃって。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "いやー、最近帰るの遅いからさ。\nついバーっとやっちゃって。"
+            },
             "voice": "audition/story_01/heroine_05/HM_Cast_01_05_06_03/hm_cast_01_05_06_03_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "カゴに入れといてくれれば、\n後で私がまとめてやっておくから。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "カゴに入れといてくれれば、\n後で私がまとめてやっておくから。"
+            },
             "voice": "audition/story_01/heroine_05/HM_Cast_01_05_06_03/hm_cast_01_05_06_03_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "あんたはオーディションに集中するんでしょ？\nそれくらい協力するわよ。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "あんたはオーディションに集中するんでしょ？\nそれくらい協力するわよ。"
+            },
             "voice": "audition/story_01/heroine_05/HM_Cast_01_05_06_03/hm_cast_01_05_06_03_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "……うん。ありがとう、千紗！\n千紗が忙しい時は、あたしも洗濯代わるから！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "……うん。ありがとう、千紗！\n千紗が忙しい時は、あたしも洗濯代わるから！"
+            },
             "voice": "audition/story_01/heroine_05/HM_Cast_01_05_06_03/hm_cast_01_05_06_03_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "私は自分で出来るわよ。\nじゃ、頑張ってね。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "私は自分で出来るわよ。\nじゃ、頑張ってね。"
+            },
             "voice": "audition/story_01/heroine_05/HM_Cast_01_05_06_03/hm_cast_01_05_06_03_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "……千紗、色々と手間かけさせてごめんね。\n今後、悠希は早く帰らせるようにするよ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "……千紗、色々と手間かけさせてごめんね。\n今後、悠希は早く帰らせるようにするよ。"
+            },
             "voice": ""
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "いいんです、マネージャー。\nあの子には、オーディション第一で考えてあげて下さい。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "いいんです、マネージャー。\nあの子には、オーディション第一で考えてあげて下さい。"
+            },
             "voice": "audition/story_01/heroine_05/HM_Cast_01_05_06_03/hm_cast_01_05_06_03_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "家事のせいでオーディションに落ちたなんて、\n言い訳させたくないですからね。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "家事のせいでオーディションに落ちたなんて、\n言い訳させたくないですからね。"
+            },
             "voice": "audition/story_01/heroine_05/HM_Cast_01_05_06_03/hm_cast_01_05_06_03_015.mp3"
         }
     ]

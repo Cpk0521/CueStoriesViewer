@@ -6,8 +6,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "レッスンしてると、\nあんまりうまくいかないなーって事もあるんですけど。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "レッスンしてると、\nあんまりうまくいかないなーって事もあるんですけど。"
+            },
             "voice": "audition/story_01/heroine_15/HM_Sub_01_15_05/hm_sub_01_15_05_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "そういう時は、ちょっとだけ休憩するんです。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "そういう時は、ちょっとだけ休憩するんです。"
+            },
             "voice": "audition/story_01/heroine_15/HM_Sub_01_15_05/hm_sub_01_15_05_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "そしたら、\nみんなもすっごく頑張ってるなーって。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "そしたら、\nみんなもすっごく頑張ってるなーって。"
+            },
             "voice": "audition/story_01/heroine_15/HM_Sub_01_15_05/hm_sub_01_15_05_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "だから、わたしも頑張ろーって、\n元気を貰えるんです！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "だから、わたしも頑張ろーって、\n元気を貰えるんです！"
+            },
             "voice": "audition/story_01/heroine_15/HM_Sub_01_15_05/hm_sub_01_15_05_004.mp3"
         }
     ]

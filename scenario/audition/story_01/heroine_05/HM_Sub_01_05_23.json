@@ -6,8 +6,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "……前から思ってたんだけど、\n真咲さんって、ものすごい人だよね！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "……前から思ってたんだけど、\n真咲さんって、ものすごい人だよね！"
+            },
             "voice": "audition/story_01/heroine_05/HM_Sub_01_05_23/hm_sub_01_05_23_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "有名声優でありながら、社長としてもバリバリ仕事こなして。\nもはや無敵じゃない！？",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "有名声優でありながら、社長としてもバリバリ仕事こなして。\nもはや無敵じゃない！？"
+            },
             "voice": "audition/story_01/heroine_05/HM_Sub_01_05_23/hm_sub_01_05_23_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "あたしも大人になったら、\nああいうデキる女になりたいよ！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "あたしも大人になったら、\nああいうデキる女になりたいよ！"
+            },
             "voice": "audition/story_01/heroine_05/HM_Sub_01_05_23/hm_sub_01_05_23_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そうだね、なれるといいね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そうだね、なれるといいね。"
+            },
             "voice": ""
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "もう、マネージャー。目標は常に高くだよ！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "もう、マネージャー。目標は常に高くだよ！"
+            },
             "voice": "audition/story_01/heroine_05/HM_Sub_01_05_23/hm_sub_01_05_23_004.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "目指せ、社長声優！\nあれ？　違うか。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "目指せ、社長声優！\nあれ？　違うか。"
+            },
             "voice": "audition/story_01/heroine_05/HM_Sub_01_05_23/hm_sub_01_05_23_005.mp3"
         }
     ]

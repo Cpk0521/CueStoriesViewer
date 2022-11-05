@@ -6,8 +6,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "というわけで、「こんにちは、いただきます。」の\n原作者の先生をお連れしました。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "というわけで、「こんにちは、いただきます。」の\n原作者の先生をお連れしました。"
+            },
             "voice": "main_01/Main_01_03/Main_01_03_28/main_01_03_28_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "原作者",
-            "message": "お邪魔致します。",
+            "name": {
+                "default": "原作者"
+            },
+            "message": {
+                "default": "お邪魔致します。"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 103
             ],
-            "name": "由良桐香",
-            "message": "うん……。じゃあ、出来るだけアフレコに近い形で、\nプロジェクターで映像出すから。",
+            "name": {
+                "default": "由良桐香"
+            },
+            "message": {
+                "default": "うん……。じゃあ、出来るだけアフレコに近い形で、\nプロジェクターで映像出すから。"
+            },
             "voice": "main_01/Main_01_03/Main_01_03_28/main_01_03_28_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 103
             ],
-            "name": "由良桐香",
-            "message": "画に合わせて、演技して頂戴。",
+            "name": {
+                "default": "由良桐香"
+            },
+            "message": {
+                "default": "画に合わせて、演技して頂戴。"
+            },
             "voice": "main_01/Main_01_03/Main_01_03_28/main_01_03_28_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "はい！",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "はい！"
+            },
             "voice": "main_01/Main_01_03/Main_01_03_28/main_01_03_28_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "桐香先生、よろしくお願いします。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "桐香先生、よろしくお願いします。"
+            },
             "voice": ""
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "めちゃめちゃ緊張する。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "めちゃめちゃ緊張する。"
+            },
             "voice": "main_01/Main_01_03/Main_01_03_28/main_01_03_28_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "がんばろう。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "がんばろう。"
+            },
             "voice": "main_01/Main_01_03/Main_01_03_28/main_01_03_28_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "うん……、やってやる……。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "うん……、やってやる……。"
+            },
             "voice": "main_01/Main_01_03/Main_01_03_28/main_01_03_28_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 103
             ],
-            "name": "由良桐香",
-            "message": "以上です。\n……いかがだったでしょうか？",
+            "name": {
+                "default": "由良桐香"
+            },
+            "message": {
+                "default": "以上です。\n……いかがだったでしょうか？"
+            },
             "voice": "main_01/Main_01_03/Main_01_03_28/main_01_03_28_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 0
             ],
-            "name": "原作者",
-            "message": "……。",
+            "name": {
+                "default": "原作者"
+            },
+            "message": {
+                "default": "……。"
+            },
             "voice": ""
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "わたし達、まだまだつたないです。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "わたし達、まだまだつたないです。"
+            },
             "voice": "main_01/Main_01_03/Main_01_03_28/main_01_03_28_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "でも、今出来る最大級の力は出せたと思っています。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "でも、今出来る最大級の力は出せたと思っています。"
+            },
             "voice": "main_01/Main_01_03/Main_01_03_28/main_01_03_28_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 0
             ],
-            "name": "原作者",
-            "message": "……。",
+            "name": {
+                "default": "原作者"
+            },
+            "message": {
+                "default": "……。"
+            },
             "voice": ""
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "ちょっと、なんか言ったらどうなの？",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "ちょっと、なんか言ったらどうなの？"
+            },
             "voice": "main_01/Main_01_03/Main_01_03_28/main_01_03_28_015.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "やめてまほろ！　\nそういう場面じゃないから。今は。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "やめてまほろ！　\nそういう場面じゃないから。今は。"
+            },
             "voice": "main_01/Main_01_03/Main_01_03_28/main_01_03_28_016.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "でも……。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "でも……。"
+            },
             "voice": "main_01/Main_01_03/Main_01_03_28/main_01_03_28_017.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 0
             ],
-            "name": "原作者",
-            "message": "これが……。\n「こんにちは、いただきます。」？　なの？",
+            "name": {
+                "default": "原作者"
+            },
+            "message": {
+                "default": "これが……。\n「こんにちは、いただきます。」？　なの？"
+            },
             "voice": ""
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "そうです。\nこれが私達の、「こんにちは、いただきます。」です。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "そうです。\nこれが私達の、「こんにちは、いただきます。」です。"
+            },
             "voice": "main_01/Main_01_03/Main_01_03_28/main_01_03_28_019.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "絢……。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "絢……。"
+            },
             "voice": "main_01/Main_01_03/Main_01_03_28/main_01_03_28_020.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "先生、お越しいただいてありがとうございました。\nまた機会がありましたら……。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "先生、お越しいただいてありがとうございました。\nまた機会がありましたら……。"
+            },
             "voice": "main_01/Main_01_03/Main_01_03_28/main_01_03_28_021.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 0
             ],
-            "name": "原作者",
-            "message": "すばらしい……。",
+            "name": {
+                "default": "原作者"
+            },
+            "message": {
+                "default": "すばらしい……。"
+            },
             "voice": ""
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "えっ……？",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "えっ……？"
+            },
             "voice": "main_01/Main_01_03/Main_01_03_28/main_01_03_28_023.mp3"
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 0
             ],
-            "name": "原作者",
-            "message": "素晴らしすぎて、声が出なかったの。\n素晴らしい、ありがとう。あなた達最高よ。",
+            "name": {
+                "default": "原作者"
+            },
+            "message": {
+                "default": "素晴らしすぎて、声が出なかったの。\n素晴らしい、ありがとう。あなた達最高よ。"
+            },
             "voice": ""
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "あ、ありがとうございます。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "あ、ありがとうございます。"
+            },
             "voice": ""
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 0
             ],
-            "name": "原作者",
-            "message": "明日の収録、まだ間に合うかしら。",
+            "name": {
+                "default": "原作者"
+            },
+            "message": {
+                "default": "明日の収録、まだ間に合うかしら。"
+            },
             "voice": ""
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "我々は、スケジュールがら空きですから、\n問題ありません。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "我々は、スケジュールがら空きですから、\n問題ありません。"
+            },
             "voice": ""
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "言わなくてもいいじゃん。\nそういうことさ……。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "言わなくてもいいじゃん。\nそういうことさ……。"
+            },
             "voice": "main_01/Main_01_03/Main_01_03_28/main_01_03_28_028.mp3"
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 103
             ],
-            "name": "由良桐香",
-            "message": "でも、スタジオがどうでしょうか……。\nキャンセルされてるとしたら、スタッフが集まるかどうか……。",
+            "name": {
+                "default": "由良桐香"
+            },
+            "message": {
+                "default": "でも、スタジオがどうでしょうか……。\nキャンセルされてるとしたら、スタッフが集まるかどうか……。"
+            },
             "voice": "main_01/Main_01_03/Main_01_03_28/main_01_03_28_029.mp3"
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 0
             ],
-            "name": "原作者",
-            "message": "私が制作者と掛け合うわ。\nもちろん、この度の費用は私の財布から出します。",
+            "name": {
+                "default": "原作者"
+            },
+            "message": {
+                "default": "私が制作者と掛け合うわ。\nもちろん、この度の費用は私の財布から出します。"
+            },
             "voice": ""
         },
         {
@@ -276,8 +396,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "それって……。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "それって……。"
+            },
             "voice": "main_01/Main_01_03/Main_01_03_28/main_01_03_28_031.mp3"
         },
         {
@@ -285,8 +409,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "アフレコ復活ってこと？",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "アフレコ復活ってこと？"
+            },
             "voice": "main_01/Main_01_03/Main_01_03_28/main_01_03_28_032.mp3"
         },
         {
@@ -294,8 +422,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "でも……、失礼ですけど先生、そんな大金。\nすぐに用意出来るんですか？",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "でも……、失礼ですけど先生、そんな大金。\nすぐに用意出来るんですか？"
+            },
             "voice": "main_01/Main_01_03/Main_01_03_28/main_01_03_28_033.mp3"
         },
         {
@@ -303,8 +435,12 @@
             "heroineId": [
                 0
             ],
-            "name": "原作者",
-            "message": "あら、あのボロアパートをみて値踏みしてる？\nあそこは初心を忘れないための仕事場よ。",
+            "name": {
+                "default": "原作者"
+            },
+            "message": {
+                "default": "あら、あのボロアパートをみて値踏みしてる？\nあそこは初心を忘れないための仕事場よ。"
+            },
             "voice": ""
         },
         {
@@ -312,8 +448,12 @@
             "heroineId": [
                 0
             ],
-            "name": "原作者",
-            "message": "心配しないで、お金ならあるわ。",
+            "name": {
+                "default": "原作者"
+            },
+            "message": {
+                "default": "心配しないで、お金ならあるわ。"
+            },
             "voice": ""
         },
         {
@@ -321,8 +461,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "そうか。\nそういうセリフは、こういう時に言うのね。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "そうか。\nそういうセリフは、こういう時に言うのね。"
+            },
             "voice": "main_01/Main_01_03/Main_01_03_28/main_01_03_28_036.mp3"
         },
         {
@@ -330,8 +474,12 @@
             "heroineId": [
                 0
             ],
-            "name": "原作者",
-            "message": "私ほんとは、私の愛したキャラクターを、\n他の誰かに取られるのが嫌だっただけみたい。",
+            "name": {
+                "default": "原作者"
+            },
+            "message": {
+                "default": "私ほんとは、私の愛したキャラクターを、\n他の誰かに取られるのが嫌だっただけみたい。"
+            },
             "voice": ""
         },
         {
@@ -339,8 +487,12 @@
             "heroineId": [
                 0
             ],
-            "name": "原作者",
-            "message": "でも今日分かったわ。私は子離れが出来なかっただけ。\n私の産んだキャラクターは、もう立派に羽ばたいていた。",
+            "name": {
+                "default": "原作者"
+            },
+            "message": {
+                "default": "でも今日分かったわ。私は子離れが出来なかっただけ。\n私の産んだキャラクターは、もう立派に羽ばたいていた。"
+            },
             "voice": ""
         },
         {
@@ -348,8 +500,12 @@
             "heroineId": [
                 0
             ],
-            "name": "原作者",
-            "message": "命を吹き込んでくれてありがとう。\n感謝するわ。",
+            "name": {
+                "default": "原作者"
+            },
+            "message": {
+                "default": "命を吹き込んでくれてありがとう。\n感謝するわ。"
+            },
             "voice": ""
         },
         {
@@ -357,8 +513,12 @@
             "heroineId": [
                 103
             ],
-            "name": "由良桐香",
-            "message": "最高の誉め言葉ね……。",
+            "name": {
+                "default": "由良桐香"
+            },
+            "message": {
+                "default": "最高の誉め言葉ね……。"
+            },
             "voice": "main_01/Main_01_03/Main_01_03_28/main_01_03_28_040.mp3"
         },
         {
@@ -366,8 +526,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "で、皆はこの後まだ練習するの？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "で、皆はこの後まだ練習するの？"
+            },
             "voice": ""
         },
         {
@@ -375,8 +539,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "いやいや。\n明日に備えて休みます。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "いやいや。\n明日に備えて休みます。"
+            },
             "voice": "main_01/Main_01_03/Main_01_03_28/main_01_03_28_042.mp3"
         },
         {
@@ -384,8 +552,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "コンディション整えないと。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "コンディション整えないと。"
+            },
             "voice": "main_01/Main_01_03/Main_01_03_28/main_01_03_28_043.mp3"
         },
         {
@@ -393,8 +565,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "バタバタしちゃったしね。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "バタバタしちゃったしね。"
+            },
             "voice": "main_01/Main_01_03/Main_01_03_28/main_01_03_28_044.mp3"
         },
         {
@@ -402,8 +578,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "マネージャーも、ちゃんと休んでくださいね。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "マネージャーも、ちゃんと休んでくださいね。"
+            },
             "voice": "main_01/Main_01_03/Main_01_03_28/main_01_03_28_045.mp3"
         },
         {
@@ -411,8 +591,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "皆……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "皆……。"
+            },
             "voice": ""
         },
         {
@@ -420,8 +604,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "初めてのアフレコ、お疲れ様！",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "初めてのアフレコ、お疲れ様！"
+            },
             "voice": ""
         },
         {
@@ -429,8 +617,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "ありがとうございます！",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "ありがとうございます！"
+            },
             "voice": "main_01/Main_01_03/Main_01_03_28/main_01_03_28_048.mp3"
         },
         {
@@ -438,8 +630,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "なんか、昨日のこともあってか、\nぜんぜん緊張しなかったね。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "なんか、昨日のこともあってか、\nぜんぜん緊張しなかったね。"
+            },
             "voice": "main_01/Main_01_03/Main_01_03_28/main_01_03_28_049.mp3"
         },
         {
@@ -447,8 +643,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "原作者の先生も、とても喜んで帰られたわ。",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "原作者の先生も、とても喜んで帰られたわ。"
+            },
             "voice": "main_01/Main_01_03/Main_01_03_28/main_01_03_28_050.mp3"
         },
         {
@@ -456,8 +656,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "帰っちゃったんだ。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "帰っちゃったんだ。"
+            },
             "voice": "main_01/Main_01_03/Main_01_03_28/main_01_03_28_051.mp3"
         },
         {
@@ -465,8 +669,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "人騒がせな先生だったね。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "人騒がせな先生だったね。"
+            },
             "voice": "main_01/Main_01_03/Main_01_03_28/main_01_03_28_052.mp3"
         },
         {
@@ -474,8 +682,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "こら、ダメよ、そんなこと言っちゃ。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "こら、ダメよ、そんなこと言っちゃ。"
+            },
             "voice": "main_01/Main_01_03/Main_01_03_28/main_01_03_28_053.mp3"
         },
         {
@@ -483,8 +695,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "その先生から、次回作のオファーもいただいたわ。",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "その先生から、次回作のオファーもいただいたわ。"
+            },
             "voice": "main_01/Main_01_03/Main_01_03_28/main_01_03_28_054.mp3"
         },
         {
@@ -492,8 +708,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "ほんとですか？",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "ほんとですか？"
+            },
             "voice": "main_01/Main_01_03/Main_01_03_28/main_01_03_28_055.mp3"
         },
         {
@@ -501,8 +721,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "あなた達にはほんとに感心する……。\n結局、自分達で仕事を掴んでくるものね。",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "あなた達にはほんとに感心する……。\n結局、自分達で仕事を掴んでくるものね。"
+            },
             "voice": "main_01/Main_01_03/Main_01_03_28/main_01_03_28_056.mp3"
         },
         {
@@ -510,8 +734,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "結局、美晴のおかげだった。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "結局、美晴のおかげだった。"
+            },
             "voice": "main_01/Main_01_03/Main_01_03_28/main_01_03_28_057.mp3"
         },
         {
@@ -519,8 +747,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "そんなことない。\nみんながいなきゃ、わたしは何も出来ないよ。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "そんなことない。\nみんながいなきゃ、わたしは何も出来ないよ。"
+            },
             "voice": "main_01/Main_01_03/Main_01_03_28/main_01_03_28_058.mp3"
         },
         {
@@ -528,8 +760,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "あなた達はいろんな人の希望を背負っているのよ。\n課せられた使命は大きいわ……、頑張るのよ。",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "あなた達はいろんな人の希望を背負っているのよ。\n課せられた使命は大きいわ……、頑張るのよ。"
+            },
             "voice": "main_01/Main_01_03/Main_01_03_28/main_01_03_28_059.mp3"
         },
         {
@@ -537,8 +773,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "はい！",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "はい！"
+            },
             "voice": "main_01/Main_01_03/Main_01_03_28/main_01_03_28_060.mp3"
         }
     ]

@@ -6,8 +6,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "じゃ、まず……。\nこのリビングに来る前の行動を思い出してみようか。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "じゃ、まず……。\nこのリビングに来る前の行動を思い出してみようか。"
+            },
             "voice": ""
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "ここに来る前は……。\nあっ、自分の部屋で筋トレしてました！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "ここに来る前は……。\nあっ、自分の部屋で筋トレしてました！"
+            },
             "voice": "card/Card_04/Card_2040002_2/card_2040002_2_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "いつも通りの行動だな。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "いつも通りの行動だな。"
+            },
             "voice": "card/Card_04/Card_2040002_2/card_2040002_2_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そのあとは、何してたの？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そのあとは、何してたの？"
+            },
             "voice": ""
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "その後は、プロテインを飲みました。\nそしたら、プロテインが無くなっちゃって……。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "その後は、プロテインを飲みました。\nそしたら、プロテインが無くなっちゃって……。"
+            },
             "voice": "card/Card_04/Card_2040002_2/card_2040002_2_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "そうだ！　\n買いに行こうと思って、外に出ました！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "そうだ！　\n買いに行こうと思って、外に出ました！"
+            },
             "voice": "card/Card_04/Card_2040002_2/card_2040002_2_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "すでに一度、外には出てるのね。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "すでに一度、外には出てるのね。"
+            },
             "voice": "card/Card_04/Card_2040002_2/card_2040002_2_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "で、駅まで行く途中で、100均に寄ったな……。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "で、駅まで行く途中で、100均に寄ったな……。"
+            },
             "voice": "card/Card_04/Card_2040002_2/card_2040002_2_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "何を買ったの？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "何を買ったの？"
+            },
             "voice": ""
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "別に何も買いません。\n100均見ると反射的に入っちゃうんです。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "別に何も買いません。\n100均見ると反射的に入っちゃうんです。"
+            },
             "voice": "card/Card_04/Card_2040002_2/card_2040002_2_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "わかるぞ。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "わかるぞ。"
+            },
             "voice": "card/Card_04/Card_2040002_2/card_2040002_2_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "ぐるっと店内を見て、店を出ました。\nそして次は……、あぁ！　本屋に入った！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "ぐるっと店内を見て、店を出ました。\nそして次は……、あぁ！　本屋に入った！"
+            },
             "voice": "card/Card_04/Card_2040002_2/card_2040002_2_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "今度は何か買った？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "今度は何か買った？"
+            },
             "voice": ""
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "いえ、本屋もとりあえず用事も無く入るんで。\nあっ、でも、雑誌をパラパラ立ち読みしました。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "いえ、本屋もとりあえず用事も無く入るんで。\nあっ、でも、雑誌をパラパラ立ち読みしました。"
+            },
             "voice": "card/Card_04/Card_2040002_2/card_2040002_2_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "何、読んだの？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "何、読んだの？"
+            },
             "voice": ""
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "いろいろです。\nファッション雑誌とか、音楽雑誌とか。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "いろいろです。\nファッション雑誌とか、音楽雑誌とか。"
+            },
             "voice": "card/Card_04/Card_2040002_2/card_2040002_2_016.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "とくに変わったことは？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "とくに変わったことは？"
+            },
             "voice": ""
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "特になかったと思いますけど……。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "特になかったと思いますけど……。"
+            },
             "voice": "card/Card_04/Card_2040002_2/card_2040002_2_018.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "それからは？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "それからは？"
+            },
             "voice": ""
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "それからは、駅について……。\nそう、改札を入ろうとしたらICカードが無くて！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "それからは、駅について……。\nそう、改札を入ろうとしたらICカードが無くて！"
+            },
             "voice": "card/Card_04/Card_2040002_2/card_2040002_2_020.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "あぁ！！\n思い出した！！！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "あぁ！！\n思い出した！！！"
+            },
             "voice": "card/Card_04/Card_2040002_2/card_2040002_2_021.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "思い出した！？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "思い出した！？"
+            },
             "voice": ""
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "舞花にICカードを貸したままになってたんだ！\nだから返してもらおうと思って……！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "舞花にICカードを貸したままになってたんだ！\nだから返してもらおうと思って……！"
+            },
             "voice": "card/Card_04/Card_2040002_2/card_2040002_2_023.mp3"
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "そういうことか。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "そういうことか。"
+            },
             "voice": "card/Card_04/Card_2040002_2/card_2040002_2_024.mp3"
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "よかったね。\n思い出して。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "よかったね。\n思い出して。"
+            },
             "voice": "card/Card_04/Card_2040002_2/card_2040002_2_025.mp3"
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "みんな、ありがとう。\nマネージャーも、ありがとうございました。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "みんな、ありがとう。\nマネージャーも、ありがとうございました。"
+            },
             "voice": "card/Card_04/Card_2040002_2/card_2040002_2_026.mp3"
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "スッキリした？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "スッキリした？"
+            },
             "voice": ""
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "はい！　すごくスッキリしました！\n舞花――？　ICカードを返して。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "はい！　すごくスッキリしました！\n舞花――？　ICカードを返して。"
+            },
             "voice": "card/Card_04/Card_2040002_2/card_2040002_2_028.mp3"
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "あぁ～……。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "あぁ～……。"
+            },
             "voice": "card/Card_04/Card_2040002_2/card_2040002_2_029.mp3"
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "舞花？",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "舞花？"
+            },
             "voice": "card/Card_04/Card_2040002_2/card_2040002_2_030.mp3"
         },
         {
@@ -276,8 +396,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "借りたICカード、どこに置いたっけ……？",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "借りたICカード、どこに置いたっけ……？"
+            },
             "voice": "card/Card_04/Card_2040002_2/card_2040002_2_031.mp3"
         },
         {
@@ -285,8 +409,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "まさか……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "まさか……。"
+            },
             "voice": ""
         },
         {
@@ -294,8 +422,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "マネージャー、思い出すのを手伝ってくれませんか？",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "マネージャー、思い出すのを手伝ってくれませんか？"
+            },
             "voice": "card/Card_04/Card_2040002_2/card_2040002_2_033.mp3"
         }
     ]

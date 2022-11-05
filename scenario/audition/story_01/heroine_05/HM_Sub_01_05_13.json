@@ -6,8 +6,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "レッスンしてると、\nどっかでアドリブ入れたくなるんだよねー。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "レッスンしてると、\nどっかでアドリブ入れたくなるんだよねー。"
+            },
             "voice": "audition/story_01/heroine_05/HM_Sub_01_05_13/hm_sub_01_05_13_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "あたし色の何かを入れたくなるっていうか、\nつい体が動いちゃうっていうか。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "あたし色の何かを入れたくなるっていうか、\nつい体が動いちゃうっていうか。"
+            },
             "voice": "audition/story_01/heroine_05/HM_Sub_01_05_13/hm_sub_01_05_13_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "でも、決められた演技内で自分の色を出すのがプロって言われて、\nなるほど！　って思ったんだよね。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "でも、決められた演技内で自分の色を出すのがプロって言われて、\nなるほど！　って思ったんだよね。"
+            },
             "voice": "audition/story_01/heroine_05/HM_Sub_01_05_13/hm_sub_01_05_13_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "やっぱり声優の道は高く険しいね！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "やっぱり声優の道は高く険しいね！"
+            },
             "voice": "audition/story_01/heroine_05/HM_Sub_01_05_13/hm_sub_01_05_13_004.mp3"
         }
     ]

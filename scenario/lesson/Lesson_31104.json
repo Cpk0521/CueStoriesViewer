@@ -6,8 +6,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "じゃ、あたし、プラモ見てくる！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "じゃ、あたし、プラモ見てくる！"
+            },
             "voice": "lesson/Lesson_31104/lesson_31104_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "悠希、お店の中で走っちゃダメよ。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "悠希、お店の中で走っちゃダメよ。"
+            },
             "voice": "lesson/Lesson_31104/lesson_31104_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "わかってるって。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "わかってるって。"
+            },
             "voice": "lesson/Lesson_31104/lesson_31104_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "あ、ほら、あいりが行きたいのはあっちじゃない？",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "あ、ほら、あいりが行きたいのはあっちじゃない？"
+            },
             "voice": "lesson/Lesson_31104/lesson_31104_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "うん。ありがとう悠希ちゃん！",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "うん。ありがとう悠希ちゃん！"
+            },
             "voice": "lesson/Lesson_31104/lesson_31104_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "もう、あいりまで……、まったく。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "もう、あいりまで……、まったく。"
+            },
             "voice": "lesson/Lesson_31104/lesson_31104_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "ふふっ。\nチサは何か欲しい物はないの？",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "ふふっ。\nチサは何か欲しい物はないの？"
+            },
             "voice": "lesson/Lesson_31104/lesson_31104_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "うーん。ここでは、特に無いかな……。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "うーん。ここでは、特に無いかな……。"
+            },
             "voice": "lesson/Lesson_31104/lesson_31104_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "そうなの？\nそれじゃあ、チサは退屈ね……。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "そうなの？\nそれじゃあ、チサは退屈ね……。"
+            },
             "voice": "lesson/Lesson_31104/lesson_31104_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "え？　ううん。\nこういうの、何故か退屈じゃないから。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "え？　ううん。\nこういうの、何故か退屈じゃないから。"
+            },
             "voice": "lesson/Lesson_31104/lesson_31104_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "ふふ。不思議よね。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "ふふ。不思議よね。"
+            },
             "voice": "lesson/Lesson_31104/lesson_31104_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "ふーん……。じゃあ、チサ。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "ふーん……。じゃあ、チサ。"
+            },
             "voice": "lesson/Lesson_31104/lesson_31104_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "カネコのバイクのフィギュア、\n探すの手伝ってくれない？",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "カネコのバイクのフィギュア、\n探すの手伝ってくれない？"
+            },
             "voice": "lesson/Lesson_31104/lesson_31104_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "いいわよ。\nでも、あるかしら……。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "いいわよ。\nでも、あるかしら……。"
+            },
             "voice": "lesson/Lesson_31104/lesson_31104_014.mp3"
         }
     ]

@@ -6,8 +6,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "……。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "……。"
+            },
             "voice": "audition/story_01/heroine_16/HM_Sub_01_16_04/hm_sub_01_16_04_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "ねむそうだね。昨日はあまりねむれなかったの？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "ねむそうだね。昨日はあまりねむれなかったの？"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "はい……。\n昨日から、シーズン7が始まったので。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "はい……。\n昨日から、シーズン7が始まったので。"
+            },
             "voice": "audition/story_01/heroine_16/HM_Sub_01_16_04/hm_sub_01_16_04_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "新マップに慣れるまで時間がかかりました。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "新マップに慣れるまで時間がかかりました。"
+            },
             "voice": "audition/story_01/heroine_16/HM_Sub_01_16_04/hm_sub_01_16_04_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "もう大丈夫です。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "もう大丈夫です。"
+            },
             "voice": "audition/story_01/heroine_16/HM_Sub_01_16_04/hm_sub_01_16_04_005.mp3"
         }
     ]

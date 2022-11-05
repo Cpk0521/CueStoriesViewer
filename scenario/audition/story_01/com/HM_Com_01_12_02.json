@@ -6,8 +6,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "あー、莉子、ちょうど良かった。\nちょっといい？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "あー、莉子、ちょうど良かった。\nちょっといい？"
+            },
             "voice": ""
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "えー、あたしもう帰るとこなんですけど。　",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "えー、あたしもう帰るとこなんですけど。　"
+            },
             "voice": "audition/story_01/com/HM_Com_01_12_02/hm_com_01_12_02_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "まあまあ、ちょっとだけ。\nこれ、ちょっと見てくれる？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "まあまあ、ちょっとだけ。\nこれ、ちょっと見てくれる？"
+            },
             "voice": ""
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "もう、しょうがないなあ。何？　",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "もう、しょうがないなあ。何？　"
+            },
             "voice": "audition/story_01/com/HM_Com_01_12_02/hm_com_01_12_02_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "宣材写真なんだけどさ、\nこっちとこっち……、どっちがいいと思う？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "宣材写真なんだけどさ、\nこっちとこっち……、どっちがいいと思う？"
+            },
             "voice": ""
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "あー、うーん、そうだねー。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "あー、うーん、そうだねー。"
+            },
             "voice": "audition/story_01/com/HM_Com_01_12_02/hm_com_01_12_02_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "あたし的にはこっちかな。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "あたし的にはこっちかな。"
+            },
             "voice": "audition/story_01/com/HM_Com_01_12_02/hm_com_01_12_02_008.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "ふむ。なるほどね。よし、じゃあ、こっちで行こう。　",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "ふむ。なるほどね。よし、じゃあ、こっちで行こう。　"
+            },
             "voice": ""
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "っていうか、なんであたしに聞くわけ？　",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "っていうか、なんであたしに聞くわけ？　"
+            },
             "voice": "audition/story_01/com/HM_Com_01_12_02/hm_com_01_12_02_010.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "だって莉子のセンスって、とても参考になるからね。　",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "だって莉子のセンスって、とても参考になるからね。　"
+            },
             "voice": ""
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "いやいや、それほどでも……。\nって、褒めればいいと思ってない？",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "いやいや、それほどでも……。\nって、褒めればいいと思ってない？"
+            },
             "voice": "audition/story_01/com/HM_Com_01_12_02/hm_com_01_12_02_012.mp3"
         }
     ]

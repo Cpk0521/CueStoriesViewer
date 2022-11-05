@@ -6,8 +6,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "見てください、マネージャーさん！\nすっごく綺麗じゃないですか？　万華鏡です！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "見てください、マネージャーさん！\nすっごく綺麗じゃないですか？　万華鏡です！"
+            },
             "voice": "audition/story_01/heroine_15/HM_Sub_01_15_16/hm_sub_01_15_16_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "ゆずっちが、お土産にってくれたんです。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "ゆずっちが、お土産にってくれたんです。"
+            },
             "voice": "audition/story_01/heroine_15/HM_Sub_01_15_16/hm_sub_01_15_16_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "すごいなあ……綺麗だなあ。\nきらきらしてる……。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "すごいなあ……綺麗だなあ。\nきらきらしてる……。"
+            },
             "voice": "audition/story_01/heroine_15/HM_Sub_01_15_16/hm_sub_01_15_16_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "えへへ。\nわたしの宝物、また増えちゃいました。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "えへへ。\nわたしの宝物、また増えちゃいました。"
+            },
             "voice": "audition/story_01/heroine_15/HM_Sub_01_15_16/hm_sub_01_15_16_004.mp3"
         }
     ]

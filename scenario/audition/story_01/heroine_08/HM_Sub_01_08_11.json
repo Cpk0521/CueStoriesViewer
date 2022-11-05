@@ -6,8 +6,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "ねえ、マネージャー。\n正座って、得意？",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "ねえ、マネージャー。\n正座って、得意？"
+            },
             "voice": "audition/story_01/heroine_08/HM_Sub_01_08_11/hm_sub_01_08_11_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "今日、学校で茶道の授業があったんだけど、\n足がすごーくしびれちゃって！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "今日、学校で茶道の授業があったんだけど、\n足がすごーくしびれちゃって！"
+            },
             "voice": "audition/story_01/heroine_08/HM_Sub_01_08_11/hm_sub_01_08_11_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "授業の後、みんな鹿の赤ちゃんみたいになってたわ。\n足がガクガクしてるの！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "授業の後、みんな鹿の赤ちゃんみたいになってたわ。\n足がガクガクしてるの！"
+            },
             "voice": "audition/story_01/heroine_08/HM_Sub_01_08_11/hm_sub_01_08_11_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "うーん、しびれない方法とかないかしら……。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "うーん、しびれない方法とかないかしら……。"
+            },
             "voice": "audition/story_01/heroine_08/HM_Sub_01_08_11/hm_sub_01_08_11_004.mp3"
         }
     ]

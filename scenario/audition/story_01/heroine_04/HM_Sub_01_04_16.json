@@ -6,8 +6,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "あ、マネージャー！\nこのアニメ知ってますか？",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "あ、マネージャー！\nこのアニメ知ってますか？"
+            },
             "voice": "audition/story_01/heroine_04/HM_Sub_01_04_16/hm_sub_01_04_16_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "ちょっと「グレイゼファー」と似てるところ、あるんですよね。\n空が舞台だったり、ロボットが出てきたり！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "ちょっと「グレイゼファー」と似てるところ、あるんですよね。\n空が舞台だったり、ロボットが出てきたり！"
+            },
             "voice": "audition/story_01/heroine_04/HM_Sub_01_04_16/hm_sub_01_04_16_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "えへへ。実はこれ、聡里さんに教えてもらったんですよ。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "えへへ。実はこれ、聡里さんに教えてもらったんですよ。"
+            },
             "voice": "audition/story_01/heroine_04/HM_Sub_01_04_16/hm_sub_01_04_16_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "この間、ボイトレがかぶった時があって、\n「グレイゼファー」と似たジャンルのアニメを教えてくれたんです！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "この間、ボイトレがかぶった時があって、\n「グレイゼファー」と似たジャンルのアニメを教えてくれたんです！"
+            },
             "voice": "audition/story_01/heroine_04/HM_Sub_01_04_16/hm_sub_01_04_16_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "やっぱり聡里さんって、物知りですよねぇ。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "やっぱり聡里さんって、物知りですよねぇ。"
+            },
             "voice": "audition/story_01/heroine_04/HM_Sub_01_04_16/hm_sub_01_04_16_005.mp3"
         }
     ]

@@ -6,8 +6,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "誰かしら？\nどうぞ。",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "誰かしら？\nどうぞ。"
+            },
             "voice": "main_01/Main_01_05/Main_01_05_05/main_01_05_05_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "失礼します……。\nあ、マネージャーさん。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "失礼します……。\nあ、マネージャーさん。"
+            },
             "voice": "main_01/Main_01_05/Main_01_05_05/main_01_05_05_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "陽菜、どうしたの？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "陽菜、どうしたの？"
+            },
             "voice": ""
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "桐香先生が社長室にいらっしゃるって聞いて。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "桐香先生が社長室にいらっしゃるって聞いて。"
+            },
             "voice": "main_01/Main_01_05/Main_01_05_05/main_01_05_05_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 103
             ],
-            "name": "由良桐香",
-            "message": "私に何か用？",
+            "name": {
+                "default": "由良桐香"
+            },
+            "message": {
+                "default": "私に何か用？"
+            },
             "voice": "main_01/Main_01_05/Main_01_05_05/main_01_05_05_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "桐香先生、お願いがあります。\nわたし達の朗読劇の、演出をやってください。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "桐香先生、お願いがあります。\nわたし達の朗読劇の、演出をやってください。"
+            },
             "voice": "main_01/Main_01_05/Main_01_05_05/main_01_05_05_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 103
             ],
-            "name": "由良桐香",
-            "message": "あら、朗読劇が実現することになったの？",
+            "name": {
+                "default": "由良桐香"
+            },
+            "message": {
+                "default": "あら、朗読劇が実現することになったの？"
+            },
             "voice": "main_01/Main_01_05/Main_01_05_05/main_01_05_05_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "彼女達が裏方スタッフもやるのよ？\n劇場取ったり、日程を決めたり。",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "彼女達が裏方スタッフもやるのよ？\n劇場取ったり、日程を決めたり。"
+            },
             "voice": "main_01/Main_01_05/Main_01_05_05/main_01_05_05_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "でも、演出だけはわたし達ではできないと思ってるんです。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "でも、演出だけはわたし達ではできないと思ってるんです。"
+            },
             "voice": "main_01/Main_01_05/Main_01_05_05/main_01_05_05_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "（それは、そうだろうな……。）",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "（それは、そうだろうな……。）"
+            },
             "voice": ""
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 103
             ],
-            "name": "由良桐香",
-            "message": "そうね。\nそこは大変なところだと思うわ。",
+            "name": {
+                "default": "由良桐香"
+            },
+            "message": {
+                "default": "そうね。\nそこは大変なところだと思うわ。"
+            },
             "voice": "main_01/Main_01_05/Main_01_05_05/main_01_05_05_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "なので、やっぱりわたし達が、\n信頼してる、桐香先生に演出してほしいんです。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "なので、やっぱりわたし達が、\n信頼してる、桐香先生に演出してほしいんです。"
+            },
             "voice": "main_01/Main_01_05/Main_01_05_05/main_01_05_05_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 103
             ],
-            "name": "由良桐香",
-            "message": "……。",
+            "name": {
+                "default": "由良桐香"
+            },
+            "message": {
+                "default": "……。"
+            },
             "voice": "main_01/Main_01_05/Main_01_05_05/main_01_05_05_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "桐香先生、お願いします。\nどうしても公演を成功させたいんです。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "桐香先生、お願いします。\nどうしても公演を成功させたいんです。"
+            },
             "voice": "main_01/Main_01_05/Main_01_05_05/main_01_05_05_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "みんなが満足する。\n最高の公演にしたいんです！",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "みんなが満足する。\n最高の公演にしたいんです！"
+            },
             "voice": "main_01/Main_01_05/Main_01_05_05/main_01_05_05_015.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 103
             ],
-            "name": "由良桐香",
-            "message": "ここまで言われたら、やるしかないわね。\nビシビシいくわよ？　覚悟してね。",
+            "name": {
+                "default": "由良桐香"
+            },
+            "message": {
+                "default": "ここまで言われたら、やるしかないわね。\nビシビシいくわよ？　覚悟してね。"
+            },
             "voice": "main_01/Main_01_05/Main_01_05_05/main_01_05_05_016.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "はい！\nありがとうございます！",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "はい！\nありがとうございます！"
+            },
             "voice": "main_01/Main_01_05/Main_01_05_05/main_01_05_05_017.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "さとちん、台本の調子はどう？",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "さとちん、台本の調子はどう？"
+            },
             "voice": "main_01/Main_01_05/Main_01_05_05/main_01_05_05_018.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "切羽詰まってるわよ。\n……何の用？",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "切羽詰まってるわよ。\n……何の用？"
+            },
             "voice": "main_01/Main_01_05/Main_01_05_05/main_01_05_05_019.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "いや、何か力になろうと思ってさ。\n何をしたら1番助かる？",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "いや、何か力になろうと思ってさ。\n何をしたら1番助かる？"
+            },
             "voice": "main_01/Main_01_05/Main_01_05_05/main_01_05_05_020.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "すぐに出てってくれたら1番助かる。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "すぐに出てってくれたら1番助かる。"
+            },
             "voice": "main_01/Main_01_05/Main_01_05_05/main_01_05_05_021.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "わかった！\n頑張ってね！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "わかった！\n頑張ってね！"
+            },
             "voice": "main_01/Main_01_05/Main_01_05_05/main_01_05_05_022.mp3"
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "ほら、凛音。聡里の邪魔しないで。\nごめんね。これでも飲んで、頑張って。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "ほら、凛音。聡里の邪魔しないで。\nごめんね。これでも飲んで、頑張って。"
+            },
             "voice": "main_01/Main_01_05/Main_01_05_05/main_01_05_05_023.mp3"
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "ヤクロトね……。\nありがとう。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "ヤクロトね……。\nありがとう。"
+            },
             "voice": "main_01/Main_01_05/Main_01_05_05/main_01_05_05_024.mp3"
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "あ、凛音。\n聡里さんの様子どうだった？",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "あ、凛音。\n聡里さんの様子どうだった？"
+            },
             "voice": "main_01/Main_01_05/Main_01_05_05/main_01_05_05_025.mp3"
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "切羽詰まってるって言ってた。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "切羽詰まってるって言ってた。"
+            },
             "voice": "main_01/Main_01_05/Main_01_05_05/main_01_05_05_026.mp3"
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "そりゃそうだよ。\n全然時間がないもん。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "そりゃそうだよ。\n全然時間がないもん。"
+            },
             "voice": "main_01/Main_01_05/Main_01_05_05/main_01_05_05_027.mp3"
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "チケット係とスケジュール係は、\nもう動きだしてるけど……。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "チケット係とスケジュール係は、\nもう動きだしてるけど……。"
+            },
             "voice": "main_01/Main_01_05/Main_01_05_05/main_01_05_05_028.mp3"
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "あたし達は、台本が無いと何も出来ないもんね。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "あたし達は、台本が無いと何も出来ないもんね。"
+            },
             "voice": "main_01/Main_01_05/Main_01_05_05/main_01_05_05_029.mp3"
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "ひたすら待つしかない。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "ひたすら待つしかない。"
+            },
             "voice": "main_01/Main_01_05/Main_01_05_05/main_01_05_05_030.mp3"
         },
         {
@@ -276,8 +396,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "ただ待つんじゃないよ。\nさとちん頑張れって念を送りながら待つんだよー。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "ただ待つんじゃないよ。\nさとちん頑張れって念を送りながら待つんだよー。"
+            },
             "voice": "main_01/Main_01_05/Main_01_05_05/main_01_05_05_031.mp3"
         },
         {
@@ -285,8 +409,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "そうだよね、リエンヌ？",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "そうだよね、リエンヌ？"
+            },
             "voice": "main_01/Main_01_05/Main_01_05_05/main_01_05_05_032.mp3"
         },
         {
@@ -294,8 +422,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "（聡里、頑張れ！）",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "（聡里、頑張れ！）"
+            },
             "voice": "main_01/Main_01_05/Main_01_05_05/main_01_05_05_033.mp3"
         },
         {
@@ -303,8 +435,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "リエンヌ？\n聞いてる？",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "リエンヌ？\n聞いてる？"
+            },
             "voice": "main_01/Main_01_05/Main_01_05_05/main_01_05_05_034.mp3"
         },
         {
@@ -312,8 +448,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "出来た……。ついに完成した……。\nこんなにも嬉しいなんて……。感動……。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "出来た……。ついに完成した……。\nこんなにも嬉しいなんて……。感動……。"
+            },
             "voice": "main_01/Main_01_05/Main_01_05_05/main_01_05_05_035.mp3"
         },
         {
@@ -321,8 +461,12 @@
             "heroineId": [
                 103
             ],
-            "name": "由良桐香",
-            "message": "宇津木さん、お疲れ様。\n登場人物のキャラが立ってて、とても良い台本よ。",
+            "name": {
+                "default": "由良桐香"
+            },
+            "message": {
+                "default": "宇津木さん、お疲れ様。\n登場人物のキャラが立ってて、とても良い台本よ。"
+            },
             "voice": "main_01/Main_01_05/Main_01_05_05/main_01_05_05_036.mp3"
         },
         {
@@ -330,8 +474,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "聡里さん、これおもしろいよ！",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "聡里さん、これおもしろいよ！"
+            },
             "voice": "main_01/Main_01_05/Main_01_05_05/main_01_05_05_037.mp3"
         },
         {
@@ -339,8 +487,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "あたし、めっちゃ感動した！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "あたし、めっちゃ感動した！"
+            },
             "voice": "main_01/Main_01_05/Main_01_05_05/main_01_05_05_038.mp3"
         },
         {
@@ -348,8 +500,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "うん。\nとっても素敵！",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "うん。\nとっても素敵！"
+            },
             "voice": "main_01/Main_01_05/Main_01_05_05/main_01_05_05_039.mp3"
         },
         {
@@ -357,8 +513,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "やはり、聡里に頼んで正解だった。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "やはり、聡里に頼んで正解だった。"
+            },
             "voice": "main_01/Main_01_05/Main_01_05_05/main_01_05_05_040.mp3"
         },
         {
@@ -366,8 +526,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "ありがとう。\n褒められると、疲れが吹っ飛ぶわ。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "ありがとう。\n褒められると、疲れが吹っ飛ぶわ。"
+            },
             "voice": "main_01/Main_01_05/Main_01_05_05/main_01_05_05_041.mp3"
         },
         {
@@ -375,8 +539,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "バスケットに青春を燃やす、\n女の子達の物語かぁ～……。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "バスケットに青春を燃やす、\n女の子達の物語かぁ～……。"
+            },
             "voice": "main_01/Main_01_05/Main_01_05_05/main_01_05_05_042.mp3"
         },
         {
@@ -384,8 +552,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "スポコン学園モノってやつだな。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "スポコン学園モノってやつだな。"
+            },
             "voice": "main_01/Main_01_05/Main_01_05_05/main_01_05_05_043.mp3"
         },
         {
@@ -393,8 +565,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "試合のシーンを朗読で表現するのは難しいね。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "試合のシーンを朗読で表現するのは難しいね。"
+            },
             "voice": "main_01/Main_01_05/Main_01_05_05/main_01_05_05_044.mp3"
         },
         {
@@ -402,8 +578,12 @@
             "heroineId": [
                 103
             ],
-            "name": "由良桐香",
-            "message": "そうね……。\n技術が試されるわ。",
+            "name": {
+                "default": "由良桐香"
+            },
+            "message": {
+                "default": "そうね……。\n技術が試されるわ。"
+            },
             "voice": "main_01/Main_01_05/Main_01_05_05/main_01_05_05_045.mp3"
         },
         {
@@ -411,8 +591,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "桐香先生、配役は決まりましたか？",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "桐香先生、配役は決まりましたか？"
+            },
             "voice": "main_01/Main_01_05/Main_01_05_05/main_01_05_05_046.mp3"
         },
         {
@@ -420,8 +604,12 @@
             "heroineId": [
                 103
             ],
-            "name": "由良桐香",
-            "message": "ええ。まず、主役のリリカ……。\nこれは六石さん。",
+            "name": {
+                "default": "由良桐香"
+            },
+            "message": {
+                "default": "ええ。まず、主役のリリカ……。\nこれは六石さん。"
+            },
             "voice": "main_01/Main_01_05/Main_01_05_05/main_01_05_05_047.mp3"
         },
         {
@@ -429,8 +617,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "へぇ？\nわたしが主役ですか？",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "へぇ？\nわたしが主役ですか？"
+            },
             "voice": "main_01/Main_01_05/Main_01_05_05/main_01_05_05_048.mp3"
         },
         {
@@ -438,8 +630,12 @@
             "heroineId": [
                 103
             ],
-            "name": "由良桐香",
-            "message": "バスケが大好きなまっすぐな想いを持っているキャラ、\nあなたにピッタリよ。",
+            "name": {
+                "default": "由良桐香"
+            },
+            "message": {
+                "default": "バスケが大好きなまっすぐな想いを持っているキャラ、\nあなたにピッタリよ。"
+            },
             "voice": "main_01/Main_01_05/Main_01_05_05/main_01_05_05_049.mp3"
         },
         {
@@ -447,8 +643,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "私も、この役は六石さんをイメージしたの。\nやってもらえたら、嬉しい。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "私も、この役は六石さんをイメージしたの。\nやってもらえたら、嬉しい。"
+            },
             "voice": "main_01/Main_01_05/Main_01_05_05/main_01_05_05_050.mp3"
         },
         {
@@ -456,8 +656,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "わかった……。\n頑張ります！",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "わかった……。\n頑張ります！"
+            },
             "voice": "main_01/Main_01_05/Main_01_05_05/main_01_05_05_051.mp3"
         },
         {
@@ -465,8 +669,12 @@
             "heroineId": [
                 103
             ],
-            "name": "由良桐香",
-            "message": "それでは、続いて他の役も発表するわ。",
+            "name": {
+                "default": "由良桐香"
+            },
+            "message": {
+                "default": "それでは、続いて他の役も発表するわ。"
+            },
             "voice": "main_01/Main_01_05/Main_01_05_05/main_01_05_05_052.mp3"
         }
     ]

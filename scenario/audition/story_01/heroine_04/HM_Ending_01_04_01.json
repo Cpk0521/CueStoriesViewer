@@ -6,8 +6,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "やったー！\nやりました、マネージャー！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "やったー！\nやりました、マネージャー！"
+            },
             "voice": "audition/story_01/heroine_04/HM_Ending_01_04_01/hm_ending_01_04_01_000.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "うん！　おめでとう、ほのか！\nほのかの頑張りが、ちゃんと認められて自分も嬉しいよ！",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "うん！　おめでとう、ほのか！\nほのかの頑張りが、ちゃんと認められて自分も嬉しいよ！"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "はい！　合格したくて、今日まで頑張ってきたから……。\n本当に嬉しいです！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "はい！　合格したくて、今日まで頑張ってきたから……。\n本当に嬉しいです！"
+            },
             "voice": "audition/story_01/heroine_04/HM_Ending_01_04_01/hm_ending_01_04_01_000.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "うんうん。今日はしっかりお祝いして、\n明日からはまた仕切り直しで役作りしていこうね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "うんうん。今日はしっかりお祝いして、\n明日からはまた仕切り直しで役作りしていこうね。"
+            },
             "voice": ""
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "はいっ！　ふふ……、こうやって合格出来たのも、\nマネージャーが支えてくれたおかげですよ。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "はいっ！　ふふ……、こうやって合格出来たのも、\nマネージャーが支えてくれたおかげですよ。"
+            },
             "voice": "audition/story_01/heroine_04/HM_Ending_01_04_01/hm_ending_01_04_01_000.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "本当にありがとうございます、マネージャー。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "本当にありがとうございます、マネージャー。"
+            },
             "voice": "audition/story_01/heroine_04/HM_Ending_01_04_01/hm_ending_01_04_01_000.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "いや、ほのかが頑張ったからだよ！",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "いや、ほのかが頑張ったからだよ！"
+            },
             "voice": ""
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "いやいや、マネージャーのおかげです！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "いやいや、マネージャーのおかげです！"
+            },
             "voice": "audition/story_01/heroine_04/HM_Ending_01_04_01/hm_ending_01_04_01_000.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "いやいや、ほのかが……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "いやいや、ほのかが……。"
+            },
             "voice": ""
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "いやいや、マネージャーが……、って、ふふっ！\nあはは、わたしたち何やってるんでしょうね！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "いやいや、マネージャーが……、って、ふふっ！\nあはは、わたしたち何やってるんでしょうね！"
+            },
             "voice": "audition/story_01/heroine_04/HM_Ending_01_04_01/hm_ending_01_04_01_000.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "はは、そうだね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "はは、そうだね。"
+            },
             "voice": ""
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "ふふっ。それじゃあ、この合格は2人のおかげってことで！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "ふふっ。それじゃあ、この合格は2人のおかげってことで！"
+            },
             "voice": "audition/story_01/heroine_04/HM_Ending_01_04_01/hm_ending_01_04_01_000.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "うーん……。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "うーん……。"
+            },
             "voice": "audition/story_01/heroine_04/HM_Ending_01_04_01/hm_ending_01_04_01_001.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "ほのか、もしかして疲れちゃった？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "ほのか、もしかして疲れちゃった？"
+            },
             "voice": ""
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "あはは、元気ですよ。だけど……。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "あはは、元気ですよ。だけど……。"
+            },
             "voice": "audition/story_01/heroine_04/HM_Ending_01_04_01/hm_ending_01_04_01_003.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "1次審査の時は、だんだん実感が湧いてきたんですけど、\n今回はちょっと違うっていうか。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "1次審査の時は、だんだん実感が湧いてきたんですけど、\n今回はちょっと違うっていうか。"
+            },
             "voice": "audition/story_01/heroine_04/HM_Ending_01_04_01/hm_ending_01_04_01_004.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "どんな風に？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "どんな風に？"
+            },
             "voice": ""
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "その、上手く言えないんですけど……。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "その、上手く言えないんですけど……。"
+            },
             "voice": "audition/story_01/heroine_04/HM_Ending_01_04_01/hm_ending_01_04_01_006.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "合格したいって思ってましたし、\nそれに向けてわたしも頑張ってきました。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "合格したいって思ってましたし、\nそれに向けてわたしも頑張ってきました。"
+            },
             "voice": "audition/story_01/heroine_04/HM_Ending_01_04_01/hm_ending_01_04_01_007.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "そして、本当に受かったんだって思うと、ほんの少しだけ……、\nビックリというか、信じられてないというか。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "そして、本当に受かったんだって思うと、ほんの少しだけ……、\nビックリというか、信じられてないというか。"
+            },
             "voice": "audition/story_01/heroine_04/HM_Ending_01_04_01/hm_ending_01_04_01_008.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そっか。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そっか。"
+            },
             "voice": ""
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "あ！　自分自身に自信がないとか、そういうことじゃないですよ！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "あ！　自分自身に自信がないとか、そういうことじゃないですよ！"
+            },
             "voice": "audition/story_01/heroine_04/HM_Ending_01_04_01/hm_ending_01_04_01_010.mp3"
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "だけど……。うーん、やっぱり上手く言えないなーって。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "だけど……。うーん、やっぱり上手く言えないなーって。"
+            },
             "voice": "audition/story_01/heroine_04/HM_Ending_01_04_01/hm_ending_01_04_01_011.mp3"
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そっか……、自分はほのかが合格するって思ってたよ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そっか……、自分はほのかが合格するって思ってたよ。"
+            },
             "voice": ""
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "マネージャー……。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "マネージャー……。"
+            },
             "voice": "audition/story_01/heroine_04/HM_Ending_01_04_01/hm_ending_01_04_01_013.mp3"
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "それだけ頑張ってたし、ちゃんと実力もつけてきてたからね。\nそれはほのか自身もわかってるでしょ？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "それだけ頑張ってたし、ちゃんと実力もつけてきてたからね。\nそれはほのか自身もわかってるでしょ？"
+            },
             "voice": ""
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "はい……。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "はい……。"
+            },
             "voice": "audition/story_01/heroine_04/HM_Ending_01_04_01/hm_ending_01_04_01_015.mp3"
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そして、それが自分だけじゃなくて、今回の審査員の人たちにも、\n同じように伝わったから合格出来たんだよ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そして、それが自分だけじゃなくて、今回の審査員の人たちにも、\n同じように伝わったから合格出来たんだよ。"
+            },
             "voice": ""
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "……そっか。\nふふ、頑張ったことが伝わるって嬉しいですね。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "……そっか。\nふふ、頑張ったことが伝わるって嬉しいですね。"
+            },
             "voice": "audition/story_01/heroine_04/HM_Ending_01_04_01/hm_ending_01_04_01_017.mp3"
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "うん……。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "うん……。"
+            },
             "voice": "audition/story_01/heroine_04/HM_Ending_01_04_01/hm_ending_01_04_01_018.mp3"
         },
         {
@@ -276,8 +396,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "マネージャー、本当にありがとうございます。\nわたし、実感湧いてきました。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "マネージャー、本当にありがとうございます。\nわたし、実感湧いてきました。"
+            },
             "voice": "audition/story_01/heroine_04/HM_Ending_01_04_01/hm_ending_01_04_01_019.mp3"
         },
         {
@@ -285,8 +409,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "これで明日からも、また頑張れそうです。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "これで明日からも、また頑張れそうです。"
+            },
             "voice": "audition/story_01/heroine_04/HM_Ending_01_04_01/hm_ending_01_04_01_020.mp3"
         },
         {
@@ -294,8 +422,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "お礼なんていいよ。\nただ、自分はほのかを信じていただけだからね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "お礼なんていいよ。\nただ、自分はほのかを信じていただけだからね。"
+            },
             "voice": ""
         },
         {
@@ -303,8 +435,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "マネージャー……。\nちょっとヒーローみたい。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "マネージャー……。\nちょっとヒーローみたい。"
+            },
             "voice": "audition/story_01/heroine_04/HM_Ending_01_04_01/hm_ending_01_04_01_022.mp3"
         },
         {
@@ -312,8 +448,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "え？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "え？"
+            },
             "voice": ""
         },
         {
@@ -321,8 +461,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "ふふっ、なんでもないです！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "ふふっ、なんでもないです！"
+            },
             "voice": "audition/story_01/heroine_04/HM_Ending_01_04_01/hm_ending_01_04_01_024.mp3"
         },
         {
@@ -330,8 +474,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "あっ！　そうだ、マネージャー！\n向こう岸まで寄り道していきませんか？",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "あっ！　そうだ、マネージャー！\n向こう岸まで寄り道していきませんか？"
+            },
             "voice": "audition/story_01/heroine_04/HM_Ending_01_04_01/hm_ending_01_04_01_025.mp3"
         },
         {
@@ -339,8 +487,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "え？　遠くない？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "え？　遠くない？"
+            },
             "voice": ""
         },
         {
@@ -348,8 +500,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "遠くないですよ！\n一緒に歩けばすぐですって、ほら！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "遠くないですよ！\n一緒に歩けばすぐですって、ほら！"
+            },
             "voice": "audition/story_01/heroine_04/HM_Ending_01_04_01/hm_ending_01_04_01_027.mp3"
         },
         {
@@ -357,8 +513,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "あ、ちょっと待って、ほのか！\n早いって！",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "あ、ちょっと待って、ほのか！\n早いって！"
+            },
             "voice": ""
         },
         {
@@ -366,8 +526,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "あはは！　ちゃんとついてきてくれますよね！\nマネージャー！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "あはは！　ちゃんとついてきてくれますよね！\nマネージャー！"
+            },
             "voice": "audition/story_01/heroine_04/HM_Ending_01_04_01/hm_ending_01_04_01_029.mp3"
         }
     ]

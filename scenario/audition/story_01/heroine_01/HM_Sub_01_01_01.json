@@ -6,8 +6,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "わたし、今日の授業中……、\nオーディションのことばかり考えてしまいました。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "わたし、今日の授業中……、\nオーディションのことばかり考えてしまいました。"
+            },
             "voice": "audition/story_01/heroine_01/HM_Sub_01_01_01/hm_sub_01_01_01_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "こんなことじゃダメですね……。\n学校とお仕事、どっちもちゃんと両立しないと。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "こんなことじゃダメですね……。\n学校とお仕事、どっちもちゃんと両立しないと。"
+            },
             "voice": "audition/story_01/heroine_01/HM_Sub_01_01_01/hm_sub_01_01_01_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "目の前のことに一生懸命になるって、\n何かをおざなりにするってことじゃないって。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "目の前のことに一生懸命になるって、\n何かをおざなりにするってことじゃないって。"
+            },
             "voice": "audition/story_01/heroine_01/HM_Sub_01_01_01/hm_sub_01_01_01_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "忘れちゃいけないですよね。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "忘れちゃいけないですよね。"
+            },
             "voice": "audition/story_01/heroine_01/HM_Sub_01_01_01/hm_sub_01_01_01_004.mp3"
         }
     ]

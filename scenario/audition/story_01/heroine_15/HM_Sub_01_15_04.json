@@ -6,8 +6,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "今朝、なるちゃんがリビングで寝てたんです！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "今朝、なるちゃんがリビングで寝てたんです！"
+            },
             "voice": "audition/story_01/heroine_15/HM_Sub_01_15_04/hm_sub_01_15_04_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "朝ご飯食べたら、\n眠くなっちゃったみたいで。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "朝ご飯食べたら、\n眠くなっちゃったみたいで。"
+            },
             "voice": "audition/story_01/heroine_15/HM_Sub_01_15_04/hm_sub_01_15_04_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "起こそうかなーって思ってたら、\nわたしも眠くなってきちゃって……。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "起こそうかなーって思ってたら、\nわたしも眠くなってきちゃって……。"
+            },
             "voice": "audition/story_01/heroine_15/HM_Sub_01_15_04/hm_sub_01_15_04_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "えへへ、後で風邪引くって、\nさとちんに怒られちゃいました。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "えへへ、後で風邪引くって、\nさとちんに怒られちゃいました。"
+            },
             "voice": "audition/story_01/heroine_15/HM_Sub_01_15_04/hm_sub_01_15_04_004.mp3"
         }
     ]

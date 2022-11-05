@@ -6,8 +6,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "それじゃ、残りは鳴ね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "それじゃ、残りは鳴ね。"
+            },
             "voice": ""
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "はい。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "はい。"
+            },
             "voice": "lesson/Lesson_31810/lesson_31810_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "(……この人物が私。)",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "(……この人物が私。)"
+            },
             "voice": "lesson/Lesson_31810/lesson_31810_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "(そう。)",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "(そう。)"
+            },
             "voice": "lesson/Lesson_31810/lesson_31810_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "(分かった。)",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "(分かった。)"
+            },
             "voice": "lesson/Lesson_31810/lesson_31810_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "(私は粟田口兼人。)",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "(私は粟田口兼人。)"
+            },
             "voice": "lesson/Lesson_31810/lesson_31810_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "(華道の大家に孤児として育てられた。)",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "(華道の大家に孤児として育てられた。)"
+            },
             "voice": "lesson/Lesson_31810/lesson_31810_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "(後継者候補。)",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "(後継者候補。)"
+            },
             "voice": "lesson/Lesson_31810/lesson_31810_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "(育ててくれた先生は亡くなった。)",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "(育ててくれた先生は亡くなった。)"
+            },
             "voice": "lesson/Lesson_31810/lesson_31810_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "(おそらく毒で。)",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "(おそらく毒で。)"
+            },
             "voice": "lesson/Lesson_31810/lesson_31810_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "(私はどうする？)",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "(私はどうする？)"
+            },
             "voice": "lesson/Lesson_31810/lesson_31810_011.mp3"
         }
     ]

@@ -6,8 +6,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "テーブルトーク？",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "テーブルトーク？"
+            },
             "voice": "event/Event_009/Event_009_01/event_009_01_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そう。今から皆でテーブルトークRPGをやります。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そう。今から皆でテーブルトークRPGをやります。"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "なんですか、それ？",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "なんですか、それ？"
+            },
             "voice": "event/Event_009/Event_009_01/event_009_01_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "なんだ、みんな知らないのか？",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "なんだ、みんな知らないのか？"
+            },
             "voice": "event/Event_009/Event_009_01/event_009_01_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "わたしは知ってるよ。\n海外の映画とか見ると、時々出てくるし。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "わたしは知ってるよ。\n海外の映画とか見ると、時々出てくるし。"
+            },
             "voice": "event/Event_009/Event_009_01/event_009_01_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "RPGってことは、ゲームなんすか？",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "RPGってことは、ゲームなんすか？"
+            },
             "voice": "event/Event_009/Event_009_01/event_009_01_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そう。\n皆、RPGはやったことある？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そう。\n皆、RPGはやったことある？"
+            },
             "voice": ""
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "はい。\nラストファンタジーとか、ドラッケンクエストとか……。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "はい。\nラストファンタジーとか、ドラッケンクエストとか……。"
+            },
             "voice": "event/Event_009/Event_009_01/event_009_01_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "あ、自分は10好きっすよ。ラスファン10。\nあれ、ほんと切なかったっすよねー。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "あ、自分は10好きっすよ。ラスファン10。\nあれ、ほんと切なかったっすよねー。"
+            },
             "voice": "event/Event_009/Event_009_01/event_009_01_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そうそう。そういうRPGって、\n基本的にテレビゲームでやることが多いんだけど……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そうそう。そういうRPGって、\n基本的にテレビゲームでやることが多いんだけど……。"
+            },
             "voice": ""
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "ジャーマネ、そこから先は私が説明する。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "ジャーマネ、そこから先は私が説明する。"
+            },
             "voice": "event/Event_009/Event_009_01/event_009_01_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "ん？",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "ん？"
+            },
             "voice": "event/Event_009/Event_009_01/event_009_01_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "つまり、コンピューターを使わないで遊ぶRPGだ。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "つまり、コンピューターを使わないで遊ぶRPGだ。"
+            },
             "voice": "event/Event_009/Event_009_01/event_009_01_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "そうなの？　そんなこと出来るの？",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "そうなの？　そんなこと出来るの？"
+            },
             "voice": "event/Event_009/Event_009_01/event_009_01_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "うん。コンピューターの代わりに、\nGMっていう役の人が、敵から街の人まで全部対応するの。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "うん。コンピューターの代わりに、\nGMっていう役の人が、敵から街の人まで全部対応するの。"
+            },
             "voice": "event/Event_009/Event_009_01/event_009_01_015.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "そう。そしてキャラクターになりきって遊ぶテーブルトークRPGは、\n演技や感情移入の勉強にもなる。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "そう。そしてキャラクターになりきって遊ぶテーブルトークRPGは、\n演技や感情移入の勉強にもなる。"
+            },
             "voice": "event/Event_009/Event_009_01/event_009_01_016.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "ジャーマネもたまには、粋な計らいをする。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "ジャーマネもたまには、粋な計らいをする。"
+            },
             "voice": "event/Event_009/Event_009_01/event_009_01_017.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "今度のアニメ、まお国はファンタジーの世界が舞台だから。\n世界観を掴むためにも、一度遊んでみるのが一番だと思ってね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "今度のアニメ、まお国はファンタジーの世界が舞台だから。\n世界観を掴むためにも、一度遊んでみるのが一番だと思ってね。"
+            },
             "voice": ""
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "今回、社長のお計らいで、\n特別にレッスンとして実施することになりました。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "今回、社長のお計らいで、\n特別にレッスンとして実施することになりました。"
+            },
             "voice": ""
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "つまり、これは遊びじゃなくて、\nレッスンということですか？",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "つまり、これは遊びじゃなくて、\nレッスンということですか？"
+            },
             "voice": "event/Event_009/Event_009_01/event_009_01_020.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そう。だから、本気で取り組んでね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そう。だから、本気で取り組んでね。"
+            },
             "voice": ""
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "そういう話なら、もちろん、真剣にやります！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "そういう話なら、もちろん、真剣にやります！"
+            },
             "voice": "event/Event_009/Event_009_01/event_009_01_022.mp3"
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "うん。わたし、まだよくわからないから……、\n教えてもらいながらでいいですか？",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "うん。わたし、まだよくわからないから……、\n教えてもらいながらでいいですか？"
+            },
             "voice": "event/Event_009/Event_009_01/event_009_01_023.mp3"
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "うん。もちろんだよ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "うん。もちろんだよ。"
+            },
             "voice": ""
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "じゃあ、難しい話は抜きにして、\nまずは皆、キャラクターを作ってみよう。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "じゃあ、難しい話は抜きにして、\nまずは皆、キャラクターを作ってみよう。"
+            },
             "voice": ""
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "世界は、中世ファンタジーですか？",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "世界は、中世ファンタジーですか？"
+            },
             "voice": "event/Event_009/Event_009_01/event_009_01_026.mp3"
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そうだね。細かい世界設定はあとで説明するから、\nまずはざっくりと、そんな感じで考えてみようか。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そうだね。細かい世界設定はあとで説明するから、\nまずはざっくりと、そんな感じで考えてみようか。"
+            },
             "voice": ""
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "皆、キャラクターは作れたみたいだね。\nじゃあ順番に発表してもらえるかな？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "皆、キャラクターは作れたみたいだね。\nじゃあ順番に発表してもらえるかな？"
+            },
             "voice": ""
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "はい。じゃあわたしから……、\n気弱だけど神の教えを何より大事にする司祭見習い、かな。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "はい。じゃあわたしから……、\n気弱だけど神の教えを何より大事にする司祭見習い、かな。"
+            },
             "voice": "event/Event_009/Event_009_01/event_009_01_029.mp3"
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "名前は……、悩んだんですけど、\nハルナでいいかなって。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "名前は……、悩んだんですけど、\nハルナでいいかなって。"
+            },
             "voice": "event/Event_009/Event_009_01/event_009_01_030.mp3"
         },
         {
@@ -276,8 +396,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "え？　それ、本名じゃん。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "え？　それ、本名じゃん。"
+            },
             "voice": "event/Event_009/Event_009_01/event_009_01_031.mp3"
         },
         {
@@ -285,8 +409,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "もう、本名じゃないよ。\nカタカナで、ハルナなの。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "もう、本名じゃないよ。\nカタカナで、ハルナなの。"
+            },
             "voice": "event/Event_009/Event_009_01/event_009_01_032.mp3"
         },
         {
@@ -294,8 +422,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "同じでしょ。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "同じでしょ。"
+            },
             "voice": "event/Event_009/Event_009_01/event_009_01_033.mp3"
         },
         {
@@ -303,8 +435,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "そうかもしれないけど、このほうが感情移入しやすいかなって。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "そうかもしれないけど、このほうが感情移入しやすいかなって。"
+            },
             "voice": "event/Event_009/Event_009_01/event_009_01_034.mp3"
         },
         {
@@ -312,8 +448,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "相変わらず変わってるなー。陽菜は。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "相変わらず変わってるなー。陽菜は。"
+            },
             "voice": "event/Event_009/Event_009_01/event_009_01_035.mp3"
         },
         {
@@ -321,8 +461,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "はい！\nじゃあ次、わたし！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "はい！\nじゃあ次、わたし！"
+            },
             "voice": "event/Event_009/Event_009_01/event_009_01_036.mp3"
         },
         {
@@ -330,8 +474,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "正義感に満ちた、熱血ナイトをやります！\n陽菜にならって、わたしも名前はホノカでいくね。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "正義感に満ちた、熱血ナイトをやります！\n陽菜にならって、わたしも名前はホノカでいくね。"
+            },
             "voice": "event/Event_009/Event_009_01/event_009_01_037.mp3"
         },
         {
@@ -339,8 +487,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "ええっ？　ほのかも本名なの？",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "ええっ？　ほのかも本名なの？"
+            },
             "voice": "event/Event_009/Event_009_01/event_009_01_038.mp3"
         },
         {
@@ -348,8 +500,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "ほのかちゃんありがとう。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "ほのかちゃんありがとう。"
+            },
             "voice": "event/Event_009/Event_009_01/event_009_01_039.mp3"
         },
         {
@@ -357,8 +513,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "ほのかは普段からナイトって感じがするから、当たり役だな。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "ほのかは普段からナイトって感じがするから、当たり役だな。"
+            },
             "voice": "event/Event_009/Event_009_01/event_009_01_040.mp3"
         },
         {
@@ -366,8 +526,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "そう？　ほんとに？\nヒーローっぽい？",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "そう？　ほんとに？\nヒーローっぽい？"
+            },
             "voice": "event/Event_009/Event_009_01/event_009_01_041.mp3"
         },
         {
@@ -375,8 +539,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "存在がタンク。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "存在がタンク。"
+            },
             "voice": "event/Event_009/Event_009_01/event_009_01_042.mp3"
         },
         {
@@ -384,8 +552,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "どういう意味！？",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "どういう意味！？"
+            },
             "voice": "event/Event_009/Event_009_01/event_009_01_043.mp3"
         },
         {
@@ -393,8 +565,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "じゃ、次は私が。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "じゃ、次は私が。"
+            },
             "voice": "event/Event_009/Event_009_01/event_009_01_044.mp3"
         },
         {
@@ -402,8 +578,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "名前は、カノ・シ・ホ。\nめんどくさがりで、頭脳派の魔法使いという設定で。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "名前は、カノ・シ・ホ。\nめんどくさがりで、頭脳派の魔法使いという設定で。"
+            },
             "voice": "event/Event_009/Event_009_01/event_009_01_045.mp3"
         },
         {
@@ -411,8 +591,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "今度は本名フルネーム……。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "今度は本名フルネーム……。"
+            },
             "voice": "event/Event_009/Event_009_01/event_009_01_046.mp3"
         },
         {
@@ -420,8 +604,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "フルネームじゃないぞ。\nカノが名前で、シ・ホが先祖由来の名字なのだ。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "フルネームじゃないぞ。\nカノが名前で、シ・ホが先祖由来の名字なのだ。"
+            },
             "voice": "event/Event_009/Event_009_01/event_009_01_047.mp3"
         },
         {
@@ -429,8 +617,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "……はい、じゃあ最後いきます。\n自分ももう、名前はマイカでいいよ。職業は……。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "……はい、じゃあ最後いきます。\n自分ももう、名前はマイカでいいよ。職業は……。"
+            },
             "voice": "event/Event_009/Event_009_01/event_009_01_048.mp3"
         },
         {
@@ -438,8 +630,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "シーフかな？\nパーティーの構成的にシーフが足りないし……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "シーフかな？\nパーティーの構成的にシーフが足りないし……。"
+            },
             "voice": ""
         },
         {
@@ -447,8 +643,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "違う、忍者！　忍者なの！！",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "違う、忍者！　忍者なの！！"
+            },
             "voice": "event/Event_009/Event_009_01/event_009_01_050.mp3"
         },
         {
@@ -456,8 +656,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "忍者なんていないでしょ。\nほら、ルールブックにもそんなの書いてないし。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "忍者なんていないでしょ。\nほら、ルールブックにもそんなの書いてないし。"
+            },
             "voice": "event/Event_009/Event_009_01/event_009_01_051.mp3"
         },
         {
@@ -465,8 +669,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "いいじゃん、気持ちだけ忍者でやらせて！",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "いいじゃん、気持ちだけ忍者でやらせて！"
+            },
             "voice": "event/Event_009/Event_009_01/event_009_01_052.mp3"
         },
         {
@@ -474,8 +682,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "だって、シーフって盗賊でしょ？\n盗賊なんてずるいマネ、したくないよ！",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "だって、シーフって盗賊でしょ？\n盗賊なんてずるいマネ、したくないよ！"
+            },
             "voice": "event/Event_009/Event_009_01/event_009_01_053.mp3"
         },
         {
@@ -483,8 +695,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "舞花、シーフだって重要だ。わがまま言うな。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "舞花、シーフだって重要だ。わがまま言うな。"
+            },
             "voice": "event/Event_009/Event_009_01/event_009_01_054.mp3"
         },
         {
@@ -492,8 +708,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "まあまあ。\nわかった。じゃあルール上はシーフだけど、忍者ってことでいいよ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "まあまあ。\nわかった。じゃあルール上はシーフだけど、忍者ってことでいいよ。"
+            },
             "voice": ""
         },
         {
@@ -501,8 +721,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "やった！",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "やった！"
+            },
             "voice": "event/Event_009/Event_009_01/event_009_01_056.mp3"
         },
         {
@@ -510,8 +734,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "それでいいのか？",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "それでいいのか？"
+            },
             "voice": "event/Event_009/Event_009_01/event_009_01_057.mp3"
         },
         {
@@ -519,8 +747,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "まぁ、それくらいはね。\n舞花のモチベーションのためにも。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "まぁ、それくらいはね。\n舞花のモチベーションのためにも。"
+            },
             "voice": ""
         },
         {
@@ -528,8 +760,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "さすが舞花きたない。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "さすが舞花きたない。"
+            },
             "voice": "event/Event_009/Event_009_01/event_009_01_059.mp3"
         },
         {
@@ -537,8 +773,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "きたなくなんかないって。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "きたなくなんかないって。"
+            },
             "voice": "event/Event_009/Event_009_01/event_009_01_060.mp3"
         },
         {
@@ -546,8 +786,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "はいはい、キャラクターも揃ったところで始めようか。\nそれじゃあ、自分がGM（ゲームマスター）を務めるね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "はいはい、キャラクターも揃ったところで始めようか。\nそれじゃあ、自分がGM（ゲームマスター）を務めるね。"
+            },
             "voice": ""
         },
         {
@@ -555,8 +799,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "君たちは旅の冒険者……。\n長い旅の果てに手にするのは財宝か名誉か、それとも無残な死か。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "君たちは旅の冒険者……。\n長い旅の果てに手にするのは財宝か名誉か、それとも無残な死か。"
+            },
             "voice": ""
         },
         {
@@ -564,8 +812,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "ワクワクしてきた……！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "ワクワクしてきた……！"
+            },
             "voice": "event/Event_009/Event_009_01/event_009_01_063.mp3"
         },
         {
@@ -573,8 +825,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "ドキドキ……。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "ドキドキ……。"
+            },
             "voice": "event/Event_009/Event_009_01/event_009_01_064.mp3"
         },
         {
@@ -582,8 +838,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "とはいえ、まだまだ駆け出しの冒険者である君たちが、\nとある街にたどり着くところから物語は始まる……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "とはいえ、まだまだ駆け出しの冒険者である君たちが、\nとある街にたどり着くところから物語は始まる……。"
+            },
             "voice": ""
         }
     ]

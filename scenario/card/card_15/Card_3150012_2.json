@@ -6,8 +6,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "アリス！　大丈夫？",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "アリス！　大丈夫？"
+            },
             "voice": "card/Card_15/Card_3150012_2/card_3150012_2_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "アリス",
-            "message": "バッテリーにエラーがあります。\n分解して確認してください。",
+            "name": {
+                "default": "アリス"
+            },
+            "message": {
+                "default": "バッテリーにエラーがあります。\n分解して確認してください。"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "え！　分解するの！？\n出来ないよー、そんなこと！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "え！　分解するの！？\n出来ないよー、そんなこと！"
+            },
             "voice": "card/Card_15/Card_3150012_2/card_3150012_2_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 0
             ],
-            "name": "アリス",
-            "message": "助けてください。行動が出来ません。",
+            "name": {
+                "default": "アリス"
+            },
+            "message": {
+                "default": "助けてください。行動が出来ません。"
+            },
             "voice": ""
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "ええ、どうしよう？\n何をすればいいの？",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "ええ、どうしよう？\n何をすればいいの？"
+            },
             "voice": "card/Card_15/Card_3150012_2/card_3150012_2_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 0
             ],
-            "name": "アリス",
-            "message": "バッテリーにエラーがあります。\n分解して確認してください。",
+            "name": {
+                "default": "アリス"
+            },
+            "message": {
+                "default": "バッテリーにエラーがあります。\n分解して確認してください。"
+            },
             "voice": ""
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "だから無理だよー！\n分解したら、壊れちゃうよー！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "だから無理だよー！\n分解したら、壊れちゃうよー！"
+            },
             "voice": "card/Card_15/Card_3150012_2/card_3150012_2_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 0
             ],
-            "name": "アリス",
-            "message": "別の場所へ移動してください。",
+            "name": {
+                "default": "アリス"
+            },
+            "message": {
+                "default": "別の場所へ移動してください。"
+            },
             "voice": ""
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "わかった！　それなら出来るよ！\n……ええと、どこに移動すればいいのかなー？",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "わかった！　それなら出来るよ！\n……ええと、どこに移動すればいいのかなー？"
+            },
             "voice": "card/Card_15/Card_3150012_2/card_3150012_2_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "……大丈夫？",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "……大丈夫？"
+            },
             "voice": "card/Card_15/Card_3150012_2/card_3150012_2_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "あ！！　なるちゃん！\n助けてぇ～！　アリスがー！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "あ！！　なるちゃん！\n助けてぇ～！　アリスがー！"
+            },
             "voice": "card/Card_15/Card_3150012_2/card_3150012_2_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "やっぱり……。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "やっぱり……。"
+            },
             "voice": "card/Card_15/Card_3150012_2/card_3150012_2_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "どうしよう……。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "どうしよう……。"
+            },
             "voice": "card/Card_15/Card_3150012_2/card_3150012_2_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 0
             ],
-            "name": "アリス",
-            "message": "掃除を開始します。",
+            "name": {
+                "default": "アリス"
+            },
+            "message": {
+                "default": "掃除を開始します。"
+            },
             "voice": ""
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "アリスー！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "アリスー！"
+            },
             "voice": "card/Card_15/Card_3150012_2/card_3150012_2_015.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "良かったね。\n事務所に同型のバッテリーを使ってる機体があって。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "良かったね。\n事務所に同型のバッテリーを使ってる機体があって。"
+            },
             "voice": "card/Card_15/Card_3150012_2/card_3150012_2_016.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "うん、ホント良かったよー！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "うん、ホント良かったよー！"
+            },
             "voice": "card/Card_15/Card_3150012_2/card_3150012_2_017.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "それで、どうだったの？\n使ってみて。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "それで、どうだったの？\n使ってみて。"
+            },
             "voice": "card/Card_15/Card_3150012_2/card_3150012_2_018.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "すっごい、楽しかったよ！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "すっごい、楽しかったよ！"
+            },
             "voice": "card/Card_15/Card_3150012_2/card_3150012_2_019.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "……楽しい？　掃除が？",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "……楽しい？　掃除が？"
+            },
             "voice": "card/Card_15/Card_3150012_2/card_3150012_2_020.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "ううん。お喋りが！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "ううん。お喋りが！"
+            },
             "voice": "card/Card_15/Card_3150012_2/card_3150012_2_021.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "……お喋り？",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "……お喋り？"
+            },
             "voice": "card/Card_15/Card_3150012_2/card_3150012_2_022.mp3"
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "ずーっとお喋りしてた。\nアリスって、すごいよねえ。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "ずーっとお喋りしてた。\nアリスって、すごいよねえ。"
+            },
             "voice": "card/Card_15/Card_3150012_2/card_3150012_2_023.mp3"
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "おはようーって話しかけたら、\nおはようーって言ってくれるの。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "おはようーって話しかけたら、\nおはようーって言ってくれるの。"
+            },
             "voice": "card/Card_15/Card_3150012_2/card_3150012_2_024.mp3"
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 0
             ],
-            "name": "アリス",
-            "message": "はい。おはようございます。",
+            "name": {
+                "default": "アリス"
+            },
+            "message": {
+                "default": "はい。おはようございます。"
+            },
             "voice": ""
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "掃除ロボットだよ、これ。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "掃除ロボットだよ、これ。"
+            },
             "voice": "card/Card_15/Card_3150012_2/card_3150012_2_026.mp3"
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "うーん、そうなんだけどねー。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "うーん、そうなんだけどねー。"
+            },
             "voice": "card/Card_15/Card_3150012_2/card_3150012_2_027.mp3"
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "アリスが掃除するためには、色んなことをしないといけないの。\nさっきも動けなくなっちゃってたし。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "アリスが掃除するためには、色んなことをしないといけないの。\nさっきも動けなくなっちゃってたし。"
+            },
             "voice": "card/Card_15/Card_3150012_2/card_3150012_2_028.mp3"
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "でも、わたし、そういうのあんまりわからないから、\nお喋りしてたの。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "でも、わたし、そういうのあんまりわからないから、\nお喋りしてたの。"
+            },
             "voice": "card/Card_15/Card_3150012_2/card_3150012_2_029.mp3"
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "……そう。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "……そう。"
+            },
             "voice": "card/Card_15/Card_3150012_2/card_3150012_2_030.mp3"
         },
         {
@@ -276,8 +396,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "でも、アリスって、お掃除のロボットなんだよね。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "でも、アリスって、お掃除のロボットなんだよね。"
+            },
             "voice": "card/Card_15/Card_3150012_2/card_3150012_2_031.mp3"
         },
         {
@@ -285,8 +409,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "お掃除ロボットとして生まれたからには、\nちゃんとお掃除したいよね。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "お掃除ロボットとして生まれたからには、\nちゃんとお掃除したいよね。"
+            },
             "voice": "card/Card_15/Card_3150012_2/card_3150012_2_032.mp3"
         },
         {
@@ -294,8 +422,12 @@
             "heroineId": [
                 0
             ],
-            "name": "アリス",
-            "message": "はい。私は小型ロボット掃除機です。",
+            "name": {
+                "default": "アリス"
+            },
+            "message": {
+                "default": "はい。私は小型ロボット掃除機です。"
+            },
             "voice": ""
         },
         {
@@ -303,8 +435,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "そうだよねー。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "そうだよねー。"
+            },
             "voice": "card/Card_15/Card_3150012_2/card_3150012_2_034.mp3"
         },
         {
@@ -312,8 +448,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "……買い取ろうか？　私が。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "……買い取ろうか？　私が。"
+            },
             "voice": "card/Card_15/Card_3150012_2/card_3150012_2_035.mp3"
         },
         {
@@ -321,8 +461,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "え、なるちゃん？",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "え、なるちゃん？"
+            },
             "voice": "card/Card_15/Card_3150012_2/card_3150012_2_036.mp3"
         },
         {
@@ -330,8 +474,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "見たところ、私のニーズに合ってそうだし。\n凛音さんが良ければだけど。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "見たところ、私のニーズに合ってそうだし。\n凛音さんが良ければだけど。"
+            },
             "voice": "card/Card_15/Card_3150012_2/card_3150012_2_037.mp3"
         },
         {
@@ -339,8 +487,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "そっかー……。でも、アリスにはそっちがいいのかも！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "そっかー……。でも、アリスにはそっちがいいのかも！"
+            },
             "voice": "card/Card_15/Card_3150012_2/card_3150012_2_038.mp3"
         },
         {
@@ -348,8 +500,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "……でも、本当にたくさん喋るんだね。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "……でも、本当にたくさん喋るんだね。"
+            },
             "voice": "card/Card_15/Card_3150012_2/card_3150012_2_039.mp3"
         },
         {
@@ -357,8 +513,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "システムに関わらない部分だったから、\n全然知らなかった。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "システムに関わらない部分だったから、\n全然知らなかった。"
+            },
             "voice": "card/Card_15/Card_3150012_2/card_3150012_2_040.mp3"
         },
         {
@@ -366,8 +526,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "うん。何か話して！　って言うと、\n昔話とかしてくれるよー。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "うん。何か話して！　って言うと、\n昔話とかしてくれるよー。"
+            },
             "voice": "card/Card_15/Card_3150012_2/card_3150012_2_041.mp3"
         },
         {
@@ -375,8 +539,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "……なんか、もう会話AIだね。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "……なんか、もう会話AIだね。"
+            },
             "voice": "card/Card_15/Card_3150012_2/card_3150012_2_042.mp3"
         },
         {
@@ -384,8 +552,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "アリスー、なるちゃんのところでも、\n元気でいるんだよ。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "アリスー、なるちゃんのところでも、\n元気でいるんだよ。"
+            },
             "voice": "card/Card_15/Card_3150012_2/card_3150012_2_043.mp3"
         },
         {
@@ -393,8 +565,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "わたしも会いに行くからね！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "わたしも会いに行くからね！"
+            },
             "voice": "card/Card_15/Card_3150012_2/card_3150012_2_044.mp3"
         },
         {
@@ -402,8 +578,12 @@
             "heroineId": [
                 0
             ],
-            "name": "アリス",
-            "message": "ありがとうございます。",
+            "name": {
+                "default": "アリス"
+            },
+            "message": {
+                "default": "ありがとうございます。"
+            },
             "voice": ""
         },
         {
@@ -411,8 +591,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "凛音さんも、\n次からはもっと自分に合った物を買ったほうがいいと思う。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "凛音さんも、\n次からはもっと自分に合った物を買ったほうがいいと思う。"
+            },
             "voice": "card/Card_15/Card_3150012_2/card_3150012_2_046.mp3"
         },
         {
@@ -420,8 +604,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "うーん……、そうだよね。\nわたしじゃアリスに、お掃除をさせてあげられなかったもんね。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "うーん……、そうだよね。\nわたしじゃアリスに、お掃除をさせてあげられなかったもんね。"
+            },
             "voice": "card/Card_15/Card_3150012_2/card_3150012_2_047.mp3"
         },
         {
@@ -429,8 +617,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "……でもね、わたしはアリスに出会えて良かったって思うんだ。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "……でもね、わたしはアリスに出会えて良かったって思うんだ。"
+            },
             "voice": "card/Card_15/Card_3150012_2/card_3150012_2_048.mp3"
         },
         {
@@ -438,8 +630,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "もしアリスに会ってなかったら、\nこの子のこと、なんにも知らずに終わってたと思うから。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "もしアリスに会ってなかったら、\nこの子のこと、なんにも知らずに終わってたと思うから。"
+            },
             "voice": "card/Card_15/Card_3150012_2/card_3150012_2_049.mp3"
         },
         {
@@ -447,8 +643,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "……そう。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "……そう。"
+            },
             "voice": "card/Card_15/Card_3150012_2/card_3150012_2_050.mp3"
         },
         {
@@ -456,8 +656,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "だから、アリスに出会えたのは、なるちゃんのおかげだよ！\nありがとう！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "だから、アリスに出会えたのは、なるちゃんのおかげだよ！\nありがとう！"
+            },
             "voice": "card/Card_15/Card_3150012_2/card_3150012_2_051.mp3"
         },
         {
@@ -465,8 +669,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "……。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "……。"
+            },
             "voice": "card/Card_15/Card_3150012_2/card_3150012_2_052.mp3"
         },
         {
@@ -474,8 +682,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "（私は、凛音さんみたいな考え方は出来ないけど……。）",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "（私は、凛音さんみたいな考え方は出来ないけど……。）"
+            },
             "voice": "card/Card_15/Card_3150012_2/card_3150012_2_053.mp3"
         },
         {
@@ -483,8 +695,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "（凛音さんの発想の原点は、\nこういうところにあるんだろうね。）",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "（凛音さんの発想の原点は、\nこういうところにあるんだろうね。）"
+            },
             "voice": "card/Card_15/Card_3150012_2/card_3150012_2_054.mp3"
         },
         {
@@ -492,8 +708,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "ん？　どうしたの、なるちゃん？",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "ん？　どうしたの、なるちゃん？"
+            },
             "voice": "card/Card_15/Card_3150012_2/card_3150012_2_055.mp3"
         },
         {
@@ -501,8 +721,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "ううん。なんでもない。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "ううん。なんでもない。"
+            },
             "voice": "card/Card_15/Card_3150012_2/card_3150012_2_056.mp3"
         },
         {
@@ -510,8 +734,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "……あ。そうだ！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "……あ。そうだ！"
+            },
             "voice": "card/Card_15/Card_3150012_2/card_3150012_2_057.mp3"
         },
         {
@@ -519,8 +747,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "何？",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "何？"
+            },
             "voice": "card/Card_15/Card_3150012_2/card_3150012_2_058.mp3"
         },
         {
@@ -528,8 +760,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "アリスの上におぼんを取り付けたら、\nご飯とか、持って行ってくれないかなー？",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "アリスの上におぼんを取り付けたら、\nご飯とか、持って行ってくれないかなー？"
+            },
             "voice": "card/Card_15/Card_3150012_2/card_3150012_2_059.mp3"
         },
         {
@@ -537,8 +773,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "……それはもう掃除機じゃないね。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "……それはもう掃除機じゃないね。"
+            },
             "voice": "card/Card_15/Card_3150012_2/card_3150012_2_060.mp3"
         }
     ]

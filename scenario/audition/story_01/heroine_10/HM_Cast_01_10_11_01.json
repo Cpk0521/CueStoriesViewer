@@ -6,8 +6,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "お疲れ様です。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "お疲れ様です。"
+            },
             "voice": "audition/story_01/heroine_10/HM_Cast_01_10_11_01/hm_cast_01_10_11_01_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "お疲れ様。\nさっきレッスン室で写真撮ってたけど、どうしたの？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "お疲れ様。\nさっきレッスン室で写真撮ってたけど、どうしたの？"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "あ、見てたんですか……。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "あ、見てたんですか……。"
+            },
             "voice": "audition/story_01/heroine_10/HM_Cast_01_10_11_01/hm_cast_01_10_11_01_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "あれは……まほろがポラスタ用にって。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "あれは……まほろがポラスタ用にって。"
+            },
             "voice": "audition/story_01/heroine_10/HM_Cast_01_10_11_01/hm_cast_01_10_11_01_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "最近はメンバーとの写真が、評判いいみたいです。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "最近はメンバーとの写真が、評判いいみたいです。"
+            },
             "voice": "audition/story_01/heroine_10/HM_Cast_01_10_11_01/hm_cast_01_10_11_01_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そうだったんだ。\n絢は自撮りとか上げないの？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そうだったんだ。\n絢は自撮りとか上げないの？"
+            },
             "voice": ""
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "いえ、私は……。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "いえ、私は……。"
+            },
             "voice": "audition/story_01/heroine_10/HM_Cast_01_10_11_01/hm_cast_01_10_11_01_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "まほろ、撮るの上手いから。\nだからいつも、反応とかちょっと期待しちゃって。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "まほろ、撮るの上手いから。\nだからいつも、反応とかちょっと期待しちゃって。"
+            },
             "voice": "audition/story_01/heroine_10/HM_Cast_01_10_11_01/hm_cast_01_10_11_01_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "気がつくとまほろのポラスタ、見ちゃうんです。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "気がつくとまほろのポラスタ、見ちゃうんです。"
+            },
             "voice": "audition/story_01/heroine_10/HM_Cast_01_10_11_01/hm_cast_01_10_11_01_009.mp3"
         }
     ]

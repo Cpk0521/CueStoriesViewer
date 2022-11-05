@@ -6,8 +6,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "くやしいー！！",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "くやしいー！！"
+            },
             "voice": "lesson/Lesson_10105/lesson_10105_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "な、なに！？",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "な、なに！？"
+            },
             "voice": "lesson/Lesson_10105/lesson_10105_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "真っ暗なリビングから、何やら聞こえる……。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "真っ暗なリビングから、何やら聞こえる……。"
+            },
             "voice": "lesson/Lesson_10105/lesson_10105_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "な、なんだろう…？\nこの音と、この声……。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "な、なんだろう…？\nこの音と、この声……。"
+            },
             "voice": "lesson/Lesson_10105/lesson_10105_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "向こうに……、誰かいない？",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "向こうに……、誰かいない？"
+            },
             "voice": "lesson/Lesson_10105/lesson_10105_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "いる！\nイスに誰か座ってるよ！",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "いる！\nイスに誰か座ってるよ！"
+            },
             "voice": "lesson/Lesson_10105/lesson_10105_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "ど、泥棒……？",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "ど、泥棒……？"
+            },
             "voice": "lesson/Lesson_10105/lesson_10105_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "よ、よし……。\n電気、付けるよ……？",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "よ、よし……。\n電気、付けるよ……？"
+            },
             "voice": "lesson/Lesson_10105/lesson_10105_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "誰！？",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "誰！？"
+            },
             "voice": "lesson/Lesson_10105/lesson_10105_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "……。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "……。"
+            },
             "voice": "lesson/Lesson_10105/lesson_10105_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "キャー！！",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "キャー！！"
+            },
             "voice": "lesson/Lesson_10105/lesson_10105_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "ま、舞花……？　",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "ま、舞花……？　"
+            },
             "voice": "lesson/Lesson_10105/lesson_10105_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "えっ……？",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "えっ……？"
+            },
             "voice": "lesson/Lesson_10105/lesson_10105_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "舞花、何をしている？\n電気も付けないで。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "舞花、何をしている？\n電気も付けないで。"
+            },
             "voice": "lesson/Lesson_10105/lesson_10105_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "……見ればわかるでしょ？",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "……見ればわかるでしょ？"
+            },
             "voice": "lesson/Lesson_10105/lesson_10105_015.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "夜中にラーメン、食べてたの？",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "夜中にラーメン、食べてたの？"
+            },
             "voice": "lesson/Lesson_10105/lesson_10105_016.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "悔しさのヤケラーメンだよ！！！",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "悔しさのヤケラーメンだよ！！！"
+            },
             "voice": "lesson/Lesson_10105/lesson_10105_017.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "ヤケラーメン？",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "ヤケラーメン？"
+            },
             "voice": "lesson/Lesson_10105/lesson_10105_018.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "主役がもらえなかったから、\nラーメンヤケ食いしてるの！！",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "主役がもらえなかったから、\nラーメンヤケ食いしてるの！！"
+            },
             "voice": "lesson/Lesson_10105/lesson_10105_019.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "今日の配役の事？",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "今日の配役の事？"
+            },
             "voice": "lesson/Lesson_10105/lesson_10105_020.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "そう！！\n何で陽菜なの！？　自分の方が上手いのに！",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "そう！！\n何で陽菜なの！？　自分の方が上手いのに！"
+            },
             "voice": "lesson/Lesson_10105/lesson_10105_021.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "……。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "……。"
+            },
             "voice": "lesson/Lesson_10105/lesson_10105_022.mp3"
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "自分の方が絶対にやる気あるし！",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "自分の方が絶対にやる気あるし！"
+            },
             "voice": "lesson/Lesson_10105/lesson_10105_023.mp3"
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "……。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "……。"
+            },
             "voice": "lesson/Lesson_10105/lesson_10105_024.mp3"
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "やってられないよ……。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "やってられないよ……。"
+            },
             "voice": "lesson/Lesson_10105/lesson_10105_025.mp3"
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "舞花ちゃん……。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "舞花ちゃん……。"
+            },
             "voice": "lesson/Lesson_10105/lesson_10105_026.mp3"
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "とてもじゃないけどこのムカムカ、食べなきゃやってられないの！\n……もう1杯食べるから、ほっといて。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "とてもじゃないけどこのムカムカ、食べなきゃやってられないの！\n……もう1杯食べるから、ほっといて。"
+            },
             "voice": "lesson/Lesson_10105/lesson_10105_027.mp3"
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "ラーメン2つも食べるの！？",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "ラーメン2つも食べるの！？"
+            },
             "voice": "lesson/Lesson_10105/lesson_10105_028.mp3"
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "かなりやさぐれてるな。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "かなりやさぐれてるな。"
+            },
             "voice": "lesson/Lesson_10105/lesson_10105_029.mp3"
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "しょうがない。\nわたし達で何とかしてあげよう。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "しょうがない。\nわたし達で何とかしてあげよう。"
+            },
             "voice": "lesson/Lesson_10105/lesson_10105_030.mp3"
         },
         {
@@ -276,8 +396,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "うん。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "うん。"
+            },
             "voice": "lesson/Lesson_10105/lesson_10105_031.mp3"
         },
         {
@@ -285,8 +409,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "舞花、2杯目のラーメン、\nわたし達が作ってあげるよ。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "舞花、2杯目のラーメン、\nわたし達が作ってあげるよ。"
+            },
             "voice": "lesson/Lesson_10105/lesson_10105_032.mp3"
         },
         {
@@ -294,8 +422,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "……みんなが？\n同情なんていらないよ。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "……みんなが？\n同情なんていらないよ。"
+            },
             "voice": "lesson/Lesson_10105/lesson_10105_033.mp3"
         },
         {
@@ -303,8 +435,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "良いから、任せて。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "良いから、任せて。"
+            },
             "voice": "lesson/Lesson_10105/lesson_10105_034.mp3"
         },
         {
@@ -312,8 +448,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "(何を任せるっていうの！？) ",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "(何を任せるっていうの！？) "
+            },
             "voice": "lesson/Lesson_10105/lesson_10105_035.mp3"
         }
     ]

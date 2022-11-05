@@ -6,8 +6,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "お疲れ様です。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "お疲れ様です。"
+            },
             "voice": "audition/story_01/heroine_16/HM_Sub_01_16_18/hm_sub_01_16_18_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "お疲れ様、鳴。\n利恵から聞いたけど、明日は早めにあがるの？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "お疲れ様、鳴。\n利恵から聞いたけど、明日は早めにあがるの？"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "はい。\n利恵と服を買いに行きます。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "はい。\n利恵と服を買いに行きます。"
+            },
             "voice": "audition/story_01/heroine_16/HM_Sub_01_16_18/hm_sub_01_16_18_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "好きなブランドのセールがあるので。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "好きなブランドのセールがあるので。"
+            },
             "voice": "audition/story_01/heroine_16/HM_Sub_01_16_18/hm_sub_01_16_18_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "明日は時間厳守でお願いします。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "明日は時間厳守でお願いします。"
+            },
             "voice": "audition/story_01/heroine_16/HM_Sub_01_16_18/hm_sub_01_16_18_005.mp3"
         }
     ]

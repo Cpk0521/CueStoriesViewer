@@ -6,8 +6,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "ええと、これと……。\nあっ。あれも良いわね。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "ええと、これと……。\nあっ。あれも良いわね。"
+            },
             "voice": "link/Link_402/link_402_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "……買いすぎじゃ？　",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "……買いすぎじゃ？　"
+            },
             "voice": "link/Link_402/link_402_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "カゴの中、すごい数……。\nしかも、高いものばっかり。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "カゴの中、すごい数……。\nしかも、高いものばっかり。"
+            },
             "voice": "link/Link_402/link_402_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "このお店では、とりあえずここまで。　",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "このお店では、とりあえずここまで。　"
+            },
             "voice": "link/Link_402/link_402_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "このお店では……。　",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "このお店では……。　"
+            },
             "voice": "link/Link_402/link_402_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "まだ買うんだね……。\nあの、お金……、大丈夫？　",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "まだ買うんだね……。\nあの、お金……、大丈夫？　"
+            },
             "voice": "link/Link_402/link_402_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "これくらい問題ないわ。\nあなた達も、もっと何か買ったら？",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "これくらい問題ないわ。\nあなた達も、もっと何か買ったら？"
+            },
             "voice": "link/Link_402/link_402_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "別に、欲しいものないし。　",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "別に、欲しいものないし。　"
+            },
             "voice": "link/Link_402/link_402_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "あら。ダメよ、そんなの。\n欲しいものは見つけるものよ。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "あら。ダメよ、そんなの。\n欲しいものは見つけるものよ。"
+            },
             "voice": "link/Link_402/link_402_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "でも……。　",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "でも……。　"
+            },
             "voice": "link/Link_402/link_402_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "私達は、たくさん買えるだけのお金を持っているの。\nそういう人は、お金をたくさん使わなきゃいけないのよ。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "私達は、たくさん買えるだけのお金を持っているの。\nそういう人は、お金をたくさん使わなきゃいけないのよ。"
+            },
             "voice": "link/Link_402/link_402_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "使わなきゃいけない……？　",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "使わなきゃいけない……？　"
+            },
             "voice": "link/Link_402/link_402_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "経済を回すため、っていうのも、あるけど。　",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "経済を回すため、っていうのも、あるけど。　"
+            },
             "voice": "link/Link_402/link_402_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "例えば、この化粧品。\nこれを1つ買うだけで、たくさんの人が助かるの。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "例えば、この化粧品。\nこれを1つ買うだけで、たくさんの人が助かるの。"
+            },
             "voice": "link/Link_402/link_402_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "……怪しい宗教？　",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "……怪しい宗教？　"
+            },
             "voice": "link/Link_402/link_402_015.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "違うわよ。　",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "違うわよ。　"
+            },
             "voice": "link/Link_402/link_402_016.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "間接的にお金をあげられる、ってこと。\nその商品に関わった人達にね。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "間接的にお金をあげられる、ってこと。\nその商品に関わった人達にね。"
+            },
             "voice": "link/Link_402/link_402_017.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "買えば買うほど、たくさんの人を幸せにできる。\n私達にはお金があるんだから、そうする責任があるの。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "買えば買うほど、たくさんの人を幸せにできる。\n私達にはお金があるんだから、そうする責任があるの。"
+            },
             "voice": "link/Link_402/link_402_018.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "幸せにする、責任……。　",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "幸せにする、責任……。　"
+            },
             "voice": "link/Link_402/link_402_019.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "でも、化粧品は……。　",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "でも、化粧品は……。　"
+            },
             "voice": "link/Link_402/link_402_020.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "興味のない化粧品を、無理に買わなくてもいいわ。\n好きなものを、たくさん買えばいいじゃない。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "興味のない化粧品を、無理に買わなくてもいいわ。\n好きなものを、たくさん買えばいいじゃない。"
+            },
             "voice": "link/Link_402/link_402_021.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "あいりだったら……。\nショーを、たくさん観に行く……、とか？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "あいりだったら……。\nショーを、たくさん観に行く……、とか？"
+            },
             "voice": "link/Link_402/link_402_022.mp3"
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "その通り。　",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "その通り。　"
+            },
             "voice": "link/Link_402/link_402_023.mp3"
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "好きなものを作ってる人達には、幸せでいてもらわなくちゃ。　",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "好きなものを作ってる人達には、幸せでいてもらわなくちゃ。　"
+            },
             "voice": "link/Link_402/link_402_024.mp3"
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "……うん。\nあいり、いっぱい観に行くし、いっぱいグッズ買う。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "……うん。\nあいり、いっぱい観に行くし、いっぱいグッズ買う。"
+            },
             "voice": "link/Link_402/link_402_025.mp3"
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "ずっと、幸せでいてほしい。\n幸せな作品、作っていてほしい……！",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "ずっと、幸せでいてほしい。\n幸せな作品、作っていてほしい……！"
+            },
             "voice": "link/Link_402/link_402_026.mp3"
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "……幸せでいてほしい、か。　",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "……幸せでいてほしい、か。　"
+            },
             "voice": "link/Link_402/link_402_027.mp3"
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "私も……、買おうかな。　",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "私も……、買おうかな。　"
+            },
             "voice": "link/Link_402/link_402_028.mp3"
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "鳴さんは、何を買うんですか？　",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "鳴さんは、何を買うんですか？　"
+            },
             "voice": "link/Link_402/link_402_029.mp3"
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "ゲームソフト……、でもいいけど。\nもうちょっと、大きいものがいいな……。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "ゲームソフト……、でもいいけど。\nもうちょっと、大きいものがいいな……。"
+            },
             "voice": "link/Link_402/link_402_030.mp3"
         },
         {
@@ -276,8 +396,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "あら。じゃあ、アレとかいいんじゃない？\n株。会社の。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "あら。じゃあ、アレとかいいんじゃない？\n株。会社の。"
+            },
             "voice": "link/Link_402/link_402_031.mp3"
         },
         {
@@ -285,8 +409,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "ええっ。\nちょ、ちょっと大きすぎない？　",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "ええっ。\nちょ、ちょっと大きすぎない？　"
+            },
             "voice": "link/Link_402/link_402_032.mp3"
         },
         {
@@ -294,8 +422,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "……株、か。いいね。　",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "……株、か。いいね。　"
+            },
             "voice": "link/Link_402/link_402_033.mp3"
         },
         {
@@ -303,8 +435,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "うん。そうする。株、買う。\n景気良く……、がっぽりと。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "うん。そうする。株、買う。\n景気良く……、がっぽりと。"
+            },
             "voice": "link/Link_402/link_402_034.mp3"
         },
         {
@@ -312,8 +448,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "い、いいんだ……。　",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "い、いいんだ……。　"
+            },
             "voice": "link/Link_402/link_402_035.mp3"
         }
     ]

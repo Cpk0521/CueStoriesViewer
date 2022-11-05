@@ -6,8 +6,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "あ、マネージャーさん！\nおはようございます。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "あ、マネージャーさん！\nおはようございます。"
+            },
             "voice": "audition/story_01/heroine_07/HM_Morning_01_07_01/hm_morning_01_07_01_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "えへへ。\nあいり、学校に行ってきます。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "えへへ。\nあいり、学校に行ってきます。"
+            },
             "voice": "audition/story_01/heroine_07/HM_Morning_01_07_01/hm_morning_01_07_01_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "今日は朝から、音楽の授業があるんです。\n上手に歌えるといいなぁ。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "今日は朝から、音楽の授業があるんです。\n上手に歌えるといいなぁ。"
+            },
             "voice": "audition/story_01/heroine_07/HM_Morning_01_07_01/hm_morning_01_07_01_003.mp3"
         }
     ]

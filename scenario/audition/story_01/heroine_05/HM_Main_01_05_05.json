@@ -6,8 +6,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "……やっぱり緊張で落ち着かない？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "……やっぱり緊張で落ち着かない？"
+            },
             "voice": ""
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "ううん、逆逆！\nこれからあたしの全力をぶつけられるんだってワクワクしてる！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "ううん、逆逆！\nこれからあたしの全力をぶつけられるんだってワクワクしてる！"
+            },
             "voice": "audition/story_01/heroine_05/HM_Main_01_05_05/hm_main_01_05_05_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "これだけ大勢の声優が集められてのオーディション。\n燃えないわけがないじゃん！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "これだけ大勢の声優が集められてのオーディション。\n燃えないわけがないじゃん！"
+            },
             "voice": "audition/story_01/heroine_05/HM_Main_01_05_05/hm_main_01_05_05_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "それは頼もしいね。\nただ、落ち着きがないって思われないようにね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "それは頼もしいね。\nただ、落ち着きがないって思われないようにね。"
+            },
             "voice": ""
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "もちろん！\nこの日のために今まで頑張ってきたんだから！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "もちろん！\nこの日のために今まで頑張ってきたんだから！"
+            },
             "voice": "audition/story_01/heroine_05/HM_Main_01_05_05/hm_main_01_05_05_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "ただ、あたしはこの燃えたぎる思いを……、\n抑えるつもりは1ミリだってないよ！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "ただ、あたしはこの燃えたぎる思いを……、\n抑えるつもりは1ミリだってないよ！"
+            },
             "voice": "audition/story_01/heroine_05/HM_Main_01_05_05/hm_main_01_05_05_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "思いっきりぶつかって、相手を響かせられるかどうか。\nそういう戦いだからね、オーディションは！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "思いっきりぶつかって、相手を響かせられるかどうか。\nそういう戦いだからね、オーディションは！"
+            },
             "voice": "audition/story_01/heroine_05/HM_Main_01_05_05/hm_main_01_05_05_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "相手を響かせられるかどうか……、か。\n確かに、そうかもしれないね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "相手を響かせられるかどうか……、か。\n確かに、そうかもしれないね。"
+            },
             "voice": ""
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "あたしは、相手を見て合わせたりとか、\nそういうことはあんま得意じゃないからさ。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "あたしは、相手を見て合わせたりとか、\nそういうことはあんま得意じゃないからさ。"
+            },
             "voice": "audition/story_01/heroine_05/HM_Main_01_05_05/hm_main_01_05_05_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "そのまんまのあたしを、\nストレートにぶち当てるしかないんだよね！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "そのまんまのあたしを、\nストレートにぶち当てるしかないんだよね！"
+            },
             "voice": "audition/story_01/heroine_05/HM_Main_01_05_05/hm_main_01_05_05_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "だから、期待して待っててよね、マネージャー！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "だから、期待して待っててよね、マネージャー！"
+            },
             "voice": "audition/story_01/heroine_05/HM_Main_01_05_05/hm_main_01_05_05_011.mp3"
         }
     ]

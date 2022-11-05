@@ -6,8 +6,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "マネージャー！\nおはようございまーす！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "マネージャー！\nおはようございまーす！"
+            },
             "voice": "audition/story_01/heroine_08/HM_Morning_01_08_02/hm_morning_01_08_02_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "台本、学校終わったら事務所に取りに行くわね！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "台本、学校終わったら事務所に取りに行くわね！"
+            },
             "voice": "audition/story_01/heroine_08/HM_Morning_01_08_02/hm_morning_01_08_02_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "うふふ、読むのが楽しみだわ！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "うふふ、読むのが楽しみだわ！"
+            },
             "voice": "audition/story_01/heroine_08/HM_Morning_01_08_02/hm_morning_01_08_02_003.mp3"
         }
     ]

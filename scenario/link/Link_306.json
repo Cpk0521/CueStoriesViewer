@@ -6,8 +6,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "えーと、この台詞の次は……。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "えーと、この台詞の次は……。"
+            },
             "voice": "link/Link_306/link_306_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "あれ？　まほろ？\n……何やってるの？",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "あれ？　まほろ？\n……何やってるの？"
+            },
             "voice": "link/Link_306/link_306_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "あ、千紗。\n台本の確認。ここ、なんか落ち着くから。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "あ、千紗。\n台本の確認。ここ、なんか落ち着くから。"
+            },
             "voice": "link/Link_306/link_306_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "いいよ。私は気にしないから。\nちょっと肥料替えに来ただけだし。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "いいよ。私は気にしないから。\nちょっと肥料替えに来ただけだし。"
+            },
             "voice": "link/Link_306/link_306_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "肥料って、ここの野菜の？\n千紗が育ててたんだ。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "肥料って、ここの野菜の？\n千紗が育ててたんだ。"
+            },
             "voice": "link/Link_306/link_306_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "そうだよ。\nここって殺風景だし、寂しいかなって思ってたんだけど。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "そうだよ。\nここって殺風景だし、寂しいかなって思ってたんだけど。"
+            },
             "voice": "link/Link_306/link_306_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "まほろがいてくれたなら、寂しくないね。　",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "まほろがいてくれたなら、寂しくないね。　"
+            },
             "voice": "link/Link_306/link_306_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "誰が寂しいって？　",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "誰が寂しいって？　"
+            },
             "voice": "link/Link_306/link_306_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "野菜たちが。　",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "野菜たちが。　"
+            },
             "voice": "link/Link_306/link_306_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "野菜も、寂しいとかあるの？　",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "野菜も、寂しいとかあるの？　"
+            },
             "voice": "link/Link_306/link_306_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "あるよ。\n声をかけて育てると、おいしくなるの。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "あるよ。\n声をかけて育てると、おいしくなるの。"
+            },
             "voice": "link/Link_306/link_306_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "知らなかった……。　",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "知らなかった……。　"
+            },
             "voice": "link/Link_306/link_306_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "花と一緒だよ。\n……まほろ、おいしい野菜は好き？",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "花と一緒だよ。\n……まほろ、おいしい野菜は好き？"
+            },
             "voice": "link/Link_306/link_306_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "うん。好き。\nラーメンの野菜がおいしいと、テンション上がる。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "うん。好き。\nラーメンの野菜がおいしいと、テンション上がる。"
+            },
             "voice": "link/Link_306/link_306_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "ねえ、その野菜がおいしく育ったらさ。\nラーメン、作ってよ。まほろに。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "ねえ、その野菜がおいしく育ったらさ。\nラーメン、作ってよ。まほろに。"
+            },
             "voice": "link/Link_306/link_306_015.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "いいよ。とっておきのラーメン、作ってあげる。\nその代わり！　この子たちを育てるの、手伝ってよね。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "いいよ。とっておきのラーメン、作ってあげる。\nその代わり！　この子たちを育てるの、手伝ってよね。"
+            },
             "voice": "link/Link_306/link_306_016.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "うん。まほろ、よくここに来るから。\n台本読むとき、野菜たちに読み聞かせてあげる。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "うん。まほろ、よくここに来るから。\n台本読むとき、野菜たちに読み聞かせてあげる。"
+            },
             "voice": "link/Link_306/link_306_017.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "君たち、まほろのためにおいしくなるんだぞ。\n寂しくないように、いっぱい話をしてあげるから。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "君たち、まほろのためにおいしくなるんだぞ。\n寂しくないように、いっぱい話をしてあげるから。"
+            },
             "voice": "link/Link_306/link_306_018.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "うんうん。ラーメン何がいいか決めといてね。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "うんうん。ラーメン何がいいか決めといてね。"
+            },
             "voice": "link/Link_306/link_306_019.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "それはやっぱり、あれでしょ。　",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "それはやっぱり、あれでしょ。　"
+            },
             "voice": "link/Link_306/link_306_020.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "野菜たっぷり、背脂ラーメン！　",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "野菜たっぷり、背脂ラーメン！　"
+            },
             "voice": "link/Link_306/link_306_021.mp3"
         }
     ]

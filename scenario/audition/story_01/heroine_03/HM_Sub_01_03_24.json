@@ -6,8 +6,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "お疲れちゃーん。\nむ、ジャーマネ。それは羊羹か？",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "お疲れちゃーん。\nむ、ジャーマネ。それは羊羹か？"
+            },
             "voice": "audition/story_01/heroine_03/HM_Sub_01_03_24/hm_sub_01_03_24_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "お疲れ様。うん、今日いただいたんだよね。\n志穂もよかったらどうぞ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "お疲れ様。うん、今日いただいたんだよね。\n志穂もよかったらどうぞ。"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "おお……。しかも、たつやの羊羹じゃないか。\nあんこ好きとして、羊羹は見逃せない。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "おお……。しかも、たつやの羊羹じゃないか。\nあんこ好きとして、羊羹は見逃せない。"
+            },
             "voice": "audition/story_01/heroine_03/HM_Sub_01_03_24/hm_sub_01_03_24_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "で、誰が謝罪に来たんだ？",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "で、誰が謝罪に来たんだ？"
+            },
             "voice": "audition/story_01/heroine_03/HM_Sub_01_03_24/hm_sub_01_03_24_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "え？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "え？"
+            },
             "voice": ""
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "お詫びの品といえばたつやの羊羹。\nこれだろ。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "お詫びの品といえばたつやの羊羹。\nこれだろ。"
+            },
             "voice": "audition/story_01/heroine_03/HM_Sub_01_03_24/hm_sub_01_03_24_006.mp3"
         }
     ]

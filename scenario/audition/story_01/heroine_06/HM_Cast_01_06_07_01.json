@@ -6,8 +6,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "お疲れ様です、マネージャーさん。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "お疲れ様です、マネージャーさん。"
+            },
             "voice": "audition/story_01/heroine_06/HM_Cast_01_06_07_01/hm_cast_01_06_07_01_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "お疲れ様、あいり。\nそういえば、昨日言ってたテストって大丈夫だったの？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "お疲れ様、あいり。\nそういえば、昨日言ってたテストって大丈夫だったの？"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "はい、大丈夫でした！",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "はい、大丈夫でした！"
+            },
             "voice": "audition/story_01/heroine_06/HM_Cast_01_06_07_01/hm_cast_01_06_07_01_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "さすが、あいりだね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "さすが、あいりだね。"
+            },
             "voice": ""
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "そんなことないです。\nそれに頑張れたのは、千紗ちゃんのおかげなんですよ。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "そんなことないです。\nそれに頑張れたのは、千紗ちゃんのおかげなんですよ。"
+            },
             "voice": "audition/story_01/heroine_06/HM_Cast_01_06_07_01/hm_cast_01_06_07_01_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "今日のお弁当に、\n「テスト頑張ってね」っていうメモが入ってたんです。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "今日のお弁当に、\n「テスト頑張ってね」っていうメモが入ってたんです。"
+            },
             "voice": "audition/story_01/heroine_06/HM_Cast_01_06_07_01/hm_cast_01_06_07_01_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "千紗ちゃん、いつも忙しいのに、\nあいりのテストのことまで気にしてくれるなんて……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "千紗ちゃん、いつも忙しいのに、\nあいりのテストのことまで気にしてくれるなんて……。"
+            },
             "voice": "audition/story_01/heroine_06/HM_Cast_01_06_07_01/hm_cast_01_06_07_01_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "本当に優しいなぁ。\nあいりも見習いたいです。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "本当に優しいなぁ。\nあいりも見習いたいです。"
+            },
             "voice": "audition/story_01/heroine_06/HM_Cast_01_06_07_01/hm_cast_01_06_07_01_008.mp3"
         }
     ]

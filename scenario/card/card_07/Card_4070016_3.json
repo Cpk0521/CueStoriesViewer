@@ -6,8 +6,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "お疲れ様でした。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "お疲れ様でした。"
+            },
             "voice": "card/Card_07/Card_4070016_3/card_4070016_3_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "はい、お疲れ様でした。\nまたよろしくね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "はい、お疲れ様でした。\nまたよろしくね。"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "はい……！　ありがとうございます！\nそれでは、失礼します。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "はい……！　ありがとうございます！\nそれでは、失礼します。"
+            },
             "voice": "card/Card_07/Card_4070016_3/card_4070016_3_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "ふう……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "ふう……。"
+            },
             "voice": "card/Card_07/Card_4070016_3/card_4070016_3_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "今日は、あんまりリテイク出なかったな。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "今日は、あんまりリテイク出なかったな。"
+            },
             "voice": "card/Card_07/Card_4070016_3/card_4070016_3_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "みんなのお芝居、すごかったなぁ……。\nあんなにたくさんセリフがあったのに……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "みんなのお芝居、すごかったなぁ……。\nあんなにたくさんセリフがあったのに……。"
+            },
             "voice": "card/Card_07/Card_4070016_3/card_4070016_3_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "……。"
+            },
             "voice": "card/Card_07/Card_4070016_3/card_4070016_3_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "（成長してるって、柚葉ちゃんは言ってくれたけど、）",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "（成長してるって、柚葉ちゃんは言ってくれたけど、）"
+            },
             "voice": "card/Card_07/Card_4070016_3/card_4070016_3_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "（それって、こういうことなのかなあ……。）",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "（それって、こういうことなのかなあ……。）"
+            },
             "voice": "card/Card_07/Card_4070016_3/card_4070016_3_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "……あっ！",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "……あっ！"
+            },
             "voice": "card/Card_07/Card_4070016_3/card_4070016_3_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "雪……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "雪……。"
+            },
             "voice": "card/Card_07/Card_4070016_3/card_4070016_3_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "……。"
+            },
             "voice": "card/Card_07/Card_4070016_3/card_4070016_3_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "あ、たくさん降ってきた……！\n傘……、ささないと。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "あ、たくさん降ってきた……！\n傘……、ささないと。"
+            },
             "voice": "card/Card_07/Card_4070016_3/card_4070016_3_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "昼間はあんなに晴れてて、少し暖かかったくらいなのに。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "昼間はあんなに晴れてて、少し暖かかったくらいなのに。"
+            },
             "voice": "card/Card_07/Card_4070016_3/card_4070016_3_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "はあ……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "はあ……。"
+            },
             "voice": "card/Card_07/Card_4070016_3/card_4070016_3_015.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "息が真っ白。\nそうだよね、雪が降ってるんだもん。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "息が真っ白。\nそうだよね、雪が降ってるんだもん。"
+            },
             "voice": "card/Card_07/Card_4070016_3/card_4070016_3_016.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "……。"
+            },
             "voice": "card/Card_07/Card_4070016_3/card_4070016_3_017.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "雪を見てると、なんか鼻の奥がツンとする……。\nこれって、寒いからなのかな？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "雪を見てると、なんか鼻の奥がツンとする……。\nこれって、寒いからなのかな？"
+            },
             "voice": "card/Card_07/Card_4070016_3/card_4070016_3_018.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "それとも……、雪を見てると……、\n色んなことを考えちゃうから……、なのかな？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "それとも……、雪を見てると……、\n色んなことを考えちゃうから……、なのかな？"
+            },
             "voice": "card/Card_07/Card_4070016_3/card_4070016_3_019.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "ふう……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "ふう……。"
+            },
             "voice": "card/Card_07/Card_4070016_3/card_4070016_3_020.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "うう、やっぱり寒い……。\nうん、急いで帰ろ。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "うう、やっぱり寒い……。\nうん、急いで帰ろ。"
+            },
             "voice": "card/Card_07/Card_4070016_3/card_4070016_3_021.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "……積もるのかな、この雪。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "……積もるのかな、この雪。"
+            },
             "voice": "card/Card_07/Card_4070016_3/card_4070016_3_022.mp3"
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "ふふ……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "ふふ……。"
+            },
             "voice": "card/Card_07/Card_4070016_3/card_4070016_3_023.mp3"
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "積もったら雪合戦やりたいって、柚葉ちゃん言ってたなぁ。\nあいりは……、雪だるま作りたいなぁ。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "積もったら雪合戦やりたいって、柚葉ちゃん言ってたなぁ。\nあいりは……、雪だるま作りたいなぁ。"
+            },
             "voice": "card/Card_07/Card_4070016_3/card_4070016_3_024.mp3"
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "ふふ。明日、積もってるといいなぁ。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "ふふ。明日、積もってるといいなぁ。"
+            },
             "voice": "card/Card_07/Card_4070016_3/card_4070016_3_025.mp3"
         }
     ]

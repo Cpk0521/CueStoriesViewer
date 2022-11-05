@@ -6,8 +6,12 @@
             "heroineId": [
                 0
             ],
-            "name": "式場スタッフ",
-            "message": "ここにいらしたんですか？\nもうすぐ式が始まりますよ！",
+            "name": {
+                "default": "式場スタッフ"
+            },
+            "message": {
+                "default": "ここにいらしたんですか？\nもうすぐ式が始まりますよ！"
+            },
             "voice": ""
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "すみません！\nえっと、その、わたし、結婚しません！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "すみません！\nえっと、その、わたし、結婚しません！"
+            },
             "voice": "card/Card_04/Card_4040012_2/card_4040012_2_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 0
             ],
-            "name": "式場スタッフ",
-            "message": "あぁ……。式の直前に、そういうお気持ちになる花嫁さんも、\nたくさんいらっしゃいます。",
+            "name": {
+                "default": "式場スタッフ"
+            },
+            "message": {
+                "default": "あぁ……。式の直前に、そういうお気持ちになる花嫁さんも、\nたくさんいらっしゃいます。"
+            },
             "voice": ""
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "いや、だから、そ、そういうんじゃなくて……。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "いや、だから、そ、そういうんじゃなくて……。"
+            },
             "voice": "card/Card_04/Card_4040012_2/card_4040012_2_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 0
             ],
-            "name": "式場スタッフ",
-            "message": "ひとまず控室にご案内いたします。",
+            "name": {
+                "default": "式場スタッフ"
+            },
+            "message": {
+                "default": "ひとまず控室にご案内いたします。"
+            },
             "voice": ""
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "だから、違うんですー！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "だから、違うんですー！"
+            },
             "voice": "card/Card_04/Card_4040012_2/card_4040012_2_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "うーん……。\nほのかちゃん、どこに行っちゃったんだろう？",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "うーん……。\nほのかちゃん、どこに行っちゃったんだろう？"
+            },
             "voice": "card/Card_04/Card_4040012_2/card_4040012_2_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "ここにずっと来ないし、探しても全然見当たらないし……。\nほんと、どこ行っちゃったんだ、ほのかの奴。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "ここにずっと来ないし、探しても全然見当たらないし……。\nほんと、どこ行っちゃったんだ、ほのかの奴。"
+            },
             "voice": "card/Card_04/Card_4040012_2/card_4040012_2_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "参ったね。\nそろそろ次の時間なんだけど……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "参ったね。\nそろそろ次の時間なんだけど……。"
+            },
             "voice": ""
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "ほのかちゃん……。\nもしかして、トラブルに巻き込まれてるのかな？",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "ほのかちゃん……。\nもしかして、トラブルに巻き込まれてるのかな？"
+            },
             "voice": "card/Card_04/Card_4040012_2/card_4040012_2_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "トラブルって？",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "トラブルって？"
+            },
             "voice": "card/Card_04/Card_4040012_2/card_4040012_2_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "例えば……、本物のお嫁さんに間違えられてるとか。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "例えば……、本物のお嫁さんに間違えられてるとか。"
+            },
             "voice": "card/Card_04/Card_4040012_2/card_4040012_2_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "あはは、さすがにそれはないっしょ。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "あはは、さすがにそれはないっしょ。"
+            },
             "voice": "card/Card_04/Card_4040012_2/card_4040012_2_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "そ、そうだよね。\nいくらほのかちゃんが大人っぽいからって……。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "そ、そうだよね。\nいくらほのかちゃんが大人っぽいからって……。"
+            },
             "voice": "card/Card_04/Card_4040012_2/card_4040012_2_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "でも、今日のほのか、\n見違えるほど綺麗だったよね……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "でも、今日のほのか、\n見違えるほど綺麗だったよね……。"
+            },
             "voice": ""
         },
         {
@@ -142,8 +202,12 @@
                 1,
                 2
             ],
-            "name": "2人",
-            "message": "……。",
+            "name": {
+                "default": "2人"
+            },
+            "message": {
+                "default": "……。"
+            },
             "voice": "card/Card_04/Card_4040012_2/card_4040012_2_016.mp3"
         },
         {
@@ -151,8 +215,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "だとしたら、ヤバくない？",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "だとしたら、ヤバくない？"
+            },
             "voice": "card/Card_04/Card_4040012_2/card_4040012_2_017.mp3"
         },
         {
@@ -160,8 +228,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "うん。早く見つけてあげないと……。\nマネージャーさん、次の撮影は屋上庭園ですよね？ ",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "うん。早く見つけてあげないと……。\nマネージャーさん、次の撮影は屋上庭園ですよね？ "
+            },
             "voice": "card/Card_04/Card_4040012_2/card_4040012_2_018.mp3"
         },
         {
@@ -169,8 +241,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "うん、そうだよ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "うん、そうだよ。"
+            },
             "voice": ""
         },
         {
@@ -178,8 +254,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "舞花ちゃん。手分けして、ほのかちゃんを探さない？",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "舞花ちゃん。手分けして、ほのかちゃんを探さない？"
+            },
             "voice": "card/Card_04/Card_4040012_2/card_4040012_2_020.mp3"
         },
         {
@@ -187,8 +267,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "わかった、陽菜。\n見つけたら、直接屋上で集合しよう。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "わかった、陽菜。\n見つけたら、直接屋上で集合しよう。"
+            },
             "voice": "card/Card_04/Card_4040012_2/card_4040012_2_021.mp3"
         },
         {
@@ -196,8 +280,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "マネージャーさんは、\n先に屋上へ向かってもらっていいですか？ ",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "マネージャーさんは、\n先に屋上へ向かってもらっていいですか？ "
+            },
             "voice": "card/Card_04/Card_4040012_2/card_4040012_2_022.mp3"
         },
         {
@@ -205,8 +293,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "うん、そうだね。先方に事情を説明する必要もありそうだし……。\n頼んだよ、2人とも。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "うん、そうだね。先方に事情を説明する必要もありそうだし……。\n頼んだよ、2人とも。"
+            },
             "voice": ""
         },
         {
@@ -215,8 +307,12 @@
                 1,
                 2
             ],
-            "name": "2人",
-            "message": "はい！",
+            "name": {
+                "default": "2人"
+            },
+            "message": {
+                "default": "はい！"
+            },
             "voice": "card/Card_04/Card_4040012_2/card_4040012_2_024.mp3"
         },
         {
@@ -224,8 +320,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "だから、違いますってー！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "だから、違いますってー！"
+            },
             "voice": "card/Card_04/Card_4040012_2/card_4040012_2_025.mp3"
         },
         {
@@ -233,8 +333,12 @@
             "heroineId": [
                 0
             ],
-            "name": "式場スタッフ",
-            "message": "お待ちください！　もう時間がありません！",
+            "name": {
+                "default": "式場スタッフ"
+            },
+            "message": {
+                "default": "お待ちください！　もう時間がありません！"
+            },
             "voice": ""
         },
         {
@@ -242,8 +346,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "新婦さんじゃないんですってば！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "新婦さんじゃないんですってば！"
+            },
             "voice": "card/Card_04/Card_4040012_2/card_4040012_2_027.mp3"
         },
         {
@@ -251,8 +359,12 @@
             "heroineId": [
                 0
             ],
-            "name": "式場スタッフ",
-            "message": "そのお気持ちはすごくわかります！",
+            "name": {
+                "default": "式場スタッフ"
+            },
+            "message": {
+                "default": "そのお気持ちはすごくわかります！"
+            },
             "voice": ""
         },
         {
@@ -260,8 +372,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "わかってないですよー！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "わかってないですよー！"
+            },
             "voice": "card/Card_04/Card_4040012_2/card_4040012_2_029.mp3"
         },
         {
@@ -269,8 +385,12 @@
             "heroineId": [
                 0
             ],
-            "name": "式場スタッフ",
-            "message": "早く新婦控室へ！",
+            "name": {
+                "default": "式場スタッフ"
+            },
+            "message": {
+                "default": "早く新婦控室へ！"
+            },
             "voice": ""
         },
         {
@@ -278,8 +398,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "だーかーらー！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "だーかーらー！"
+            },
             "voice": "card/Card_04/Card_4040012_2/card_4040012_2_031.mp3"
         },
         {
@@ -287,8 +411,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "あ、ほのか！",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "あ、ほのか！"
+            },
             "voice": "card/Card_04/Card_4040012_2/card_4040012_2_032.mp3"
         },
         {
@@ -296,8 +424,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "え！？　舞花？",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "え！？　舞花？"
+            },
             "voice": "card/Card_04/Card_4040012_2/card_4040012_2_033.mp3"
         },
         {
@@ -305,8 +437,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "お願い！　助けて！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "お願い！　助けて！"
+            },
             "voice": "card/Card_04/Card_4040012_2/card_4040012_2_034.mp3"
         },
         {
@@ -314,8 +450,12 @@
             "heroineId": [
                 0
             ],
-            "name": "式場スタッフたち",
-            "message": "お待ちくださいー！",
+            "name": {
+                "default": "式場スタッフたち"
+            },
+            "message": {
+                "default": "お待ちくださいー！"
+            },
             "voice": ""
         },
         {
@@ -323,8 +463,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "うわっ！　えっ、何！　何が起きてるのー！",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "うわっ！　えっ、何！　何が起きてるのー！"
+            },
             "voice": "card/Card_04/Card_4040012_2/card_4040012_2_036.mp3"
         },
         {
@@ -332,8 +476,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "はぁ、はぁ……。\nあー……、助かったー……。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "はぁ、はぁ……。\nあー……、助かったー……。"
+            },
             "voice": "card/Card_04/Card_4040012_2/card_4040012_2_037.mp3"
         },
         {
@@ -341,8 +489,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "まさか、本当に、本物と間違えられてるなんてなー。\nたくさんの人に追われてるんだから、ビックリしたよー。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "まさか、本当に、本物と間違えられてるなんてなー。\nたくさんの人に追われてるんだから、ビックリしたよー。"
+            },
             "voice": "card/Card_04/Card_4040012_2/card_4040012_2_038.mp3"
         },
         {
@@ -350,8 +502,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "いやー、舞花が来てくれなかったら、どうなってたか……。\nほんと、助かったよ。ありがとう。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "いやー、舞花が来てくれなかったら、どうなってたか……。\nほんと、助かったよ。ありがとう。"
+            },
             "voice": "card/Card_04/Card_4040012_2/card_4040012_2_039.mp3"
         },
         {
@@ -359,8 +515,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "マネージャーには連絡入れといたからさ。\n時間もないし、次の撮影に急ごう。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "マネージャーには連絡入れといたからさ。\n時間もないし、次の撮影に急ごう。"
+            },
             "voice": "card/Card_04/Card_4040012_2/card_4040012_2_040.mp3"
         },
         {
@@ -368,8 +528,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "次は屋上庭園だよね？",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "次は屋上庭園だよね？"
+            },
             "voice": "card/Card_04/Card_4040012_2/card_4040012_2_041.mp3"
         },
         {
@@ -377,8 +541,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "うん。エレベーターは向こうだよ。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "うん。エレベーターは向こうだよ。"
+            },
             "voice": "card/Card_04/Card_4040012_2/card_4040012_2_042.mp3"
         },
         {
@@ -386,8 +554,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "わかった！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "わかった！"
+            },
             "voice": "card/Card_04/Card_4040012_2/card_4040012_2_043.mp3"
         },
         {
@@ -395,8 +567,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "あった、エレベーター！\n早く屋上に……。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "あった、エレベーター！\n早く屋上に……。"
+            },
             "voice": "card/Card_04/Card_4040012_2/card_4040012_2_044.mp3"
         },
         {
@@ -404,8 +580,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "ん、ちょっと待って……。\nこれ、張り紙がしてある……。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "ん、ちょっと待って……。\nこれ、張り紙がしてある……。"
+            },
             "voice": "card/Card_04/Card_4040012_2/card_4040012_2_045.mp3"
         },
         {
@@ -413,8 +593,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "「只今エレベーター故障中」。\n……ええっー！？",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "「只今エレベーター故障中」。\n……ええっー！？"
+            },
             "voice": "card/Card_04/Card_4040012_2/card_4040012_2_046.mp3"
         },
         {
@@ -422,8 +606,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "このタイミングで……、マジか。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "このタイミングで……、マジか。"
+            },
             "voice": "card/Card_04/Card_4040012_2/card_4040012_2_047.mp3"
         },
         {
@@ -431,8 +619,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "そんな……！\nもうちょっとで時間なのに……。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "そんな……！\nもうちょっとで時間なのに……。"
+            },
             "voice": "card/Card_04/Card_4040012_2/card_4040012_2_048.mp3"
         },
         {
@@ -440,8 +632,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "他のエレベーターは……、近くにないな……。\n参ったなぁ……。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "他のエレベーターは……、近くにないな……。\n参ったなぁ……。"
+            },
             "voice": "card/Card_04/Card_4040012_2/card_4040012_2_049.mp3"
         },
         {
@@ -449,8 +645,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "……ねぇ、舞花。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "……ねぇ、舞花。"
+            },
             "voice": "card/Card_04/Card_4040012_2/card_4040012_2_050.mp3"
         },
         {
@@ -458,8 +658,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "屋上って、あと5階上だよね？",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "屋上って、あと5階上だよね？"
+            },
             "voice": "card/Card_04/Card_4040012_2/card_4040012_2_051.mp3"
         },
         {
@@ -467,8 +671,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "うん、そうだけど……。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "うん、そうだけど……。"
+            },
             "voice": "card/Card_04/Card_4040012_2/card_4040012_2_052.mp3"
         },
         {
@@ -476,8 +684,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "よし、それなら……！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "よし、それなら……！"
+            },
             "voice": "card/Card_04/Card_4040012_2/card_4040012_2_053.mp3"
         },
         {
@@ -485,8 +697,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "うん？",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "うん？"
+            },
             "voice": "card/Card_04/Card_4040012_2/card_4040012_2_054.mp3"
         },
         {
@@ -494,8 +710,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "ここって……、ほのか、まさか……！",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "ここって……、ほのか、まさか……！"
+            },
             "voice": "card/Card_04/Card_4040012_2/card_4040012_2_055.mp3"
         },
         {
@@ -503,8 +723,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "うん！　階段で行く！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "うん！　階段で行く！"
+            },
             "voice": "card/Card_04/Card_4040012_2/card_4040012_2_056.mp3"
         },
         {
@@ -512,8 +736,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "えっ、マジで！？　そのドレスで！？",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "えっ、マジで！？　そのドレスで！？"
+            },
             "voice": "card/Card_04/Card_4040012_2/card_4040012_2_057.mp3"
         },
         {
@@ -521,8 +749,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "大丈夫！\nこうやって、裾を持ち上げれば！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "大丈夫！\nこうやって、裾を持ち上げれば！"
+            },
             "voice": "card/Card_04/Card_4040012_2/card_4040012_2_058.mp3"
         },
         {
@@ -530,8 +762,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "いや、それでも、それって動きづらいんでしょ？",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "いや、それでも、それって動きづらいんでしょ？"
+            },
             "voice": "card/Card_04/Card_4040012_2/card_4040012_2_059.mp3"
         },
         {
@@ -539,8 +775,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "だからって、撮影を遅らせるわけにはいかないよ。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "だからって、撮影を遅らせるわけにはいかないよ。"
+            },
             "voice": "card/Card_04/Card_4040012_2/card_4040012_2_060.mp3"
         },
         {
@@ -548,8 +788,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "大丈夫！　たった5階くらい！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "大丈夫！　たった5階くらい！"
+            },
             "voice": "card/Card_04/Card_4040012_2/card_4040012_2_061.mp3"
         },
         {
@@ -557,8 +801,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "は、はは、さすが……。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "は、はは、さすが……。"
+            },
             "voice": "card/Card_04/Card_4040012_2/card_4040012_2_062.mp3"
         },
         {
@@ -566,8 +814,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "わかった。マネージャーには連絡しておくからさ。\n自分は陽菜と合流してから、追いかけるよ。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "わかった。マネージャーには連絡しておくからさ。\n自分は陽菜と合流してから、追いかけるよ。"
+            },
             "voice": "card/Card_04/Card_4040012_2/card_4040012_2_063.mp3"
         },
         {
@@ -575,8 +827,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "うん、ありがとう！\nそれじゃ、行くね！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "うん、ありがとう！\nそれじゃ、行くね！"
+            },
             "voice": "card/Card_04/Card_4040012_2/card_4040012_2_064.mp3"
         },
         {
@@ -584,8 +840,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "おう！　走れ、ほのか！",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "おう！　走れ、ほのか！"
+            },
             "voice": "card/Card_04/Card_4040012_2/card_4040012_2_065.mp3"
         }
     ]

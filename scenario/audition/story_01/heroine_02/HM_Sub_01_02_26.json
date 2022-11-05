@@ -6,8 +6,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "マネージャー、お疲れ様です！\nちょっと急いでるんで、お先、失礼します。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "マネージャー、お疲れ様です！\nちょっと急いでるんで、お先、失礼します。"
+            },
             "voice": "audition/story_01/heroine_02/HM_Sub_01_02_26/hm_sub_01_02_26_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "あれ、どうしたの？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "あれ、どうしたの？"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "実はお母さんから、今日残業になるって連絡があって……。\n弟たちの様子を見に行かないといけないんっすよ。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "実はお母さんから、今日残業になるって連絡があって……。\n弟たちの様子を見に行かないといけないんっすよ。"
+            },
             "voice": "audition/story_01/heroine_02/HM_Sub_01_02_26/hm_sub_01_02_26_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "明日、オーディションなのに、大変だね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "明日、オーディションなのに、大変だね。"
+            },
             "voice": ""
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "え？　そんなの関係ないっすよ。\n弟たちの面倒見るなんて当たり前じゃないっすか。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "え？　そんなの関係ないっすよ。\n弟たちの面倒見るなんて当たり前じゃないっすか。"
+            },
             "voice": "audition/story_01/heroine_02/HM_Sub_01_02_26/hm_sub_01_02_26_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "それに弟たち放って、オーディション受けたくないっすからね。\nじゃ、お疲れ様でーす！",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "それに弟たち放って、オーディション受けたくないっすからね。\nじゃ、お疲れ様でーす！"
+            },
             "voice": "audition/story_01/heroine_02/HM_Sub_01_02_26/hm_sub_01_02_26_006.mp3"
         }
     ]

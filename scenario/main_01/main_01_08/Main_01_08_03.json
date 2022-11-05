@@ -6,8 +6,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "はい。全員そろったわね。\r\nそれじゃ、りお、説明お願い。",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "はい。全員そろったわね。\r\nそれじゃ、りお、説明お願い。"
+            },
             "voice": "main_01/Main_01_08/Main_01_08_03/main_01_08_03_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "了解ディース。\r\nえー、こほん。",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "了解ディース。\r\nえー、こほん。"
+            },
             "voice": "main_01/Main_01_08/Main_01_08_03/main_01_08_03_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "皆には事務所を代表して、ちょっと取材を受けてもらいます。",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "皆には事務所を代表して、ちょっと取材を受けてもらいます。"
+            },
             "voice": "main_01/Main_01_08/Main_01_08_03/main_01_08_03_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "取材……、ですか？",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "取材……、ですか？"
+            },
             "voice": "main_01/Main_01_08/Main_01_08_03/main_01_08_03_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "声優雑誌とか……？",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "声優雑誌とか……？"
+            },
             "voice": "main_01/Main_01_08/Main_01_08_03/main_01_08_03_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "アニメ雑誌かもしれんぞ。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "アニメ雑誌かもしれんぞ。"
+            },
             "voice": "main_01/Main_01_08/Main_01_08_03/main_01_08_03_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "代表……？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "代表……？"
+            },
             "voice": "main_01/Main_01_08/Main_01_08_03/main_01_08_03_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "うんうん。声優としてデビューしたからには、\r\n雑誌のインタビューって、憧れるよね。",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "うんうん。声優としてデビューしたからには、\r\n雑誌のインタビューって、憧れるよね。"
+            },
             "voice": "main_01/Main_01_08/Main_01_08_03/main_01_08_03_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "いや、私はそんなに……。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "いや、私はそんなに……。"
+            },
             "voice": "main_01/Main_01_08/Main_01_08_03/main_01_08_03_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "え？　そうなの？　\n絢ちゃんの言葉を待ってる人、いると思うけどな―。",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "え？　そうなの？　\n絢ちゃんの言葉を待ってる人、いると思うけどな―。"
+            },
             "voice": "main_01/Main_01_08/Main_01_08_03/main_01_08_03_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "と、その話はまた今度にして……。\r\n今回の取材は我が事務所「AiRBLUE」の特集です！",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "と、その話はまた今度にして……。\r\n今回の取材は我が事務所「AiRBLUE」の特集です！"
+            },
             "voice": "main_01/Main_01_08/Main_01_08_03/main_01_08_03_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "AiRBLUEの特集？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "AiRBLUEの特集？"
+            },
             "voice": "main_01/Main_01_08/Main_01_08_03/main_01_08_03_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "なんですかそれ？",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "なんですかそれ？"
+            },
             "voice": "main_01/Main_01_08/Main_01_08_03/main_01_08_03_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "そう、特集。",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "そう、特集。"
+            },
             "voice": "main_01/Main_01_08/Main_01_08_03/main_01_08_03_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "真咲さんが立ち上げたAiRBLUE、皆さんはその1期生。\r\nつまり、まだまだ新しい事務所だってことはわかってるよね？",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "真咲さんが立ち上げたAiRBLUE、皆さんはその1期生。\r\nつまり、まだまだ新しい事務所だってことはわかってるよね？"
+            },
             "voice": "main_01/Main_01_08/Main_01_08_03/main_01_08_03_015.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "はい。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "はい。"
+            },
             "voice": "main_01/Main_01_08/Main_01_08_03/main_01_08_03_016.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "歴史ある声優事務所も多い中、新興の声優事務所ということで。",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "歴史ある声優事務所も多い中、新興の声優事務所ということで。"
+            },
             "voice": "main_01/Main_01_08/Main_01_08_03/main_01_08_03_017.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "なんとこの度、声優グランプリさんに、\r\n特集を組んでもらえることとなったわけです！　",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "なんとこの度、声優グランプリさんに、\r\n特集を組んでもらえることとなったわけです！　"
+            },
             "voice": "main_01/Main_01_08/Main_01_08_03/main_01_08_03_018.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "いえい！　やったね！",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "いえい！　やったね！"
+            },
             "voice": "main_01/Main_01_08/Main_01_08_03/main_01_08_03_019.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "ふむ。\r\nそれで取材というのはどういうことだ？",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "ふむ。\r\nそれで取材というのはどういうことだ？"
+            },
             "voice": "main_01/Main_01_08/Main_01_08_03/main_01_08_03_020.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "そう。\r\nどうして私たち4人が呼ばれてるんですか？",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "そう。\r\nどうして私たち4人が呼ばれてるんですか？"
+            },
             "voice": "main_01/Main_01_08/Main_01_08_03/main_01_08_03_021.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "それはねえ。今、あなたたちが、\r\nちょうどアニメの案件を受けてるから。",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "それはねえ。今、あなたたちが、\r\nちょうどアニメの案件を受けてるから。"
+            },
             "voice": "main_01/Main_01_08/Main_01_08_03/main_01_08_03_022.mp3"
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "そして、その作品の放映時期が同じシーズンだからです。",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "そして、その作品の放映時期が同じシーズンだからです。"
+            },
             "voice": "main_01/Main_01_08/Main_01_08_03/main_01_08_03_023.mp3"
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "というと？",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "というと？"
+            },
             "voice": "main_01/Main_01_08/Main_01_08_03/main_01_08_03_024.mp3"
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "今回皆に取材を受けてもらうでしょ？",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "今回皆に取材を受けてもらうでしょ？"
+            },
             "voice": "main_01/Main_01_08/Main_01_08_03/main_01_08_03_025.mp3"
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "するとライターさんが記事にして、編集部を通り……、\r\nデザイン事務所や印刷会社の諸々を経て……。",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "するとライターさんが記事にして、編集部を通り……、\r\nデザイン事務所や印刷会社の諸々を経て……。"
+            },
             "voice": "main_01/Main_01_08/Main_01_08_03/main_01_08_03_026.mp3"
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "あなたたちの新作アニメが放映されている頃に、\r\n特集ページが世に出る……。",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "あなたたちの新作アニメが放映されている頃に、\r\n特集ページが世に出る……。"
+            },
             "voice": "main_01/Main_01_08/Main_01_08_03/main_01_08_03_027.mp3"
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "ふむ……。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "ふむ……。"
+            },
             "voice": "main_01/Main_01_08/Main_01_08_03/main_01_08_03_028.mp3"
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "すると、世間の目は否が応でも我がAiRBLUEに釘付けってわけ。\r\nどう？　この計算？",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "すると、世間の目は否が応でも我がAiRBLUEに釘付けってわけ。\r\nどう？　この計算？"
+            },
             "voice": "main_01/Main_01_08/Main_01_08_03/main_01_08_03_029.mp3"
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "なるほど。\n素晴らしい皮算用。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "なるほど。\n素晴らしい皮算用。"
+            },
             "voice": "main_01/Main_01_08/Main_01_08_03/main_01_08_03_030.mp3"
         },
         {
@@ -276,8 +396,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "これはりおさん自ら編集部に持ち込んで進めてきた、肝いりの企画だからね。 \nぜひみんな協力してね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "これはりおさん自ら編集部に持ち込んで進めてきた、肝いりの企画だからね。 \nぜひみんな協力してね。"
+            },
             "voice": ""
         },
         {
@@ -285,8 +409,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "わかりました。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "わかりました。"
+            },
             "voice": "main_01/Main_01_08/Main_01_08_03/main_01_08_03_032.mp3"
         },
         {
@@ -294,8 +422,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "あいりなんかが、そんな大事な企画に出ちゃっていいのかな。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "あいりなんかが、そんな大事な企画に出ちゃっていいのかな。"
+            },
             "voice": "main_01/Main_01_08/Main_01_08_03/main_01_08_03_033.mp3"
         },
         {
@@ -303,8 +435,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "どうして？　例えば誰ならいいの？",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "どうして？　例えば誰ならいいの？"
+            },
             "voice": "main_01/Main_01_08/Main_01_08_03/main_01_08_03_034.mp3"
         },
         {
@@ -312,8 +448,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "例えば……、悠希ちゃんとか、陽菜さんとか……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "例えば……、悠希ちゃんとか、陽菜さんとか……。"
+            },
             "voice": "main_01/Main_01_08/Main_01_08_03/main_01_08_03_035.mp3"
         },
         {
@@ -321,8 +461,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "うん。美晴とか莉子とか、まほろでもいいと思う。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "うん。美晴とか莉子とか、まほろでもいいと思う。"
+            },
             "voice": "main_01/Main_01_08/Main_01_08_03/main_01_08_03_036.mp3"
         },
         {
@@ -330,8 +474,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "理由はさっきりおが話した通り。\r\nそれ以外にないわ。",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "理由はさっきりおが話した通り。\r\nそれ以外にないわ。"
+            },
             "voice": "main_01/Main_01_08/Main_01_08_03/main_01_08_03_037.mp3"
         },
         {
@@ -339,8 +487,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "年齢も立場も関係ない。\r\nAiRBLUEの同期と言う意味では皆同じよ。",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "年齢も立場も関係ない。\r\nAiRBLUEの同期と言う意味では皆同じよ。"
+            },
             "voice": "main_01/Main_01_08/Main_01_08_03/main_01_08_03_038.mp3"
         },
         {
@@ -348,8 +500,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "はい……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "はい……。"
+            },
             "voice": "main_01/Main_01_08/Main_01_08_03/main_01_08_03_039.mp3"
         },
         {
@@ -357,8 +513,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "というわけで、取材日が決まったらまた連絡するね。",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "というわけで、取材日が決まったらまた連絡するね。"
+            },
             "voice": "main_01/Main_01_08/Main_01_08_03/main_01_08_03_040.mp3"
         },
         {
@@ -366,8 +526,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "ライターさんに来てもらって、\r\nインタビュー形式で受け答えしてもらうからよろしく。",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "ライターさんに来てもらって、\r\nインタビュー形式で受け答えしてもらうからよろしく。"
+            },
             "voice": "main_01/Main_01_08/Main_01_08_03/main_01_08_03_041.mp3"
         },
         {
@@ -375,8 +539,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "はい、わかりました。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "はい、わかりました。"
+            },
             "voice": "main_01/Main_01_08/Main_01_08_03/main_01_08_03_042.mp3"
         },
         {
@@ -384,8 +552,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "あいりが取材……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "あいりが取材……。"
+            },
             "voice": "main_01/Main_01_08/Main_01_08_03/main_01_08_03_043.mp3"
         },
         {
@@ -393,8 +565,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "あ、りおさん、忘れてますよ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "あ、りおさん、忘れてますよ。"
+            },
             "voice": ""
         },
         {
@@ -402,8 +578,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "え？　忘れてる？　何を？",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "え？　忘れてる？　何を？"
+            },
             "voice": "main_01/Main_01_08/Main_01_08_03/main_01_08_03_045.mp3"
         },
         {
@@ -411,8 +591,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "インタビュー内容のレジュメです。\r\nさっき自分にプリントしといてって頼んだじゃないですか。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "インタビュー内容のレジュメです。\r\nさっき自分にプリントしといてって頼んだじゃないですか。"
+            },
             "voice": ""
         },
         {
@@ -420,8 +604,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "あ、そうだそうだ。忘れてた。\r\nてへぺろ☆",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "あ、そうだそうだ。忘れてた。\r\nてへぺろ☆"
+            },
             "voice": "main_01/Main_01_08/Main_01_08_03/main_01_08_03_047.mp3"
         },
         {
@@ -429,8 +617,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "社長の前で、てへぺろって……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "社長の前で、てへぺろって……。"
+            },
             "voice": ""
         },
         {
@@ -438,8 +630,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "さすがチーマネ。恐れを知らないな。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "さすがチーマネ。恐れを知らないな。"
+            },
             "voice": "main_01/Main_01_08/Main_01_08_03/main_01_08_03_049.mp3"
         },
         {
@@ -447,8 +643,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "我社は自由な社風だから。\r\nはい、これ。皆受け取って？",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "我社は自由な社風だから。\r\nはい、これ。皆受け取って？"
+            },
             "voice": "main_01/Main_01_08/Main_01_08_03/main_01_08_03_050.mp3"
         },
         {
@@ -456,8 +656,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "当日のインタビューをスムーズにするために、\r\nここに書いてある質問について、ちゃんと考えておいてね。",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "当日のインタビューをスムーズにするために、\r\nここに書いてある質問について、ちゃんと考えておいてね。"
+            },
             "voice": "main_01/Main_01_08/Main_01_08_03/main_01_08_03_051.mp3"
         },
         {
@@ -465,8 +669,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "……え？　これ……。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "……え？　これ……。"
+            },
             "voice": "main_01/Main_01_08/Main_01_08_03/main_01_08_03_052.mp3"
         },
         {
@@ -474,8 +682,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "ほう。これはなかなか……。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "ほう。これはなかなか……。"
+            },
             "voice": "main_01/Main_01_08/Main_01_08_03/main_01_08_03_053.mp3"
         },
         {
@@ -483,8 +695,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "へえ……。なるほどね。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "へえ……。なるほどね。"
+            },
             "voice": "main_01/Main_01_08/Main_01_08_03/main_01_08_03_054.mp3"
         },
         {
@@ -492,8 +708,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "これ、あいり、答えなきゃいけないんですか？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "これ、あいり、答えなきゃいけないんですか？"
+            },
             "voice": "main_01/Main_01_08/Main_01_08_03/main_01_08_03_055.mp3"
         }
     ]

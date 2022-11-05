@@ -6,8 +6,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "え？　その声って……。　",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "え？　その声って……。　"
+            },
             "voice": "event/Event_011/Event_011_09/event_011_09_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "お待たせ、柚葉！　",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "お待たせ、柚葉！　"
+            },
             "voice": "event/Event_011/Event_011_09/event_011_09_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "ユーキ！　",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "ユーキ！　"
+            },
             "voice": "event/Event_011/Event_011_09/event_011_09_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "ふぅー……、ジャスト1分前！\nヘリは動いてないし、なんとか間に合ったみたいね。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "ふぅー……、ジャスト1分前！\nヘリは動いてないし、なんとか間に合ったみたいね。"
+            },
             "voice": "event/Event_011/Event_011_09/event_011_09_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "チサも！　",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "チサも！　"
+            },
             "voice": "event/Event_011/Event_011_09/event_011_09_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "……あれ？　アイリは？　",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "……あれ？　アイリは？　"
+            },
             "voice": "event/Event_011/Event_011_09/event_011_09_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "あはは。全然のんきそうじゃない。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "あはは。全然のんきそうじゃない。"
+            },
             "voice": "event/Event_011/Event_011_09/event_011_09_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 0
             ],
-            "name": "王子",
-            "message": "Yuzuha. ％＃＞　☆◎＜□ ?\n（ユズハ。君の友達か？）",
+            "name": {
+                "default": "王子"
+            },
+            "message": {
+                "default": "Yuzuha. ％＃＞　☆◎＜□ ?\n（ユズハ。君の友達か？）"
+            },
             "voice": ""
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "あの子たち？　そうよ、友達よ。\nそれにチームメイトだし、あとライバルでもあるわ。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "あの子たち？　そうよ、友達よ。\nそれにチームメイトだし、あとライバルでもあるわ。"
+            },
             "voice": "event/Event_011/Event_011_09/event_011_09_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "ねえ、柚葉、この人がその、元婚約者の王子？　",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "ねえ、柚葉、この人がその、元婚約者の王子？　"
+            },
             "voice": "event/Event_011/Event_011_09/event_011_09_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "そうー！　婚約したつもりは全然ないんだけど。　",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "そうー！　婚約したつもりは全然ないんだけど。　"
+            },
             "voice": "event/Event_011/Event_011_09/event_011_09_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 0
             ],
-            "name": "王子",
-            "message": "HI. $▲◇〇＆！　△　▼◇●＊×　Yuzuha　☆◎＜□ !　\n（やぁ、こんにちは！ ユズハの友達にしては行儀が良くないね！）",
+            "name": {
+                "default": "王子"
+            },
+            "message": {
+                "default": "HI. $▲◇〇＆！　△　▼◇●＊×　Yuzuha　☆◎＜□ !　\n（やぁ、こんにちは！ ユズハの友達にしては行儀が良くないね！）"
+            },
             "voice": ""
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "そんなこと言っても、日本語で喋らないと、\nユーキたちには通じてないと思うわ。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "そんなこと言っても、日本語で喋らないと、\nユーキたちには通じてないと思うわ。"
+            },
             "voice": "event/Event_011/Event_011_09/event_011_09_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "……ん？　ねぇ、千紗。\nなんか喋ってるっぽいけど、あれって英語？",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "……ん？　ねぇ、千紗。\nなんか喋ってるっぽいけど、あれって英語？"
+            },
             "voice": "event/Event_011/Event_011_09/event_011_09_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "え？　英語じゃないと思うけど……。私がわかるわけないでしょ。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "え？　英語じゃないと思うけど……。私がわかるわけないでしょ。"
+            },
             "voice": "event/Event_011/Event_011_09/event_011_09_015.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "それを言ったら、あたしもなんだけどな……。　",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "それを言ったら、あたしもなんだけどな……。　"
+            },
             "voice": "event/Event_011/Event_011_09/event_011_09_016.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 0
             ],
-            "name": "王子",
-            "message": "＜☆◇◎……-＆▼+＄△□　 ◇＾◎＃.　\n（まったく……。少しは理解してもらいたいね。）",
+            "name": {
+                "default": "王子"
+            },
+            "message": {
+                "default": "＜☆◇◎……-＆▼+＄△□　 ◇＾◎＃.　\n（まったく……。少しは理解してもらいたいね。）"
+            },
             "voice": ""
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "あはは、ほらね。\nそんな顔したところで、通じないわよ。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "あはは、ほらね。\nそんな顔したところで、通じないわよ。"
+            },
             "voice": "event/Event_011/Event_011_09/event_011_09_018.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "ねぇ、柚葉―！\nこの人、なんて言ってるのー？",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "ねぇ、柚葉―！\nこの人、なんて言ってるのー？"
+            },
             "voice": "event/Event_011/Event_011_09/event_011_09_019.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "さぁ？　なんか変なこと言ってるわ。　 ",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "さぁ？　なんか変なこと言ってるわ。　 "
+            },
             "voice": "event/Event_011/Event_011_09/event_011_09_020.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "変なことって……。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "変なことって……。"
+            },
             "voice": "event/Event_011/Event_011_09/event_011_09_021.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "だって興味ないんだもの。　",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "だって興味ないんだもの。　"
+            },
             "voice": "event/Event_011/Event_011_09/event_011_09_022.mp3"
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "あはは。興味ないだって。　",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "あはは。興味ないだって。　"
+            },
             "voice": "event/Event_011/Event_011_09/event_011_09_023.mp3"
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "ねえ、ユーキ！\nどうしてここに来たの？",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "ねえ、ユーキ！\nどうしてここに来たの？"
+            },
             "voice": "event/Event_011/Event_011_09/event_011_09_024.mp3"
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "そんなの柚葉を連れ戻しに来たに決まってるじゃんか。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "そんなの柚葉を連れ戻しに来たに決まってるじゃんか。"
+            },
             "voice": "event/Event_011/Event_011_09/event_011_09_025.mp3"
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "そのためだけ？　",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "そのためだけ？　"
+            },
             "voice": "event/Event_011/Event_011_09/event_011_09_026.mp3"
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "あったり前でしょ！　",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "あったり前でしょ！　"
+            },
             "voice": "event/Event_011/Event_011_09/event_011_09_027.mp3"
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "あたしは、仲間の窮地には必ず駆けつけるよ！　",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "あたしは、仲間の窮地には必ず駆けつけるよ！　"
+            },
             "voice": "event/Event_011/Event_011_09/event_011_09_028.mp3"
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "あはは。やっぱりユーキたちは最高ね！　",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "あはは。やっぱりユーキたちは最高ね！　"
+            },
             "voice": "event/Event_011/Event_011_09/event_011_09_029.mp3"
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 0
             ],
-            "name": "王子",
-            "message": "★△！ ☆◎＜□×＞，,／▽＾×＞…….\n（ハハッ！　友達だとか、仲間だとか……。）",
+            "name": {
+                "default": "王子"
+            },
+            "message": {
+                "default": "★△！ ☆◎＜□×＞，,／▽＾×＞…….\n（ハハッ！　友達だとか、仲間だとか……。）"
+            },
             "voice": ""
         },
         {
@@ -276,8 +396,12 @@
             "heroineId": [
                 0
             ],
-            "name": "王子",
-            "message": "＆◎＜ 〇◇××％ ▲●◇＆！　\n（そんな恥ずかしいことよく言えるね！）",
+            "name": {
+                "default": "王子"
+            },
+            "message": {
+                "default": "＆◎＜ 〇◇××％ ▲●◇＆！　\n（そんな恥ずかしいことよく言えるね！）"
+            },
             "voice": ""
         },
         {
@@ -285,8 +409,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "だから、日本語以外で喋ったって通じないわ。　",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "だから、日本語以外で喋ったって通じないわ。　"
+            },
             "voice": "event/Event_011/Event_011_09/event_011_09_032.mp3"
         },
         {
@@ -294,8 +422,12 @@
             "heroineId": [
                 0
             ],
-            "name": "王子",
-            "message": "☆×　Yuzuha. 〇×　◇★＾％▼．　\n（じゃあ、ユズハ。君が訳してくれ。）",
+            "name": {
+                "default": "王子"
+            },
+            "message": {
+                "default": "☆×　Yuzuha. 〇×　◇★＾％▼．　\n（じゃあ、ユズハ。君が訳してくれ。）"
+            },
             "voice": ""
         },
         {
@@ -303,8 +435,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "え？　なんで？\n日本語がわかるなら、喋ればいいじゃない。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "え？　なんで？\n日本語がわかるなら、喋ればいいじゃない。"
+            },
             "voice": "event/Event_011/Event_011_09/event_011_09_034.mp3"
         },
         {
@@ -312,8 +448,12 @@
             "heroineId": [
                 0
             ],
-            "name": "王子",
-            "message": "▲＃▽ JAPANESE ×★ ?　 〇×　■★＾％▼ ？ 　\n（なんで、この僕が日本語を？　君が訳せばいいだろう？）",
+            "name": {
+                "default": "王子"
+            },
+            "message": {
+                "default": "▲＃▽ JAPANESE ×★ ?　 〇×　■★＾％▼ ？ 　\n（なんで、この僕が日本語を？　君が訳せばいいだろう？）"
+            },
             "voice": ""
         },
         {
@@ -321,8 +461,12 @@
             "heroineId": [
                 0
             ],
-            "name": "王子",
-            "message": "☆◎＜□×＞，／▽＾×＞．〇◇××％　▲●◇＆！　\n（友達とか、仲間とか、恥ずかしい、って！）",
+            "name": {
+                "default": "王子"
+            },
+            "message": {
+                "default": "☆◎＜□×＞，／▽＾×＞．〇◇××％　▲●◇＆！　\n（友達とか、仲間とか、恥ずかしい、って！）"
+            },
             "voice": ""
         },
         {
@@ -330,8 +474,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "そんな怒鳴らないでよ。\nまったく、安いプライドね……。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "そんな怒鳴らないでよ。\nまったく、安いプライドね……。"
+            },
             "voice": "event/Event_011/Event_011_09/event_011_09_037.mp3"
         },
         {
@@ -339,8 +487,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "ねー、ユーキー！\nこの人がねー！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "ねー、ユーキー！\nこの人がねー！"
+            },
             "voice": "event/Event_011/Event_011_09/event_011_09_038.mp3"
         },
         {
@@ -348,8 +500,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "何ー、柚葉ー？\nどうしたのー？ ",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "何ー、柚葉ー？\nどうしたのー？ "
+            },
             "voice": "event/Event_011/Event_011_09/event_011_09_039.mp3"
         },
         {
@@ -357,8 +513,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "なんか友達だとか、仲間だとか、\n恥ずかしい、ってー！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "なんか友達だとか、仲間だとか、\n恥ずかしい、ってー！"
+            },
             "voice": "event/Event_011/Event_011_09/event_011_09_040.mp3"
         },
         {
@@ -366,8 +526,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "な、なんだとー！　",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "な、なんだとー！　"
+            },
             "voice": "event/Event_011/Event_011_09/event_011_09_041.mp3"
         },
         {
@@ -375,8 +539,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "ちょ、ちょっと悠希。挑発には乗らな……。　",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "ちょ、ちょっと悠希。挑発には乗らな……。　"
+            },
             "voice": "event/Event_011/Event_011_09/event_011_09_042.mp3"
         },
         {
@@ -384,8 +552,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "それの何が悪い！　",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "それの何が悪い！　"
+            },
             "voice": "event/Event_011/Event_011_09/event_011_09_043.mp3"
         },
         {
@@ -393,8 +565,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "あたしたちは1人じゃ、生きていけないんだよ！\n助けられていつも生きていく！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "あたしたちは1人じゃ、生きていけないんだよ！\n助けられていつも生きていく！"
+            },
             "voice": "event/Event_011/Event_011_09/event_011_09_044.mp3"
         },
         {
@@ -402,8 +578,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "友達にいつも助けられてる。\n仲間にいつだって助けられてる。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "友達にいつも助けられてる。\n仲間にいつだって助けられてる。"
+            },
             "voice": "event/Event_011/Event_011_09/event_011_09_045.mp3"
         },
         {
@@ -411,8 +591,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "親父が言ってたよ！\nそれは決して、恥じゃないって！ ",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "親父が言ってたよ！\nそれは決して、恥じゃないって！ "
+            },
             "voice": "event/Event_011/Event_011_09/event_011_09_046.mp3"
         },
         {
@@ -420,8 +604,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "悠希……。　",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "悠希……。　"
+            },
             "voice": "event/Event_011/Event_011_09/event_011_09_047.mp3"
         },
         {
@@ -429,8 +617,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "あたしたちにとって、柚葉は大切な仲間だ、友達だ！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "あたしたちにとって、柚葉は大切な仲間だ、友達だ！"
+            },
             "voice": "event/Event_011/Event_011_09/event_011_09_048.mp3"
         },
         {
@@ -438,8 +630,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "そして、今、その仲間がピンチなんだ……。\n助けられてるから、助けるんだ！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "そして、今、その仲間がピンチなんだ……。\n助けられてるから、助けるんだ！"
+            },
             "voice": "event/Event_011/Event_011_09/event_011_09_049.mp3"
         },
         {
@@ -447,8 +643,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "だから、あたしがここにいる！　",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "だから、あたしがここにいる！　"
+            },
             "voice": "event/Event_011/Event_011_09/event_011_09_050.mp3"
         },
         {
@@ -456,8 +656,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "ふふっ。……ユーキ、さすがね。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "ふふっ。……ユーキ、さすがね。"
+            },
             "voice": "event/Event_011/Event_011_09/event_011_09_051.mp3"
         },
         {
@@ -465,8 +669,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "ほんと。こういう時は、頼もしいわ。　",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "ほんと。こういう時は、頼もしいわ。　"
+            },
             "voice": "event/Event_011/Event_011_09/event_011_09_052.mp3"
         },
         {
@@ -474,8 +682,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "それに、柚葉は今、自分のやりたいことが日本にあるんだ！　",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "それに、柚葉は今、自分のやりたいことが日本にあるんだ！　"
+            },
             "voice": "event/Event_011/Event_011_09/event_011_09_053.mp3"
         },
         {
@@ -483,8 +695,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "声優っていうやりたいことがある！\nそのために、本当に真剣にレッスンも仕事もやってる！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "声優っていうやりたいことがある！\nそのために、本当に真剣にレッスンも仕事もやってる！"
+            },
             "voice": "event/Event_011/Event_011_09/event_011_09_054.mp3"
         },
         {
@@ -492,8 +708,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "それを横から台無しにするような男に、\n柚葉を任せられるわけないでしょ！？",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "それを横から台無しにするような男に、\n柚葉を任せられるわけないでしょ！？"
+            },
             "voice": "event/Event_011/Event_011_09/event_011_09_055.mp3"
         },
         {
@@ -501,8 +721,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "あはは。本当、最高よ、ユーキ！　",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "あはは。本当、最高よ、ユーキ！　"
+            },
             "voice": "event/Event_011/Event_011_09/event_011_09_056.mp3"
         },
         {
@@ -510,8 +734,12 @@
             "heroineId": [
                 0
             ],
-            "name": "王子",
-            "message": "urm. ◎＞▼〇×．Yuzuha　◇★＾％▼．　\n（ふむ、とても感動的だ。ユズハ、訳してくれ。）",
+            "name": {
+                "default": "王子"
+            },
+            "message": {
+                "default": "urm. ◎＞▼〇×．Yuzuha　◇★＾％▼．　\n（ふむ、とても感動的だ。ユズハ、訳してくれ。）"
+            },
             "voice": ""
         },
         {
@@ -519,8 +747,12 @@
             "heroineId": [
                 0
             ],
-            "name": "王子",
-            "message": "◇×　◇★△＄+　◇〇　×＜　￥★☆◇▼．　\n（それなら君たちも一緒に、僕の夫人してあげよう、って。）",
+            "name": {
+                "default": "王子"
+            },
+            "message": {
+                "default": "◇×　◇★△＄+　◇〇　×＜　￥★☆◇▼．　\n（それなら君たちも一緒に、僕の夫人してあげよう、って。）"
+            },
             "voice": ""
         },
         {
@@ -528,8 +760,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "えー！　そんなことまで伝えなきゃいけないの？　",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "えー！　そんなことまで伝えなきゃいけないの？　"
+            },
             "voice": "event/Event_011/Event_011_09/event_011_09_059.mp3"
         },
         {
@@ -537,8 +773,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "ん？　今度は何かしら？",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "ん？　今度は何かしら？"
+            },
             "voice": "event/Event_011/Event_011_09/event_011_09_060.mp3"
         },
         {
@@ -546,8 +786,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "なんか、それなら一緒に夫人にしてあげてもいいってー！　",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "なんか、それなら一緒に夫人にしてあげてもいいってー！　"
+            },
             "voice": "event/Event_011/Event_011_09/event_011_09_061.mp3"
         },
         {
@@ -555,8 +799,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "は？　あんたみたいに健次郎様の足元にも及ばない人、\nこっちから願い下げなんだけどー！",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "は？　あんたみたいに健次郎様の足元にも及ばない人、\nこっちから願い下げなんだけどー！"
+            },
             "voice": "event/Event_011/Event_011_09/event_011_09_062.mp3"
         },
         {
@@ -564,8 +812,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "千紗、なかなか言うじゃん。　",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "千紗、なかなか言うじゃん。　"
+            },
             "voice": "event/Event_011/Event_011_09/event_011_09_063.mp3"
         },
         {
@@ -573,8 +825,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "ま、まぁね……。　",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "ま、まぁね……。　"
+            },
             "voice": "event/Event_011/Event_011_09/event_011_09_064.mp3"
         },
         {
@@ -582,8 +838,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "でも、悠希。まだ時間稼がないといけないわよ。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "でも、悠希。まだ時間稼がないといけないわよ。"
+            },
             "voice": "event/Event_011/Event_011_09/event_011_09_065.mp3"
         },
         {
@@ -591,8 +851,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "了解。……あと少し！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "了解。……あと少し！"
+            },
             "voice": "event/Event_011/Event_011_09/event_011_09_066.mp3"
         }
     ]

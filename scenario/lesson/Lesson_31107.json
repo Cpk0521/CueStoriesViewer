@@ -6,8 +6,12 @@
             "heroineId": [
                 0
             ],
-            "name": "警備員",
-            "message": "こら、ちょっと、待ちなさい！",
+            "name": {
+                "default": "警備員"
+            },
+            "message": {
+                "default": "こら、ちょっと、待ちなさい！"
+            },
             "voice": ""
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "ごめんなさい！　待ちません！",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "ごめんなさい！　待ちません！"
+            },
             "voice": "lesson/Lesson_31107/lesson_31107_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "（悠希ちゃんなら、きっとこうすると思うから。）",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "（悠希ちゃんなら、きっとこうすると思うから。）"
+            },
             "voice": "lesson/Lesson_31107/lesson_31107_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "はあ、はあ。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "はあ、はあ。"
+            },
             "voice": "lesson/Lesson_31107/lesson_31107_005.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 0
             ],
-            "name": "警備員",
-            "message": "こら、お嬢ちゃん。そんなに走ると危ないから、\n止まりなさい。ね？",
+            "name": {
+                "default": "警備員"
+            },
+            "message": {
+                "default": "こら、お嬢ちゃん。そんなに走ると危ないから、\n止まりなさい。ね？"
+            },
             "voice": ""
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "（だいぶ下りてきたけど、もう、これで大丈夫かな？\n悠希ちゃんたち、どうなったかな？）",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "（だいぶ下りてきたけど、もう、これで大丈夫かな？\n悠希ちゃんたち、どうなったかな？）"
+            },
             "voice": "lesson/Lesson_31107/lesson_31107_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "わ！　わわ！",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "わ！　わわ！"
+            },
             "voice": "lesson/Lesson_31107/lesson_31107_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 0
             ],
-            "name": "警備員",
-            "message": "あ、危ない！",
+            "name": {
+                "default": "警備員"
+            },
+            "message": {
+                "default": "あ、危ない！"
+            },
             "voice": ""
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "はぁ、はぁ……。良かった、転ばなくて……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "はぁ、はぁ……。良かった、転ばなくて……。"
+            },
             "voice": "lesson/Lesson_31107/lesson_31107_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 0
             ],
-            "name": "警備員",
-            "message": "もう、そろそろ追いかけっこは終わりでいいかな？\nお嬢ちゃん。ちょっとお話、聞かせてくれる？",
+            "name": {
+                "default": "警備員"
+            },
+            "message": {
+                "default": "もう、そろそろ追いかけっこは終わりでいいかな？\nお嬢ちゃん。ちょっとお話、聞かせてくれる？"
+            },
             "voice": ""
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "（うう……、まだだ……。悠希ちゃんと千紗ちゃん、\nまだ時間必要かも。）",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "（うう……、まだだ……。悠希ちゃんと千紗ちゃん、\nまだ時間必要かも。）"
+            },
             "voice": "lesson/Lesson_31107/lesson_31107_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "うん。\nもう少し……、もう少し……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "うん。\nもう少し……、もう少し……。"
+            },
             "voice": "lesson/Lesson_31107/lesson_31107_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 0
             ],
-            "name": "警備員",
-            "message": "こら、待ちなさい！　ね？\nお話聞かせてもらうだけだから！",
+            "name": {
+                "default": "警備員"
+            },
+            "message": {
+                "default": "こら、待ちなさい！　ね？\nお話聞かせてもらうだけだから！"
+            },
             "voice": ""
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "ごめんなさい！　待ちません！！",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "ごめんなさい！　待ちません！！"
+            },
             "voice": "lesson/Lesson_31107/lesson_31107_014.mp3"
         }
     ]

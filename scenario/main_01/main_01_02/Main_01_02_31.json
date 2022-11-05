@@ -6,8 +6,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "今朝、ゴミ出した時のことなんだけど……。\n悠希の部屋のゴミ袋から、これが……。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "今朝、ゴミ出した時のことなんだけど……。\n悠希の部屋のゴミ袋から、これが……。"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_31/main_01_02_31_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "あ、私のあげた、健康茶。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "あ、私のあげた、健康茶。"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_31/main_01_02_31_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "封も開けずに捨ててあって……。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "封も開けずに捨ててあって……。"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_31/main_01_02_31_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "千紗ちゃん！\n人のゴミ袋漁ったの！？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "千紗ちゃん！\n人のゴミ袋漁ったの！？"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_31/main_01_02_31_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "悪いと思ったよ。\nでも半透明の袋で、外から見えちゃったからついさ。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "悪いと思ったよ。\nでも半透明の袋で、外から見えちゃったからついさ。"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_31/main_01_02_31_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "私のあげたお茶……。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "私のあげたお茶……。"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_31/main_01_02_31_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "どうしたのかな、悠希。\nほんとにおかしくなったのかな。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "どうしたのかな、悠希。\nほんとにおかしくなったのかな。"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_31/main_01_02_31_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "ただ、疲れてるだけだよ。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "ただ、疲れてるだけだよ。"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_31/main_01_02_31_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "お茶……。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "お茶……。"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_31/main_01_02_31_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "柚葉、気持ちはわかる。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "柚葉、気持ちはわかる。"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_31/main_01_02_31_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "何かの間違いだよ。\n悠希ちゃんが、人の親切を、そんな風にすることない。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "何かの間違いだよ。\n悠希ちゃんが、人の親切を、そんな風にすることない。"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_31/main_01_02_31_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "真咲さんに相談してみようか？\nまずは、マネージャーかな？",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "真咲さんに相談してみようか？\nまずは、マネージャーかな？"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_31/main_01_02_31_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "待って。あいり達で解決しようよ。\nあいり達の問題なんだから。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "待って。あいり達で解決しようよ。\nあいり達の問題なんだから。"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_31/main_01_02_31_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "そうは言ってもあいり……。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "そうは言ってもあいり……。"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_31/main_01_02_31_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "これから悠希ちゃんの部屋に行こう。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "これから悠希ちゃんの部屋に行こう。"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_31/main_01_02_31_015.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "えっ、今？",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "えっ、今？"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_31/main_01_02_31_016.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "こんなこと長引かせちゃダメ。\nどんどんヒビが入っちゃう。行こう！",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "こんなこと長引かせちゃダメ。\nどんどんヒビが入っちゃう。行こう！"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_31/main_01_02_31_017.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "ちょっとあいり！",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "ちょっとあいり！"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_31/main_01_02_31_018.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "アイリ……、ユーキみたい。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "アイリ……、ユーキみたい。"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_31/main_01_02_31_019.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "えっ？\nあいりが？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "えっ？\nあいりが？"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_31/main_01_02_31_020.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "なんか似てきたね。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "なんか似てきたね。"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_31/main_01_02_31_021.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "……ほら、とにかく行こう。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "……ほら、とにかく行こう。"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_31/main_01_02_31_022.mp3"
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "悠希ちゃん、いる？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "悠希ちゃん、いる？"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_31/main_01_02_31_023.mp3"
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "……あれあれ？\nまたまた皆さまお揃いで、どうかした？",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "……あれあれ？\nまたまた皆さまお揃いで、どうかした？"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_31/main_01_02_31_024.mp3"
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "あのさ……。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "あのさ……。"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_31/main_01_02_31_025.mp3"
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "お茶捨てたでしょ。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "お茶捨てたでしょ。"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_31/main_01_02_31_026.mp3"
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "直球ね。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "直球ね。"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_31/main_01_02_31_027.mp3"
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "ああ、あれは……。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "ああ、あれは……。"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_31/main_01_02_31_028.mp3"
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "チベット産だから？　緑茶だったらよかったの？\n好みがあるなら最初に言って！！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "チベット産だから？　緑茶だったらよかったの？\n好みがあるなら最初に言って！！"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_31/main_01_02_31_029.mp3"
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "いや、そういう問題じゃ。\nごめん悠希。たまたま捨てられてるお茶みつけちゃってさ。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "いや、そういう問題じゃ。\nごめん悠希。たまたま捨てられてるお茶みつけちゃってさ。"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_31/main_01_02_31_030.mp3"
         },
         {
@@ -276,8 +396,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "……。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "……。"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_31/main_01_02_31_031.mp3"
         },
         {
@@ -285,8 +409,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "あいり達じゃダメかな。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "あいり達じゃダメかな。"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_31/main_01_02_31_032.mp3"
         },
         {
@@ -294,8 +422,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "力になりたいよ。だって悠希ちゃんは、\nあいり達のリーダーなんだから。力になりたいよ！",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "力になりたいよ。だって悠希ちゃんは、\nあいり達のリーダーなんだから。力になりたいよ！"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_31/main_01_02_31_033.mp3"
         },
         {
@@ -303,8 +435,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "あいり……。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "あいり……。"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_31/main_01_02_31_034.mp3"
         },
         {
@@ -312,8 +448,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "……疲れてたんだよね。イラっとして捨てたんでしょ？\nわかるよ、そういう時あるもん。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "……疲れてたんだよね。イラっとして捨てたんでしょ？\nわかるよ、そういう時あるもん。"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_31/main_01_02_31_035.mp3"
         },
         {
@@ -321,8 +461,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "違うんだよ。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "違うんだよ。"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_31/main_01_02_31_036.mp3"
         },
         {
@@ -330,8 +474,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "隠さないで話して。あいり達は力になれる。\n絶対なれるよ！",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "隠さないで話して。あいり達は力になれる。\n絶対なれるよ！"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_31/main_01_02_31_037.mp3"
         },
         {
@@ -339,8 +487,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "……嫉妬だよ。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "……嫉妬だよ。"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_31/main_01_02_31_038.mp3"
         },
         {
@@ -348,8 +500,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "……えっ？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "……えっ？"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_31/main_01_02_31_039.mp3"
         },
         {
@@ -357,8 +513,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "嫉妬だよ、単純に。みんなすごくうまくなってくから。\nあたしダメなんだよ。全然前に進めない。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "嫉妬だよ、単純に。みんなすごくうまくなってくから。\nあたしダメなんだよ。全然前に進めない。"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_31/main_01_02_31_040.mp3"
         },
         {
@@ -366,8 +526,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "そんなことないと思うけど。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "そんなことないと思うけど。"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_31/main_01_02_31_041.mp3"
         },
         {
@@ -375,8 +539,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "悔しくて、一晩寝ずに、自主練やったりして……。\nそれでレッスン場行っても……、ダメなんだ。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "悔しくて、一晩寝ずに、自主練やったりして……。\nそれでレッスン場行っても……、ダメなんだ。"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_31/main_01_02_31_042.mp3"
         },
         {
@@ -384,8 +552,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "徹夜してたんだ……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "徹夜してたんだ……。"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_31/main_01_02_31_043.mp3"
         },
         {
@@ -393,8 +565,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "みんなに、勝てるところが１つもない。\nそんな相手からお茶をもらっても……、惨めに思えて。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "みんなに、勝てるところが１つもない。\nそんな相手からお茶をもらっても……、惨めに思えて。"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_31/main_01_02_31_044.mp3"
         },
         {
@@ -402,8 +578,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "勝てるとか……、必要ないよ。あいり達はチームなんだから。\nみんなで一緒に成長していけばいいんだよ。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "勝てるとか……、必要ないよ。あいり達はチームなんだから。\nみんなで一緒に成長していけばいいんだよ。"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_31/main_01_02_31_045.mp3"
         },
         {
@@ -411,8 +591,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "チームでいられるのは、今だけだよ。\n結局は１人１人なんだし。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "チームでいられるのは、今だけだよ。\n結局は１人１人なんだし。"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_31/main_01_02_31_046.mp3"
         },
         {
@@ -420,8 +604,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "みんなだって本当は……。\n自分だけよければいいと思ってるんでしょ？",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "みんなだって本当は……。\n自分だけよければいいと思ってるんでしょ？"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_31/main_01_02_31_047.mp3"
         },
         {
@@ -429,8 +617,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "……どうしたの？\nそんなのわたし達の知ってる悠希ちゃんじゃない。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "……どうしたの？\nそんなのわたし達の知ってる悠希ちゃんじゃない。"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_31/main_01_02_31_048.mp3"
         },
         {
@@ -438,8 +630,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "それは言っちゃおしまいだよ悠希。\n取り消しなよ、今の言葉。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "それは言っちゃおしまいだよ悠希。\n取り消しなよ、今の言葉。"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_31/main_01_02_31_049.mp3"
         },
         {
@@ -447,8 +643,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "間違ったことは言ってない。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "間違ったことは言ってない。"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_31/main_01_02_31_050.mp3"
         },
         {
@@ -456,8 +656,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "……なら、……これ以上、話すことはないよ。\n……行こう、みんな。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "……なら、……これ以上、話すことはないよ。\n……行こう、みんな。"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_31/main_01_02_31_051.mp3"
         },
         {
@@ -465,8 +669,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "お茶……、まだあるから、欲しかったら言って。\nたくさんあるから、お茶……。だから、言ってね。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "お茶……、まだあるから、欲しかったら言って。\nたくさんあるから、お茶……。だから、言ってね。"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_31/main_01_02_31_052.mp3"
         },
         {
@@ -474,8 +682,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "やめなって柚葉。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "やめなって柚葉。"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_31/main_01_02_31_053.mp3"
         },
         {
@@ -483,8 +695,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "そのお茶、私がいただいてもいいかしら？",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "そのお茶、私がいただいてもいいかしら？"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_31/main_01_02_31_054.mp3"
         },
         {
@@ -492,8 +708,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "ま、真咲さん！？",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "ま、真咲さん！？"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_31/main_01_02_31_055.mp3"
         },
         {
@@ -501,8 +721,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "おはよう。\nお邪魔するわよ。",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "おはよう。\nお邪魔するわよ。"
+            },
             "voice": "main_01/Main_01_02/Main_01_02_31/main_01_02_31_056.mp3"
         }
     ]

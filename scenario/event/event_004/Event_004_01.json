@@ -6,8 +6,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "リーディングライブ？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "リーディングライブ？"
+            },
             "voice": "event/Event_004/Event_004_01/event_004_01_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "うん。近くの児童館で、クリスマス会を行うんだよね。\n皆にはその出し物として、童話を読んでほしいんだ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "うん。近くの児童館で、クリスマス会を行うんだよね。\n皆にはその出し物として、童話を読んでほしいんだ。"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "了解！　それじゃみんな、行くよ！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "了解！　それじゃみんな、行くよ！"
+            },
             "voice": "event/Event_004/Event_004_01/event_004_01_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "あー、えっと、実は今日じゃなくて……。\nクリスマス会は、クリスマスイブの前の日にやる予定なんだよ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "あー、えっと、実は今日じゃなくて……。\nクリスマス会は、クリスマスイブの前の日にやる予定なんだよ。"
+            },
             "voice": ""
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "私……、何か予定があった気がするわ。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "私……、何か予定があった気がするわ。"
+            },
             "voice": "event/Event_004/Event_004_01/event_004_01_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "これもお仕事のうちと思って……。\nだから……、お願い……！！",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "これもお仕事のうちと思って……。\nだから……、お願い……！！"
+            },
             "voice": ""
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "お仕事……、なんですか？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "お仕事……、なんですか？"
+            },
             "voice": "event/Event_004/Event_004_01/event_004_01_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "私、ボランティアでもやりたいな。\n子どもたちへの読み聞かせ。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "私、ボランティアでもやりたいな。\n子どもたちへの読み聞かせ。"
+            },
             "voice": "event/Event_004/Event_004_01/event_004_01_009.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "それで、何をやったら、いいんですか？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "それで、何をやったら、いいんですか？"
+            },
             "voice": "event/Event_004/Event_004_01/event_004_01_011.mp3"
         }
     ]

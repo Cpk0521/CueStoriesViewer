@@ -6,8 +6,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "皆、お疲れ様。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "皆、お疲れ様。"
+            },
             "voice": ""
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "はー。取材とかインタビューとか、\nこんなに連続で受けるものなんすか？",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "はー。取材とかインタビューとか、\nこんなに連続で受けるものなんすか？"
+            },
             "voice": "card/Card_03/Card_4030008_1/card_4030008_1_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "ごめんね。今日1日にまとめたから、\nどうしても多くなっちゃって……、申し訳ない。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "ごめんね。今日1日にまとめたから、\nどうしても多くなっちゃって……、申し訳ない。"
+            },
             "voice": ""
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "いえ。\nマネージャーさん、大丈夫ですよ。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "いえ。\nマネージャーさん、大丈夫ですよ。"
+            },
             "voice": "card/Card_03/Card_4030008_1/card_4030008_1_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "なんていうか…、とってもありがたいです。\nそれだけ注目されてるってことですから。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "なんていうか…、とってもありがたいです。\nそれだけ注目されてるってことですから。"
+            },
             "voice": "card/Card_03/Card_4030008_1/card_4030008_1_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "そうそう。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "そうそう。"
+            },
             "voice": "card/Card_03/Card_4030008_1/card_4030008_1_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "ねぇ、自分ちゃんと話せてた？\n言いたいことがあったのに、言葉が浮かばなくてさ……。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "ねぇ、自分ちゃんと話せてた？\n言いたいことがあったのに、言葉が浮かばなくてさ……。"
+            },
             "voice": "card/Card_03/Card_4030008_1/card_4030008_1_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "わたしも緊張した。\nじっくり話を聞いてくれるライターさんで、助かったよ。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "わたしも緊張した。\nじっくり話を聞いてくれるライターさんで、助かったよ。"
+            },
             "voice": "card/Card_03/Card_4030008_1/card_4030008_1_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "それじゃあ、次はアニメ雑誌のインタビューだよ。\n少し休憩して、30分後から開始予定。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "それじゃあ、次はアニメ雑誌のインタビューだよ。\n少し休憩して、30分後から開始予定。"
+            },
             "voice": ""
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "疲れてるとは思うけど、頑張って。\n次でラストだから。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "疲れてるとは思うけど、頑張って。\n次でラストだから。"
+            },
             "voice": ""
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "いやー、長かったなー。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "いやー、長かったなー。"
+            },
             "voice": "card/Card_03/Card_4030008_1/card_4030008_1_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "ラストもみんなで頑張ろう！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "ラストもみんなで頑張ろう！"
+            },
             "voice": "card/Card_03/Card_4030008_1/card_4030008_1_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "もうひと頑張り、だね。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "もうひと頑張り、だね。"
+            },
             "voice": "card/Card_03/Card_4030008_1/card_4030008_1_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "……。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "……。"
+            },
             "voice": "card/Card_03/Card_4030008_1/card_4030008_1_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "ん？　志穂、妙に静かじゃん。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "ん？　志穂、妙に静かじゃん。"
+            },
             "voice": "card/Card_03/Card_4030008_1/card_4030008_1_015.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "私は舞花と違って、いつだって静かだが？",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "私は舞花と違って、いつだって静かだが？"
+            },
             "voice": "card/Card_03/Card_4030008_1/card_4030008_1_016.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "また、そういうこと言う。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "また、そういうこと言う。"
+            },
             "voice": "card/Card_03/Card_4030008_1/card_4030008_1_017.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "志穂ちゃん、何してるの？",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "志穂ちゃん、何してるの？"
+            },
             "voice": "card/Card_03/Card_4030008_1/card_4030008_1_018.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "見ての通り。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "見ての通り。"
+            },
             "voice": "card/Card_03/Card_4030008_1/card_4030008_1_019.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "疲れるとメンタルがブレるからな。\n人間だもの。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "疲れるとメンタルがブレるからな。\n人間だもの。"
+            },
             "voice": "card/Card_03/Card_4030008_1/card_4030008_1_020.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "そんな時は、絵でも描いてると心が落ち着く。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "そんな時は、絵でも描いてると心が落ち着く。"
+            },
             "voice": "card/Card_03/Card_4030008_1/card_4030008_1_021.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "それ、わかるよ。\nわたしも筋トレすると、落ち着くから。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "それ、わかるよ。\nわたしも筋トレすると、落ち着くから。"
+            },
             "voice": "card/Card_03/Card_4030008_1/card_4030008_1_022.mp3"
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "舞花も、何かそういうのないの？　",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "舞花も、何かそういうのないの？　"
+            },
             "voice": "card/Card_03/Card_4030008_1/card_4030008_1_023.mp3"
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "えー……？\n自分、なんだろうな……。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "えー……？\n自分、なんだろうな……。"
+            },
             "voice": "card/Card_03/Card_4030008_1/card_4030008_1_024.mp3"
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "ね、志穂ちゃん。何描いてるの？　",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "ね、志穂ちゃん。何描いてるの？　"
+            },
             "voice": "card/Card_03/Card_4030008_1/card_4030008_1_025.mp3"
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "陽菜。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "陽菜。"
+            },
             "voice": "card/Card_03/Card_4030008_1/card_4030008_1_026.mp3"
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "え？　わたし？",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "え？　わたし？"
+            },
             "voice": "card/Card_03/Card_4030008_1/card_4030008_1_027.mp3"
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "ほのかも。舞花も。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "ほのかも。舞花も。"
+            },
             "voice": "card/Card_03/Card_4030008_1/card_4030008_1_028.mp3"
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "わたしたちを描いてくれてるの？",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "わたしたちを描いてくれてるの？"
+            },
             "voice": "card/Card_03/Card_4030008_1/card_4030008_1_029.mp3"
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "他に描くものがないからな。\nしょうがない。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "他に描くものがないからな。\nしょうがない。"
+            },
             "voice": "card/Card_03/Card_4030008_1/card_4030008_1_030.mp3"
         },
         {
@@ -276,8 +396,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "言い方！",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "言い方！"
+            },
             "voice": "card/Card_03/Card_4030008_1/card_4030008_1_031.mp3"
         },
         {
@@ -285,8 +409,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "ね、見せて見せて。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "ね、見せて見せて。"
+            },
             "voice": "card/Card_03/Card_4030008_1/card_4030008_1_032.mp3"
         },
         {
@@ -294,8 +422,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "ん。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "ん。"
+            },
             "voice": "card/Card_03/Card_4030008_1/card_4030008_1_033.mp3"
         },
         {
@@ -303,8 +435,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "わぁ……！\nこれ、わたしたち？　かわいい！",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "わぁ……！\nこれ、わたしたち？　かわいい！"
+            },
             "voice": "card/Card_03/Card_4030008_1/card_4030008_1_034.mp3"
         },
         {
@@ -312,8 +448,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "絵の中でわたしたちが着てる服……、\n志穂ちゃんが考えたの？",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "絵の中でわたしたちが着てる服……、\n志穂ちゃんが考えたの？"
+            },
             "voice": "card/Card_03/Card_4030008_1/card_4030008_1_035.mp3"
         },
         {
@@ -321,8 +461,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "ん？　まぁ、落書きみたいなもんだ。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "ん？　まぁ、落書きみたいなもんだ。"
+            },
             "voice": "card/Card_03/Card_4030008_1/card_4030008_1_036.mp3"
         },
         {
@@ -330,8 +474,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "ちょっと、みんなも見て。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "ちょっと、みんなも見て。"
+            },
             "voice": "card/Card_03/Card_4030008_1/card_4030008_1_037.mp3"
         },
         {
@@ -339,8 +487,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "どれどれ？\n……へぇ、すごいじゃん。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "どれどれ？\n……へぇ、すごいじゃん。"
+            },
             "voice": "card/Card_03/Card_4030008_1/card_4030008_1_038.mp3"
         },
         {
@@ -348,8 +500,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "志穂、やっぱり上手いね！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "志穂、やっぱり上手いね！"
+            },
             "voice": "card/Card_03/Card_4030008_1/card_4030008_1_039.mp3"
         },
         {
@@ -357,8 +513,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "まぁ、それほどではあるがな。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "まぁ、それほどではあるがな。"
+            },
             "voice": "card/Card_03/Card_4030008_1/card_4030008_1_040.mp3"
         },
         {
@@ -366,8 +526,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "志穂ちゃんの絵、いいなぁ……。\n何かに使えないかな？",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "志穂ちゃんの絵、いいなぁ……。\n何かに使えないかな？"
+            },
             "voice": "card/Card_03/Card_4030008_1/card_4030008_1_041.mp3"
         },
         {
@@ -375,8 +539,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "何かってなんだ？",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "何かってなんだ？"
+            },
             "voice": "card/Card_03/Card_4030008_1/card_4030008_1_042.mp3"
         },
         {
@@ -384,8 +552,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "うーん……。グッズ、とか？",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "うーん……。グッズ、とか？"
+            },
             "voice": "card/Card_03/Card_4030008_1/card_4030008_1_043.mp3"
         },
         {
@@ -393,8 +565,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "バカを言うな。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "バカを言うな。"
+            },
             "voice": "card/Card_03/Card_4030008_1/card_4030008_1_044.mp3"
         },
         {
@@ -402,8 +578,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "そうかなぁ？",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "そうかなぁ？"
+            },
             "voice": "card/Card_03/Card_4030008_1/card_4030008_1_045.mp3"
         },
         {
@@ -411,8 +591,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "はい。じゃあそろそろ次のライターさんに入ってもらうから。\n皆、よろしくね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "はい。じゃあそろそろ次のライターさんに入ってもらうから。\n皆、よろしくね。"
+            },
             "voice": ""
         },
         {
@@ -420,8 +604,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "はい、わかりました。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "はい、わかりました。"
+            },
             "voice": "card/Card_03/Card_4030008_1/card_4030008_1_047.mp3"
         },
         {
@@ -429,8 +617,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "かしこまりー。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "かしこまりー。"
+            },
             "voice": "card/Card_03/Card_4030008_1/card_4030008_1_048.mp3"
         },
         {
@@ -438,8 +630,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "ほーら舞花！　始まるよー！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "ほーら舞花！　始まるよー！"
+            },
             "voice": "card/Card_03/Card_4030008_1/card_4030008_1_049.mp3"
         },
         {
@@ -447,8 +643,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "わかってるってー。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "わかってるってー。"
+            },
             "voice": "card/Card_03/Card_4030008_1/card_4030008_1_050.mp3"
         }
     ]

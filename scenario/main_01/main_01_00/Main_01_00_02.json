@@ -6,8 +6,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "ああ～、今日もいい天気だな～。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "ああ～、今日もいい天気だな～。"
+            },
             "voice": ""
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "んっ？\n道の真ん中で人が座り込んでる。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "んっ？\n道の真ん中で人が座り込んでる。"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "大丈夫……、ですか？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "大丈夫……、ですか？"
+            },
             "voice": ""
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "はい、大丈夫です……。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "はい、大丈夫です……。"
+            },
             "voice": "main_01/Main_01_00/Main_01_00_02/main_01_00_02_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "どこか、具合悪いとか……？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "どこか、具合悪いとか……？"
+            },
             "voice": ""
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "いえ、走ってたら転んじゃって……。\nあっ、急がないと……。すみません、失礼します……、痛ッ！",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "いえ、走ってたら転んじゃって……。\nあっ、急がないと……。すみません、失礼します……、痛ッ！"
+            },
             "voice": "main_01/Main_01_00/Main_01_00_02/main_01_00_02_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "どうかしたの……？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "どうかしたの……？"
+            },
             "voice": ""
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "足を挫いちゃったみたいです……。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "足を挫いちゃったみたいです……。"
+            },
             "voice": "main_01/Main_01_00/Main_01_00_02/main_01_00_02_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "病院行った方がいいんじゃない？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "病院行った方がいいんじゃない？"
+            },
             "voice": ""
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "たぶん、病院に行くほどじゃないと思います。\nそれに、仕事に遅刻しそうだから急がないと。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "たぶん、病院に行くほどじゃないと思います。\nそれに、仕事に遅刻しそうだから急がないと。"
+            },
             "voice": "main_01/Main_01_00/Main_01_00_02/main_01_00_02_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "じゃ、タクシー停めようか？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "じゃ、タクシー停めようか？"
+            },
             "voice": ""
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "ご親切にありがとうございます。\nでも、すぐそこですから、歩いて行きます。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "ご親切にありがとうございます。\nでも、すぐそこですから、歩いて行きます。"
+            },
             "voice": "main_01/Main_01_00/Main_01_00_02/main_01_00_02_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "でもその足じゃ、歩けないでしょ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "でもその足じゃ、歩けないでしょ。"
+            },
             "voice": ""
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "あの……。\nお願いがあるんですが……。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "あの……。\nお願いがあるんですが……。"
+            },
             "voice": "main_01/Main_01_00/Main_01_00_02/main_01_00_02_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "お願い？\n何だろ？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "お願い？\n何だろ？"
+            },
             "voice": ""
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "あっ、やっぱりいいです！",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "あっ、やっぱりいいです！"
+            },
             "voice": "main_01/Main_01_00/Main_01_00_02/main_01_00_02_016.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "言って。\n出来ることなら、力になるよ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "言って。\n出来ることなら、力になるよ。"
+            },
             "voice": ""
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "これ……。\n持ってもらえませんか？",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "これ……。\n持ってもらえませんか？"
+            },
             "voice": "main_01/Main_01_00/Main_01_00_02/main_01_00_02_018.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "ああ、荷物？\nお安いご用だよ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "ああ、荷物？\nお安いご用だよ。"
+            },
             "voice": ""
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "すみません！　\n初めてお会いした方に、図々しいですよね。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "すみません！　\n初めてお会いした方に、図々しいですよね。"
+            },
             "voice": "main_01/Main_01_00/Main_01_00_02/main_01_00_02_020.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "いいよ。持つから貸して。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "いいよ。持つから貸して。"
+            },
             "voice": ""
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "いいんですか……？",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "いいんですか……？"
+            },
             "voice": "main_01/Main_01_00/Main_01_00_02/main_01_00_02_022.mp3"
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "急いでるんでしょ？\n早く行こう。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "急いでるんでしょ？\n早く行こう。"
+            },
             "voice": ""
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "はい！\nありがとうございます！",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "はい！\nありがとうございます！"
+            },
             "voice": "main_01/Main_01_00/Main_01_00_02/main_01_00_02_024.mp3"
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "着きました。ここです。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "着きました。ここです。"
+            },
             "voice": "main_01/Main_01_00/Main_01_00_02/main_01_00_02_027.mp3"
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "ここが、わたしが所属してる事務所。\n「エールブルー」です。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "ここが、わたしが所属してる事務所。\n「エールブルー」です。"
+            },
             "voice": "main_01/Main_01_00/Main_01_00_02/main_01_00_02_029.mp3"
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "事務所って……。\n君、芸能人なの？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "事務所って……。\n君、芸能人なの？"
+            },
             "voice": ""
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "まぁ、芸能人ていうか……。\nまだタマゴですけど。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "まぁ、芸能人ていうか……。\nまだタマゴですけど。"
+            },
             "voice": "main_01/Main_01_00/Main_01_00_02/main_01_00_02_031.mp3"
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "タマゴって、女優のタマゴとか？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "タマゴって、女優のタマゴとか？"
+            },
             "voice": ""
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "いえ、わたしが演じるのは、声だけです。\nわたし、声優のタマゴなんです。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "いえ、わたしが演じるのは、声だけです。\nわたし、声優のタマゴなんです。"
+            },
             "voice": "main_01/Main_01_00/Main_01_00_02/main_01_00_02_033.mp3"
         },
         {
@@ -276,8 +396,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "声優……？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "声優……？"
+            },
             "voice": ""
         },
         {
@@ -285,8 +409,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "六石陽菜です。\nよろしくお願いします。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "六石陽菜です。\nよろしくお願いします。"
+            },
             "voice": "main_01/Main_01_00/Main_01_00_02/main_01_00_02_035.mp3"
         },
         {
@@ -294,8 +422,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "はじめまして。\n「エールブルー」の社長、鳳真咲です。",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "はじめまして。\n「エールブルー」の社長、鳳真咲です。"
+            },
             "voice": "main_01/Main_01_00/Main_01_00_02/main_01_00_02_037.mp3"
         },
         {
@@ -303,8 +435,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "あ、どうも……。はじめまして……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "あ、どうも……。はじめまして……。"
+            },
             "voice": ""
         },
         {
@@ -312,8 +448,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "（キレイな人だけど、怖そうだな……。）",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "（キレイな人だけど、怖そうだな……。）"
+            },
             "voice": ""
         },
         {
@@ -321,8 +461,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "聞いたわよ。\nあなたが陽菜を助けてくれたのね。",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "聞いたわよ。\nあなたが陽菜を助けてくれたのね。"
+            },
             "voice": "main_01/Main_01_00/Main_01_00_02/main_01_00_02_040.mp3"
         },
         {
@@ -330,8 +474,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "たまたま通りかかったら、座り込んでいたのが目に入って……。\nつい声をかけてしまいました……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "たまたま通りかかったら、座り込んでいたのが目に入って……。\nつい声をかけてしまいました……。"
+            },
             "voice": ""
         },
         {
@@ -339,8 +487,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "助かったわ。\nどうもありがとう。",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "助かったわ。\nどうもありがとう。"
+            },
             "voice": "main_01/Main_01_00/Main_01_00_02/main_01_00_02_042.mp3"
         },
         {
@@ -348,8 +500,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "じゃ、これで失礼します。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "じゃ、これで失礼します。"
+            },
             "voice": ""
         },
         {
@@ -357,8 +513,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "待ってよ。\nせめてコーヒーくらい飲んで行って。",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "待ってよ。\nせめてコーヒーくらい飲んで行って。"
+            },
             "voice": "main_01/Main_01_00/Main_01_00_02/main_01_00_02_044.mp3"
         },
         {
@@ -366,8 +526,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "いえ、そんなお気遣いなく……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "いえ、そんなお気遣いなく……。"
+            },
             "voice": ""
         },
         {
@@ -375,8 +539,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "あ、電話だわ。ちょっとごめんなさい。\nコーヒーそこにあるから、自分で入れてね。",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "あ、電話だわ。ちょっとごめんなさい。\nコーヒーそこにあるから、自分で入れてね。"
+            },
             "voice": "main_01/Main_01_00/Main_01_00_02/main_01_00_02_047.mp3"
         },
         {
@@ -384,8 +552,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "えっ、自分で……？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "えっ、自分で……？"
+            },
             "voice": ""
         },
         {
@@ -393,8 +565,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "小さな事務所だから、人手が足りないの。",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "小さな事務所だから、人手が足りないの。"
+            },
             "voice": "main_01/Main_01_00/Main_01_00_02/main_01_00_02_049.mp3"
         },
         {
@@ -402,8 +578,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "はい、お待たせしました。\nエールブルーです。",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "はい、お待たせしました。\nエールブルーです。"
+            },
             "voice": "main_01/Main_01_00/Main_01_00_02/main_01_00_02_050.mp3"
         },
         {
@@ -411,8 +591,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "ま、いっか……。\nえっと、コーヒー……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "ま、いっか……。\nえっと、コーヒー……。"
+            },
             "voice": ""
         },
         {
@@ -420,8 +604,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "では詳細が決まりましたら、またご連絡します。\n失礼します。",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "では詳細が決まりましたら、またご連絡します。\n失礼します。"
+            },
             "voice": "main_01/Main_01_00/Main_01_00_02/main_01_00_02_053.mp3"
         },
         {
@@ -429,8 +617,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "あっ、コーヒーどうぞ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "あっ、コーヒーどうぞ。"
+            },
             "voice": ""
         },
         {
@@ -438,8 +630,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "あら、私の分も入れてくれたの？",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "あら、私の分も入れてくれたの？"
+            },
             "voice": "main_01/Main_01_00/Main_01_00_02/main_01_00_02_055.mp3"
         },
         {
@@ -447,8 +643,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "1人で飲むのはどうかと思って。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "1人で飲むのはどうかと思って。"
+            },
             "voice": ""
         },
         {
@@ -456,8 +656,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "あなた……。\nなかなか気が利くじゃない。",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "あなた……。\nなかなか気が利くじゃない。"
+            },
             "voice": "main_01/Main_01_00/Main_01_00_02/main_01_00_02_057.mp3"
         },
         {
@@ -465,8 +669,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "あぁ、また……、悪いけど、\nこの書類コピーしてきてくれない？",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "あぁ、また……、悪いけど、\nこの書類コピーしてきてくれない？"
+            },
             "voice": "main_01/Main_01_00/Main_01_00_02/main_01_00_02_059.mp3"
         },
         {
@@ -474,8 +682,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "えっ？\nコピーですか？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "えっ？\nコピーですか？"
+            },
             "voice": ""
         },
         {
@@ -483,8 +695,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "そう。\n10部ぐらいでいいわ。",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "そう。\n10部ぐらいでいいわ。"
+            },
             "voice": "main_01/Main_01_00/Main_01_00_02/main_01_00_02_061.mp3"
         },
         {
@@ -492,8 +708,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "はい、もしもし。\nエールブルーです。",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "はい、もしもし。\nエールブルーです。"
+            },
             "voice": "main_01/Main_01_00/Main_01_00_02/main_01_00_02_062.mp3"
         },
         {
@@ -501,8 +721,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "（小さな事務所って言ってたけど、忙しそうだな……。）",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "（小さな事務所って言ってたけど、忙しそうだな……。）"
+            },
             "voice": ""
         },
         {
@@ -510,8 +734,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "何してるんですか……？",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "何してるんですか……？"
+            },
             "voice": "main_01/Main_01_00/Main_01_00_02/main_01_00_02_066.mp3"
         },
         {
@@ -519,8 +747,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "あ、ちょっと書類をコピーしに来たんだ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "あ、ちょっと書類をコピーしに来たんだ。"
+            },
             "voice": ""
         },
         {
@@ -528,8 +760,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "コピー？\nどうして？",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "コピー？\nどうして？"
+            },
             "voice": "main_01/Main_01_00/Main_01_00_02/main_01_00_02_068.mp3"
         },
         {
@@ -537,8 +773,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そんなことより、足はもう大丈夫？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そんなことより、足はもう大丈夫？"
+            },
             "voice": ""
         },
         {
@@ -546,8 +786,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "はい。\n手当てしてもらったので、もう大丈夫です。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "はい。\n手当てしてもらったので、もう大丈夫です。"
+            },
             "voice": "main_01/Main_01_00/Main_01_00_02/main_01_00_02_070.mp3"
         },
         {
@@ -555,8 +799,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そっか。\nそれは良かった。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そっか。\nそれは良かった。"
+            },
             "voice": ""
         },
         {
@@ -564,8 +812,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "陽菜！　道で転んだんだって？\n相変わらず、ドジだな。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "陽菜！　道で転んだんだって？\n相変わらず、ドジだな。"
+            },
             "voice": "main_01/Main_01_00/Main_01_00_02/main_01_00_02_072.mp3"
         },
         {
@@ -573,8 +825,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "舞花ちゃん……。\nドジなのは分かってるんだから、言わないでよ。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "舞花ちゃん……。\nドジなのは分かってるんだから、言わないでよ。"
+            },
             "voice": "main_01/Main_01_00/Main_01_00_02/main_01_00_02_073.mp3"
         },
         {
@@ -582,8 +838,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "この人、誰？\n新しいマネージャー？",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "この人、誰？\n新しいマネージャー？"
+            },
             "voice": "main_01/Main_01_00/Main_01_00_02/main_01_00_02_074.mp3"
         },
         {
@@ -591,8 +851,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "ううん。\nわたしを助けてくれた、親切な人。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "ううん。\nわたしを助けてくれた、親切な人。"
+            },
             "voice": "main_01/Main_01_00/Main_01_00_02/main_01_00_02_075.mp3"
         },
         {
@@ -600,8 +864,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "は、はじめまして……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "は、はじめまして……。"
+            },
             "voice": ""
         },
         {
@@ -609,8 +877,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "彼女もわたしと同じ、声優のタマゴなんです。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "彼女もわたしと同じ、声優のタマゴなんです。"
+            },
             "voice": "main_01/Main_01_00/Main_01_00_02/main_01_00_02_077.mp3"
         },
         {
@@ -618,8 +890,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "どうも！\n鷹取舞花っす！",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "どうも！\n鷹取舞花っす！"
+            },
             "voice": "main_01/Main_01_00/Main_01_00_02/main_01_00_02_078.mp3"
         },
         {
@@ -627,8 +903,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "（元気な子だな……。）",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "（元気な子だな……。）"
+            },
             "voice": ""
         }
     ]

@@ -6,8 +6,12 @@
             "heroineId": [
                 0
             ],
-            "name": "教師",
-            "message": "はい。では、今日の授業はここまで。",
+            "name": {
+                "default": "教師"
+            },
+            "message": {
+                "default": "はい。では、今日の授業はここまで。"
+            },
             "voice": ""
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "柚葉ちゃんいるかな……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "柚葉ちゃんいるかな……。"
+            },
             "voice": "lesson/Lesson_31607/lesson_31607_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "あ、いた。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "あ、いた。"
+            },
             "voice": "lesson/Lesson_31607/lesson_31607_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "あら、アイリ！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "あら、アイリ！"
+            },
             "voice": "lesson/Lesson_31607/lesson_31607_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "柚葉ちゃーん、一緒に帰ろう？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "柚葉ちゃーん、一緒に帰ろう？"
+            },
             "voice": "lesson/Lesson_31607/lesson_31607_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "Oh、アイリ……。\n私、今日はこのあと、自分のお店に顔出さなきゃなの。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "Oh、アイリ……。\n私、今日はこのあと、自分のお店に顔出さなきゃなの。"
+            },
             "voice": "lesson/Lesson_31607/lesson_31607_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "そうなの？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "そうなの？"
+            },
             "voice": "lesson/Lesson_31607/lesson_31607_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "ごめんなさい、アイリ。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "ごめんなさい、アイリ。"
+            },
             "voice": "lesson/Lesson_31607/lesson_31607_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "ううん。\nそれならしょうがないもん。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "ううん。\nそれならしょうがないもん。"
+            },
             "voice": "lesson/Lesson_31607/lesson_31607_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "わかった。\nあいり、先に行ってるね。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "わかった。\nあいり、先に行ってるね。"
+            },
             "voice": "lesson/Lesson_31607/lesson_31607_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "OK！　私も終わったらすぐレッスン行くわ。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "OK！　私も終わったらすぐレッスン行くわ。"
+            },
             "voice": "lesson/Lesson_31607/lesson_31607_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "うん。またあとでね！",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "うん。またあとでね！"
+            },
             "voice": "lesson/Lesson_31607/lesson_31607_012.mp3"
         }
     ]

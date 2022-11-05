@@ -6,8 +6,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "マネージャーさん、お疲れ様です。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "マネージャーさん、お疲れ様です。"
+            },
             "voice": "audition/story_01/heroine_12/HM_Cast_01_12_09_01/hm_cast_01_12_09_01_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "お疲れ様。\n……あ、美晴も貰ったんだね、そのチラシ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "お疲れ様。\n……あ、美晴も貰ったんだね、そのチラシ。"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "はい。\n事務所に来る途中でいただきました。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "はい。\n事務所に来る途中でいただきました。"
+            },
             "voice": "audition/story_01/heroine_12/HM_Cast_01_12_09_01/hm_cast_01_12_09_01_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "ピアノのコンサート、素敵ですよね。\nしかも、アニメの曲をやるみたいで。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "ピアノのコンサート、素敵ですよね。\nしかも、アニメの曲をやるみたいで。"
+            },
             "voice": "audition/story_01/heroine_12/HM_Cast_01_12_09_01/hm_cast_01_12_09_01_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "うふふ、とっても楽しそう。\nこの日って確か……。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "うふふ、とっても楽しそう。\nこの日って確か……。"
+            },
             "voice": "audition/story_01/heroine_12/HM_Cast_01_12_09_01/hm_cast_01_12_09_01_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "マネージャーさん。\nわたし、この日は特に予定ありませんでしたよね？",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "マネージャーさん。\nわたし、この日は特に予定ありませんでしたよね？"
+            },
             "voice": "audition/story_01/heroine_12/HM_Cast_01_12_09_01/hm_cast_01_12_09_01_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "えーっと、ちょっと待ってね。\n……うん、美晴はオフだよ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "えーっと、ちょっと待ってね。\n……うん、美晴はオフだよ。"
+            },
             "voice": ""
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "うふふ、やっぱり。良かった。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "うふふ、やっぱり。良かった。"
+            },
             "voice": "audition/story_01/heroine_12/HM_Cast_01_12_09_01/hm_cast_01_12_09_01_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "会場も近いし、誰かを誘って行ってみようかしら。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "会場も近いし、誰かを誘って行ってみようかしら。"
+            },
             "voice": "audition/story_01/heroine_12/HM_Cast_01_12_09_01/hm_cast_01_12_09_01_009.mp3"
         }
     ]

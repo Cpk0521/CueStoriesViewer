@@ -6,8 +6,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "お疲れ様。\n今日まほろ、早く帰るから。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "お疲れ様。\n今日まほろ、早く帰るから。"
+            },
             "voice": "audition/story_01/heroine_11/HM_Sub_01_11_04/hm_sub_01_11_04_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "あれ、急ぎ？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "あれ、急ぎ？"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "うん。時間指定してピザの宅配頼んだの。\nなんか急に食べたくなっちゃって。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "うん。時間指定してピザの宅配頼んだの。\nなんか急に食べたくなっちゃって。"
+            },
             "voice": "audition/story_01/heroine_11/HM_Sub_01_11_04/hm_sub_01_11_04_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "そういうのない？\n一度、頭に浮かんだら、ずっと離れないっていうか。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "そういうのない？\n一度、頭に浮かんだら、ずっと離れないっていうか。"
+            },
             "voice": "audition/story_01/heroine_11/HM_Sub_01_11_04/hm_sub_01_11_04_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "あー、話したら余計にお腹減ってきた。\nじゃあね、マネージャー。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "あー、話したら余計にお腹減ってきた。\nじゃあね、マネージャー。"
+            },
             "voice": "audition/story_01/heroine_11/HM_Sub_01_11_04/hm_sub_01_11_04_005.mp3"
         }
     ]

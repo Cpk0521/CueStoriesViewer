@@ -6,8 +6,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "ハロー、マネージャー。\n特大おいなりさん、おいしかったわ。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "ハロー、マネージャー。\n特大おいなりさん、おいしかったわ。"
+            },
             "voice": "audition/story_01/heroine_05/HM_Cast_01_05_08_04/hm_cast_01_05_08_04_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "柚葉、お疲れ様。\n自分はほんの少し手伝っただけで、全部悠希がやったことだよ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "柚葉、お疲れ様。\n自分はほんの少し手伝っただけで、全部悠希がやったことだよ。"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "そうなの？\nユーキはマネージャーとの力作って言ってたのに。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "そうなの？\nユーキはマネージャーとの力作って言ってたのに。"
+            },
             "voice": "audition/story_01/heroine_05/HM_Cast_01_05_08_04/hm_cast_01_05_08_04_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "ふふっ、知ってるわ。\nこういうの、ユズリアイって言うんでしょ？",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "ふふっ、知ってるわ。\nこういうの、ユズリアイって言うんでしょ？"
+            },
             "voice": "audition/story_01/heroine_05/HM_Cast_01_05_08_04/hm_cast_01_05_08_04_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そんなことはないんだけど……。\n柚葉も、色々と気づかってくれてありがとね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そんなことはないんだけど……。\n柚葉も、色々と気づかってくれてありがとね。"
+            },
             "voice": ""
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "え？　どういうこと？",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "え？　どういうこと？"
+            },
             "voice": "audition/story_01/heroine_05/HM_Cast_01_05_08_04/hm_cast_01_05_08_04_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "この前の差し入れとか、悠希の件とか。\n気をつかってくれてたんでしょ？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "この前の差し入れとか、悠希の件とか。\n気をつかってくれてたんでしょ？"
+            },
             "voice": ""
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "あ！　あれはパパの会社で扱う予定の、商品サンプルよ。\n使った印象とか、聞きたかったの！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "あ！　あれはパパの会社で扱う予定の、商品サンプルよ。\n使った印象とか、聞きたかったの！"
+            },
             "voice": "audition/story_01/heroine_05/HM_Cast_01_05_08_04/hm_cast_01_05_08_04_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そう、だったんだ。\nでも本当に助かったよ、ありがとう。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そう、だったんだ。\nでも本当に助かったよ、ありがとう。"
+            },
             "voice": ""
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "ふふっ、メルシー！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "ふふっ、メルシー！"
+            },
             "voice": "audition/story_01/heroine_05/HM_Cast_01_05_08_04/hm_cast_01_05_08_04_010.mp3"
         }
     ]

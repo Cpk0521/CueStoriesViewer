@@ -6,8 +6,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "聡里、お疲れ様。\nこの一週間、どうだった？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "聡里、お疲れ様。\nこの一週間、どうだった？"
+            },
             "voice": ""
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "特に問題ありませんね。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "特に問題ありませんね。"
+            },
             "voice": "audition/story_01/heroine_14/HM_Main_01_14_02/hm_main_01_14_02_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "それは良かった。一次審査は来週だね。\n困ったこととかは無い？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "それは良かった。一次審査は来週だね。\n困ったこととかは無い？"
+            },
             "voice": ""
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "大丈夫です。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "大丈夫です。"
+            },
             "voice": "audition/story_01/heroine_14/HM_Main_01_14_02/hm_main_01_14_02_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そう。\nあ、来週のスケジュール、あとで送っておくね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そう。\nあ、来週のスケジュール、あとで送っておくね。"
+            },
             "voice": ""
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "わかりました。\nよろしくお願いします。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "わかりました。\nよろしくお願いします。"
+            },
             "voice": "audition/story_01/heroine_14/HM_Main_01_14_02/hm_main_01_14_02_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "では、自主練に戻りますね。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "では、自主練に戻りますね。"
+            },
             "voice": "audition/story_01/heroine_14/HM_Main_01_14_02/hm_main_01_14_02_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "あ、聡里……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "あ、聡里……。"
+            },
             "voice": ""
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "まだ何か？",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "まだ何か？"
+            },
             "voice": "audition/story_01/heroine_14/HM_Main_01_14_02/hm_main_01_14_02_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "え？　特に何も……あ、そうだ。\n今日の料理当番、変わってもらえませんか？",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "え？　特に何も……あ、そうだ。\n今日の料理当番、変わってもらえませんか？"
+            },
             "voice": "audition/story_01/heroine_14/HM_Main_01_14_02/hm_main_01_14_02_011.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "……なんて、冗談ですよ。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "……なんて、冗談ですよ。"
+            },
             "voice": "audition/story_01/heroine_14/HM_Main_01_14_02/hm_main_01_14_02_012.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "保護者みたいなことを言いますね。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "保護者みたいなことを言いますね。"
+            },
             "voice": "audition/story_01/heroine_14/HM_Main_01_14_02/hm_main_01_14_02_014.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "でも、安心してください。\n適度に休息はとってますから。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "でも、安心してください。\n適度に休息はとってますから。"
+            },
             "voice": "audition/story_01/heroine_14/HM_Main_01_14_02/hm_main_01_14_02_015.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "マネージャーさん……。\nそんなに気を遣わなくてもいいですよ。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "マネージャーさん……。\nそんなに気を遣わなくてもいいですよ。"
+            },
             "voice": "audition/story_01/heroine_14/HM_Main_01_14_02/hm_main_01_14_02_017.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "いざという時はちゃんと助けてもらいますから。\nその時はしっかりお願いしますね。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "いざという時はちゃんと助けてもらいますから。\nその時はしっかりお願いしますね。"
+            },
             "voice": "audition/story_01/heroine_14/HM_Main_01_14_02/hm_main_01_14_02_018.mp3"
         }
     ]

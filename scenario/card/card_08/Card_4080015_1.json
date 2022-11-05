@@ -6,8 +6,12 @@
             "heroineId": [
                 0
             ],
-            "name": "もんじゃ焼き屋の店員",
-            "message": "はい。もんじゃ焼き4つ、おまたせしました。\nこちらが餅入り、こちらが切りイカ入り、こちらが明太子……。",
+            "name": {
+                "default": "もんじゃ焼き屋の店員"
+            },
+            "message": {
+                "default": "はい。もんじゃ焼き4つ、おまたせしました。\nこちらが餅入り、こちらが切りイカ入り、こちらが明太子……。"
+            },
             "voice": ""
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "もんじゃ焼き屋の店員",
-            "message": "そしてこちらが……、\n明太餅チーズラーメンスナック入りです。",
+            "name": {
+                "default": "もんじゃ焼き屋の店員"
+            },
+            "message": {
+                "default": "そしてこちらが……、\n明太餅チーズラーメンスナック入りです。"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "お！　来た来た！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "お！　来た来た！"
+            },
             "voice": "card/Card_08/Card_4080015_1/card_4080015_1_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "へえ、これがもんじゃ焼き……。\nねえ、ユーキ、これどうやって焼くの？　混ぜればいい？",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "へえ、これがもんじゃ焼き……。\nねえ、ユーキ、これどうやって焼くの？　混ぜればいい？"
+            },
             "voice": "card/Card_08/Card_4080015_1/card_4080015_1_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "あ、焼くのはあたしに任せて。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "あ、焼くのはあたしに任せて。"
+            },
             "voice": "card/Card_08/Card_4080015_1/card_4080015_1_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "そうなの？\nあいりも手伝うよ？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "そうなの？\nあいりも手伝うよ？"
+            },
             "voice": "card/Card_08/Card_4080015_1/card_4080015_1_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "いや、もんじゃ焼きってのは遊びじゃないからさ。\nプロのあたしに任せてくれる？",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "いや、もんじゃ焼きってのは遊びじゃないからさ。\nプロのあたしに任せてくれる？"
+            },
             "voice": "card/Card_08/Card_4080015_1/card_4080015_1_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "ワオ！　さすがユーキね！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "ワオ！　さすがユーキね！"
+            },
             "voice": "card/Card_08/Card_4080015_1/card_4080015_1_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "あー、あんたもんじゃ奉行のタイプなのね……。\nわかりやすいわ……。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "あー、あんたもんじゃ奉行のタイプなのね……。\nわかりやすいわ……。"
+            },
             "voice": "card/Card_08/Card_4080015_1/card_4080015_1_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "ブギョー？　聞いたことある単語ね……。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "ブギョー？　聞いたことある単語ね……。"
+            },
             "voice": "card/Card_08/Card_4080015_1/card_4080015_1_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "あいり、ちょっとそこのウスターソース取ってくれる？",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "あいり、ちょっとそこのウスターソース取ってくれる？"
+            },
             "voice": "card/Card_08/Card_4080015_1/card_4080015_1_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "ソース……、ソース……、これかな？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "ソース……、ソース……、これかな？"
+            },
             "voice": "card/Card_08/Card_4080015_1/card_4080015_1_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "ありがと。\n最初にちょっと入れとくとおいしいんだよね。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "ありがと。\n最初にちょっと入れとくとおいしいんだよね。"
+            },
             "voice": "card/Card_08/Card_4080015_1/card_4080015_1_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "そうなんだ。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "そうなんだ。"
+            },
             "voice": "card/Card_08/Card_4080015_1/card_4080015_1_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "ふふっ。私もんじゃ焼き初めてなの。\n楽しみ！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "ふふっ。私もんじゃ焼き初めてなの。\n楽しみ！"
+            },
             "voice": "card/Card_08/Card_4080015_1/card_4080015_1_015.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "まあ、確かにあんたはこういう、下町の庶民の食べ物とか、\nあまり似合わないし、縁がなさそうよね。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "まあ、確かにあんたはこういう、下町の庶民の食べ物とか、\nあまり似合わないし、縁がなさそうよね。"
+            },
             "voice": "card/Card_08/Card_4080015_1/card_4080015_1_016.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "あら、そんなことないわよ？",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "あら、そんなことないわよ？"
+            },
             "voice": "card/Card_08/Card_4080015_1/card_4080015_1_017.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "今のトーキョーはエド時代があったからこそだし、\nエドのcultureはチョーニンのcultureでしょ？",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "今のトーキョーはエド時代があったからこそだし、\nエドのcultureはチョーニンのcultureでしょ？"
+            },
             "voice": "card/Card_08/Card_4080015_1/card_4080015_1_018.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "へえ、よく知ってるじゃない。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "へえ、よく知ってるじゃない。"
+            },
             "voice": "card/Card_08/Card_4080015_1/card_4080015_1_019.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "ふふーん。でしょ？",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "ふふーん。でしょ？"
+            },
             "voice": "card/Card_08/Card_4080015_1/card_4080015_1_020.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "あ、あいり知ってるよ。そうやって土手を作るんでしょ？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "あ、あいり知ってるよ。そうやって土手を作るんでしょ？"
+            },
             "voice": "card/Card_08/Card_4080015_1/card_4080015_1_021.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "そうそう。天童流は土手を作る時にキャベツを刻みすぎないこと。\nこれ超重要だから覚えといて。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "そうそう。天童流は土手を作る時にキャベツを刻みすぎないこと。\nこれ超重要だから覚えといて。"
+            },
             "voice": "card/Card_08/Card_4080015_1/card_4080015_1_022.mp3"
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "うん、わかった。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "うん、わかった。"
+            },
             "voice": "card/Card_08/Card_4080015_1/card_4080015_1_023.mp3"
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "柚葉、子どもの頃は日本には来たことなかったの？",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "柚葉、子どもの頃は日本には来たことなかったの？"
+            },
             "voice": "card/Card_08/Card_4080015_1/card_4080015_1_024.mp3"
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "来たことはあるけど……。\nでも、パパのお仕事についてきただけ。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "来たことはあるけど……。\nでも、パパのお仕事についてきただけ。"
+            },
             "voice": "card/Card_08/Card_4080015_1/card_4080015_1_025.mp3"
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "数日……、長くて1週間くらい。\nパパがお仕事の間、ホテルの部屋の中で退屈にしてただけだもの。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "数日……、長くて1週間くらい。\nパパがお仕事の間、ホテルの部屋の中で退屈にしてただけだもの。"
+            },
             "voice": "card/Card_08/Card_4080015_1/card_4080015_1_026.mp3"
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "なるほどね。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "なるほどね。"
+            },
             "voice": "card/Card_08/Card_4080015_1/card_4080015_1_027.mp3"
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "だから日本のこと、たくさん勉強したわ。\nエド時代、最高ね。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "だから日本のこと、たくさん勉強したわ。\nエド時代、最高ね。"
+            },
             "voice": "card/Card_08/Card_4080015_1/card_4080015_1_028.mp3"
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "1番好きな将軍はやっぱりトクガワヨシムネ！\nアバレンボーの8代目なんでしょ？",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "1番好きな将軍はやっぱりトクガワヨシムネ！\nアバレンボーの8代目なんでしょ？"
+            },
             "voice": "card/Card_08/Card_4080015_1/card_4080015_1_029.mp3"
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "あとはヒツケトウゾクアラタメでしょ……。\ncoin throwerのヘージでしょ……。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "あとはヒツケトウゾクアラタメでしょ……。\ncoin throwerのヘージでしょ……。"
+            },
             "voice": "card/Card_08/Card_4080015_1/card_4080015_1_030.mp3"
         },
         {
@@ -276,8 +396,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "あ、ブギョー！　そう、ブギョーよ！\nキタマチブギョーのオーオカ！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "あ、ブギョー！　そう、ブギョーよ！\nキタマチブギョーのオーオカ！"
+            },
             "voice": "card/Card_08/Card_4080015_1/card_4080015_1_031.mp3"
         },
         {
@@ -285,8 +409,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "知識が全部時代劇なのね……。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "知識が全部時代劇なのね……。"
+            },
             "voice": "card/Card_08/Card_4080015_1/card_4080015_1_032.mp3"
         },
         {
@@ -294,8 +422,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "ふふーん。どう？",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "ふふーん。どう？"
+            },
             "voice": "card/Card_08/Card_4080015_1/card_4080015_1_033.mp3"
         },
         {
@@ -303,8 +435,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "そうね。\n結構たくさん時代劇を見たってのはわかったわ。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "そうね。\n結構たくさん時代劇を見たってのはわかったわ。"
+            },
             "voice": "card/Card_08/Card_4080015_1/card_4080015_1_034.mp3"
         },
         {
@@ -312,8 +448,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "うん。そろそろいいね。\nあいり、そこのチーズ全部入れちゃって。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "うん。そろそろいいね。\nあいり、そこのチーズ全部入れちゃって。"
+            },
             "voice": "card/Card_08/Card_4080015_1/card_4080015_1_035.mp3"
         },
         {
@@ -321,8 +461,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "わかった！",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "わかった！"
+            },
             "voice": "card/Card_08/Card_4080015_1/card_4080015_1_036.mp3"
         },
         {
@@ -330,8 +474,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "はい、千紗、柚葉、無駄話してないで！\nもう端っこの方から食べられるよ！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "はい、千紗、柚葉、無駄話してないで！\nもう端っこの方から食べられるよ！"
+            },
             "voice": "card/Card_08/Card_4080015_1/card_4080015_1_037.mp3"
         },
         {
@@ -339,8 +487,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "無駄話って何よ。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "無駄話って何よ。"
+            },
             "voice": "card/Card_08/Card_4080015_1/card_4080015_1_038.mp3"
         },
         {
@@ -348,8 +500,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "わー、これがもんじゃ焼き……。\nんー、いい匂い！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "わー、これがもんじゃ焼き……。\nんー、いい匂い！"
+            },
             "voice": "card/Card_08/Card_4080015_1/card_4080015_1_039.mp3"
         },
         {
@@ -357,8 +513,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "それじゃ、いっただーきまーす！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "それじゃ、いっただーきまーす！"
+            },
             "voice": "card/Card_08/Card_4080015_1/card_4080015_1_040.mp3"
         },
         {
@@ -368,8 +528,12 @@
                 8,
                 6
             ],
-            "name": "3人",
-            "message": "いただきまーす！",
+            "name": {
+                "default": "3人"
+            },
+            "message": {
+                "default": "いただきまーす！"
+            },
             "voice": "card/Card_08/Card_4080015_1/card_4080015_1_041.mp3"
         }
     ]

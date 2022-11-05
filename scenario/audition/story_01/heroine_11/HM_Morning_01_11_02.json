@@ -6,8 +6,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "あ、おはよ、マネージャー。\nちょうどよかった。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "あ、おはよ、マネージャー。\nちょうどよかった。"
+            },
             "voice": "audition/story_01/heroine_11/HM_Morning_01_11_02/hm_morning_01_11_02_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "事務所、一緒に行くよ。\nちょっと屋上で本読みたいの。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "事務所、一緒に行くよ。\nちょっと屋上で本読みたいの。"
+            },
             "voice": "audition/story_01/heroine_11/HM_Morning_01_11_02/hm_morning_01_11_02_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "あそこで読むと色々と捗るんだよね。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "あそこで読むと色々と捗るんだよね。"
+            },
             "voice": "audition/story_01/heroine_11/HM_Morning_01_11_02/hm_morning_01_11_02_003.mp3"
         }
     ]

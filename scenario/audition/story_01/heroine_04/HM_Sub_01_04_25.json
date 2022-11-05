@@ -6,8 +6,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "お疲れ様です、マネージャー！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "お疲れ様です、マネージャー！"
+            },
             "voice": "audition/story_01/heroine_04/HM_Sub_01_04_25/hm_sub_01_04_25_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "聞いてください！\nランニングのタイム、自己ベスト更新したんです！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "聞いてください！\nランニングのタイム、自己ベスト更新したんです！"
+            },
             "voice": "audition/story_01/heroine_04/HM_Sub_01_04_25/hm_sub_01_04_25_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "もう、すっごくすっごく嬉しくって！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "もう、すっごくすっごく嬉しくって！"
+            },
             "voice": "audition/story_01/heroine_04/HM_Sub_01_04_25/hm_sub_01_04_25_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "えへへ、だから、マネージャーにも報告したかったんですよ！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "えへへ、だから、マネージャーにも報告したかったんですよ！"
+            },
             "voice": "audition/story_01/heroine_04/HM_Sub_01_04_25/hm_sub_01_04_25_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "ふふ、これも日頃のトレーニングの成果です！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "ふふ、これも日頃のトレーニングの成果です！"
+            },
             "voice": "audition/story_01/heroine_04/HM_Sub_01_04_25/hm_sub_01_04_25_005.mp3"
         }
     ]

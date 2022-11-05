@@ -6,8 +6,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "あ、マネージャーさん。\nおはようございまーす！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "あ、マネージャーさん。\nおはようございまーす！"
+            },
             "voice": "audition/story_01/heroine_15/HM_Morning_01_15_01/hm_morning_01_15_01_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "昨日、テレビで歌のお姉さんが、\nすごく可愛い曲を歌ってて。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "昨日、テレビで歌のお姉さんが、\nすごく可愛い曲を歌ってて。"
+            },
             "voice": "audition/story_01/heroine_15/HM_Morning_01_15_01/hm_morning_01_15_01_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "えへへ、見てたらわたしも、\n歌いたくなっちゃいました。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "えへへ、見てたらわたしも、\n歌いたくなっちゃいました。"
+            },
             "voice": "audition/story_01/heroine_15/HM_Morning_01_15_01/hm_morning_01_15_01_003.mp3"
         }
     ]

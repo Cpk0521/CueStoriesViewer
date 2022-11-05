@@ -6,8 +6,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "レッスンお疲れ様、凛音。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "レッスンお疲れ様、凛音。"
+            },
             "voice": ""
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "はいっ！　お疲れ様です！\n今日もいっぱい汗かきました！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "はいっ！　お疲れ様です！\n今日もいっぱい汗かきました！"
+            },
             "voice": "audition/story_01/heroine_15/HM_Main_01_15_02/hm_main_01_15_02_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "調子良さそうだったね。\nすごく楽しそうだった。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "調子良さそうだったね。\nすごく楽しそうだった。"
+            },
             "voice": ""
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "はい！　すっごく楽しいです。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "はい！　すっごく楽しいです。"
+            },
             "voice": "audition/story_01/heroine_15/HM_Main_01_15_02/hm_main_01_15_02_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "うん。凛音の様子を見てると安心するよ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "うん。凛音の様子を見てると安心するよ。"
+            },
             "voice": ""
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "えへへ。\nわたし、みんなにも笑顔になってもらいたいんです！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "えへへ。\nわたし、みんなにも笑顔になってもらいたいんです！"
+            },
             "voice": "audition/story_01/heroine_15/HM_Main_01_15_02/hm_main_01_15_02_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "もちろんテレビの前のみんなも、\n聞いてるスタッフのみなさんや、監督さんにも！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "もちろんテレビの前のみんなも、\n聞いてるスタッフのみなさんや、監督さんにも！"
+            },
             "voice": "audition/story_01/heroine_15/HM_Main_01_15_02/hm_main_01_15_02_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "オーディションの時でも、\n聞いてて楽しいな〜って、思ってもらいたいんです！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "オーディションの時でも、\n聞いてて楽しいな〜って、思ってもらいたいんです！"
+            },
             "voice": "audition/story_01/heroine_15/HM_Main_01_15_02/hm_main_01_15_02_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "うん、いい心がけだね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "うん、いい心がけだね。"
+            },
             "voice": ""
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "でも、みんなを楽しく出来るのかな？　って、\n思っちゃう時もあって。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "でも、みんなを楽しく出来るのかな？　って、\n思っちゃう時もあって。"
+            },
             "voice": "audition/story_01/heroine_15/HM_Main_01_15_02/hm_main_01_15_02_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "……緊張するって事？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "……緊張するって事？"
+            },
             "voice": ""
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "うーん……どうなんでしょう。\nわかんないです！　あはは。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "うーん……どうなんでしょう。\nわかんないです！　あはは。"
+            },
             "voice": "audition/story_01/heroine_15/HM_Main_01_15_02/hm_main_01_15_02_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "相談かあ……。なるほど！\nさとちん、まだ残ってるかなあ？　おーい！　さとちーん！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "相談かあ……。なるほど！\nさとちん、まだ残ってるかなあ？　おーい！　さとちーん！"
+            },
             "voice": "audition/story_01/heroine_15/HM_Main_01_15_02/hm_main_01_15_02_014.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "なるほど～！\n音楽を聴けば楽しくなりますもんね！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "なるほど～！\n音楽を聴けば楽しくなりますもんね！"
+            },
             "voice": "audition/story_01/heroine_15/HM_Main_01_15_02/hm_main_01_15_02_016.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "想像……むむむ。\n……なんか、いけそうな気がしてきました！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "想像……むむむ。\n……なんか、いけそうな気がしてきました！"
+            },
             "voice": "audition/story_01/heroine_15/HM_Main_01_15_02/hm_main_01_15_02_018.mp3"
         }
     ]

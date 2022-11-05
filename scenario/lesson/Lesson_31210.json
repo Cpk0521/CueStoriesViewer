@@ -6,8 +6,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "あー、帰ってきちゃったー。\nもうちょっと休みを満喫したかったなー。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "あー、帰ってきちゃったー。\nもうちょっと休みを満喫したかったなー。"
+            },
             "voice": "lesson/Lesson_31210/lesson_31210_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "しかも、帰ってきた瞬間、ジャーマネからの電話。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "しかも、帰ってきた瞬間、ジャーマネからの電話。"
+            },
             "voice": "lesson/Lesson_31210/lesson_31210_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "ものすごいタイミングだったね。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "ものすごいタイミングだったね。"
+            },
             "voice": "lesson/Lesson_31210/lesson_31210_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "ほんとだよ。\nあっという間に現実に戻された。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "ほんとだよ。\nあっという間に現実に戻された。"
+            },
             "voice": "lesson/Lesson_31210/lesson_31210_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "でも、それがマネージャーさんのお仕事だし……。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "でも、それがマネージャーさんのお仕事だし……。"
+            },
             "voice": "lesson/Lesson_31210/lesson_31210_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "ジャーマネが担当を放置してたら、それはそれで問題だろ。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "ジャーマネが担当を放置してたら、それはそれで問題だろ。"
+            },
             "voice": "lesson/Lesson_31210/lesson_31210_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "そうだけどさ……。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "そうだけどさ……。"
+            },
             "voice": "lesson/Lesson_31210/lesson_31210_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "まあ、いい休みになったね。\n色々と食べたり、歩き回ったり……。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "まあ、いい休みになったね。\n色々と食べたり、歩き回ったり……。"
+            },
             "voice": "lesson/Lesson_31210/lesson_31210_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "たくさん夏の思い出が出来たね。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "たくさん夏の思い出が出来たね。"
+            },
             "voice": "lesson/Lesson_31210/lesson_31210_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "それはそうだね。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "それはそうだね。"
+            },
             "voice": "lesson/Lesson_31210/lesson_31210_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "うん！\nだから、明日からも、また頑張っていこう！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "うん！\nだから、明日からも、また頑張っていこう！"
+            },
             "voice": "lesson/Lesson_31210/lesson_31210_011.mp3"
         }
     ]

@@ -6,8 +6,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "昨日、莉子のバイクの後ろに乗せてもらったんですけど。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "昨日、莉子のバイクの後ろに乗せてもらったんですけど。"
+            },
             "voice": "audition/story_01/heroine_10/HM_Sub_01_10_24/hm_sub_01_10_24_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "ちょっと寒かったですけど、\n考え事とかもすっと冷めていって。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "ちょっと寒かったですけど、\n考え事とかもすっと冷めていって。"
+            },
             "voice": "audition/story_01/heroine_10/HM_Sub_01_10_24/hm_sub_01_10_24_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "車の後ろとは違った、\n不思議な感覚でした。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "車の後ろとは違った、\n不思議な感覚でした。"
+            },
             "voice": "audition/story_01/heroine_10/HM_Sub_01_10_24/hm_sub_01_10_24_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "暖かくなったら、\n海にも連れて行ってくれるって。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "暖かくなったら、\n海にも連れて行ってくれるって。"
+            },
             "voice": "audition/story_01/heroine_10/HM_Sub_01_10_24/hm_sub_01_10_24_004.mp3"
         }
     ]

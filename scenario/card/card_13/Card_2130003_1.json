@@ -6,8 +6,12 @@
             "heroineId": [
                 103
             ],
-            "name": "由良桐香",
-            "message": "今日のレッスンは、エチュードをしてもらいます。",
+            "name": {
+                "default": "由良桐香"
+            },
+            "message": {
+                "default": "今日のレッスンは、エチュードをしてもらいます。"
+            },
             "voice": "card/Card_13/Card_2130003_1/card_2130003_1_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "（エチュードって、つまり即興芝居のことだな……。）",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "（エチュードって、つまり即興芝居のことだな……。）"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 103
             ],
-            "name": "由良桐香",
-            "message": "声優にとってアドリブ力は大切。\nそれに、表現の幅を広げるのに役立ちます。",
+            "name": {
+                "default": "由良桐香"
+            },
+            "message": {
+                "default": "声優にとってアドリブ力は大切。\nそれに、表現の幅を広げるのに役立ちます。"
+            },
             "voice": "card/Card_13/Card_2130003_1/card_2130003_1_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "で、エチュードの設定は？",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "で、エチュードの設定は？"
+            },
             "voice": "card/Card_13/Card_2130003_1/card_2130003_1_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 103
             ],
-            "name": "由良桐香",
-            "message": "実際にやりながら説明しましょう。\nまずは、丸山さんと明神さん、来てください。",
+            "name": {
+                "default": "由良桐香"
+            },
+            "message": {
+                "default": "実際にやりながら説明しましょう。\nまずは、丸山さんと明神さん、来てください。"
+            },
             "voice": "card/Card_13/Card_2130003_1/card_2130003_1_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "御意。\n我輩にお任せを。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "御意。\n我輩にお任せを。"
+            },
             "voice": "card/Card_13/Card_2130003_1/card_2130003_1_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "何をやるんだろう～？\nわくわく！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "何をやるんだろう～？\nわくわく！"
+            },
             "voice": "card/Card_13/Card_2130003_1/card_2130003_1_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 103
             ],
-            "name": "由良桐香",
-            "message": "ここは山奥。目の前に細い吊り橋がかかっています。\nその両側に、あなた達2人がいると思ってください。",
+            "name": {
+                "default": "由良桐香"
+            },
+            "message": {
+                "default": "ここは山奥。目の前に細い吊り橋がかかっています。\nその両側に、あなた達2人がいると思ってください。"
+            },
             "voice": "card/Card_13/Card_2130003_1/card_2130003_1_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "ふむ。\nそれぞれ、反対側にいるということだな。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "ふむ。\nそれぞれ、反対側にいるということだな。"
+            },
             "voice": "card/Card_13/Card_2130003_1/card_2130003_1_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 103
             ],
-            "name": "由良桐香",
-            "message": "2人はそれぞれ、吊り橋を渡って反対側に行こうとして、\n真ん中でぶつかります。",
+            "name": {
+                "default": "由良桐香"
+            },
+            "message": {
+                "default": "2人はそれぞれ、吊り橋を渡って反対側に行こうとして、\n真ん中でぶつかります。"
+            },
             "voice": "card/Card_13/Card_2130003_1/card_2130003_1_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 103
             ],
-            "name": "由良桐香",
-            "message": "吊り橋にすれ違うスペースはありません。",
+            "name": {
+                "default": "由良桐香"
+            },
+            "message": {
+                "default": "吊り橋にすれ違うスペースはありません。"
+            },
             "voice": "card/Card_13/Card_2130003_1/card_2130003_1_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "つまり――。\n反対側に行くには、相手を後退させる必要があるね。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "つまり――。\n反対側に行くには、相手を後退させる必要があるね。"
+            },
             "voice": "card/Card_13/Card_2130003_1/card_2130003_1_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "あるいは、相手を谷底に突き落とす……。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "あるいは、相手を谷底に突き落とす……。"
+            },
             "voice": "card/Card_13/Card_2130003_1/card_2130003_1_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "そんなこと、わたしにはできません！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "そんなこと、わたしにはできません！"
+            },
             "voice": "card/Card_13/Card_2130003_1/card_2130003_1_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 103
             ],
-            "name": "由良桐香",
-            "message": "そんな怖いことしません。",
+            "name": {
+                "default": "由良桐香"
+            },
+            "message": {
+                "default": "そんな怖いことしません。"
+            },
             "voice": "card/Card_13/Card_2130003_1/card_2130003_1_015.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 103
             ],
-            "name": "由良桐香",
-            "message": "遠見さんが言ったように、\n言葉で説得して、相手を後退させるんです。",
+            "name": {
+                "default": "由良桐香"
+            },
+            "message": {
+                "default": "遠見さんが言ったように、\n言葉で説得して、相手を後退させるんです。"
+            },
             "voice": "card/Card_13/Card_2130003_1/card_2130003_1_016.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 103
             ],
-            "name": "由良桐香",
-            "message": "そして、反対側に渡った人が勝ちです。",
+            "name": {
+                "default": "由良桐香"
+            },
+            "message": {
+                "default": "そして、反対側に渡った人が勝ちです。"
+            },
             "voice": "card/Card_13/Card_2130003_1/card_2130003_1_017.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "難しそうですね……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "難しそうですね……。"
+            },
             "voice": ""
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 103
             ],
-            "name": "由良桐香",
-            "message": "とりあえずやってみましょう。",
+            "name": {
+                "default": "由良桐香"
+            },
+            "message": {
+                "default": "とりあえずやってみましょう。"
+            },
             "voice": "card/Card_13/Card_2130003_1/card_2130003_1_019.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "これは利恵の勝ちね。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "これは利恵の勝ちね。"
+            },
             "voice": "card/Card_13/Card_2130003_1/card_2130003_1_020.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 103
             ],
-            "name": "由良桐香",
-            "message": "じゃあ、始めてください。\nはい！",
+            "name": {
+                "default": "由良桐香"
+            },
+            "message": {
+                "default": "じゃあ、始めてください。\nはい！"
+            },
             "voice": "card/Card_13/Card_2130003_1/card_2130003_1_021.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "すいませーん、トイレに行きたいんです！\nそっち側のトイレを使わせてください！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "すいませーん、トイレに行きたいんです！\nそっち側のトイレを使わせてください！"
+            },
             "voice": "card/Card_13/Card_2130003_1/card_2130003_1_022.mp3"
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "なるほど！\nうまい！",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "なるほど！\nうまい！"
+            },
             "voice": ""
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "こっち側のトイレ、壊れてるみたい。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "こっち側のトイレ、壊れてるみたい。"
+            },
             "voice": "card/Card_13/Card_2130003_1/card_2130003_1_024.mp3"
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "えっ？\nそうなんですか？",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "えっ？\nそうなんですか？"
+            },
             "voice": "card/Card_13/Card_2130003_1/card_2130003_1_025.mp3"
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "それより、そっち側のコンビニのトイレを借りた方がいいわ。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "それより、そっち側のコンビニのトイレを借りた方がいいわ。"
+            },
             "voice": "card/Card_13/Card_2130003_1/card_2130003_1_026.mp3"
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "あーでも、こっち側のコンビニは、トイレ貸してくれなくて……。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "あーでも、こっち側のコンビニは、トイレ貸してくれなくて……。"
+            },
             "voice": "card/Card_13/Card_2130003_1/card_2130003_1_027.mp3"
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "こんな山奥のコンビニでトイレを貸さないなんて、酷い、酷すぎる。\n我輩が行って交渉してさしあげよう。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "こんな山奥のコンビニでトイレを貸さないなんて、酷い、酷すぎる。\n我輩が行って交渉してさしあげよう。"
+            },
             "voice": "card/Card_13/Card_2130003_1/card_2130003_1_028.mp3"
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "じゃぁ……、お願いします……。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "じゃぁ……、お願いします……。"
+            },
             "voice": "card/Card_13/Card_2130003_1/card_2130003_1_029.mp3"
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 103
             ],
-            "name": "由良桐香",
-            "message": "勝負あり。\n丸山さんの勝ちよ。",
+            "name": {
+                "default": "由良桐香"
+            },
+            "message": {
+                "default": "勝負あり。\n丸山さんの勝ちよ。"
+            },
             "voice": "card/Card_13/Card_2130003_1/card_2130003_1_030.mp3"
         },
         {
@@ -276,8 +396,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "ふふっ、ほらね。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "ふふっ、ほらね。"
+            },
             "voice": "card/Card_13/Card_2130003_1/card_2130003_1_031.mp3"
         },
         {
@@ -285,8 +409,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "フフフ……。\n我輩に勝とうなど、片腹痛いわ。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "フフフ……。\n我輩に勝とうなど、片腹痛いわ。"
+            },
             "voice": "card/Card_13/Card_2130003_1/card_2130003_1_032.mp3"
         },
         {
@@ -294,8 +422,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "すっごーい！\nリエンヌ強～い！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "すっごーい！\nリエンヌ強～い！"
+            },
             "voice": "card/Card_13/Card_2130003_1/card_2130003_1_033.mp3"
         },
         {
@@ -303,8 +435,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "ていうか、凛音が弱すぎるのよ……。\n次は、私が相手になるわ。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "ていうか、凛音が弱すぎるのよ……。\n次は、私が相手になるわ。"
+            },
             "voice": "card/Card_13/Card_2130003_1/card_2130003_1_034.mp3"
         },
         {
@@ -312,8 +448,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "いいわ。\nかかってらっしゃい。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "いいわ。\nかかってらっしゃい。"
+            },
             "voice": "card/Card_13/Card_2130003_1/card_2130003_1_035.mp3"
         }
     ]

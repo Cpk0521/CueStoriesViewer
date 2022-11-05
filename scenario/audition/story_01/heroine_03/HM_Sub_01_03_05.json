@@ -6,8 +6,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "ジャーマネ。\n私はほっとけないタイプなのか？",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "ジャーマネ。\n私はほっとけないタイプなのか？"
+            },
             "voice": "audition/story_01/heroine_03/HM_Sub_01_03_05/hm_sub_01_03_05_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "え、どうしたの？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "え、どうしたの？"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "いや、この前、\nあいりとリビングで2人きりになったんだ。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "いや、この前、\nあいりとリビングで2人きりになったんだ。"
+            },
             "voice": "audition/story_01/heroine_03/HM_Sub_01_03_05/hm_sub_01_03_05_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "そしたら、めちゃくちゃ気を使われて、\nたくさん話しかけられた。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "そしたら、めちゃくちゃ気を使われて、\nたくさん話しかけられた。"
+            },
             "voice": "audition/story_01/heroine_03/HM_Sub_01_03_05/hm_sub_01_03_05_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "なんなんだろうな。\n出会った頃の陽菜もそうだった。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "なんなんだろうな。\n出会った頃の陽菜もそうだった。"
+            },
             "voice": "audition/story_01/heroine_03/HM_Sub_01_03_05/hm_sub_01_03_05_005.mp3"
         }
     ]

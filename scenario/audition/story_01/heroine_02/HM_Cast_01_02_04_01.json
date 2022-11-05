@@ -6,8 +6,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "お疲れ様です！\nそれじゃ、自分はお先に失礼しまーす。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "お疲れ様です！\nそれじゃ、自分はお先に失礼しまーす。"
+            },
             "voice": "audition/story_01/heroine_02/HM_Cast_01_02_04_01/hm_cast_01_02_04_01_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "お疲れさー……ってもういない。\nずいぶん急いでるみたいだな。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "お疲れさー……ってもういない。\nずいぶん急いでるみたいだな。"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "お疲れ様です。\nあれ？　マネージャー、舞花来てませんでした？",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "お疲れ様です。\nあれ？　マネージャー、舞花来てませんでした？"
+            },
             "voice": "audition/story_01/heroine_02/HM_Cast_01_02_04_01/hm_cast_01_02_04_01_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "おかしいな、さっきレッスン終わったばっかりなのに。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "おかしいな、さっきレッスン終わったばっかりなのに。"
+            },
             "voice": "audition/story_01/heroine_02/HM_Cast_01_02_04_01/hm_cast_01_02_04_01_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "ちょうどさっき帰ったところだよ。\nなんか急いでたみたいだけど。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "ちょうどさっき帰ったところだよ。\nなんか急いでたみたいだけど。"
+            },
             "voice": ""
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "えー、そんな……。\nわたし、ちゃんと待っててって言ったんだけどなぁ。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "えー、そんな……。\nわたし、ちゃんと待っててって言ったんだけどなぁ。"
+            },
             "voice": "audition/story_01/heroine_02/HM_Cast_01_02_04_01/hm_cast_01_02_04_01_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "うーん……。\nわたしも帰ります、お疲れ様です。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "うーん……。\nわたしも帰ります、お疲れ様です。"
+            },
             "voice": "audition/story_01/heroine_02/HM_Cast_01_02_04_01/hm_cast_01_02_04_01_007.mp3"
         }
     ]

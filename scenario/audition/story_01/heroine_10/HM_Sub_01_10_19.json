@@ -6,8 +6,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "こないだ、まほろが見つけたお店に連れてってもらったんですけど。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "こないだ、まほろが見つけたお店に連れてってもらったんですけど。"
+            },
             "voice": "audition/story_01/heroine_10/HM_Sub_01_10_19/hm_sub_01_10_19_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "すごく内装もかわいいし、料理もおいしかったんですよね。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "すごく内装もかわいいし、料理もおいしかったんですよね。"
+            },
             "voice": "audition/story_01/heroine_10/HM_Sub_01_10_19/hm_sub_01_10_19_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "まほろ、お店に行くまでスマートで、\nちょっとかっこよかったです。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "まほろ、お店に行くまでスマートで、\nちょっとかっこよかったです。"
+            },
             "voice": "audition/story_01/heroine_10/HM_Sub_01_10_19/hm_sub_01_10_19_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "ああいうお店、\nどうやって見つけてくるんだろう……。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "ああいうお店、\nどうやって見つけてくるんだろう……。"
+            },
             "voice": "audition/story_01/heroine_10/HM_Sub_01_10_19/hm_sub_01_10_19_004.mp3"
         }
     ]

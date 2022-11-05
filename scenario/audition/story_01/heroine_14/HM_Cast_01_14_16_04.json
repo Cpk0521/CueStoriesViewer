@@ -6,8 +6,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "お疲れ様です。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "お疲れ様です。"
+            },
             "voice": "audition/story_01/heroine_14/HM_Cast_01_14_16_04/hm_cast_01_14_16_04_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "お疲れ様です、マネージャーさん。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "お疲れ様です、マネージャーさん。"
+            },
             "voice": "audition/story_01/heroine_14/HM_Cast_01_14_16_04/hm_cast_01_14_16_04_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "2人ともお疲れ様。\nあ、ちょうど良かった。この映画、興味ある？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "2人ともお疲れ様。\nあ、ちょうど良かった。この映画、興味ある？"
+            },
             "voice": ""
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "あ、これって、昔やってたアニメの20周年記念作品ですね。\nチェックはしてます。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "あ、これって、昔やってたアニメの20周年記念作品ですね。\nチェックはしてます。"
+            },
             "voice": "audition/story_01/heroine_14/HM_Cast_01_14_16_04/hm_cast_01_14_16_04_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そう？　試写会のチケット貰ったんだけど行く？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そう？　試写会のチケット貰ったんだけど行く？"
+            },
             "voice": ""
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "そうですね……あ、でも、その日か。\nすでに先約がありますね。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "そうですね……あ、でも、その日か。\nすでに先約がありますね。"
+            },
             "voice": "audition/story_01/heroine_14/HM_Cast_01_14_16_04/hm_cast_01_14_16_04_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そっかー。\n鳴は……って、これ1枚しかないんだけど。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そっかー。\n鳴は……って、これ1枚しかないんだけど。"
+            },
             "voice": ""
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "行きません。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "行きません。"
+            },
             "voice": "audition/story_01/heroine_14/HM_Cast_01_14_16_04/hm_cast_01_14_16_04_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "ですよねー……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "ですよねー……。"
+            },
             "voice": ""
         }
     ]

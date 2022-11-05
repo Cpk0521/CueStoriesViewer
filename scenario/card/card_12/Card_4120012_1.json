@@ -6,8 +6,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "えーっと、目薬もオッケー。日焼け止めもオッケー。\n着替えも持ったし……。あ！　タオルタオル……。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "えーっと、目薬もオッケー。日焼け止めもオッケー。\n着替えも持ったし……。あ！　タオルタオル……。"
+            },
             "voice": "card/Card_12/Card_4120012_1/card_4120012_1_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "ん？　何やってんの？",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "ん？　何やってんの？"
+            },
             "voice": "card/Card_12/Card_4120012_1/card_4120012_1_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "さっきからバタバタうるさいんだけど。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "さっきからバタバタうるさいんだけど。"
+            },
             "voice": "card/Card_12/Card_4120012_1/card_4120012_1_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "ああ、ごめんごめん。\nちょっと準備をねー。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "ああ、ごめんごめん。\nちょっと準備をねー。"
+            },
             "voice": "card/Card_12/Card_4120012_1/card_4120012_1_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "準備？",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "準備？"
+            },
             "voice": "card/Card_12/Card_4120012_1/card_4120012_1_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "そ。準備。\nえへへー。楽しみだなあ。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "そ。準備。\nえへへー。楽しみだなあ。"
+            },
             "voice": "card/Card_12/Card_4120012_1/card_4120012_1_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "どこか出かけるの？",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "どこか出かけるの？"
+            },
             "voice": "card/Card_12/Card_4120012_1/card_4120012_1_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "ふっふっふ。海があたしを呼んでるの。\n寄せては返す波の脈動に、乗ってみないかってね。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "ふっふっふ。海があたしを呼んでるの。\n寄せては返す波の脈動に、乗ってみないかってね。"
+            },
             "voice": "card/Card_12/Card_4120012_1/card_4120012_1_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "ん？　何？\nわかりにくいんだけど。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "ん？　何？\nわかりにくいんだけど。"
+            },
             "voice": "card/Card_12/Card_4120012_1/card_4120012_1_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "もう、わかんないかな。\nサーフィンだよ、サーフィン。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "もう、わかんないかな。\nサーフィンだよ、サーフィン。"
+            },
             "voice": "card/Card_12/Card_4120012_1/card_4120012_1_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "へえ。今から？　夜だよ？",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "へえ。今から？　夜だよ？"
+            },
             "voice": "card/Card_12/Card_4120012_1/card_4120012_1_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "目的の浜、ここから車で2時間くらいはかかるっぽいからね。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "目的の浜、ここから車で2時間くらいはかかるっぽいからね。"
+            },
             "voice": "card/Card_12/Card_4120012_1/card_4120012_1_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "暗いうちに出て、着いたら少し仮眠して、\nで、朝から海に入るってわけ。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "暗いうちに出て、着いたら少し仮眠して、\nで、朝から海に入るってわけ。"
+            },
             "voice": "card/Card_12/Card_4120012_1/card_4120012_1_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "うへえ、よくやるよ。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "うへえ、よくやるよ。"
+            },
             "voice": "card/Card_12/Card_4120012_1/card_4120012_1_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "ん？　まほろも行く？",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "ん？　まほろも行く？"
+            },
             "voice": "card/Card_12/Card_4120012_1/card_4120012_1_015.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "はあ？\nまほろがサーフィン？　するわけ無いじゃん。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "はあ？\nまほろがサーフィン？　するわけ無いじゃん。"
+            },
             "voice": "card/Card_12/Card_4120012_1/card_4120012_1_016.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "いやいや、海に行くだけでもさ。\n楽しいよ？　夏はやっぱ海だよ？",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "いやいや、海に行くだけでもさ。\n楽しいよ？　夏はやっぱ海だよ？"
+            },
             "voice": "card/Card_12/Card_4120012_1/card_4120012_1_017.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "夏って、まだ梅雨明けてないでしょ。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "夏って、まだ梅雨明けてないでしょ。"
+            },
             "voice": "card/Card_12/Card_4120012_1/card_4120012_1_018.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "だからなの！\n今、海にいるのはサーファーくらいなものだからね。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "だからなの！\n今、海にいるのはサーファーくらいなものだからね。"
+            },
             "voice": "card/Card_12/Card_4120012_1/card_4120012_1_019.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "はあ。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "はあ。"
+            },
             "voice": "card/Card_12/Card_4120012_1/card_4120012_1_020.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "天気予報によれば、今日から明日は梅雨の晴れ間らしくてさ。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "天気予報によれば、今日から明日は梅雨の晴れ間らしくてさ。"
+            },
             "voice": "card/Card_12/Card_4120012_1/card_4120012_1_021.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "こういう日はサイッコーの波が来るって決まってるんだから。\nこんなチャンス、逃すわけにはいかないじゃん？",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "こういう日はサイッコーの波が来るって決まってるんだから。\nこんなチャンス、逃すわけにはいかないじゃん？"
+            },
             "voice": "card/Card_12/Card_4120012_1/card_4120012_1_022.mp3"
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "そこまでして海に行きたいもの？\n毎度毎度、新聞配達みたいなバイクにボード差してよく行くよ。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "そこまでして海に行きたいもの？\n毎度毎度、新聞配達みたいなバイクにボード差してよく行くよ。"
+            },
             "voice": "card/Card_12/Card_4120012_1/card_4120012_1_023.mp3"
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "新聞配達言わないの。\nそれに、今回は特別なんだから。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "新聞配達言わないの。\nそれに、今回は特別なんだから。"
+            },
             "voice": "card/Card_12/Card_4120012_1/card_4120012_1_024.mp3"
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "特別って？",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "特別って？"
+            },
             "voice": "card/Card_12/Card_4120012_1/card_4120012_1_025.mp3"
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "……レンタカー借りてきちゃった。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "……レンタカー借りてきちゃった。"
+            },
             "voice": "card/Card_12/Card_4120012_1/card_4120012_1_026.mp3"
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "気合入れすぎでしょ。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "気合入れすぎでしょ。"
+            },
             "voice": "card/Card_12/Card_4120012_1/card_4120012_1_027.mp3"
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "でも、そっか……、ふーん。\nサーフィン……。ふむ。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "でも、そっか……、ふーん。\nサーフィン……。ふむ。"
+            },
             "voice": "card/Card_12/Card_4120012_1/card_4120012_1_028.mp3"
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "やっぱまほろも行ってみようかな。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "やっぱまほろも行ってみようかな。"
+            },
             "voice": "card/Card_12/Card_4120012_1/card_4120012_1_029.mp3"
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "え！　来るの？",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "え！　来るの？"
+            },
             "voice": "card/Card_12/Card_4120012_1/card_4120012_1_030.mp3"
         },
         {
@@ -276,8 +396,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "あんたが波に乗ってる間、\nまほろ、車にいてもいいよね？",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "あんたが波に乗ってる間、\nまほろ、車にいてもいいよね？"
+            },
             "voice": "card/Card_12/Card_4120012_1/card_4120012_1_031.mp3"
         },
         {
@@ -285,8 +409,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "えへへ……。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "えへへ……。"
+            },
             "voice": "card/Card_12/Card_4120012_1/card_4120012_1_032.mp3"
         },
         {
@@ -294,8 +422,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "いいよ、いいよ。好きにしてて。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "いいよ、いいよ。好きにしてて。"
+            },
             "voice": "card/Card_12/Card_4120012_1/card_4120012_1_033.mp3"
         },
         {
@@ -303,8 +435,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "おっけー。で、何時に出るわけ？",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "おっけー。で、何時に出るわけ？"
+            },
             "voice": "card/Card_12/Card_4120012_1/card_4120012_1_034.mp3"
         },
         {
@@ -312,8 +448,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "0時ぐらいかな。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "0時ぐらいかな。"
+            },
             "voice": "card/Card_12/Card_4120012_1/card_4120012_1_035.mp3"
         },
         {
@@ -321,8 +461,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "0時？　ほんとに夜中じゃん。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "0時？　ほんとに夜中じゃん。"
+            },
             "voice": "card/Card_12/Card_4120012_1/card_4120012_1_036.mp3"
         },
         {
@@ -330,8 +474,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "まほろは車の中で寝てていいからさ。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "まほろは車の中で寝てていいからさ。"
+            },
             "voice": "card/Card_12/Card_4120012_1/card_4120012_1_037.mp3"
         },
         {
@@ -339,8 +487,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "いや、大丈夫。まほろも起きてるから。\nあんただけに運転させるの悪いでしょ。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "いや、大丈夫。まほろも起きてるから。\nあんただけに運転させるの悪いでしょ。"
+            },
             "voice": "card/Card_12/Card_4120012_1/card_4120012_1_038.mp3"
         },
         {
@@ -348,8 +500,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "あはは。\nそんなの気にしなくていいのに。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "あはは。\nそんなの気にしなくていいのに。"
+            },
             "voice": "card/Card_12/Card_4120012_1/card_4120012_1_039.mp3"
         },
         {
@@ -357,8 +513,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "とーちゃーく！　……って、あ、寝てるね。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "とーちゃーく！　……って、あ、寝てるね。"
+            },
             "voice": "card/Card_12/Card_4120012_1/card_4120012_1_040.mp3"
         },
         {
@@ -366,8 +526,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "ん？　あ、ああ。ごめん。\n寝ちゃってた。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "ん？　あ、ああ。ごめん。\n寝ちゃってた。"
+            },
             "voice": "card/Card_12/Card_4120012_1/card_4120012_1_041.mp3"
         },
         {
@@ -375,8 +539,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "起こしちゃった？\nごめんごめん。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "起こしちゃった？\nごめんごめん。"
+            },
             "voice": "card/Card_12/Card_4120012_1/card_4120012_1_042.mp3"
         },
         {
@@ -384,8 +552,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "いや、まほろこそ運転してる横で寝ちゃってごめん。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "いや、まほろこそ運転してる横で寝ちゃってごめん。"
+            },
             "voice": "card/Card_12/Card_4120012_1/card_4120012_1_043.mp3"
         },
         {
@@ -393,8 +565,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "……今何時？",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "……今何時？"
+            },
             "voice": "card/Card_12/Card_4120012_1/card_4120012_1_044.mp3"
         },
         {
@@ -402,8 +578,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "2時くらいかな？",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "2時くらいかな？"
+            },
             "voice": "card/Card_12/Card_4120012_1/card_4120012_1_045.mp3"
         },
         {
@@ -411,8 +591,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "あたし、今から少し仮眠するからさ。\nまほろも寝れば？",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "あたし、今から少し仮眠するからさ。\nまほろも寝れば？"
+            },
             "voice": "card/Card_12/Card_4120012_1/card_4120012_1_046.mp3"
         },
         {
@@ -420,8 +604,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "起こしちゃってから言うのもなんだけど。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "起こしちゃってから言うのもなんだけど。"
+            },
             "voice": "card/Card_12/Card_4120012_1/card_4120012_1_047.mp3"
         },
         {
@@ -429,8 +617,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "うん、そうだね。\nそうする……。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "うん、そうだね。\nそうする……。"
+            },
             "voice": "card/Card_12/Card_4120012_1/card_4120012_1_048.mp3"
         },
         {
@@ -438,8 +630,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "ふふ。水平線を照らす朝日もキレイだよー。\nね？　まほろ、見たことある？",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "ふふ。水平線を照らす朝日もキレイだよー。\nね？　まほろ、見たことある？"
+            },
             "voice": "card/Card_12/Card_4120012_1/card_4120012_1_049.mp3"
         },
         {
@@ -447,8 +643,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "……スゥ。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "……スゥ。"
+            },
             "voice": "card/Card_12/Card_4120012_1/card_4120012_1_050.mp3"
         },
         {
@@ -456,8 +656,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "って、もう寝てる！",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "って、もう寝てる！"
+            },
             "voice": "card/Card_12/Card_4120012_1/card_4120012_1_051.mp3"
         },
         {
@@ -465,8 +669,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "寝付き良すぎでしょ……。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "寝付き良すぎでしょ……。"
+            },
             "voice": "card/Card_12/Card_4120012_1/card_4120012_1_052.mp3"
         }
     ]

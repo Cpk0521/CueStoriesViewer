@@ -6,8 +6,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "マネージャーさん、お疲れ様です。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "マネージャーさん、お疲れ様です。"
+            },
             "voice": "audition/story_01/heroine_07/HM_Cast_01_07_06_03/hm_cast_01_07_06_03_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "お疲れ様です。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "お疲れ様です。"
+            },
             "voice": "audition/story_01/heroine_07/HM_Cast_01_07_06_03/hm_cast_01_07_06_03_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "お疲れ様ー。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "お疲れ様ー。"
+            },
             "voice": ""
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "あ、そうだ。\nあいり、プチキュアの鑑賞会っていつからやるの？",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "あ、そうだ。\nあいり、プチキュアの鑑賞会っていつからやるの？"
+            },
             "voice": "audition/story_01/heroine_07/HM_Cast_01_07_06_03/hm_cast_01_07_06_03_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "夜ご飯食べ終わってからがいいかなって思ってるよ。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "夜ご飯食べ終わってからがいいかなって思ってるよ。"
+            },
             "voice": "audition/story_01/heroine_07/HM_Cast_01_07_06_03/hm_cast_01_07_06_03_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "オッケー。\nじゃあ、早めに夕飯作るわね。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "オッケー。\nじゃあ、早めに夕飯作るわね。"
+            },
             "voice": "audition/story_01/heroine_07/HM_Cast_01_07_06_03/hm_cast_01_07_06_03_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "うん、ありがとう！\nあとね、今日は陽菜さんとほのかさんも観に来てくれるって。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "うん、ありがとう！\nあとね、今日は陽菜さんとほのかさんも観に来てくれるって。"
+            },
             "voice": "audition/story_01/heroine_07/HM_Cast_01_07_06_03/hm_cast_01_07_06_03_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "へえ。\nじゃあ、悠希と柚葉も入れて6人ってことね。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "へえ。\nじゃあ、悠希と柚葉も入れて6人ってことね。"
+            },
             "voice": "audition/story_01/heroine_07/HM_Cast_01_07_06_03/hm_cast_01_07_06_03_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "ホットチョコレート、人数分作っておくから。\nマシュマロ入りで。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "ホットチョコレート、人数分作っておくから。\nマシュマロ入りで。"
+            },
             "voice": "audition/story_01/heroine_07/HM_Cast_01_07_06_03/hm_cast_01_07_06_03_009.mp3"
         }
     ]

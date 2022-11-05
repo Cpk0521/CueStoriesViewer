@@ -6,8 +6,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "お疲れ様です。\nこの間は、チケットありがとうございました。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "お疲れ様です。\nこの間は、チケットありがとうございました。"
+            },
             "voice": "audition/story_01/heroine_16/HM_Sub_01_16_09/hm_sub_01_16_09_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "あ、お疲れ様。\nどう、面白かった？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "あ、お疲れ様。\nどう、面白かった？"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "はい。利恵と見てきたので。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "はい。利恵と見てきたので。"
+            },
             "voice": "audition/story_01/heroine_16/HM_Sub_01_16_09/hm_sub_01_16_09_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そっか、それは良かった。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そっか、それは良かった。"
+            },
             "voice": ""
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "それじゃ、失礼します。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "それじゃ、失礼します。"
+            },
             "voice": "audition/story_01/heroine_16/HM_Sub_01_16_09/hm_sub_01_16_09_005.mp3"
         }
     ]

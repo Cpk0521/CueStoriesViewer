@@ -6,8 +6,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "おはよ、マネージャー！\nこれから事務所？",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "おはよ、マネージャー！\nこれから事務所？"
+            },
             "voice": "audition/story_01/heroine_12/HM_Morning_01_12_03/hm_morning_01_12_03_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "いや、あたしもなんだけどさ。\nちょっと寄り道してから行こうかなって。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "いや、あたしもなんだけどさ。\nちょっと寄り道してから行こうかなって。"
+            },
             "voice": "audition/story_01/heroine_12/HM_Morning_01_12_03/hm_morning_01_12_03_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "せっかくの良い天気だしね。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "せっかくの良い天気だしね。"
+            },
             "voice": "audition/story_01/heroine_12/HM_Morning_01_12_03/hm_morning_01_12_03_003.mp3"
         }
     ]

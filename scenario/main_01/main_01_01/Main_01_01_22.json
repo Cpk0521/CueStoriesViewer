@@ -6,8 +6,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "え！\n空き巣ですか！？",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "え！\n空き巣ですか！？"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_22/main_01_01_22_002.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そう。\nこの辺りで多発してるんだって。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そう。\nこの辺りで多発してるんだって。"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "戸締りとかしっかりしないとダメですね。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "戸締りとかしっかりしないとダメですね。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_22/main_01_01_22_005.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "皆わりとのんびりしてるから、ちょっと心配だよ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "皆わりとのんびりしてるから、ちょっと心配だよ。"
+            },
             "voice": ""
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "確かに、危機管理能力は低いかも。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "確かに、危機管理能力は低いかも。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_22/main_01_01_22_007.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "ほのかから、皆に伝えてもらっていい？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "ほのかから、皆に伝えてもらっていい？"
+            },
             "voice": ""
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "わかりました！\nわたしにお任せください！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "わかりました！\nわたしにお任せください！"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_22/main_01_01_22_009.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "と、いうわけで、改めてみんなの危機管理を徹底したいと思います。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "と、いうわけで、改めてみんなの危機管理を徹底したいと思います。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_22/main_01_01_22_011.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "何で、ほのかが仕切ってんだよ。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "何で、ほのかが仕切ってんだよ。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_22/main_01_01_22_013.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "ほのかちゃんが、任せてくれって言うから。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "ほのかちゃんが、任せてくれって言うから。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_22/main_01_01_22_014.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "そこ！\nおしゃべりしない！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "そこ！\nおしゃべりしない！"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_22/main_01_01_22_015.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "あ、すみません……！",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "あ、すみません……！"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_22/main_01_01_22_016.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "じゃあ、まずは陽菜。\n部屋のカギはちゃんと閉めてる？",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "じゃあ、まずは陽菜。\n部屋のカギはちゃんと閉めてる？"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_22/main_01_01_22_017.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "ときどき、忘れるかも……。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "ときどき、忘れるかも……。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_22/main_01_01_22_018.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "そうやって、ボーっとしてると、犯罪に巻き込まれるよ？\n気のゆるみが、心のゆるみ。はい！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "そうやって、ボーっとしてると、犯罪に巻き込まれるよ？\n気のゆるみが、心のゆるみ。はい！"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_22/main_01_01_22_019.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "えっ？\nなに？",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "えっ？\nなに？"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_22/main_01_01_22_020.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "繰り返して！\n気のゆるみが、心のゆるみ。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "繰り返して！\n気のゆるみが、心のゆるみ。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_22/main_01_01_22_021.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "気のゆるみが、心のゆるみ。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "気のゆるみが、心のゆるみ。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_22/main_01_01_22_022.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "次！\n舞花！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "次！\n舞花！"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_22/main_01_01_22_023.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "カギはちゃんと閉めてるぞ。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "カギはちゃんと閉めてるぞ。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_22/main_01_01_22_024.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "ドアのカギはね。\nただ、窓はずっと開けっぱなしだよね。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "ドアのカギはね。\nただ、窓はずっと開けっぱなしだよね。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_22/main_01_01_22_025.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "エアコン使いたくないんだよ。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "エアコン使いたくないんだよ。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_22/main_01_01_22_026.mp3"
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "だからって、薄着で窓全開は危ないでしょ。\n舞花だって、一応、女の子なんだから。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "だからって、薄着で窓全開は危ないでしょ。\n舞花だって、一応、女の子なんだから。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_22/main_01_01_22_027.mp3"
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "一応って何だよ。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "一応って何だよ。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_22/main_01_01_22_028.mp3"
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "大丈夫、その油断が赤信号。\nはい！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "大丈夫、その油断が赤信号。\nはい！"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_22/main_01_01_22_029.mp3"
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "大丈夫。\nその油断が赤信号。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "大丈夫。\nその油断が赤信号。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_22/main_01_01_22_030.mp3"
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "そして、志穂！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "そして、志穂！"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_22/main_01_01_22_031.mp3"
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "ドアも窓も、ちゃんと閉めてる。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "ドアも窓も、ちゃんと閉めてる。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_22/main_01_01_22_032.mp3"
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "志穂ちゃんは、いつも閉めきってるよね。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "志穂ちゃんは、いつも閉めきってるよね。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_22/main_01_01_22_033.mp3"
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "うん。\nカーテンも閉めきってる。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "うん。\nカーテンも閉めきってる。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_22/main_01_01_22_034.mp3"
         },
         {
@@ -276,8 +396,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "暗い部屋で、キャンドル点けてると落ち着く。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "暗い部屋で、キャンドル点けてると落ち着く。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_22/main_01_01_22_035.mp3"
         },
         {
@@ -285,8 +409,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "キャンドルっつうか、仏壇のローソクだけど。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "キャンドルっつうか、仏壇のローソクだけど。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_22/main_01_01_22_036.mp3"
         },
         {
@@ -294,8 +422,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "そのローソク、ちゃんと消してから寝てる？",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "そのローソク、ちゃんと消してから寝てる？"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_22/main_01_01_22_037.mp3"
         },
         {
@@ -303,8 +435,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "たまに忘れる。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "たまに忘れる。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_22/main_01_01_22_038.mp3"
         },
         {
@@ -312,8 +448,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "火事になったらどうするの？\n必ず消してから寝て。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "火事になったらどうするの？\n必ず消してから寝て。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_22/main_01_01_22_039.mp3"
         },
         {
@@ -321,8 +461,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "前向きに善処する。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "前向きに善処する。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_22/main_01_01_22_040.mp3"
         },
         {
@@ -330,8 +474,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "政治家みたいなこと言わない！\nではご唱和ください。戸締り用心、火の用心。はい！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "政治家みたいなこと言わない！\nではご唱和ください。戸締り用心、火の用心。はい！"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_22/main_01_01_22_041.mp3"
         },
         {
@@ -339,8 +487,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "言いたくない。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "言いたくない。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_22/main_01_01_22_042.mp3"
         },
         {
@@ -348,8 +500,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "志穂の部屋の前で、毎日大声で言い続けるよ？",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "志穂の部屋の前で、毎日大声で言い続けるよ？"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_22/main_01_01_22_043.mp3"
         },
         {
@@ -357,8 +513,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "戸締り用心、火の用心。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "戸締り用心、火の用心。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_22/main_01_01_22_044.mp3"
         },
         {
@@ -366,8 +526,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "よろしい。\nでは、今日からわたしが、寮の周りをパトロールします。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "よろしい。\nでは、今日からわたしが、寮の周りをパトロールします。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_22/main_01_01_22_045.mp3"
         },
         {
@@ -375,8 +539,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "え？\nほのかがパトロール？",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "え？\nほのかがパトロール？"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_22/main_01_01_22_046.mp3"
         },
         {
@@ -384,8 +552,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "もし何かあったら、危なくないかな……？",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "もし何かあったら、危なくないかな……？"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_22/main_01_01_22_047.mp3"
         },
         {
@@ -393,8 +565,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "安心して。\n伊達に普段から鍛えてないから。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "安心して。\n伊達に普段から鍛えてないから。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_22/main_01_01_22_048.mp3"
         },
         {
@@ -402,8 +578,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "それにしたって……。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "それにしたって……。"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_22/main_01_01_22_049.mp3"
         },
         {
@@ -411,8 +591,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "わたしがみんなを守る！\nわたしが、みんなのサンダーウーマンになる！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "わたしがみんなを守る！\nわたしが、みんなのサンダーウーマンになる！"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_22/main_01_01_22_050.mp3"
         },
         {
@@ -420,8 +604,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "サンダーウーマン……？",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "サンダーウーマン……？"
+            },
             "voice": "main_01/Main_01_01/Main_01_01_22/main_01_01_22_051.mp3"
         }
     ]

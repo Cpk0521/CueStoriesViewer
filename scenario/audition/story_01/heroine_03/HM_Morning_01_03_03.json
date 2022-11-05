@@ -6,8 +6,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "ジャーマネじゃないか。\nおはよう……ふぁ……。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "ジャーマネじゃないか。\nおはよう……ふぁ……。"
+            },
             "voice": "audition/story_01/heroine_03/HM_Morning_01_03_03/hm_morning_01_03_03_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "今日は珍しく早く目が覚めてしまってな。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "今日は珍しく早く目が覚めてしまってな。"
+            },
             "voice": "audition/story_01/heroine_03/HM_Morning_01_03_03/hm_morning_01_03_03_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "朝から散歩してみたんだが、\n今はすごく眠い。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "朝から散歩してみたんだが、\n今はすごく眠い。"
+            },
             "voice": "audition/story_01/heroine_03/HM_Morning_01_03_03/hm_morning_01_03_03_003.mp3"
         }
     ]

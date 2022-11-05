@@ -6,8 +6,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "おはよう、マネージャー。\nちょうど良かったわ。",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "おはよう、マネージャー。\nちょうど良かったわ。"
+            },
             "voice": "audition/story_01/heroine_10/HM_Main_01_10_01/hm_main_01_10_01_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "今度、絢をこのオーディションに出してみようと思うの。",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "今度、絢をこのオーディションに出してみようと思うの。"
+            },
             "voice": "audition/story_01/heroine_10/HM_Main_01_10_01/hm_main_01_10_01_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "「空繰戯曲グレイゼファー」……、ですか。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "「空繰戯曲グレイゼファー」……、ですか。"
+            },
             "voice": ""
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "そう、あの子にちょうど合うと思って。",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "そう、あの子にちょうど合うと思って。"
+            },
             "voice": "audition/story_01/heroine_10/HM_Main_01_10_01/hm_main_01_10_01_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "りおにもサポートするように言ってあるから、よろしくね。",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "りおにもサポートするように言ってあるから、よろしくね。"
+            },
             "voice": "audition/story_01/heroine_10/HM_Main_01_10_01/hm_main_01_10_01_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "そういうこと！\n頑張ってね！",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "そういうこと！\n頑張ってね！"
+            },
             "voice": "audition/story_01/heroine_10/HM_Main_01_10_01/hm_main_01_10_01_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "えっ、私が……ですか？",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "えっ、私が……ですか？"
+            },
             "voice": "audition/story_01/heroine_10/HM_Main_01_10_01/hm_main_01_10_01_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "うん。社長からの推薦でね。\n絢に受けて欲しいって。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "うん。社長からの推薦でね。\n絢に受けて欲しいって。"
+            },
             "voice": ""
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "……そう、ですか。\nでも、どうして私なんだろう……？",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "……そう、ですか。\nでも、どうして私なんだろう……？"
+            },
             "voice": "audition/story_01/heroine_10/HM_Main_01_10_01/hm_main_01_10_01_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "真咲さんから推薦される理由とか、\nあったのかなって。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "真咲さんから推薦される理由とか、\nあったのかなって。"
+            },
             "voice": "audition/story_01/heroine_10/HM_Main_01_10_01/hm_main_01_10_01_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "絢自身は、挑戦してみたくはない？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "絢自身は、挑戦してみたくはない？"
+            },
             "voice": ""
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "私は……。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "私は……。"
+            },
             "voice": "audition/story_01/heroine_10/HM_Main_01_10_01/hm_main_01_10_01_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "挑戦、してみたいです。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "挑戦、してみたいです。"
+            },
             "voice": "audition/story_01/heroine_10/HM_Main_01_10_01/hm_main_01_10_01_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "よし、なら一緒に頑張ろうよ。\n自分もサポートするから。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "よし、なら一緒に頑張ろうよ。\n自分もサポートするから。"
+            },
             "voice": ""
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "……ありがとうございます。\n私、頑張るので。よろしくお願いします。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "……ありがとうございます。\n私、頑張るので。よろしくお願いします。"
+            },
             "voice": "audition/story_01/heroine_10/HM_Main_01_10_01/hm_main_01_10_01_015.mp3"
         }
     ]

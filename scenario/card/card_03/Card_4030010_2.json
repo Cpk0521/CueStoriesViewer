@@ -6,8 +6,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "お前にとっては迷惑かもしれんが、さっきも言ったとおり、\n名前がないとお前を呼ぶことも出来ない。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "お前にとっては迷惑かもしれんが、さっきも言ったとおり、\n名前がないとお前を呼ぶことも出来ない。"
+            },
             "voice": "card/Card_03/Card_4030010_2/card_4030010_2_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "申し訳ないが、勝手に名前を決めさせてもらうぞ。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "申し訳ないが、勝手に名前を決めさせてもらうぞ。"
+            },
             "voice": "card/Card_03/Card_4030010_2/card_4030010_2_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 0
             ],
-            "name": "猫",
-            "message": "ニャー",
+            "name": {
+                "default": "猫"
+            },
+            "message": {
+                "default": "ニャー"
+            },
             "voice": ""
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "ふむ、そうだな……。\nお前はタマだ。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "ふむ、そうだな……。\nお前はタマだ。"
+            },
             "voice": "card/Card_03/Card_4030010_2/card_4030010_2_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "ん？　ありきたりだと思ったか？",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "ん？　ありきたりだと思ったか？"
+            },
             "voice": "card/Card_03/Card_4030010_2/card_4030010_2_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "甘い。タマという名前には深い意味があるんだぞ。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "甘い。タマという名前には深い意味があるんだぞ。"
+            },
             "voice": "card/Card_03/Card_4030010_2/card_4030010_2_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "お前のその全身真っ白な姿。\nまるで幽霊。魂のタマ、ミタマのタマだ。わかるか？",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "お前のその全身真っ白な姿。\nまるで幽霊。魂のタマ、ミタマのタマだ。わかるか？"
+            },
             "voice": "card/Card_03/Card_4030010_2/card_4030010_2_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 0
             ],
-            "name": "タマ",
-            "message": "ニャーオ",
+            "name": {
+                "default": "タマ"
+            },
+            "message": {
+                "default": "ニャーオ"
+            },
             "voice": ""
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "不謹慎だって？\n何を今更。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "不謹慎だって？\n何を今更。"
+            },
             "voice": "card/Card_03/Card_4030010_2/card_4030010_2_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "声が不謹慎とまで言われたくらいだからな。\n態度も不謹慎なくらいでちょうどいい。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "声が不謹慎とまで言われたくらいだからな。\n態度も不謹慎なくらいでちょうどいい。"
+            },
             "voice": "card/Card_03/Card_4030010_2/card_4030010_2_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 0
             ],
-            "name": "タマ",
-            "message": "ニャン？",
+            "name": {
+                "default": "タマ"
+            },
+            "message": {
+                "default": "ニャン？"
+            },
             "voice": ""
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "ま、そういうことで、よろしくな。タマ。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "ま、そういうことで、よろしくな。タマ。"
+            },
             "voice": "card/Card_03/Card_4030010_2/card_4030010_2_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "お、雨もやんできたな。\n少し歩くか。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "お、雨もやんできたな。\n少し歩くか。"
+            },
             "voice": "card/Card_03/Card_4030010_2/card_4030010_2_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 0
             ],
-            "name": "タマ",
-            "message": "ニャ",
+            "name": {
+                "default": "タマ"
+            },
+            "message": {
+                "default": "ニャ"
+            },
             "voice": ""
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "どっちへ行く？",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "どっちへ行く？"
+            },
             "voice": "card/Card_03/Card_4030010_2/card_4030010_2_015.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "商店街？\nわかった。商店街の方に行くとしよう。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "商店街？\nわかった。商店街の方に行くとしよう。"
+            },
             "voice": "card/Card_03/Card_4030010_2/card_4030010_2_016.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "お前の家には、いい商店街があって羨ましい。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "お前の家には、いい商店街があって羨ましい。"
+            },
             "voice": "card/Card_03/Card_4030010_2/card_4030010_2_017.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "肉屋がコロッケやらメンチカツやらを店先で売ってる、\nそういう商店街がある街は、いい街だと昔から決まってる。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "肉屋がコロッケやらメンチカツやらを店先で売ってる、\nそういう商店街がある街は、いい街だと昔から決まってる。"
+            },
             "voice": "card/Card_03/Card_4030010_2/card_4030010_2_018.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "そうだろ？",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "そうだろ？"
+            },
             "voice": "card/Card_03/Card_4030010_2/card_4030010_2_019.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 0
             ],
-            "name": "タマ",
-            "message": "ニャウン",
+            "name": {
+                "default": "タマ"
+            },
+            "message": {
+                "default": "ニャウン"
+            },
             "voice": ""
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "うーん。揚げたてメンチカツのかぐわしい香り。\nこれは買わずにいられない。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "うーん。揚げたてメンチカツのかぐわしい香り。\nこれは買わずにいられない。"
+            },
             "voice": "card/Card_03/Card_4030010_2/card_4030010_2_021.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "ん？　お前もほしいのか？",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "ん？　お前もほしいのか？"
+            },
             "voice": "card/Card_03/Card_4030010_2/card_4030010_2_022.mp3"
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 0
             ],
-            "name": "タマ",
-            "message": "ニャ",
+            "name": {
+                "default": "タマ"
+            },
+            "message": {
+                "default": "ニャ"
+            },
             "voice": ""
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "メンチカツは玉ねぎが入ってるだろうからよくない。\nいや、火を通してあればいいのか？",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "メンチカツは玉ねぎが入ってるだろうからよくない。\nいや、火を通してあればいいのか？"
+            },
             "voice": "card/Card_03/Card_4030010_2/card_4030010_2_024.mp3"
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "まあ、万全を期して焼き鳥のささみのほうがよかろう。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "まあ、万全を期して焼き鳥のささみのほうがよかろう。"
+            },
             "voice": "card/Card_03/Card_4030010_2/card_4030010_2_025.mp3"
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "ほら、熱いからゆっくり食べろ。\nうまいか？",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "ほら、熱いからゆっくり食べろ。\nうまいか？"
+            },
             "voice": "card/Card_03/Card_4030010_2/card_4030010_2_026.mp3"
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "うむ。焼き鳥はうまいよな。わかるぞ。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "うむ。焼き鳥はうまいよな。わかるぞ。"
+            },
             "voice": "card/Card_03/Card_4030010_2/card_4030010_2_027.mp3"
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "私は寺生まれだが肉食を否定しない。\nうまいからな。鶏肉も牛肉も。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "私は寺生まれだが肉食を否定しない。\nうまいからな。鶏肉も牛肉も。"
+            },
             "voice": "card/Card_03/Card_4030010_2/card_4030010_2_028.mp3"
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "ほら、もう1個。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "ほら、もう1個。"
+            },
             "voice": "card/Card_03/Card_4030010_2/card_4030010_2_029.mp3"
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 0
             ],
-            "name": "タマ",
-            "message": "ニャー",
+            "name": {
+                "default": "タマ"
+            },
+            "message": {
+                "default": "ニャー"
+            },
             "voice": ""
         },
         {
@@ -276,8 +396,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "ふふふ。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "ふふふ。"
+            },
             "voice": "card/Card_03/Card_4030010_2/card_4030010_2_031.mp3"
         },
         {
@@ -285,8 +409,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "なあ、タマ。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "なあ、タマ。"
+            },
             "voice": "card/Card_03/Card_4030010_2/card_4030010_2_032.mp3"
         },
         {
@@ -294,8 +422,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "お前も私のことを、不謹慎でおかしいやつだと思うか？",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "お前も私のことを、不謹慎でおかしいやつだと思うか？"
+            },
             "voice": "card/Card_03/Card_4030010_2/card_4030010_2_033.mp3"
         },
         {
@@ -303,8 +435,12 @@
             "heroineId": [
                 0
             ],
-            "name": "タマ",
-            "message": "ニャーン",
+            "name": {
+                "default": "タマ"
+            },
+            "message": {
+                "default": "ニャーン"
+            },
             "voice": ""
         },
         {
@@ -312,8 +448,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "そうか、やっぱりお前たちだけだ。\nいつも私のことを理解してくれるのは。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "そうか、やっぱりお前たちだけだ。\nいつも私のことを理解してくれるのは。"
+            },
             "voice": "card/Card_03/Card_4030010_2/card_4030010_2_035.mp3"
         },
         {
@@ -321,8 +461,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "ま、人間たちに理解してもらおうとは思わんが。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "ま、人間たちに理解してもらおうとは思わんが。"
+            },
             "voice": "card/Card_03/Card_4030010_2/card_4030010_2_036.mp3"
         },
         {
@@ -330,8 +474,12 @@
             "heroineId": [
                 0
             ],
-            "name": "タマ",
-            "message": "ニャオーン？",
+            "name": {
+                "default": "タマ"
+            },
+            "message": {
+                "default": "ニャオーン？"
+            },
             "voice": ""
         },
         {
@@ -339,8 +487,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "……何？　無理なんかしていない。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "……何？　無理なんかしていない。"
+            },
             "voice": "card/Card_03/Card_4030010_2/card_4030010_2_038.mp3"
         },
         {
@@ -348,8 +500,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "私の灰色の脳細胞から生まれる感性の煌めきは、\n誰にも理解されない。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "私の灰色の脳細胞から生まれる感性の煌めきは、\n誰にも理解されない。"
+            },
             "voice": "card/Card_03/Card_4030010_2/card_4030010_2_039.mp3"
         },
         {
@@ -357,8 +513,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "これは、もはや仕方のないことだからな。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "これは、もはや仕方のないことだからな。"
+            },
             "voice": "card/Card_03/Card_4030010_2/card_4030010_2_040.mp3"
         },
         {
@@ -366,8 +526,12 @@
             "heroineId": [
                 0
             ],
-            "name": "タマ",
-            "message": "ニャーン",
+            "name": {
+                "default": "タマ"
+            },
+            "message": {
+                "default": "ニャーン"
+            },
             "voice": ""
         },
         {
@@ -375,8 +539,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "ん？　メッセージ……。\nジャーマネから……。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "ん？　メッセージ……。\nジャーマネから……。"
+            },
             "voice": "card/Card_03/Card_4030010_2/card_4030010_2_042.mp3"
         },
         {
@@ -384,8 +552,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "ふん。知らん。\n何を今更。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "ふん。知らん。\n何を今更。"
+            },
             "voice": "card/Card_03/Card_4030010_2/card_4030010_2_043.mp3"
         },
         {
@@ -393,8 +565,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "もっと早く連絡してくれてもいいだろ。\nお前もそう思わんか？",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "もっと早く連絡してくれてもいいだろ。\nお前もそう思わんか？"
+            },
             "voice": "card/Card_03/Card_4030010_2/card_4030010_2_044.mp3"
         },
         {
@@ -402,8 +578,12 @@
             "heroineId": [
                 0
             ],
-            "name": "タマ",
-            "message": "ニャー",
+            "name": {
+                "default": "タマ"
+            },
+            "message": {
+                "default": "ニャー"
+            },
             "voice": ""
         },
         {
@@ -411,8 +591,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "まあ、私だってもう大学生だからな。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "まあ、私だってもう大学生だからな。"
+            },
             "voice": "card/Card_03/Card_4030010_2/card_4030010_2_046.mp3"
         },
         {
@@ -420,8 +604,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "ジャーマネが小言を言うのも、\n理解してやらないわけではないんだが……。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "ジャーマネが小言を言うのも、\n理解してやらないわけではないんだが……。"
+            },
             "voice": "card/Card_03/Card_4030010_2/card_4030010_2_047.mp3"
         },
         {
@@ -429,8 +617,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "……今日じゃなくてもいいだろ。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "……今日じゃなくてもいいだろ。"
+            },
             "voice": "card/Card_03/Card_4030010_2/card_4030010_2_048.mp3"
         },
         {
@@ -438,8 +630,12 @@
             "heroineId": [
                 0
             ],
-            "name": "タマ",
-            "message": "ニャ",
+            "name": {
+                "default": "タマ"
+            },
+            "message": {
+                "default": "ニャ"
+            },
             "voice": ""
         },
         {
@@ -447,8 +643,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "なあタマ。\n冥土の途の一里塚って言葉。知ってるか？",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "なあタマ。\n冥土の途の一里塚って言葉。知ってるか？"
+            },
             "voice": "card/Card_03/Card_4030010_2/card_4030010_2_050.mp3"
         },
         {
@@ -456,8 +656,12 @@
             "heroineId": [
                 0
             ],
-            "name": "タマ",
-            "message": "ニャオン",
+            "name": {
+                "default": "タマ"
+            },
+            "message": {
+                "default": "ニャオン"
+            },
             "voice": ""
         },
         {
@@ -465,8 +669,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "そうか。ふふ。祝ってくれるのか。\nありがとな。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "そうか。ふふ。祝ってくれるのか。\nありがとな。"
+            },
             "voice": "card/Card_03/Card_4030010_2/card_4030010_2_052.mp3"
         }
     ]

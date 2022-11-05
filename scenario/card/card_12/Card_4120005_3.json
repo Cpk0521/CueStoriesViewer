@@ -6,8 +6,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "ねぇ、莉子知らない？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "ねぇ、莉子知らない？"
+            },
             "voice": ""
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "莉子さんは、まだ来てないっすよ。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "莉子さんは、まだ来てないっすよ。"
+            },
             "voice": "card/Card_12/Card_4120005_3/card_4120005_3_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "どこかに寄ってから来るって言ってました！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "どこかに寄ってから来るって言ってました！"
+            },
             "voice": "card/Card_12/Card_4120005_3/card_4120005_3_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "え、どこに寄るって？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "え、どこに寄るって？"
+            },
             "voice": ""
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "さぁ？\nそれは知りませんけど。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "さぁ？\nそれは知りませんけど。"
+            },
             "voice": "card/Card_12/Card_4120005_3/card_4120005_3_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "来たら、スタッフルームに来るよう伝えて。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "来たら、スタッフルームに来るよう伝えて。"
+            },
             "voice": ""
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "わっかりました！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "わっかりました！"
+            },
             "voice": "card/Card_12/Card_4120005_3/card_4120005_3_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "えぇ！？　\nついさっき売り切れちゃったんですか！？",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "えぇ！？　\nついさっき売り切れちゃったんですか！？"
+            },
             "voice": "card/Card_12/Card_4120005_3/card_4120005_3_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "諦めきれなくて、会場入りする前に慌てて来たのに……。\nやっぱり昨日、何が何でも買うべきだった……。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "諦めきれなくて、会場入りする前に慌てて来たのに……。\nやっぱり昨日、何が何でも買うべきだった……。"
+            },
             "voice": "card/Card_12/Card_4120005_3/card_4120005_3_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "あたしのバカ～！",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "あたしのバカ～！"
+            },
             "voice": "card/Card_12/Card_4120005_3/card_4120005_3_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "あ、りこぴん！\nおっはよ～！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "あ、りこぴん！\nおっはよ～！"
+            },
             "voice": "card/Card_12/Card_4120005_3/card_4120005_3_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "おはよー……。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "おはよー……。"
+            },
             "voice": "card/Card_12/Card_4120005_3/card_4120005_3_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "何か暗いね。\nどうしたの？",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "何か暗いね。\nどうしたの？"
+            },
             "voice": "card/Card_12/Card_4120005_3/card_4120005_3_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "何でもない……、放っておいて……。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "何でもない……、放っておいて……。"
+            },
             "voice": "card/Card_12/Card_4120005_3/card_4120005_3_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "莉子さん、ちょっとメイク教えてもらっていいすか？",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "莉子さん、ちょっとメイク教えてもらっていいすか？"
+            },
             "voice": "card/Card_12/Card_4120005_3/card_4120005_3_015.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "こないだ、メイク授業やってくれたじゃん。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "こないだ、メイク授業やってくれたじゃん。"
+            },
             "voice": "card/Card_12/Card_4120005_3/card_4120005_3_016.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "実際にやってほしいんすよ。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "実際にやってほしいんすよ。"
+            },
             "voice": "card/Card_12/Card_4120005_3/card_4120005_3_017.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "まいまいだけそんなの卑怯だよ～！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "まいまいだけそんなの卑怯だよ～！"
+            },
             "voice": "card/Card_12/Card_4120005_3/card_4120005_3_018.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "莉子。\nあたしもやってもらっていい？",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "莉子。\nあたしもやってもらっていい？"
+            },
             "voice": "card/Card_12/Card_4120005_3/card_4120005_3_019.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "あ、ゆきぞーまで！\nそれじゃ、わたしも！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "あ、ゆきぞーまで！\nそれじゃ、わたしも！"
+            },
             "voice": "card/Card_12/Card_4120005_3/card_4120005_3_020.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "……わかったよ。\nやりますよ。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "……わかったよ。\nやりますよ。"
+            },
             "voice": "card/Card_12/Card_4120005_3/card_4120005_3_021.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "何か、やさぐれてる……？",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "何か、やさぐれてる……？"
+            },
             "voice": "card/Card_12/Card_4120005_3/card_4120005_3_022.mp3"
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "やさぐれてなんかない！　\nあたしで役に立つことなら何でもやるよ！",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "やさぐれてなんかない！　\nあたしで役に立つことなら何でもやるよ！"
+            },
             "voice": "card/Card_12/Card_4120005_3/card_4120005_3_023.mp3"
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "ありがとう！\nさすが莉子！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "ありがとう！\nさすが莉子！"
+            },
             "voice": "card/Card_12/Card_4120005_3/card_4120005_3_024.mp3"
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "いいことすれば、きっと天使がプレゼントをくれるよ！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "いいことすれば、きっと天使がプレゼントをくれるよ！"
+            },
             "voice": "card/Card_12/Card_4120005_3/card_4120005_3_025.mp3"
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "だったら、限定コスメが欲しかったよ……。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "だったら、限定コスメが欲しかったよ……。"
+            },
             "voice": "card/Card_12/Card_4120005_3/card_4120005_3_026.mp3"
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "えっ？\n何か言った？",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "えっ？\n何か言った？"
+            },
             "voice": "card/Card_12/Card_4120005_3/card_4120005_3_027.mp3"
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "何でもない！　さぁ、かかっておいで！　\nみんなまとめて面倒見るよ！",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "何でもない！　さぁ、かかっておいで！　\nみんなまとめて面倒見るよ！"
+            },
             "voice": "card/Card_12/Card_4120005_3/card_4120005_3_028.mp3"
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "莉子、遅いな……。\n何してんだろ……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "莉子、遅いな……。\n何してんだろ……。"
+            },
             "voice": ""
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "莉子ちゃんなら、皆のメイクしてるよ？",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "莉子ちゃんなら、皆のメイクしてるよ？"
+            },
             "voice": "card/Card_12/Card_4120005_3/card_4120005_3_030.mp3"
         },
         {
@@ -276,8 +396,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "えっ？\n皆のメイク？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "えっ？\n皆のメイク？"
+            },
             "voice": ""
         },
         {
@@ -285,8 +409,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "莉子ちゃんの控室の前に長蛇の列が出来てたの。\n皆のメイクを片っ端から面倒みてるみたい。",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "莉子ちゃんの控室の前に長蛇の列が出来てたの。\n皆のメイクを片っ端から面倒みてるみたい。"
+            },
             "voice": "card/Card_12/Card_4120005_3/card_4120005_3_032.mp3"
         },
         {
@@ -294,8 +422,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "莉子だって本番前で忙しいのに……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "莉子だって本番前で忙しいのに……。"
+            },
             "voice": ""
         },
         {
@@ -303,8 +435,12 @@
             "heroineId": [
                 102
             ],
-            "name": "五十鈴りお",
-            "message": "放っておけないんじゃない？",
+            "name": {
+                "default": "五十鈴りお"
+            },
+            "message": {
+                "default": "放っておけないんじゃない？"
+            },
             "voice": "card/Card_12/Card_4120005_3/card_4120005_3_034.mp3"
         },
         {
@@ -312,8 +448,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "あとで様子見に行ってみるかな……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "あとで様子見に行ってみるかな……。"
+            },
             "voice": ""
         },
         {
@@ -321,8 +461,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "終わった～！　全員のメイクをやるって大変～！\nさすがに疲れた……、早く自分の準備しないと……。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "終わった～！　全員のメイクをやるって大変～！\nさすがに疲れた……、早く自分の準備しないと……。"
+            },
             "voice": "card/Card_12/Card_4120005_3/card_4120005_3_036.mp3"
         },
         {
@@ -330,8 +474,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "りこぴん、そういえば忘れてたんだけど、\nマネージャーさんが呼んでたよ？",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "りこぴん、そういえば忘れてたんだけど、\nマネージャーさんが呼んでたよ？"
+            },
             "voice": "card/Card_12/Card_4120005_3/card_4120005_3_037.mp3"
         },
         {
@@ -339,8 +487,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "えっ？\nマネージャーが？",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "えっ？\nマネージャーが？"
+            },
             "voice": "card/Card_12/Card_4120005_3/card_4120005_3_038.mp3"
         },
         {
@@ -348,8 +500,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "莉子、お疲れ様。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "莉子、お疲れ様。"
+            },
             "voice": ""
         },
         {
@@ -357,8 +513,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "あー、マネージャー。\n昨日はごちそうさまでした。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "あー、マネージャー。\n昨日はごちそうさまでした。"
+            },
             "voice": "card/Card_12/Card_4120005_3/card_4120005_3_040.mp3"
         },
         {
@@ -366,8 +526,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "皆のメイクを手伝ってくれたんだって？　\nありがとう。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "皆のメイクを手伝ってくれたんだって？　\nありがとう。"
+            },
             "voice": ""
         },
         {
@@ -375,8 +539,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "いえいえ、何でもやりますよ！\nで、何か用ですか？",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "いえいえ、何でもやりますよ！\nで、何か用ですか？"
+            },
             "voice": "card/Card_12/Card_4120005_3/card_4120005_3_042.mp3"
         },
         {
@@ -384,8 +552,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "用っていうか……、はいこれ。\nいろいろやってくれた、お礼。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "用っていうか……、はいこれ。\nいろいろやってくれた、お礼。"
+            },
             "voice": ""
         },
         {
@@ -393,8 +565,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "言ったじゃないですか。\nお礼なんか、いりませんって。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "言ったじゃないですか。\nお礼なんか、いりませんって。"
+            },
             "voice": "card/Card_12/Card_4120005_3/card_4120005_3_044.mp3"
         },
         {
@@ -402,8 +578,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "せっかく買ってきたんだから。\n貰ってよ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "せっかく買ってきたんだから。\n貰ってよ。"
+            },
             "voice": ""
         },
         {
@@ -411,8 +591,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "気を使わなくていいのに……。\nでも、ありがとうございます。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "気を使わなくていいのに……。\nでも、ありがとうございます。"
+            },
             "voice": "card/Card_12/Card_4120005_3/card_4120005_3_046.mp3"
         },
         {
@@ -420,8 +604,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "開けてみて。\n気に入るといいんだけど。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "開けてみて。\n気に入るといいんだけど。"
+            },
             "voice": ""
         },
         {
@@ -429,8 +617,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "なんだろ？\nどれどれ……、あ……、ああ！！",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "なんだろ？\nどれどれ……、あ……、ああ！！"
+            },
             "voice": "card/Card_12/Card_4120005_3/card_4120005_3_048.mp3"
         },
         {
@@ -438,8 +630,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "気に入ってくれた？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "気に入ってくれた？"
+            },
             "voice": ""
         },
         {
@@ -447,8 +643,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "昨日買いたかった限定コスメ！",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "昨日買いたかった限定コスメ！"
+            },
             "voice": "card/Card_12/Card_4120005_3/card_4120005_3_050.mp3"
         },
         {
@@ -456,8 +656,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "昨日、様子が変だったから、もしかしたらと思って。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "昨日、様子が変だったから、もしかしたらと思って。"
+            },
             "voice": ""
         },
         {
@@ -465,8 +669,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "なんだ、バレてたんだ……。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "なんだ、バレてたんだ……。"
+            },
             "voice": "card/Card_12/Card_4120005_3/card_4120005_3_052.mp3"
         },
         {
@@ -474,8 +682,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "今朝、慌てて買いに行ったら、最後の１つだったよ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "今朝、慌てて買いに行ったら、最後の１つだったよ。"
+            },
             "voice": ""
         },
         {
@@ -483,8 +695,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "天使……。\n天使はマネージャーだったんだね！",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "天使……。\n天使はマネージャーだったんだね！"
+            },
             "voice": "card/Card_12/Card_4120005_3/card_4120005_3_054.mp3"
         },
         {
@@ -492,8 +708,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "えぇ？\n天使？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "えぇ？\n天使？"
+            },
             "voice": ""
         },
         {
@@ -501,8 +721,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "大切に使います！\nありがとうございます！",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "大切に使います！\nありがとうございます！"
+            },
             "voice": "card/Card_12/Card_4120005_3/card_4120005_3_056.mp3"
         }
     ]

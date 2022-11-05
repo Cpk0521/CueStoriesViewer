@@ -6,8 +6,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "お疲れ様です。\nお先、失礼します。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "お疲れ様です。\nお先、失礼します。"
+            },
             "voice": "audition/story_01/heroine_16/HM_Sub_01_16_10/hm_sub_01_16_10_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "あ、お疲れ、鳴。\n急いでるの？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "あ、お疲れ、鳴。\n急いでるの？"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "はい。\n今日の夕飯の当番は利恵なので。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "はい。\n今日の夕飯の当番は利恵なので。"
+            },
             "voice": "audition/story_01/heroine_16/HM_Sub_01_16_10/hm_sub_01_16_10_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "だから、早く帰らないと。\nでは、失礼します。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "だから、早く帰らないと。\nでは、失礼します。"
+            },
             "voice": "audition/story_01/heroine_16/HM_Sub_01_16_10/hm_sub_01_16_10_004.mp3"
         }
     ]

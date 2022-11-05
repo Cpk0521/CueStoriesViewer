@@ -6,8 +6,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "ジャーマネ、お疲れ。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "ジャーマネ、お疲れ。"
+            },
             "voice": "audition/story_01/heroine_02/HM_Cast_01_02_03_03/hm_cast_01_02_03_03_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "お疲れ様、志穂。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "お疲れ様、志穂。"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "なにか食べ物を持ってないか。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "なにか食べ物を持ってないか。"
+            },
             "voice": "audition/story_01/heroine_02/HM_Cast_01_02_03_03/hm_cast_01_02_03_03_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "急だね。\n……んー、今はなにも持ってないなぁ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "急だね。\n……んー、今はなにも持ってないなぁ。"
+            },
             "voice": ""
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "はぁ……これだからジャーマネはジャーマネなんだ。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "はぁ……これだからジャーマネはジャーマネなんだ。"
+            },
             "voice": "audition/story_01/heroine_02/HM_Cast_01_02_03_03/hm_cast_01_02_03_03_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "ごめん……。\nでも、寮に戻ったら夕飯の時間でしょ？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "ごめん……。\nでも、寮に戻ったら夕飯の時間でしょ？"
+            },
             "voice": ""
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "うむ。\nそういえば、今日はコロッケだと舞花が言ってたな……。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "うむ。\nそういえば、今日はコロッケだと舞花が言ってたな……。"
+            },
             "voice": "audition/story_01/heroine_02/HM_Cast_01_02_03_03/hm_cast_01_02_03_03_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "知ってるか、ジャーマネ。\n舞花の作るコロッケの味を。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "知ってるか、ジャーマネ。\n舞花の作るコロッケの味を。"
+            },
             "voice": "audition/story_01/heroine_02/HM_Cast_01_02_03_03/hm_cast_01_02_03_03_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "いや、知らないけど……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "いや、知らないけど……。"
+            },
             "voice": ""
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "あの味を知らないとは、かわいそうに。\nじゃ、そのコロッケが待ってるんで、またな、ジャーマネ。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "あの味を知らないとは、かわいそうに。\nじゃ、そのコロッケが待ってるんで、またな、ジャーマネ。"
+            },
             "voice": "audition/story_01/heroine_02/HM_Cast_01_02_03_03/hm_cast_01_02_03_03_010.mp3"
         }
     ]

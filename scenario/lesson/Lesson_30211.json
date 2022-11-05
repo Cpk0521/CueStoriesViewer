@@ -6,8 +6,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "じゃあこれはどう？\nタロットカードとか！",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "じゃあこれはどう？\nタロットカードとか！"
+            },
             "voice": "lesson/Lesson_30211/lesson_30211_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "魔法じゃなくて占いになってない？",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "魔法じゃなくて占いになってない？"
+            },
             "voice": "lesson/Lesson_30211/lesson_30211_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "占いも魔法の1つ。\nカードから物事の本質を覗き見るの。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "占いも魔法の1つ。\nカードから物事の本質を覗き見るの。"
+            },
             "voice": "lesson/Lesson_30211/lesson_30211_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "それで、なにを見るの？",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "それで、なにを見るの？"
+            },
             "voice": "lesson/Lesson_30211/lesson_30211_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "そうだな……。\n鳴の今後の未来でも占おうかな。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "そうだな……。\n鳴の今後の未来でも占おうかな。"
+            },
             "voice": "lesson/Lesson_30211/lesson_30211_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "なにか見えた？",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "なにか見えた？"
+            },
             "voice": "lesson/Lesson_30211/lesson_30211_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "むむ！　待ち人来たる！\n鳴にとって大切なモノが届くだろう。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "むむ！　待ち人来たる！\n鳴にとって大切なモノが届くだろう。"
+            },
             "voice": "lesson/Lesson_30211/lesson_30211_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "そんなの占わなくてもわかるよ。\nだって、不在票入ってたし。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "そんなの占わなくてもわかるよ。\nだって、不在票入ってたし。"
+            },
             "voice": "lesson/Lesson_30211/lesson_30211_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "そ、そうだったね。\nじゃあ、今後のエールブルーの行く末を……。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "そ、そうだったね。\nじゃあ、今後のエールブルーの行く末を……。"
+            },
             "voice": "lesson/Lesson_30211/lesson_30211_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "そんなことまで見えるの？",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "そんなことまで見えるの？"
+            },
             "voice": "lesson/Lesson_30211/lesson_30211_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "ごめん、ちょっと盛った。\nタロットもかじった程度しか分からない。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "ごめん、ちょっと盛った。\nタロットもかじった程度しか分からない。"
+            },
             "voice": "lesson/Lesson_30211/lesson_30211_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "だよね。\nやってる姿、見たこと無いよ。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "だよね。\nやってる姿、見たこと無いよ。"
+            },
             "voice": "lesson/Lesson_30211/lesson_30211_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "そりゃ……。\n魔法など、人に見せるものではないからな。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "そりゃ……。\n魔法など、人に見せるものではないからな。"
+            },
             "voice": "lesson/Lesson_30211/lesson_30211_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "別に見せなくてもいいよ。\nそうだ、新しいツールの実験に付き合ってくれる？",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "別に見せなくてもいいよ。\nそうだ、新しいツールの実験に付き合ってくれる？"
+            },
             "voice": "lesson/Lesson_30211/lesson_30211_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "新しいツール……？",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "新しいツール……？"
+            },
             "voice": "lesson/Lesson_30211/lesson_30211_015.mp3"
         }
     ]

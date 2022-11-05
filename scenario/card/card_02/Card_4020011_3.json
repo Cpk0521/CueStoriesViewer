@@ -6,8 +6,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "ちょっと時間かかっちゃったけど、\n自分、完全に味を受け継げたんじゃない？",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "ちょっと時間かかっちゃったけど、\n自分、完全に味を受け継げたんじゃない？"
+            },
             "voice": "card/Card_02/Card_4020011_3/card_4020011_3_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "これならおばちゃんも、喜んでくれると思うんだよね。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "これならおばちゃんも、喜んでくれると思うんだよね。"
+            },
             "voice": "card/Card_02/Card_4020011_3/card_4020011_3_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "まあ、やれるだけのことはやったんじゃないか。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "まあ、やれるだけのことはやったんじゃないか。"
+            },
             "voice": "card/Card_02/Card_4020011_3/card_4020011_3_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "えへへー。おばちゃん喜んでくれるかな。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "えへへー。おばちゃん喜んでくれるかな。"
+            },
             "voice": "card/Card_02/Card_4020011_3/card_4020011_3_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "嫌なら最初からコロッケの作り方を教えないだろうしな。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "嫌なら最初からコロッケの作り方を教えないだろうしな。"
+            },
             "voice": "card/Card_02/Card_4020011_3/card_4020011_3_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "あれ？　おかしいな。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "あれ？　おかしいな。"
+            },
             "voice": "card/Card_02/Card_4020011_3/card_4020011_3_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "何がだ？",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "何がだ？"
+            },
             "voice": "card/Card_02/Card_4020011_3/card_4020011_3_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "いや、いつもこの角のあたりまで来ると、\nいい匂いがしてくるはずなんだけど……。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "いや、いつもこの角のあたりまで来ると、\nいい匂いがしてくるはずなんだけど……。"
+            },
             "voice": "card/Card_02/Card_4020011_3/card_4020011_3_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "……。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "……。"
+            },
             "voice": "card/Card_02/Card_4020011_3/card_4020011_3_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "閉まってる……。\n今日は定休日じゃないはずなんだけど。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "閉まってる……。\n今日は定休日じゃないはずなんだけど。"
+            },
             "voice": "card/Card_02/Card_4020011_3/card_4020011_3_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "でも、閉めるの来月だって言ってたよね。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "でも、閉めるの来月だって言ってたよね。"
+            },
             "voice": "card/Card_02/Card_4020011_3/card_4020011_3_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "ああ、この前はそう言っていたな。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "ああ、この前はそう言っていたな。"
+            },
             "voice": "card/Card_02/Card_4020011_3/card_4020011_3_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "おばちゃーん。おーい、おばちゃーん。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "おばちゃーん。おーい、おばちゃーん。"
+            },
             "voice": "card/Card_02/Card_4020011_3/card_4020011_3_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "……。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "……。"
+            },
             "voice": "card/Card_02/Card_4020011_3/card_4020011_3_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "……出ないな。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "……出ないな。"
+            },
             "voice": "card/Card_02/Card_4020011_3/card_4020011_3_015.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "うん……。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "うん……。"
+            },
             "voice": "card/Card_02/Card_4020011_3/card_4020011_3_016.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 0
             ],
-            "name": "近所のおばさん",
-            "message": "あらら、鷹取さんとこのマイちゃんかい。",
+            "name": {
+                "default": "近所のおばさん"
+            },
+            "message": {
+                "default": "あらら、鷹取さんとこのマイちゃんかい。"
+            },
             "voice": ""
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "あ、どうも。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "あ、どうも。"
+            },
             "voice": "card/Card_02/Card_4020011_3/card_4020011_3_018.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 0
             ],
-            "name": "近所のおばさん",
-            "message": "お惣菜屋さんね。もう閉めちゃったみたい。\n先週くらいかな。引っ越しが早まったんだって。",
+            "name": {
+                "default": "近所のおばさん"
+            },
+            "message": {
+                "default": "お惣菜屋さんね。もう閉めちゃったみたい。\n先週くらいかな。引っ越しが早まったんだって。"
+            },
             "voice": ""
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "え？　早まった？\nそうなんだ……。あはは……、は。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "え？　早まった？\nそうなんだ……。あはは……、は。"
+            },
             "voice": "card/Card_02/Card_4020011_3/card_4020011_3_020.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "……そっか。それなら……、しょうがないよね。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "……そっか。それなら……、しょうがないよね。"
+            },
             "voice": "card/Card_02/Card_4020011_3/card_4020011_3_021.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "……やっと、納得のいくコロッケが出来たんだけどな。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "……やっと、納得のいくコロッケが出来たんだけどな。"
+            },
             "voice": "card/Card_02/Card_4020011_3/card_4020011_3_022.mp3"
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "……帰るか？",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "……帰るか？"
+            },
             "voice": "card/Card_02/Card_4020011_3/card_4020011_3_023.mp3"
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "うん……。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "うん……。"
+            },
             "voice": "card/Card_02/Card_4020011_3/card_4020011_3_024.mp3"
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "……ねぇ、志穂。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "……ねぇ、志穂。"
+            },
             "voice": "card/Card_02/Card_4020011_3/card_4020011_3_025.mp3"
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "ん？",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "ん？"
+            },
             "voice": "card/Card_02/Card_4020011_3/card_4020011_3_026.mp3"
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "変な話かもだけど、自分、今……。\nどんな気持ちになったらいいか、よくわかんないんだよね。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "変な話かもだけど、自分、今……。\nどんな気持ちになったらいいか、よくわかんないんだよね。"
+            },
             "voice": "card/Card_02/Card_4020011_3/card_4020011_3_027.mp3"
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "……そうか。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "……そうか。"
+            },
             "voice": "card/Card_02/Card_4020011_3/card_4020011_3_028.mp3"
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "もうあのコロッケ食べらんないのも、\nおばちゃんにコロッケ食べてもらえなかったのも。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "もうあのコロッケ食べらんないのも、\nおばちゃんにコロッケ食べてもらえなかったのも。"
+            },
             "voice": "card/Card_02/Card_4020011_3/card_4020011_3_029.mp3"
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "なんか、すごく悲しいんだけどさ。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "なんか、すごく悲しいんだけどさ。"
+            },
             "voice": "card/Card_02/Card_4020011_3/card_4020011_3_030.mp3"
         },
         {
@@ -276,8 +396,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "これで……、良かったんだよね。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "これで……、良かったんだよね。"
+            },
             "voice": "card/Card_02/Card_4020011_3/card_4020011_3_031.mp3"
         },
         {
@@ -285,8 +409,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "そうだな。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "そうだな。"
+            },
             "voice": "card/Card_02/Card_4020011_3/card_4020011_3_032.mp3"
         },
         {
@@ -294,8 +422,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "だから、自分が悲しいとか、寂しいとか言っちゃうのは、\nなんていうか、その、わがままみたいなもんで……。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "だから、自分が悲しいとか、寂しいとか言っちゃうのは、\nなんていうか、その、わがままみたいなもんで……。"
+            },
             "voice": "card/Card_02/Card_4020011_3/card_4020011_3_033.mp3"
         },
         {
@@ -303,8 +435,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "あはは、自分、何言ってるのかもわかんなくなっちゃったな。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "あはは、自分、何言ってるのかもわかんなくなっちゃったな。"
+            },
             "voice": "card/Card_02/Card_4020011_3/card_4020011_3_035.mp3"
         },
         {
@@ -312,8 +448,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "舞花、いい言葉がある。\n諸行無常……、知ってるか？",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "舞花、いい言葉がある。\n諸行無常……、知ってるか？"
+            },
             "voice": "card/Card_02/Card_4020011_3/card_4020011_3_036.mp3"
         },
         {
@@ -321,8 +461,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "ん？　どういう意味？",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "ん？　どういう意味？"
+            },
             "voice": "card/Card_02/Card_4020011_3/card_4020011_3_037.mp3"
         },
         {
@@ -330,8 +474,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "世の中のものごとは、変わっていくのが当たり前ということだ。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "世の中のものごとは、変わっていくのが当たり前ということだ。"
+            },
             "voice": "card/Card_02/Card_4020011_3/card_4020011_3_038.mp3"
         },
         {
@@ -339,8 +487,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "……。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "……。"
+            },
             "voice": "card/Card_02/Card_4020011_3/card_4020011_3_039.mp3"
         },
         {
@@ -348,8 +500,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "しかし、形のないもの、記憶の中に残るものは、\n人から人へと語り継いで残すことが出来る。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "しかし、形のないもの、記憶の中に残るものは、\n人から人へと語り継いで残すことが出来る。"
+            },
             "voice": "card/Card_02/Card_4020011_3/card_4020011_3_040.mp3"
         },
         {
@@ -357,8 +513,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "歌や詩や言葉のように、レシピもまた、時代を超えて残せるものだ。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "歌や詩や言葉のように、レシピもまた、時代を超えて残せるものだ。"
+            },
             "voice": "card/Card_02/Card_4020011_3/card_4020011_3_041.mp3"
         },
         {
@@ -366,8 +526,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "自分でも言ってたはずだ。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "自分でも言ってたはずだ。"
+            },
             "voice": "card/Card_02/Card_4020011_3/card_4020011_3_042.mp3"
         },
         {
@@ -375,8 +539,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "他の誰が忘れても、このコロッケがあった証は、\n自分だけは忘れないと。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "他の誰が忘れても、このコロッケがあった証は、\n自分だけは忘れないと。"
+            },
             "voice": "card/Card_02/Card_4020011_3/card_4020011_3_043.mp3"
         },
         {
@@ -384,8 +552,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "志穂……。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "志穂……。"
+            },
             "voice": "card/Card_02/Card_4020011_3/card_4020011_3_044.mp3"
         },
         {
@@ -393,8 +565,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "どうだ。いいこと言っただろ。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "どうだ。いいこと言っただろ。"
+            },
             "voice": "card/Card_02/Card_4020011_3/card_4020011_3_045.mp3"
         },
         {
@@ -402,8 +578,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "……こんなこと言っちゃなんだけど、志穂、\nなんで付き合ってくれたの？",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "……こんなこと言っちゃなんだけど、志穂、\nなんで付き合ってくれたの？"
+            },
             "voice": "card/Card_02/Card_4020011_3/card_4020011_3_046.mp3"
         },
         {
@@ -411,8 +591,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "なんていうか、ちょっと嬉しかった。ありがと。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "なんていうか、ちょっと嬉しかった。ありがと。"
+            },
             "voice": "card/Card_02/Card_4020011_3/card_4020011_3_051.mp3"
         },
         {
@@ -420,8 +604,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "礼には及ばん。\nたまにその、舞花が受け継いだコロッケを再現してくれれば。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "礼には及ばん。\nたまにその、舞花が受け継いだコロッケを再現してくれれば。"
+            },
             "voice": "card/Card_02/Card_4020011_3/card_4020011_3_052.mp3"
         },
         {
@@ -429,8 +617,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "うん。それはもちろん。\n自分も食べたいしね。おばちゃんのコロッケ。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "うん。それはもちろん。\n自分も食べたいしね。おばちゃんのコロッケ。"
+            },
             "voice": "card/Card_02/Card_4020011_3/card_4020011_3_053.mp3"
         },
         {
@@ -438,8 +630,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "さ、帰るか。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "さ、帰るか。"
+            },
             "voice": "card/Card_02/Card_4020011_3/card_4020011_3_054.mp3"
         },
         {
@@ -447,8 +643,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "そうだね。帰ろう。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "そうだね。帰ろう。"
+            },
             "voice": "card/Card_02/Card_4020011_3/card_4020011_3_055.mp3"
         },
         {
@@ -456,8 +656,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "帰ったら早速作ろっかな。コロッケ。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "帰ったら早速作ろっかな。コロッケ。"
+            },
             "voice": "card/Card_02/Card_4020011_3/card_4020011_3_056.mp3"
         },
         {
@@ -465,8 +669,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "陽菜とほのかが、そろそろ音を上げそうだ。\nしばらく間を空けたほうがいいんじゃないか？",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "陽菜とほのかが、そろそろ音を上げそうだ。\nしばらく間を空けたほうがいいんじゃないか？"
+            },
             "voice": "card/Card_02/Card_4020011_3/card_4020011_3_057.mp3"
         },
         {
@@ -474,8 +682,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "ああ、そうだね。\nじゃ、来週くらいにまた作ろうかな。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "ああ、そうだね。\nじゃ、来週くらいにまた作ろうかな。"
+            },
             "voice": "card/Card_02/Card_4020011_3/card_4020011_3_058.mp3"
         },
         {
@@ -483,8 +695,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "（ねえおばちゃん、おばちゃんのコロッケ、\n子どもの頃からずっと好きだったよ。）",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "（ねえおばちゃん、おばちゃんのコロッケ、\n子どもの頃からずっと好きだったよ。）"
+            },
             "voice": "card/Card_02/Card_4020011_3/card_4020011_3_059.mp3"
         },
         {
@@ -492,8 +708,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "（ありがとね、おばちゃん。\nこれからも……、元気でね。）",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "（ありがとね、おばちゃん。\nこれからも……、元気でね。）"
+            },
             "voice": "card/Card_02/Card_4020011_3/card_4020011_3_060.mp3"
         }
     ]

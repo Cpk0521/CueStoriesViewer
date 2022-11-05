@@ -6,8 +6,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "マネージャー、お疲れ様です。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "マネージャー、お疲れ様です。"
+            },
             "voice": "audition/story_01/heroine_15/HM_Cast_01_15_16_04/hm_cast_01_15_16_04_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "あ、鳴、ちょうどよかった。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "あ、鳴、ちょうどよかった。"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "この紙袋、凛音が忘れていったみたいで。\nよかったら持っていってくれない？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "この紙袋、凛音が忘れていったみたいで。\nよかったら持っていってくれない？"
+            },
             "voice": ""
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "明日で大丈夫だと思います。\n凛音さんの荷物、重そうだし。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "明日で大丈夫だと思います。\n凛音さんの荷物、重そうだし。"
+            },
             "voice": "audition/story_01/heroine_15/HM_Cast_01_15_16_04/hm_cast_01_15_16_04_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "それに多分、凛音さんもう寝てる。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "それに多分、凛音さんもう寝てる。"
+            },
             "voice": "audition/story_01/heroine_15/HM_Cast_01_15_16_04/hm_cast_01_15_16_04_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "凛音さん私が寝る頃起きるんです。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "凛音さん私が寝る頃起きるんです。"
+            },
             "voice": "audition/story_01/heroine_15/HM_Cast_01_15_16_04/hm_cast_01_15_16_04_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "なるほどね……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "なるほどね……。"
+            },
             "voice": ""
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "そして誰よりも早く寝ます。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "そして誰よりも早く寝ます。"
+            },
             "voice": "audition/story_01/heroine_15/HM_Cast_01_15_16_04/hm_cast_01_15_16_04_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "なんか、わかる気がする……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "なんか、わかる気がする……。"
+            },
             "voice": ""
         }
     ]

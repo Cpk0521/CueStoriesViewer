@@ -6,8 +6,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "それじゃ、とりあえず、全員分の台本、\n持って帰るね。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "それじゃ、とりあえず、全員分の台本、\n持って帰るね。"
+            },
             "voice": "lesson/Lesson_31603/lesson_31603_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "うん。\nよろしくね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "うん。\nよろしくね。"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "当日までにしっかり読み込んでおくこと。\nわかった？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "当日までにしっかり読み込んでおくこと。\nわかった？"
+            },
             "voice": ""
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "わかってるって。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "わかってるって。"
+            },
             "voice": "lesson/Lesson_31603/lesson_31603_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "それじゃ失礼しまーす。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "それじゃ失礼しまーす。"
+            },
             "voice": "lesson/Lesson_31603/lesson_31603_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "はい。お疲れ様。\nおやすみなさい。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "はい。お疲れ様。\nおやすみなさい。"
+            },
             "voice": ""
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "あ、そうだマネージャー。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "あ、そうだマネージャー。"
+            },
             "voice": "lesson/Lesson_31603/lesson_31603_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "ん？　何？\nどうかした？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "ん？　何？\nどうかした？"
+            },
             "voice": ""
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "あたし、ちゃんと自由には責任が伴うって、わかってるから。\nだから、責任は果たすよ。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "あたし、ちゃんと自由には責任が伴うって、わかってるから。\nだから、責任は果たすよ。"
+            },
             "voice": "lesson/Lesson_31603/lesson_31603_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "安心して？",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "安心して？"
+            },
             "voice": "lesson/Lesson_31603/lesson_31603_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "あはは。\nなるほど。やっぱ謎の安心感だね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "あはは。\nなるほど。やっぱ謎の安心感だね。"
+            },
             "voice": ""
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "じゃ、そういうわけで、まったねー！\nおやすみなさーい。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "じゃ、そういうわけで、まったねー！\nおやすみなさーい。"
+            },
             "voice": "lesson/Lesson_31603/lesson_31603_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "はい。おやすみなさい。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "はい。おやすみなさい。"
+            },
             "voice": ""
         }
     ]

@@ -6,8 +6,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "ねぇちょっとこのおみくじキビシすぎない！？",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "ねぇちょっとこのおみくじキビシすぎない！？"
+            },
             "voice": "lesson/Lesson_20112/lesson_20112_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "え？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "え？"
+            },
             "voice": "lesson/Lesson_20112/lesson_20112_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "こんなに凶と大凶連発する、普通？\nどんな配分で入ってるの？",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "こんなに凶と大凶連発する、普通？\nどんな配分で入ってるの？"
+            },
             "voice": "lesson/Lesson_20112/lesson_20112_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "7割が凶と大凶です。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "7割が凶と大凶です。"
+            },
             "voice": "lesson/Lesson_20112/lesson_20112_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "不吉すぎるよ！　自分的にはお腹満たされたけども……。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "不吉すぎるよ！　自分的にはお腹満たされたけども……。"
+            },
             "voice": "lesson/Lesson_20112/lesson_20112_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "そ、そうですか？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "そ、そうですか？"
+            },
             "voice": "lesson/Lesson_20112/lesson_20112_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "学校で配るんだったら、\nやっぱり大吉とかいっぱい入れた方が盛り上がるんじゃない？",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "学校で配るんだったら、\nやっぱり大吉とかいっぱい入れた方が盛り上がるんじゃない？"
+            },
             "voice": "lesson/Lesson_20112/lesson_20112_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "そうなんですかね……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "そうなんですかね……。"
+            },
             "voice": "lesson/Lesson_20112/lesson_20112_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "あいり、おみくじって世間の厳しさを教えるために、\nあると思ってるんですけど。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "あいり、おみくじって世間の厳しさを教えるために、\nあると思ってるんですけど。"
+            },
             "voice": "lesson/Lesson_20112/lesson_20112_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "フォーチュンクッキーで世間の厳しさ\n教えなくてもいいでしょ？",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "フォーチュンクッキーで世間の厳しさ\n教えなくてもいいでしょ？"
+            },
             "voice": "lesson/Lesson_20112/lesson_20112_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "う～ん……。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "う～ん……。"
+            },
             "voice": "lesson/Lesson_20112/lesson_20112_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "悪い事は言わない。もっとライトな運勢にした方がいい。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "悪い事は言わない。もっとライトな運勢にした方がいい。"
+            },
             "voice": "lesson/Lesson_20112/lesson_20112_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "わかりました……。でもそうすると、\nほとんど作り変えなきゃいけないなぁ。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "わかりました……。でもそうすると、\nほとんど作り変えなきゃいけないなぁ。"
+            },
             "voice": "lesson/Lesson_20112/lesson_20112_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "どんだけ凶を投入したの？　この子。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "どんだけ凶を投入したの？　この子。"
+            },
             "voice": "lesson/Lesson_20112/lesson_20112_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "……作り直しかぁ。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "……作り直しかぁ。"
+            },
             "voice": "lesson/Lesson_20112/lesson_20112_015.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "仕方無い、特別に作るの手伝ってあげる。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "仕方無い、特別に作るの手伝ってあげる。"
+            },
             "voice": "lesson/Lesson_20112/lesson_20112_016.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "本当ですか？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "本当ですか？"
+            },
             "voice": "lesson/Lesson_20112/lesson_20112_017.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "自分が作り直すきっかけを与えたわけでもあるんだし、良いよ。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "自分が作り直すきっかけを与えたわけでもあるんだし、良いよ。"
+            },
             "voice": "lesson/Lesson_20112/lesson_20112_018.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "舞花さん、ありがとう！\nた、食べたいだけですよね？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "舞花さん、ありがとう！\nた、食べたいだけですよね？"
+            },
             "voice": "lesson/Lesson_20112/lesson_20112_019.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "あっははは～。ばれちゃったか。\nでも楽しそうだしね。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "あっははは～。ばれちゃったか。\nでも楽しそうだしね。"
+            },
             "voice": "lesson/Lesson_20112/lesson_20112_020.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "で、このフォーチュンクッキーってどうやって作るの？",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "で、このフォーチュンクッキーってどうやって作るの？"
+            },
             "voice": "lesson/Lesson_20112/lesson_20112_021.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "えっと。\nまずクッキーの生地を小さく切って円型に丸めて、",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "えっと。\nまずクッキーの生地を小さく切って円型に丸めて、"
+            },
             "voice": "lesson/Lesson_20112/lesson_20112_022.mp3"
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "ふむふむ。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "ふむふむ。"
+            },
             "voice": "lesson/Lesson_20112/lesson_20112_023.mp3"
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "その中にこの凶のおみくじを入れます。",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "その中にこの凶のおみくじを入れます。"
+            },
             "voice": "lesson/Lesson_20112/lesson_20112_024.mp3"
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "ちょっと待ちなさい！",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "ちょっと待ちなさい！"
+            },
             "voice": "lesson/Lesson_20112/lesson_20112_025.mp3"
         }
     ]

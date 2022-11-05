@@ -6,8 +6,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "ジャーマネ、今日もお疲れちゃん。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "ジャーマネ、今日もお疲れちゃん。"
+            },
             "voice": "audition/story_01/heroine_04/HM_Cast_01_04_03_04/hm_cast_01_04_03_04_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "それじゃ、ランニング行ってきます！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "それじゃ、ランニング行ってきます！"
+            },
             "voice": "audition/story_01/heroine_04/HM_Cast_01_04_03_04/hm_cast_01_04_03_04_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "うん、夜は気をつけるようにね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "うん、夜は気をつけるようにね。"
+            },
             "voice": ""
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "わかってまーす！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "わかってまーす！"
+            },
             "voice": "audition/story_01/heroine_04/HM_Cast_01_04_03_04/hm_cast_01_04_03_04_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "……ふむ。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "……ふむ。"
+            },
             "voice": "audition/story_01/heroine_04/HM_Cast_01_04_03_04/hm_cast_01_04_03_04_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "レッスン直後にランニング……。\nほのかの体力はどうなってるんだ。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "レッスン直後にランニング……。\nほのかの体力はどうなってるんだ。"
+            },
             "voice": "audition/story_01/heroine_04/HM_Cast_01_04_03_04/hm_cast_01_04_03_04_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "普段のトレーニングに加えて、オーディションも控えてるからね。\n相当頑張ってると思うよ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "普段のトレーニングに加えて、オーディションも控えてるからね。\n相当頑張ってると思うよ。"
+            },
             "voice": ""
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "……なるほど。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "……なるほど。"
+            },
             "voice": "audition/story_01/heroine_04/HM_Cast_01_04_03_04/hm_cast_01_04_03_04_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "さて、私もぼちぼち頑張るとするか。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "さて、私もぼちぼち頑張るとするか。"
+            },
             "voice": "audition/story_01/heroine_04/HM_Cast_01_04_03_04/hm_cast_01_04_03_04_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "へぇ、めずらしいね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "へぇ、めずらしいね。"
+            },
             "voice": ""
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "私も、怠け者ではないからな。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "私も、怠け者ではないからな。"
+            },
             "voice": "audition/story_01/heroine_04/HM_Cast_01_04_03_04/hm_cast_01_04_03_04_011.mp3"
         }
     ]

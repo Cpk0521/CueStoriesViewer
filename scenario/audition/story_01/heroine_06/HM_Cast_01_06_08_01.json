@@ -6,8 +6,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "ハーイ、マネージャー！\nねぇ、これ見て！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "ハーイ、マネージャー！\nねぇ、これ見て！"
+            },
             "voice": "audition/story_01/heroine_06/HM_Cast_01_06_08_01/hm_cast_01_06_08_01_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "うん？\n動物の写真……？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "うん？\n動物の写真……？"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "私の家のペットたち！\nすごくキュートでしょ！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "私の家のペットたち！\nすごくキュートでしょ！"
+            },
             "voice": "audition/story_01/heroine_06/HM_Cast_01_06_08_01/hm_cast_01_06_08_01_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "わぁ、たくさん飼ってるんだね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "わぁ、たくさん飼ってるんだね。"
+            },
             "voice": ""
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "さすが柚葉って感じですよね。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "さすが柚葉って感じですよね。"
+            },
             "voice": "audition/story_01/heroine_06/HM_Cast_01_06_08_01/hm_cast_01_06_08_01_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "あ、この子、目がきゅるってしててかわいい！",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "あ、この子、目がきゅるってしててかわいい！"
+            },
             "voice": "audition/story_01/heroine_06/HM_Cast_01_06_08_01/hm_cast_01_06_08_01_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "ねぇ、チサ。\nこの子、寮に連れてきて飼う？",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "ねぇ、チサ。\nこの子、寮に連れてきて飼う？"
+            },
             "voice": "audition/story_01/heroine_06/HM_Cast_01_06_08_01/hm_cast_01_06_08_01_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "え！？\nいや、寮はペット禁止でしょ！",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "え！？\nいや、寮はペット禁止でしょ！"
+            },
             "voice": "audition/story_01/heroine_06/HM_Cast_01_06_08_01/hm_cast_01_06_08_01_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "それはそうね。\nざんねーん。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "それはそうね。\nざんねーん。"
+            },
             "voice": "audition/story_01/heroine_06/HM_Cast_01_06_08_01/hm_cast_01_06_08_01_009.mp3"
         }
     ]

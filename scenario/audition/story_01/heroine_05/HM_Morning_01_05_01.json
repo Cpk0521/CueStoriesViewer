@@ -6,8 +6,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "お、マネージャー！\nおっはよー！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "お、マネージャー！\nおっはよー！"
+            },
             "voice": "audition/story_01/heroine_05/HM_Morning_01_05_01/hm_morning_01_05_01_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "昨日、寮で歌の練習してたから、\n喉の調子がすごくいいんだよねー！",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "昨日、寮で歌の練習してたから、\n喉の調子がすごくいいんだよねー！"
+            },
             "voice": "audition/story_01/heroine_05/HM_Morning_01_05_01/hm_morning_01_05_01_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "「うるさい！」って千紗に怒られたけどね。\nあはは。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "「うるさい！」って千紗に怒られたけどね。\nあはは。"
+            },
             "voice": "audition/story_01/heroine_05/HM_Morning_01_05_01/hm_morning_01_05_01_003.mp3"
         }
     ]

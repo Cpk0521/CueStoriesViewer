@@ -6,8 +6,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "ここが、オーディション会場……。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "ここが、オーディション会場……。"
+            },
             "voice": "audition/story_01/heroine_16/HM_Others_01_16_02/hm_others_01_16_02_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "鳴、調子はどう？\n緊張とか、困ったこととかは……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "鳴、調子はどう？\n緊張とか、困ったこととかは……。"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "ありません。\nいつも通りです。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "ありません。\nいつも通りです。"
+            },
             "voice": "audition/story_01/heroine_16/HM_Others_01_16_02/hm_others_01_16_02_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そっか。\nじゃ、行っておいで。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そっか。\nじゃ、行っておいで。"
+            },
             "voice": ""
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "はい。\n……では、いってきます。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "はい。\n……では、いってきます。"
+            },
             "voice": "audition/story_01/heroine_16/HM_Others_01_16_02/hm_others_01_16_02_005.mp3"
         }
     ]

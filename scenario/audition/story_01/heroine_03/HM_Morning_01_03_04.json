@@ -6,8 +6,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "む、ジャーマネじゃないか。\n朝からこんなところで、何をしている？",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "む、ジャーマネじゃないか。\n朝からこんなところで、何をしている？"
+            },
             "voice": "audition/story_01/heroine_03/HM_Morning_01_03_04/hm_morning_01_03_04_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "まさかこの行列に並ぶのか？　世の皆さまは働いているというのに。\nま、今日は月末の最終金曜日だしな。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "まさかこの行列に並ぶのか？　世の皆さまは働いているというのに。\nま、今日は月末の最終金曜日だしな。"
+            },
             "voice": "audition/story_01/heroine_03/HM_Morning_01_03_04/hm_morning_01_03_04_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "冗談に決まってるだろ。\nこういう時は咄嗟に返せることが大事。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "冗談に決まってるだろ。\nこういう時は咄嗟に返せることが大事。"
+            },
             "voice": "audition/story_01/heroine_03/HM_Morning_01_03_04/hm_morning_01_03_04_003.mp3"
         }
     ]

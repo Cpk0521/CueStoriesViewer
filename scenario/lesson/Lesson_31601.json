@@ -6,8 +6,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "こんばんはー。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "こんばんはー。"
+            },
             "voice": "lesson/Lesson_31601/lesson_31601_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "ああ、悠希、呼び出しちゃってごめんね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "ああ、悠希、呼び出しちゃってごめんね。"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "どうしたの？　マネージャー。\nこんな時間に女の子を呼び出して。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "どうしたの？　マネージャー。\nこんな時間に女の子を呼び出して。"
+            },
             "voice": "lesson/Lesson_31601/lesson_31601_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "ああ、今度の収録の台本が事務所に届いたからね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "ああ、今度の収録の台本が事務所に届いたからね。"
+            },
             "voice": ""
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "皆に配っておいてもらおうと思って。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "皆に配っておいてもらおうと思って。"
+            },
             "voice": ""
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "なんだ、そういうことかー。\nあ、これで全部？　任せといて。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "なんだ、そういうことかー。\nあ、これで全部？　任せといて。"
+            },
             "voice": "lesson/Lesson_31601/lesson_31601_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "どう？\n皆の調子は。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "どう？\n皆の調子は。"
+            },
             "voice": ""
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "大丈夫だって。\n心配しなくても。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "大丈夫だって。\n心配しなくても。"
+            },
             "voice": "lesson/Lesson_31601/lesson_31601_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "みんないつもどおり。\nいい調子だと思うよ。",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "みんないつもどおり。\nいい調子だと思うよ。"
+            },
             "voice": "lesson/Lesson_31601/lesson_31601_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そう？\nそれならいいけど。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そう？\nそれならいいけど。"
+            },
             "voice": ""
         }
     ]

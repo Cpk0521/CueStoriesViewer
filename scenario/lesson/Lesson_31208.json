@@ -6,8 +6,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "あっ、もしかしてたくさん調べてくれてたとか？\nだったら言ってくれたら良かったのに。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "あっ、もしかしてたくさん調べてくれてたとか？\nだったら言ってくれたら良かったのに。"
+            },
             "voice": "lesson/Lesson_31208/lesson_31208_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "別に調べてはない。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "別に調べてはない。"
+            },
             "voice": "lesson/Lesson_31208/lesson_31208_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "その手の話はたくさん聞く。\n実家が実家だからな。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "その手の話はたくさん聞く。\n実家が実家だからな。"
+            },
             "voice": "lesson/Lesson_31208/lesson_31208_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "へぇー、そうなんだ。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "へぇー、そうなんだ。"
+            },
             "voice": "lesson/Lesson_31208/lesson_31208_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "うむ。それに、あの島は元は修行の島だった。\nそこから参詣地となったのだ。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "うむ。それに、あの島は元は修行の島だった。\nそこから参詣地となったのだ。"
+            },
             "voice": "lesson/Lesson_31208/lesson_31208_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "そうなんだ……。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "そうなんだ……。"
+            },
             "voice": "lesson/Lesson_31208/lesson_31208_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "本当に知ってたの？\nやっぱり調べてきてくれたんじゃ……。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "本当に知ってたの？\nやっぱり調べてきてくれたんじゃ……。"
+            },
             "voice": "lesson/Lesson_31208/lesson_31208_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "そうじゃないと言ってるだろ？",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "そうじゃないと言ってるだろ？"
+            },
             "voice": "lesson/Lesson_31208/lesson_31208_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "あはは、わかった、わかった。\nじゃあさ、この島のどこか、おすすめのお店ある？",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "あはは、わかった、わかった。\nじゃあさ、この島のどこか、おすすめのお店ある？"
+            },
             "voice": "lesson/Lesson_31208/lesson_31208_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "お昼は食べたけど、\nしらすまんとか食べ歩き出来そうじゃん。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "お昼は食べたけど、\nしらすまんとか食べ歩き出来そうじゃん。"
+            },
             "voice": "lesson/Lesson_31208/lesson_31208_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "あ、わたしも食べたいな。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "あ、わたしも食べたいな。"
+            },
             "voice": "lesson/Lesson_31208/lesson_31208_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "いいだろう、島に着いたら案内してやる。\n少し入ったところにある。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "いいだろう、島に着いたら案内してやる。\n少し入ったところにある。"
+            },
             "voice": "lesson/Lesson_31208/lesson_31208_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "ありがとう、志穂ちゃん。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "ありがとう、志穂ちゃん。"
+            },
             "voice": "lesson/Lesson_31208/lesson_31208_013.mp3"
         }
     ]

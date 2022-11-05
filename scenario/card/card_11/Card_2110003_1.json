@@ -6,8 +6,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "……とにかく、\n新人のうちは、名前と顔を覚えてもらうようにね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "……とにかく、\n新人のうちは、名前と顔を覚えてもらうようにね。"
+            },
             "voice": ""
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "……。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "……。"
+            },
             "voice": "card/Card_11/Card_2110003_1/card_2110003_1_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "ちょっと古臭いかもしれないけど、\n収録後の、打ち上げの席も大切だからね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "ちょっと古臭いかもしれないけど、\n収録後の、打ち上げの席も大切だからね。"
+            },
             "voice": ""
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "打ち上げの席って、お酒の席ってことよね。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "打ち上げの席って、お酒の席ってことよね。"
+            },
             "voice": "card/Card_11/Card_2110003_1/card_2110003_1_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "あたし得意だな。",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "あたし得意だな。"
+            },
             "voice": "card/Card_11/Card_2110003_1/card_2110003_1_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "私は苦手……。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "私は苦手……。"
+            },
             "voice": "card/Card_11/Card_2110003_1/card_2110003_1_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "まほろは？\n得意？",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "まほろは？\n得意？"
+            },
             "voice": "card/Card_11/Card_2110003_1/card_2110003_1_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "慣れた。\n子役時代からそういうの出てるから。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "慣れた。\n子役時代からそういうの出てるから。"
+            },
             "voice": "card/Card_11/Card_2110003_1/card_2110003_1_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "要は飲み会でしょ？",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "要は飲み会でしょ？"
+            },
             "voice": "card/Card_11/Card_2110003_1/card_2110003_1_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "ちがう。\n第2の仕事場。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "ちがう。\n第2の仕事場。"
+            },
             "voice": "card/Card_11/Card_2110003_1/card_2110003_1_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "えっ？",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "えっ？"
+            },
             "voice": "card/Card_11/Card_2110003_1/card_2110003_1_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "明日の糧を得るためのね。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "明日の糧を得るためのね。"
+            },
             "voice": "card/Card_11/Card_2110003_1/card_2110003_1_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "そんな……、深刻なこと？",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "そんな……、深刻なこと？"
+            },
             "voice": "card/Card_11/Card_2110003_1/card_2110003_1_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "蜘蛛の糸を垂らす仏様が、隣でお酒を飲んでるんだよ？",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "蜘蛛の糸を垂らす仏様が、隣でお酒を飲んでるんだよ？"
+            },
             "voice": "card/Card_11/Card_2110003_1/card_2110003_1_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "蜘蛛の糸というのはつまり、\n次の仕事のキャスティング権ってこと。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "蜘蛛の糸というのはつまり、\n次の仕事のキャスティング権ってこと。"
+            },
             "voice": "card/Card_11/Card_2110003_1/card_2110003_1_015.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "……蜘蛛の糸垂らすのは蜘蛛でしょ。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "……蜘蛛の糸垂らすのは蜘蛛でしょ。"
+            },
             "voice": "card/Card_11/Card_2110003_1/card_2110003_1_016.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "その蜘蛛も隣で酔っぱらってるの。\nお尻から糸を垂れ流しにしながらね。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "その蜘蛛も隣で酔っぱらってるの。\nお尻から糸を垂れ流しにしながらね。"
+            },
             "voice": "card/Card_11/Card_2110003_1/card_2110003_1_017.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "その表現はちょっと……。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "その表現はちょっと……。"
+            },
             "voice": "card/Card_11/Card_2110003_1/card_2110003_1_018.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "糸を掴むためには、ちょっとくらい汚れる勇気がないと。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "糸を掴むためには、ちょっとくらい汚れる勇気がないと。"
+            },
             "voice": "card/Card_11/Card_2110003_1/card_2110003_1_019.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "具体的にはどうすればいいの？",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "具体的にはどうすればいいの？"
+            },
             "voice": "card/Card_11/Card_2110003_1/card_2110003_1_020.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "まずは、蜘蛛と仏を嗅ぎ分けて、その近くに座る。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "まずは、蜘蛛と仏を嗅ぎ分けて、その近くに座る。"
+            },
             "voice": "card/Card_11/Card_2110003_1/card_2110003_1_021.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "それから？",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "それから？"
+            },
             "voice": "card/Card_11/Card_2110003_1/card_2110003_1_022.mp3"
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "ここから先は、まほろが編み出した飲み会の処世術なんだけど……。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "ここから先は、まほろが編み出した飲み会の処世術なんだけど……。"
+            },
             "voice": "card/Card_11/Card_2110003_1/card_2110003_1_023.mp3"
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "聞かせて！\nお願い！",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "聞かせて！\nお願い！"
+            },
             "voice": "card/Card_11/Card_2110003_1/card_2110003_1_024.mp3"
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "今日だけ……、特別に教えちゃおう。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "今日だけ……、特別に教えちゃおう。"
+            },
             "voice": "card/Card_11/Card_2110003_1/card_2110003_1_025.mp3"
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "わぁ、うれしい♪",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "わぁ、うれしい♪"
+            },
             "voice": "card/Card_11/Card_2110003_1/card_2110003_1_026.mp3"
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "まずは飲みの席を4つのタームに分ける。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "まずは飲みの席を4つのタームに分ける。"
+            },
             "voice": "card/Card_11/Card_2110003_1/card_2110003_1_027.mp3"
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "4つのターム？",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "4つのターム？"
+            },
             "voice": "card/Card_11/Card_2110003_1/card_2110003_1_028.mp3"
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "全体尺を約2時間と仮定し、30分ずつに区切るの。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "全体尺を約2時間と仮定し、30分ずつに区切るの。"
+            },
             "voice": "card/Card_11/Card_2110003_1/card_2110003_1_029.mp3"
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "ふむふむ、なるほどね。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "ふむふむ、なるほどね。"
+            },
             "voice": "card/Card_11/Card_2110003_1/card_2110003_1_030.mp3"
         },
         {
@@ -276,8 +396,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "酔うまでの30分を第1ターム、酔ってからの30分を第2ターム、\n盛り上がってからの30分を第3ターム。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "酔うまでの30分を第1ターム、酔ってからの30分を第2ターム、\n盛り上がってからの30分を第3ターム。"
+            },
             "voice": "card/Card_11/Card_2110003_1/card_2110003_1_031.mp3"
         },
         {
@@ -285,8 +409,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "そして、帰るまでの30分が最終タームね。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "そして、帰るまでの30分が最終タームね。"
+            },
             "voice": "card/Card_11/Card_2110003_1/card_2110003_1_032.mp3"
         },
         {
@@ -294,8 +422,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "覚えてられるかな。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "覚えてられるかな。"
+            },
             "voice": "card/Card_11/Card_2110003_1/card_2110003_1_033.mp3"
         },
         {
@@ -303,8 +435,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "それぞれのタームによって振る舞いが変わるからよーく覚えて。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "それぞれのタームによって振る舞いが変わるからよーく覚えて。"
+            },
             "voice": "card/Card_11/Card_2110003_1/card_2110003_1_034.mp3"
         },
         {
@@ -312,8 +448,12 @@
             "heroineId": [
                 12
             ],
-            "name": "日名倉莉子",
-            "message": "オーケー！\nあたし覚えた！",
+            "name": {
+                "default": "日名倉莉子"
+            },
+            "message": {
+                "default": "オーケー！\nあたし覚えた！"
+            },
             "voice": "card/Card_11/Card_2110003_1/card_2110003_1_035.mp3"
         },
         {
@@ -321,8 +461,12 @@
             "heroineId": [
                 11
             ],
-            "name": "宮路まほろ",
-            "message": "では早速、タームごとのロールプレイを始めよう。",
+            "name": {
+                "default": "宮路まほろ"
+            },
+            "message": {
+                "default": "では早速、タームごとのロールプレイを始めよう。"
+            },
             "voice": "card/Card_11/Card_2110003_1/card_2110003_1_036.mp3"
         }
     ]

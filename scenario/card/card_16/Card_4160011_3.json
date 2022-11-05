@@ -6,8 +6,12 @@
             "heroineId": [
                 0
             ],
-            "name": "PCショップ店員",
-            "message": "ありがとうございましたー。",
+            "name": {
+                "default": "PCショップ店員"
+            },
+            "message": {
+                "default": "ありがとうございましたー。"
+            },
             "voice": ""
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "ねえ、これ買いすぎじゃない？\nこんなに必要なの？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "ねえ、これ買いすぎじゃない？\nこんなに必要なの？"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "1台のマシンを組み上げるためには、必要なものばかりです。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "1台のマシンを組み上げるためには、必要なものばかりです。"
+            },
             "voice": "card/Card_16/Card_4160011_3/card_4160011_3_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "へぇ……。つまり、これ組み立てるとパソコンになるんだよね。\nちょっと興味出てきちゃったかも。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "へぇ……。つまり、これ組み立てるとパソコンになるんだよね。\nちょっと興味出てきちゃったかも。"
+            },
             "voice": ""
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "マネージャーも組みますか？\nパーツ、選びますよ。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "マネージャーも組みますか？\nパーツ、選びますよ。"
+            },
             "voice": "card/Card_16/Card_4160011_3/card_4160011_3_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "いやあ、パソコン1台にあの金額は、\n自分の給料ではちょっと……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "いやあ、パソコン1台にあの金額は、\n自分の給料ではちょっと……。"
+            },
             "voice": ""
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "それだけの価値はあります。\nいいものを作るには、それに見合う対価が必要です。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "それだけの価値はあります。\nいいものを作るには、それに見合う対価が必要です。"
+            },
             "voice": "card/Card_16/Card_4160011_3/card_4160011_3_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "言ってることはわかるんだけどね……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "言ってることはわかるんだけどね……。"
+            },
             "voice": ""
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "相談にはいつでも乗ります。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "相談にはいつでも乗ります。"
+            },
             "voice": "card/Card_16/Card_4160011_3/card_4160011_3_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "うん。で、どうしようか？\n実際この量を手で運ぶのはすごく重いよ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "うん。で、どうしようか？\n実際この量を手で運ぶのはすごく重いよ。"
+            },
             "voice": ""
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "はい。\nなので、マネージャーを呼びました。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "はい。\nなので、マネージャーを呼びました。"
+            },
             "voice": "card/Card_16/Card_4160011_3/card_4160011_3_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "でも、自分も厳しいかも。この量を運ぶのは。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "でも、自分も厳しいかも。この量を運ぶのは。"
+            },
             "voice": ""
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "そうですか？",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "そうですか？"
+            },
             "voice": "card/Card_16/Card_4160011_3/card_4160011_3_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "配送してもらえば良かったんじゃない？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "配送してもらえば良かったんじゃない？"
+            },
             "voice": ""
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "今日、必要なので。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "今日、必要なので。"
+            },
             "voice": "card/Card_16/Card_4160011_3/card_4160011_3_015.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "どうしても？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "どうしても？"
+            },
             "voice": ""
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "借りは早めに返さなければいけません。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "借りは早めに返さなければいけません。"
+            },
             "voice": "card/Card_16/Card_4160011_3/card_4160011_3_017.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そ、そう……。\nまぁ、タクシー呼んでくるから、ここで待っててね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そ、そう……。\nまぁ、タクシー呼んでくるから、ここで待っててね。"
+            },
             "voice": ""
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "わかりました。\nお願いします。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "わかりました。\nお願いします。"
+            },
             "voice": "card/Card_16/Card_4160011_3/card_4160011_3_019.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "これで勝てる……。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "これで勝てる……。"
+            },
             "voice": "card/Card_16/Card_4160011_3/card_4160011_3_020.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "今、考えうる最高のマシン。\nこれなら私の全てに追いついてくれる。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "今、考えうる最高のマシン。\nこれなら私の全てに追いついてくれる。"
+            },
             "voice": "card/Card_16/Card_4160011_3/card_4160011_3_021.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "もう二度と遅れはとらない。\nあの世界で、どんな相手にでも。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "もう二度と遅れはとらない。\nあの世界で、どんな相手にでも。"
+            },
             "voice": "card/Card_16/Card_4160011_3/card_4160011_3_022.mp3"
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "私はもう、誰にも負けない。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "私はもう、誰にも負けない。"
+            },
             "voice": "card/Card_16/Card_4160011_3/card_4160011_3_023.mp3"
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "これ、ここに置いとけばいいかな？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "これ、ここに置いとけばいいかな？"
+            },
             "voice": ""
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "はい。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "はい。"
+            },
             "voice": "card/Card_16/Card_4160011_3/card_4160011_3_025.mp3"
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "おかえりー、鳴。\nどうだった、買い物？",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "おかえりー、鳴。\nどうだった、買い物？"
+            },
             "voice": "card/Card_16/Card_4160011_3/card_4160011_3_026.mp3"
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "あ、利恵。ただいま。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "あ、利恵。ただいま。"
+            },
             "voice": "card/Card_16/Card_4160011_3/card_4160011_3_027.mp3"
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "って、何？　その量？\nマネージャー、すごい汗かいてるよ？",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "って、何？　その量？\nマネージャー、すごい汗かいてるよ？"
+            },
             "voice": "card/Card_16/Card_4160011_3/card_4160011_3_028.mp3"
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "タクシーからここまで運んでもらったから。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "タクシーからここまで運んでもらったから。"
+            },
             "voice": "card/Card_16/Card_4160011_3/card_4160011_3_029.mp3"
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "はあ、はあ。疲れた……。\nしばらくは荷物持ちはしたくないかな……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "はあ、はあ。疲れた……。\nしばらくは荷物持ちはしたくないかな……。"
+            },
             "voice": ""
         },
         {
@@ -276,8 +396,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "大丈夫です。\nしばらくはこれで戦えます。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "大丈夫です。\nしばらくはこれで戦えます。"
+            },
             "voice": "card/Card_16/Card_4160011_3/card_4160011_3_031.mp3"
         },
         {
@@ -285,8 +409,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "うん。なるべく長くお願いね。\nそれじゃ自分は帰るから。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "うん。なるべく長くお願いね。\nそれじゃ自分は帰るから。"
+            },
             "voice": ""
         },
         {
@@ -294,8 +422,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "なんだかわかんないけど、\n大儀であった。我が盟友よ。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "なんだかわかんないけど、\n大儀であった。我が盟友よ。"
+            },
             "voice": "card/Card_16/Card_4160011_3/card_4160011_3_033.mp3"
         },
         {
@@ -303,8 +435,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "マネージャー。\n今日はありがとうございました。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "マネージャー。\n今日はありがとうございました。"
+            },
             "voice": "card/Card_16/Card_4160011_3/card_4160011_3_034.mp3"
         },
         {
@@ -312,8 +448,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "それじゃあ利恵。\n私、しばらく部屋にいるから。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "それじゃあ利恵。\n私、しばらく部屋にいるから。"
+            },
             "voice": "card/Card_16/Card_4160011_3/card_4160011_3_035.mp3"
         },
         {
@@ -321,8 +461,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "鳴……、昨日の夜からほとんど寝てないんでしょ？\n少し休んだら？",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "鳴……、昨日の夜からほとんど寝てないんでしょ？\n少し休んだら？"
+            },
             "voice": "card/Card_16/Card_4160011_3/card_4160011_3_036.mp3"
         },
         {
@@ -330,8 +474,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "大丈夫。今日中にこれを組み上げないと。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "大丈夫。今日中にこれを組み上げないと。"
+            },
             "voice": "card/Card_16/Card_4160011_3/card_4160011_3_037.mp3"
         },
         {
@@ -339,8 +487,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "そう？　無理しないでね。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "そう？　無理しないでね。"
+            },
             "voice": "card/Card_16/Card_4160011_3/card_4160011_3_038.mp3"
         },
         {
@@ -348,8 +500,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "うん。大丈夫。ありがとう。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "うん。大丈夫。ありがとう。"
+            },
             "voice": "card/Card_16/Card_4160011_3/card_4160011_3_039.mp3"
         },
         {
@@ -357,8 +513,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "鳴。晩餐の支度が整った。\n共に食卓を囲もうではないか。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "鳴。晩餐の支度が整った。\n共に食卓を囲もうではないか。"
+            },
             "voice": "card/Card_16/Card_4160011_3/card_4160011_3_040.mp3"
         },
         {
@@ -366,8 +526,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "……。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "……。"
+            },
             "voice": "card/Card_16/Card_4160011_3/card_4160011_3_041.mp3"
         },
         {
@@ -375,8 +539,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "鳴？　寝てるの？\n入るよー？",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "鳴？　寝てるの？\n入るよー？"
+            },
             "voice": "card/Card_16/Card_4160011_3/card_4160011_3_042.mp3"
         },
         {
@@ -384,8 +552,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "うわっ。すごい。\nもう完成したの？",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "うわっ。すごい。\nもう完成したの？"
+            },
             "voice": "card/Card_16/Card_4160011_3/card_4160011_3_043.mp3"
         },
         {
@@ -393,8 +565,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "鳴……。\nふふっ。やりきったって顔してる。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "鳴……。\nふふっ。やりきったって顔してる。"
+            },
             "voice": "card/Card_16/Card_4160011_3/card_4160011_3_044.mp3"
         },
         {
@@ -402,8 +578,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "ほら、鳴。ご飯の時間だよ。\nそんなとこで寝てると風邪ひくよ？",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "ほら、鳴。ご飯の時間だよ。\nそんなとこで寝てると風邪ひくよ？"
+            },
             "voice": "card/Card_16/Card_4160011_3/card_4160011_3_045.mp3"
         },
         {
@@ -411,8 +591,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "うーん……。\nこれで……、勝てる……。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "うーん……。\nこれで……、勝てる……。"
+            },
             "voice": "card/Card_16/Card_4160011_3/card_4160011_3_046.mp3"
         }
     ]

@@ -6,8 +6,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "今日は悪かったわね。\n無駄足になっちゃって。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "今日は悪かったわね。\n無駄足になっちゃって。"
+            },
             "voice": "card/Card_13/Card_3130004_2/card_3130004_2_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "どうせだから、ちょっと散歩していかない？\nイルミネーションを観に行こうよ。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "どうせだから、ちょっと散歩していかない？\nイルミネーションを観に行こうよ。"
+            },
             "voice": "card/Card_13/Card_3130004_2/card_3130004_2_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "イルミネーション？",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "イルミネーション？"
+            },
             "voice": "card/Card_13/Card_3130004_2/card_3130004_2_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "隣の駅前広場のイルミネーションが、\nとてもキレイらしいの。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "隣の駅前広場のイルミネーションが、\nとてもキレイらしいの。"
+            },
             "voice": "card/Card_13/Card_3130004_2/card_3130004_2_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "わかったわ。\nじゃあさっそく電車に……。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "わかったわ。\nじゃあさっそく電車に……。"
+            },
             "voice": "card/Card_13/Card_3130004_2/card_3130004_2_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "すぐそこだから歩こ。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "すぐそこだから歩こ。"
+            },
             "voice": "card/Card_13/Card_3130004_2/card_3130004_2_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "そう遠くないし、それでもいいか。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "そう遠くないし、それでもいいか。"
+            },
             "voice": "card/Card_13/Card_3130004_2/card_3130004_2_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "うん。\n行こう。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "うん。\n行こう。"
+            },
             "voice": "card/Card_13/Card_3130004_2/card_3130004_2_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "平日なのに、すごい人だね。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "平日なのに、すごい人だね。"
+            },
             "voice": "card/Card_13/Card_3130004_2/card_3130004_2_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "……っん？\n何か言った？",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "……っん？\n何か言った？"
+            },
             "voice": "card/Card_13/Card_3130004_2/card_3130004_2_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "夢中になって、何を見てたの？",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "夢中になって、何を見てたの？"
+            },
             "voice": "card/Card_13/Card_3130004_2/card_3130004_2_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "あれ何だろ……。\nほら、あそこに長い行列ができてる。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "あれ何だろ……。\nほら、あそこに長い行列ができてる。"
+            },
             "voice": "card/Card_13/Card_3130004_2/card_3130004_2_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "ああ。タピオカの店ね。\n今、大人気なの。食べたことない？ ",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "ああ。タピオカの店ね。\n今、大人気なの。食べたことない？ "
+            },
             "voice": "card/Card_13/Card_3130004_2/card_3130004_2_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "ああいう流行りものには興味がないの。\nあの列に並ばなきゃいけないんでしょ？ ",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "ああいう流行りものには興味がないの。\nあの列に並ばなきゃいけないんでしょ？ "
+            },
             "voice": "card/Card_13/Card_3130004_2/card_3130004_2_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "利恵は、並ぶの嫌いだもんね。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "利恵は、並ぶの嫌いだもんね。"
+            },
             "voice": "card/Card_13/Card_3130004_2/card_3130004_2_015.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "前に一度だけ、\n夢の国と呼ばれる遊園地に行ったことがあるの。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "前に一度だけ、\n夢の国と呼ばれる遊園地に行ったことがあるの。"
+            },
             "voice": "card/Card_13/Card_3130004_2/card_3130004_2_016.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "利恵が？\n珍しい。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "利恵が？\n珍しい。"
+            },
             "voice": "card/Card_13/Card_3130004_2/card_3130004_2_017.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "でも、並ぶのは嫌で、1つも乗り物に乗らなかったわ。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "でも、並ぶのは嫌で、1つも乗り物に乗らなかったわ。"
+            },
             "voice": "card/Card_13/Card_3130004_2/card_3130004_2_018.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "そんなに嫌なの……。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "そんなに嫌なの……。"
+            },
             "voice": "card/Card_13/Card_3130004_2/card_3130004_2_019.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "でも、試しに並んでみようかな……。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "でも、試しに並んでみようかな……。"
+            },
             "voice": "card/Card_13/Card_3130004_2/card_3130004_2_020.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "うん。\nそうしよ。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "うん。\nそうしよ。"
+            },
             "voice": "card/Card_13/Card_3130004_2/card_3130004_2_021.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "これがタピオカミルクティー……。\nこの、カラスの目玉のようなものが、タピオカなの？",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "これがタピオカミルクティー……。\nこの、カラスの目玉のようなものが、タピオカなの？"
+            },
             "voice": "card/Card_13/Card_3130004_2/card_3130004_2_022.mp3"
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "美味しそうでしょう？\n飲んでみて。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "美味しそうでしょう？\n飲んでみて。"
+            },
             "voice": "card/Card_13/Card_3130004_2/card_3130004_2_023.mp3"
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "くにゅくにゅした不思議な食感ね……。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "くにゅくにゅした不思議な食感ね……。"
+            },
             "voice": "card/Card_13/Card_3130004_2/card_3130004_2_024.mp3"
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "どう？\nイマイチ？",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "どう？\nイマイチ？"
+            },
             "voice": "card/Card_13/Card_3130004_2/card_3130004_2_025.mp3"
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "美味！　非常に美味である！\nこんなに美味であったとは知らなかった……。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "美味！　非常に美味である！\nこんなに美味であったとは知らなかった……。"
+            },
             "voice": "card/Card_13/Card_3130004_2/card_3130004_2_026.mp3"
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "たまには、並んでみるのもいいものでしょ。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "たまには、並んでみるのもいいものでしょ。"
+            },
             "voice": "card/Card_13/Card_3130004_2/card_3130004_2_027.mp3"
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "うん。\n確かにそうね。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "うん。\n確かにそうね。"
+            },
             "voice": "card/Card_13/Card_3130004_2/card_3130004_2_028.mp3"
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "あ、イルミネーションはそこの広場だよ。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "あ、イルミネーションはそこの広場だよ。"
+            },
             "voice": "card/Card_13/Card_3130004_2/card_3130004_2_029.mp3"
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "あれ……？",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "あれ……？"
+            },
             "voice": "card/Card_13/Card_3130004_2/card_3130004_2_030.mp3"
         },
         {
@@ -276,8 +396,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "真っ暗ね……。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "真っ暗ね……。"
+            },
             "voice": "card/Card_13/Card_3130004_2/card_3130004_2_031.mp3"
         },
         {
@@ -285,8 +409,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "おかしいな。\nネットで調べてみるね……、あっ！",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "おかしいな。\nネットで調べてみるね……、あっ！"
+            },
             "voice": "card/Card_13/Card_3130004_2/card_3130004_2_032.mp3"
         },
         {
@@ -294,8 +422,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "どうかした？",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "どうかした？"
+            },
             "voice": "card/Card_13/Card_3130004_2/card_3130004_2_033.mp3"
         },
         {
@@ -303,8 +435,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "先週で終わってた……、ごめん。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "先週で終わってた……、ごめん。"
+            },
             "voice": "card/Card_13/Card_3130004_2/card_3130004_2_034.mp3"
         },
         {
@@ -312,8 +448,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "ふふふ……。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "ふふふ……。"
+            },
             "voice": "card/Card_13/Card_3130004_2/card_3130004_2_035.mp3"
         },
         {
@@ -321,8 +461,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "利恵？\nなにがおかしいの？",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "利恵？\nなにがおかしいの？"
+            },
             "voice": "card/Card_13/Card_3130004_2/card_3130004_2_036.mp3"
         },
         {
@@ -330,8 +474,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "いやいや……、そうか。これも先週で終わってたのか。\nお互い、しっかり調べておかないとダメね。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "いやいや……、そうか。これも先週で終わってたのか。\nお互い、しっかり調べておかないとダメね。"
+            },
             "voice": "card/Card_13/Card_3130004_2/card_3130004_2_037.mp3"
         },
         {
@@ -339,8 +487,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "何の話？",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "何の話？"
+            },
             "voice": "card/Card_13/Card_3130004_2/card_3130004_2_038.mp3"
         },
         {
@@ -348,8 +500,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "結果から言えば、大満足だっていう話。\nとても楽しかった。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "結果から言えば、大満足だっていう話。\nとても楽しかった。"
+            },
             "voice": "card/Card_13/Card_3130004_2/card_3130004_2_039.mp3"
         },
         {
@@ -357,8 +513,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "さぁ、もう少し歩こう。\n鳴、付き合ってくれる？",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "さぁ、もう少し歩こう。\n鳴、付き合ってくれる？"
+            },
             "voice": "card/Card_13/Card_3130004_2/card_3130004_2_040.mp3"
         }
     ]

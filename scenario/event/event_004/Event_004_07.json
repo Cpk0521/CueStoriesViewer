@@ -6,8 +6,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "（吹雪の中、行き倒れている女性……。\nこの女性のやり取りで、兄弟の美しい心が描かれるシーン。）",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "（吹雪の中、行き倒れている女性……。\nこの女性のやり取りで、兄弟の美しい心が描かれるシーン。）"
+            },
             "voice": "event/Event_004/Event_004_07/event_004_07_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "『兄弟は激しい吹雪の中、教会へ続く森の中を歩いていきました。\nすると道端に、1人の女性が倒れているではありませんか』",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "『兄弟は激しい吹雪の中、教会へ続く森の中を歩いていきました。\nすると道端に、1人の女性が倒れているではありませんか』"
+            },
             "voice": "event/Event_004/Event_004_07/event_004_07_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "『く、苦しい……』",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "『く、苦しい……』"
+            },
             "voice": "event/Event_004/Event_004_07/event_004_07_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "『どうしました？』",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "『どうしました？』"
+            },
             "voice": "event/Event_004/Event_004_07/event_004_07_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "『実は病気で苦しくて、吹雪の中、前に進めなくなっているの』",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "『実は病気で苦しくて、吹雪の中、前に進めなくなっているの』"
+            },
             "voice": "event/Event_004/Event_004_07/event_004_07_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "『それはいけない。\nわたしがおぶって家まで送って差し上げましょう』",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "『それはいけない。\nわたしがおぶって家まで送って差し上げましょう』"
+            },
             "voice": "event/Event_004/Event_004_07/event_004_07_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "『お兄ちゃん、教会へは行かないのかい？』",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "『お兄ちゃん、教会へは行かないのかい？』"
+            },
             "voice": "event/Event_004/Event_004_07/event_004_07_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "『教会には行きたいが、困ってる人を見過ごすわけにはいかない。\nお前1人で教会へおゆき。さあアントニオ、この銀貨を持って！』",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "『教会には行きたいが、困ってる人を見過ごすわけにはいかない。\nお前1人で教会へおゆき。さあアントニオ、この銀貨を持って！』"
+            },
             "voice": "event/Event_004/Event_004_07/event_004_07_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "『わかったよ！\nじゃあ、行ってきます』",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "『わかったよ！\nじゃあ、行ってきます』"
+            },
             "voice": "event/Event_004/Event_004_07/event_004_07_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "（な、何？\n客席がまたざわついてる……。）",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "（な、何？\n客席がまたざわついてる……。）"
+            },
             "voice": "event/Event_004/Event_004_07/event_004_07_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 0
             ],
-            "name": "子どもたち",
-            "message": "……アントニオのやつ、冷たくね？",
+            "name": {
+                "default": "子どもたち"
+            },
+            "message": {
+                "default": "……アントニオのやつ、冷たくね？"
+            },
             "voice": ""
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 0
             ],
-            "name": "子どもたち",
-            "message": "女の人、家に送ってから教会に行けばいいじゃん。",
+            "name": {
+                "default": "子どもたち"
+            },
+            "message": {
+                "default": "女の人、家に送ってから教会に行けばいいじゃん。"
+            },
             "voice": ""
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "（……確かになぁ。）",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "（……確かになぁ。）"
+            },
             "voice": "event/Event_004/Event_004_07/event_004_07_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "（あれ？\n悠希ちゃんの目の色が変わった。）",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "（あれ？\n悠希ちゃんの目の色が変わった。）"
+            },
             "voice": "event/Event_004/Event_004_07/event_004_07_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "『ただいまー』",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "『ただいまー』"
+            },
             "voice": "event/Event_004/Event_004_07/event_004_07_015.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "『どうしたアントニオ。\n教会へ向かったはずじゃ……』",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "『どうしたアントニオ。\n教会へ向かったはずじゃ……』"
+            },
             "voice": "event/Event_004/Event_004_07/event_004_07_016.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "『なんか、二の足を踏んだんだ。\nお兄ちゃんも、教会へ連れて行くべきかなって思って』",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "『なんか、二の足を踏んだんだ。\nお兄ちゃんも、教会へ連れて行くべきかなって思って』"
+            },
             "voice": "event/Event_004/Event_004_07/event_004_07_017.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "（ま、まずいよぉ。）",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "（ま、まずいよぉ。）"
+            },
             "voice": "event/Event_004/Event_004_07/event_004_07_018.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "『お兄ちゃんは、そんな優しいアントニオの背中を押して、\n再び教会へと向かわせました』",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "『お兄ちゃんは、そんな優しいアントニオの背中を押して、\n再び教会へと向かわせました』"
+            },
             "voice": "event/Event_004/Event_004_07/event_004_07_019.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "『背中を押すなよお兄ちゃん、\n僕も一緒に、その女の人を連れて行くよ』",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "『背中を押すなよお兄ちゃん、\n僕も一緒に、その女の人を連れて行くよ』"
+            },
             "voice": "event/Event_004/Event_004_07/event_004_07_020.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "『なんてアントニオは優しいんでしょう！\nですが、お兄ちゃんは力づくでアントニオを教会へ向かわせます』",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "『なんてアントニオは優しいんでしょう！\nですが、お兄ちゃんは力づくでアントニオを教会へ向かわせます』"
+            },
             "voice": "event/Event_004/Event_004_07/event_004_07_021.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "『力づくは嫌だよ。2人で抱えた方が早いだろう？　\nな？　そうしよう』",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "『力づくは嫌だよ。2人で抱えた方が早いだろう？　\nな？　そうしよう』"
+            },
             "voice": "event/Event_004/Event_004_07/event_004_07_022.mp3"
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "『お兄ちゃんは、一向にかまわないが……、\nナレーションの人がどう思うかだよね』",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "『お兄ちゃんは、一向にかまわないが……、\nナレーションの人がどう思うかだよね』"
+            },
             "voice": "event/Event_004/Event_004_07/event_004_07_023.mp3"
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "『ナレーションの人！\nどう思うんだい？』",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "『ナレーションの人！\nどう思うんだい？』"
+            },
             "voice": "event/Event_004/Event_004_07/event_004_07_024.mp3"
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "話を……、元に戻してほしいと思います！",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "話を……、元に戻してほしいと思います！"
+            },
             "voice": "event/Event_004/Event_004_07/event_004_07_025.mp3"
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "（あぁー、笑われちゃったよぉ。）",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "（あぁー、笑われちゃったよぉ。）"
+            },
             "voice": "event/Event_004/Event_004_07/event_004_07_026.mp3"
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "『と、とにかく……。\nアントニオ君は、1人で教会に行った方がいいんじゃないかな？』",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "『と、とにかく……。\nアントニオ君は、1人で教会に行った方がいいんじゃないかな？』"
+            },
             "voice": "event/Event_004/Event_004_07/event_004_07_027.mp3"
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "（ありがとう千紗ちゃん！）",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "（ありがとう千紗ちゃん！）"
+            },
             "voice": "event/Event_004/Event_004_07/event_004_07_028.mp3"
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "『いやとにかく、このおばちゃんを送ってから行くことにするよ。\nさあ、行こう！』",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "『いやとにかく、このおばちゃんを送ってから行くことにするよ。\nさあ、行こう！』"
+            },
             "voice": "event/Event_004/Event_004_07/event_004_07_029.mp3"
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "『おばちゃんってちょっと、心外だわ。お姉さんでしょ』",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "『おばちゃんってちょっと、心外だわ。お姉さんでしょ』"
+            },
             "voice": "event/Event_004/Event_004_07/event_004_07_030.mp3"
         },
         {
@@ -276,8 +396,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "（千紗ちゃん、そんなとこ、こだわるところじゃないよぉ。）",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "（千紗ちゃん、そんなとこ、こだわるところじゃないよぉ。）"
+            },
             "voice": "event/Event_004/Event_004_07/event_004_07_031.mp3"
         },
         {
@@ -285,8 +409,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "『お姉さん家、遠いのよ。\n教会のパーティー終わっちゃうよ』",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "『お姉さん家、遠いのよ。\n教会のパーティー終わっちゃうよ』"
+            },
             "voice": "event/Event_004/Event_004_07/event_004_07_032.mp3"
         },
         {
@@ -294,8 +422,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "『え！？　それは困ったなぁ。\nでも、自分の欲を叶えるために行動していいんだろうか？』",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "『え！？　それは困ったなぁ。\nでも、自分の欲を叶えるために行動していいんだろうか？』"
+            },
             "voice": "event/Event_004/Event_004_07/event_004_07_033.mp3"
         },
         {
@@ -303,8 +435,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "（余計な葛藤しないで。\nアントニオは純粋であればいいんだから。）",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "（余計な葛藤しないで。\nアントニオは純粋であればいいんだから。）"
+            },
             "voice": "event/Event_004/Event_004_07/event_004_07_034.mp3"
         },
         {
@@ -312,8 +448,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "『おともだちのみんなに聞いてみたらどうかな？』",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "『おともだちのみんなに聞いてみたらどうかな？』"
+            },
             "voice": "event/Event_004/Event_004_07/event_004_07_035.mp3"
         },
         {
@@ -321,8 +461,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "『おともだちのみんなって？』",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "『おともだちのみんなって？』"
+            },
             "voice": "event/Event_004/Event_004_07/event_004_07_036.mp3"
         },
         {
@@ -330,8 +474,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "『目の前にいるだろ？』",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "『目の前にいるだろ？』"
+            },
             "voice": "event/Event_004/Event_004_07/event_004_07_037.mp3"
         },
         {
@@ -339,8 +487,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "『なるほどそうか。おともだちのみんなー！\n僕はこのおばちゃんを送ったほうがいいと思う？』",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "『なるほどそうか。おともだちのみんなー！\n僕はこのおばちゃんを送ったほうがいいと思う？』"
+            },
             "voice": "event/Event_004/Event_004_07/event_004_07_038.mp3"
         },
         {
@@ -348,8 +500,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "し、知らない人には、ついていっちゃダメだよねぇ？",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "し、知らない人には、ついていっちゃダメだよねぇ？"
+            },
             "voice": "event/Event_004/Event_004_07/event_004_07_039.mp3"
         },
         {
@@ -357,8 +513,12 @@
             "heroineId": [
                 0
             ],
-            "name": "子どもたち",
-            "message": "……。",
+            "name": {
+                "default": "子どもたち"
+            },
+            "message": {
+                "default": "……。"
+            },
             "voice": ""
         },
         {
@@ -366,8 +526,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "（ん？　客席の空気が変わった……。）",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "（ん？　客席の空気が変わった……。）"
+            },
             "voice": "event/Event_004/Event_004_07/event_004_07_041.mp3"
         },
         {
@@ -375,8 +539,12 @@
             "heroineId": [
                 0
             ],
-            "name": "子どもたち",
-            "message": "……いかのおすしだ。",
+            "name": {
+                "default": "子どもたち"
+            },
+            "message": {
+                "default": "……いかのおすしだ。"
+            },
             "voice": ""
         },
         {
@@ -384,8 +552,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "へ？　お寿司？",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "へ？　お寿司？"
+            },
             "voice": "event/Event_004/Event_004_07/event_004_07_043.mp3"
         },
         {
@@ -393,8 +565,12 @@
             "heroineId": [
                 0
             ],
-            "name": "子どもたち",
-            "message": "「イカ」行かない、「ノ」乗らない、「オ」大声を出して、\n「ス」すぐ逃げて、「シ」知らせる。",
+            "name": {
+                "default": "子どもたち"
+            },
+            "message": {
+                "default": "「イカ」行かない、「ノ」乗らない、「オ」大声を出して、\n「ス」すぐ逃げて、「シ」知らせる。"
+            },
             "voice": ""
         },
         {
@@ -402,8 +578,12 @@
             "heroineId": [
                 0
             ],
-            "name": "子どもたち",
-            "message": "そうだー！　いかのおすし！",
+            "name": {
+                "default": "子どもたち"
+            },
+            "message": {
+                "default": "そうだー！　いかのおすし！"
+            },
             "voice": ""
         },
         {
@@ -411,8 +591,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "（さっきと話が違うなぁ……。）",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "（さっきと話が違うなぁ……。）"
+            },
             "voice": "event/Event_004/Event_004_07/event_004_07_046.mp3"
         },
         {
@@ -420,8 +604,12 @@
             "heroineId": [
                 5
             ],
-            "name": "天童悠希",
-            "message": "『よし、お兄ちゃん。いかのおすしだ。\n僕は教会に行くことにするよ』",
+            "name": {
+                "default": "天童悠希"
+            },
+            "message": {
+                "default": "『よし、お兄ちゃん。いかのおすしだ。\n僕は教会に行くことにするよ』"
+            },
             "voice": "event/Event_004/Event_004_07/event_004_07_047.mp3"
         },
         {
@@ -429,8 +617,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "『そうかアントニオ。お兄ちゃんもこの知らないおばちゃんには、\n十分警戒して、任務を遂行するよ』",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "『そうかアントニオ。お兄ちゃんもこの知らないおばちゃんには、\n十分警戒して、任務を遂行するよ』"
+            },
             "voice": "event/Event_004/Event_004_07/event_004_07_048.mp3"
         },
         {
@@ -438,8 +630,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "『なんだか、申し訳ないわね。\nあと、しつこいようだけど、お姉さんだから』",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "『なんだか、申し訳ないわね。\nあと、しつこいようだけど、お姉さんだから』"
+            },
             "voice": "event/Event_004/Event_004_07/event_004_07_049.mp3"
         },
         {
@@ -447,8 +643,12 @@
             "heroineId": [
                 0
             ],
-            "name": "子どもたち",
-            "message": "お兄ちゃんも、行っちゃダメー！",
+            "name": {
+                "default": "子どもたち"
+            },
+            "message": {
+                "default": "お兄ちゃんも、行っちゃダメー！"
+            },
             "voice": ""
         },
         {
@@ -456,8 +656,12 @@
             "heroineId": [
                 0
             ],
-            "name": "子どもたち",
-            "message": "知らない人は危険だよぉ。",
+            "name": {
+                "default": "子どもたち"
+            },
+            "message": {
+                "default": "知らない人は危険だよぉ。"
+            },
             "voice": ""
         },
         {
@@ -465,8 +669,12 @@
             "heroineId": [
                 0
             ],
-            "name": "子どもたち",
-            "message": "そうだ、そうだー！",
+            "name": {
+                "default": "子どもたち"
+            },
+            "message": {
+                "default": "そうだ、そうだー！"
+            },
             "voice": ""
         },
         {
@@ -474,8 +682,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "（そんなぁ……、前にも後ろにも行けなくなちゃったよ。\nどうすればいいんだろう？）",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "（そんなぁ……、前にも後ろにも行けなくなちゃったよ。\nどうすればいいんだろう？）"
+            },
             "voice": "event/Event_004/Event_004_07/event_004_07_053.mp3"
         }
     ]

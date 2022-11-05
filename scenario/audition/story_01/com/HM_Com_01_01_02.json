@@ -6,8 +6,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "お疲れ様です、マネージャーさん！",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "お疲れ様です、マネージャーさん！"
+            },
             "voice": "audition/story_01/com/HM_Com_01_01_02/hm_com_01_01_02_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "お疲れ様、陽菜。\n今日はやけに上機嫌だね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "お疲れ様、陽菜。\n今日はやけに上機嫌だね。"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "うふふ、わかりますか？\nこれ見てください！",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "うふふ、わかりますか？\nこれ見てください！"
+            },
             "voice": "audition/story_01/com/HM_Com_01_01_02/hm_com_01_01_02_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "あれ？　それって「マジック♦ワークス」の？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "あれ？　それって「マジック♦ワークス」の？"
+            },
             "voice": ""
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "スイングマスコットです！　\nわたし、あかねちゃんの持ってなかったんですよ。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "スイングマスコットです！　\nわたし、あかねちゃんの持ってなかったんですよ。"
+            },
             "voice": "audition/story_01/com/HM_Com_01_01_02/hm_com_01_01_02_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そうなんだ。結構前のだけど、まだあったんだね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そうなんだ。結構前のだけど、まだあったんだね。"
+            },
             "voice": ""
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "はい。ガチャガチャ会館にあった、って、\n志穂ちゃんに教えてもらったんです。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "はい。ガチャガチャ会館にあった、って、\n志穂ちゃんに教えてもらったんです。"
+            },
             "voice": "audition/story_01/com/HM_Com_01_01_02/hm_com_01_01_02_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "それに神瑞はどこにでもお宝が埋まってる可能性があるって、\n言ってました。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "それに神瑞はどこにでもお宝が埋まってる可能性があるって、\n言ってました。"
+            },
             "voice": "audition/story_01/com/HM_Com_01_01_02/hm_com_01_01_02_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "あはは、確かにそうかもね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "あはは、確かにそうかもね。"
+            },
             "voice": ""
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "ふふ。そういうお宝が身近にあるって、\nなんかいいなぁって思います。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "ふふ。そういうお宝が身近にあるって、\nなんかいいなぁって思います。"
+            },
             "voice": "audition/story_01/com/HM_Com_01_01_02/hm_com_01_01_02_010.mp3"
         }
     ]

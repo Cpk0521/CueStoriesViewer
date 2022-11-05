@@ -6,8 +6,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "撮影、お疲れ様でした。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "撮影、お疲れ様でした。"
+            },
             "voice": ""
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "帰り際、カメラマンに握手されたわ。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "帰り際、カメラマンに握手されたわ。"
+            },
             "voice": "card/Card_13/Card_3130006_2/card_3130006_2_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "カメラマンの人、凄い喜んでたから。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "カメラマンの人、凄い喜んでたから。"
+            },
             "voice": ""
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "サインしてくれって言われた。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "サインしてくれって言われた。"
+            },
             "voice": "card/Card_13/Card_3130006_2/card_3130006_2_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "すっかり利恵のファンになったみたい。\n笑顔が良かったんだよ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "すっかり利恵のファンになったみたい。\n笑顔が良かったんだよ。"
+            },
             "voice": ""
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "愚かな。あれはかりそめの姿。\n本当の我輩を知れば、恐怖で恐れおののくであろう。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "愚かな。あれはかりそめの姿。\n本当の我輩を知れば、恐怖で恐れおののくであろう。"
+            },
             "voice": "card/Card_13/Card_3130006_2/card_3130006_2_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そんなこと言いつつ、笑顔は無邪気で可愛い。\nそのギャップが良かったんだよ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そんなこと言いつつ、笑顔は無邪気で可愛い。\nそのギャップが良かったんだよ。"
+            },
             "voice": ""
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "マネージャーは、まだ我輩のことを分かってないな。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "マネージャーは、まだ我輩のことを分かってないな。"
+            },
             "voice": "card/Card_13/Card_3130006_2/card_3130006_2_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そうかなぁ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そうかなぁ。"
+            },
             "voice": ""
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "ところで、本当に服を買ってもいいの？",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "ところで、本当に服を買ってもいいの？"
+            },
             "voice": "card/Card_13/Card_3130006_2/card_3130006_2_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "もちろん。\n自分で稼いだギャラでしょ？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "もちろん。\n自分で稼いだギャラでしょ？"
+            },
             "voice": ""
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "そんなにたくさんギャラが出たの？",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "そんなにたくさんギャラが出たの？"
+            },
             "voice": "card/Card_13/Card_3130006_2/card_3130006_2_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "あんま多くは無いけど……。\nそんなに高い服なの？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "あんま多くは無いけど……。\nそんなに高い服なの？"
+            },
             "voice": ""
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "安くはないわ。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "安くはないわ。"
+            },
             "voice": "card/Card_13/Card_3130006_2/card_3130006_2_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "特殊な服だもんね……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "特殊な服だもんね……。"
+            },
             "voice": ""
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "量産型の服は買わない主義なの。\nというか、服というより、装備ね。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "量産型の服は買わない主義なの。\nというか、服というより、装備ね。"
+            },
             "voice": "card/Card_13/Card_3130006_2/card_3130006_2_016.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "ギャラでは足りない気がするな……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "ギャラでは足りない気がするな……。"
+            },
             "voice": ""
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "もし足りなかったらどうする？　\n買わない？",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "もし足りなかったらどうする？　\n買わない？"
+            },
             "voice": "card/Card_13/Card_3130006_2/card_3130006_2_018.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "いや、足りなかったら少し援助するよ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "いや、足りなかったら少し援助するよ。"
+            },
             "voice": ""
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "え！？　いいの！？　\nマネージャー、安月給でしょ？",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "え！？　いいの！？　\nマネージャー、安月給でしょ？"
+            },
             "voice": "card/Card_13/Card_3130006_2/card_3130006_2_020.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "確かに、高給取りではないけど……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "確かに、高給取りではないけど……。"
+            },
             "voice": ""
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "やっぱいい。\n服はいらない。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "やっぱいい。\n服はいらない。"
+            },
             "voice": "card/Card_13/Card_3130006_2/card_3130006_2_022.mp3"
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "どうして？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "どうして？"
+            },
             "voice": ""
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "安月給なのに休みもなく働いて……。\nしかも、我輩達のことをいろいろやってくれて……。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "安月給なのに休みもなく働いて……。\nしかも、我輩達のことをいろいろやってくれて……。"
+            },
             "voice": "card/Card_13/Card_3130006_2/card_3130006_2_024.mp3"
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "マネージャーには、ハッキリ言って感謝しかない。\nこの上、服を買うお金まで出させるわけにいかない。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "マネージャーには、ハッキリ言って感謝しかない。\nこの上、服を買うお金まで出させるわけにいかない。"
+            },
             "voice": "card/Card_13/Card_3130006_2/card_3130006_2_025.mp3"
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "利恵ってすごく常識人なんだね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "利恵ってすごく常識人なんだね。"
+            },
             "voice": ""
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "……というのは嘘だ。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "……というのは嘘だ。"
+            },
             "voice": "card/Card_13/Card_3130006_2/card_3130006_2_027.mp3"
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "えっ？\n嘘なの？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "えっ？\n嘘なの？"
+            },
             "voice": ""
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "我輩が本気を出せば、お前を破滅させることなど容易。\nそんなこと、赤子の手を捻るようなものだ。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "我輩が本気を出せば、お前を破滅させることなど容易。\nそんなこと、赤子の手を捻るようなものだ。"
+            },
             "voice": "card/Card_13/Card_3130006_2/card_3130006_2_029.mp3"
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "怖いよ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "怖いよ。"
+            },
             "voice": ""
         },
         {
@@ -276,8 +396,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "……でも、安心しろ。\nマネージャーには、まだまだ世話にならねばならぬ。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "……でも、安心しろ。\nマネージャーには、まだまだ世話にならねばならぬ。"
+            },
             "voice": "card/Card_13/Card_3130006_2/card_3130006_2_031.mp3"
         },
         {
@@ -285,8 +409,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "だから、まだまだ元気でいてもらわねばならぬ。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "だから、まだまだ元気でいてもらわねばならぬ。"
+            },
             "voice": "card/Card_13/Card_3130006_2/card_3130006_2_032.mp3"
         },
         {
@@ -294,8 +422,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "しっかりご飯を食べて、映画でも観て、\nリフレッシュせねばならぬ。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "しっかりご飯を食べて、映画でも観て、\nリフレッシュせねばならぬ。"
+            },
             "voice": "card/Card_13/Card_3130006_2/card_3130006_2_033.mp3"
         },
         {
@@ -303,8 +435,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "だから、わがままは言わない。\n服も我慢しよう。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "だから、わがままは言わない。\n服も我慢しよう。"
+            },
             "voice": "card/Card_13/Card_3130006_2/card_3130006_2_034.mp3"
         },
         {
@@ -312,8 +448,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "ほら、やっぱり常識人だ。それに、すごく優しい。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "ほら、やっぱり常識人だ。それに、すごく優しい。"
+            },
             "voice": ""
         },
         {
@@ -321,8 +461,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "誰に口を利いている！",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "誰に口を利いている！"
+            },
             "voice": "card/Card_13/Card_3130006_2/card_3130006_2_036.mp3"
         },
         {
@@ -330,8 +474,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "我輩は悪魔エリス。\n地獄より地上に顕現せし……。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "我輩は悪魔エリス。\n地獄より地上に顕現せし……。"
+            },
             "voice": "card/Card_13/Card_3130006_2/card_3130006_2_037.mp3"
         },
         {
@@ -339,8 +487,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "店に着いたよ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "店に着いたよ。"
+            },
             "voice": ""
         },
         {
@@ -348,8 +500,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "最後まで聞いてよ！",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "最後まで聞いてよ！"
+            },
             "voice": "card/Card_13/Card_3130006_2/card_3130006_2_039.mp3"
         },
         {
@@ -357,8 +513,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "さ、好きな服を選んで。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "さ、好きな服を選んで。"
+            },
             "voice": ""
         },
         {
@@ -366,8 +526,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "服などいらないって言ったでしょ！",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "服などいらないって言ったでしょ！"
+            },
             "voice": "card/Card_13/Card_3130006_2/card_3130006_2_041.mp3"
         },
         {
@@ -375,8 +539,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "心配してくれてありがとう。\nでも大丈夫だよ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "心配してくれてありがとう。\nでも大丈夫だよ。"
+            },
             "voice": ""
         },
         {
@@ -384,8 +552,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "何が大丈夫……？",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "何が大丈夫……？"
+            },
             "voice": "card/Card_13/Card_3130006_2/card_3130006_2_043.mp3"
         },
         {
@@ -393,8 +565,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "実は社長から特別手当をもらってるんだ。\n何か美味しいものを食べてきなさいって。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "実は社長から特別手当をもらってるんだ。\n何か美味しいものを食べてきなさいって。"
+            },
             "voice": ""
         },
         {
@@ -402,8 +578,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "えっ？",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "えっ？"
+            },
             "voice": "card/Card_13/Card_3130006_2/card_3130006_2_045.mp3"
         },
         {
@@ -411,8 +591,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "ギャラにそのお金を足して、欲しい服を買いなよ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "ギャラにそのお金を足して、欲しい服を買いなよ。"
+            },
             "voice": ""
         },
         {
@@ -420,8 +604,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "いいの……？",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "いいの……？"
+            },
             "voice": "card/Card_13/Card_3130006_2/card_3130006_2_047.mp3"
         },
         {
@@ -429,8 +617,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "いいよ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "いいよ。"
+            },
             "voice": ""
         },
         {
@@ -438,8 +630,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "やったあー！",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "やったあー！"
+            },
             "voice": "card/Card_13/Card_3130006_2/card_3130006_2_049.mp3"
         },
         {
@@ -447,8 +643,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "（こういうときのリアクションは可愛いんだよな。）",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "（こういうときのリアクションは可愛いんだよな。）"
+            },
             "voice": ""
         },
         {
@@ -456,8 +656,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "マネージャー！\nマネージャー！",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "マネージャー！\nマネージャー！"
+            },
             "voice": "card/Card_13/Card_3130006_2/card_3130006_2_051.mp3"
         },
         {
@@ -465,8 +669,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "えっ？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "えっ？"
+            },
             "voice": ""
         },
         {
@@ -474,8 +682,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "この服持ってて！\n試着してみる！",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "この服持ってて！\n試着してみる！"
+            },
             "voice": "card/Card_13/Card_3130006_2/card_3130006_2_053.mp3"
         }
     ]

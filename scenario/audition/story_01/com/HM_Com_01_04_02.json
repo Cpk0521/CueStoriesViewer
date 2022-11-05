@@ -6,8 +6,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "お疲れ様でしたー！\nあ、外って、まだ雨降ってますか？",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "お疲れ様でしたー！\nあ、外って、まだ雨降ってますか？"
+            },
             "voice": "audition/story_01/com/HM_Com_01_04_02/hm_com_01_04_02_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "お疲れ様、ほのか。\nうん、まだ雨は続いてるよ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "お疲れ様、ほのか。\nうん、まだ雨は続いてるよ。"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "そうですか……。結局、今日はずっと雨でしたね。　",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "そうですか……。結局、今日はずっと雨でしたね。　"
+            },
             "voice": "audition/story_01/com/HM_Com_01_04_02/hm_com_01_04_02_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "そうだね……。\nもしかして、今日も走ってきたの？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "そうだね……。\nもしかして、今日も走ってきたの？"
+            },
             "voice": ""
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "いやー、さすがにこの雨の中は走ってきませんよ。\n危ないですから。　",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "いやー、さすがにこの雨の中は走ってきませんよ。\n危ないですから。　"
+            },
             "voice": "audition/story_01/com/HM_Com_01_04_02/hm_com_01_04_02_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "今日はその分、帰って多めにトレーニングします！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "今日はその分、帰って多めにトレーニングします！"
+            },
             "voice": "audition/story_01/com/HM_Com_01_04_02/hm_com_01_04_02_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "マネージャーも帰る時、足元気を付けてください。\n滑りやすいんで。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "マネージャーも帰る時、足元気を付けてください。\n滑りやすいんで。"
+            },
             "voice": "audition/story_01/com/HM_Com_01_04_02/hm_com_01_04_02_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "それじゃ、お先に失礼します。　",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "それじゃ、お先に失礼します。　"
+            },
             "voice": "audition/story_01/com/HM_Com_01_04_02/hm_com_01_04_02_008.mp3"
         }
     ]

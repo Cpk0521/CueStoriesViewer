@@ -6,8 +6,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "よし、着いた……！",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "よし、着いた……！"
+            },
             "voice": "card/Card_14/Card_4140013_3/card_4140013_3_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "やったー！　到着ー！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "やったー！　到着ー！"
+            },
             "voice": "card/Card_14/Card_4140013_3/card_4140013_3_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "結構、近場だったね。\nそんなに時間かからなかったし。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "結構、近場だったね。\nそんなに時間かからなかったし。"
+            },
             "voice": "card/Card_14/Card_4140013_3/card_4140013_3_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "うん、私たちだけで行ける場所、探したから。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "うん、私たちだけで行ける場所、探したから。"
+            },
             "voice": "card/Card_14/Card_4140013_3/card_4140013_3_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "そうなんだ……。ありがとう、鳴。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "そうなんだ……。ありがとう、鳴。"
+            },
             "voice": "card/Card_14/Card_4140013_3/card_4140013_3_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "そうね、早く着きすぎちゃったくらいね。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "そうね、早く着きすぎちゃったくらいね。"
+            },
             "voice": "card/Card_14/Card_4140013_3/card_4140013_3_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "えへへ、ここなら、星もたっくさん見れそうだねー！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "えへへ、ここなら、星もたっくさん見れそうだねー！"
+            },
             "voice": "card/Card_14/Card_4140013_3/card_4140013_3_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "うん。\nでも……。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "うん。\nでも……。"
+            },
             "voice": "card/Card_14/Card_4140013_3/card_4140013_3_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "空、曇ってる……。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "空、曇ってる……。"
+            },
             "voice": "card/Card_14/Card_4140013_3/card_4140013_3_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "うん。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "うん。"
+            },
             "voice": "card/Card_14/Card_4140013_3/card_4140013_3_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "あ、でもでも、少しは星が見えるかも！ ",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "あ、でもでも、少しは星が見えるかも！ "
+            },
             "voice": "card/Card_14/Card_4140013_3/card_4140013_3_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "うん。そう……、だね……。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "うん。そう……、だね……。"
+            },
             "voice": "card/Card_14/Card_4140013_3/card_4140013_3_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "あ、でも、みんなで出かけられて楽しかったよ。\n我輩、嬉しかった。来る途中も色んなことを話したり出来たし。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "あ、でも、みんなで出かけられて楽しかったよ。\n我輩、嬉しかった。来る途中も色んなことを話したり出来たし。"
+            },
             "voice": "card/Card_14/Card_4140013_3/card_4140013_3_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "……。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "……。"
+            },
             "voice": "card/Card_14/Card_4140013_3/card_4140013_3_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "……。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "……。"
+            },
             "voice": "card/Card_14/Card_4140013_3/card_4140013_3_015.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "でも、天気ばかりは……、しょうがないよね。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "でも、天気ばかりは……、しょうがないよね。"
+            },
             "voice": "card/Card_14/Card_4140013_3/card_4140013_3_016.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "リエンヌ……。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "リエンヌ……。"
+            },
             "voice": "card/Card_14/Card_4140013_3/card_4140013_3_017.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "利恵、大丈夫。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "利恵、大丈夫。"
+            },
             "voice": "card/Card_14/Card_4140013_3/card_4140013_3_018.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "え？",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "え？"
+            },
             "voice": "card/Card_14/Card_4140013_3/card_4140013_3_019.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "そうね。あとちょっとかしら。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "そうね。あとちょっとかしら。"
+            },
             "voice": "card/Card_14/Card_4140013_3/card_4140013_3_020.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "うん。あとちょっと。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "うん。あとちょっと。"
+            },
             "voice": "card/Card_14/Card_4140013_3/card_4140013_3_021.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "え？　一体、どういうこと？",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "え？　一体、どういうこと？"
+            },
             "voice": "card/Card_14/Card_4140013_3/card_4140013_3_022.mp3"
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "ふふ、利恵の好きな魔法、見せてあげる。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "ふふ、利恵の好きな魔法、見せてあげる。"
+            },
             "voice": "card/Card_14/Card_4140013_3/card_4140013_3_023.mp3"
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "ほら！　空を見て！",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "ほら！　空を見て！"
+            },
             "voice": "card/Card_14/Card_4140013_3/card_4140013_3_024.mp3"
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "あ……。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "あ……。"
+            },
             "voice": "card/Card_14/Card_4140013_3/card_4140013_3_025.mp3"
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "わぁっ！　空が……！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "わぁっ！　空が……！"
+            },
             "voice": "card/Card_14/Card_4140013_3/card_4140013_3_026.mp3"
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "うわー……。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "うわー……。"
+            },
             "voice": "card/Card_14/Card_4140013_3/card_4140013_3_027.mp3"
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "すごいすごい！\n一気に雲がなくなったよ！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "すごいすごい！\n一気に雲がなくなったよ！"
+            },
             "voice": "card/Card_14/Card_4140013_3/card_4140013_3_028.mp3"
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "すごい……。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "すごい……。"
+            },
             "voice": "card/Card_14/Card_4140013_3/card_4140013_3_029.mp3"
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "ふふ。思ったとおりね。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "ふふ。思ったとおりね。"
+            },
             "voice": "card/Card_14/Card_4140013_3/card_4140013_3_030.mp3"
         },
         {
@@ -276,8 +396,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "ぴったりだったね。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "ぴったりだったね。"
+            },
             "voice": "card/Card_14/Card_4140013_3/card_4140013_3_031.mp3"
         },
         {
@@ -285,8 +409,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "え、でも、どうして？　本当に魔法？",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "え、でも、どうして？　本当に魔法？"
+            },
             "voice": "card/Card_14/Card_4140013_3/card_4140013_3_032.mp3"
         },
         {
@@ -294,8 +422,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "ふふ、そんなわけないでしょ。\nちゃんと調べれば、わかることよ。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "ふふ、そんなわけないでしょ。\nちゃんと調べれば、わかることよ。"
+            },
             "voice": "card/Card_14/Card_4140013_3/card_4140013_3_033.mp3"
         },
         {
@@ -303,8 +435,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "うん。\n場所も気象条件も、いいところ見つけてあるって言ったよ。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "うん。\n場所も気象条件も、いいところ見つけてあるって言ったよ。"
+            },
             "voice": "card/Card_14/Card_4140013_3/card_4140013_3_034.mp3"
         },
         {
@@ -312,8 +448,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "そうなんだ……。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "そうなんだ……。"
+            },
             "voice": "card/Card_14/Card_4140013_3/card_4140013_3_035.mp3"
         },
         {
@@ -321,8 +461,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "ねーねー、みんなも見ようよー！\nまるで北海道みたいにたっくさんお星さまが見えるよー！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "ねーねー、みんなも見ようよー！\nまるで北海道みたいにたっくさんお星さまが見えるよー！"
+            },
             "voice": "card/Card_14/Card_4140013_3/card_4140013_3_036.mp3"
         },
         {
@@ -330,8 +474,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "ふふっ、そうね。\n折角の星空、楽しみましょう。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "ふふっ、そうね。\n折角の星空、楽しみましょう。"
+            },
             "voice": "card/Card_14/Card_4140013_3/card_4140013_3_037.mp3"
         },
         {
@@ -339,8 +487,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "あ、もしかして、あれが夏の大三角形？",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "あ、もしかして、あれが夏の大三角形？"
+            },
             "voice": "card/Card_14/Card_4140013_3/card_4140013_3_038.mp3"
         },
         {
@@ -348,8 +500,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "そうだね。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "そうだね。"
+            },
             "voice": "card/Card_14/Card_4140013_3/card_4140013_3_039.mp3"
         },
         {
@@ -357,8 +513,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "季節的に早い時間ならまだ見えるわね。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "季節的に早い時間ならまだ見えるわね。"
+            },
             "voice": "card/Card_14/Card_4140013_3/card_4140013_3_040.mp3"
         },
         {
@@ -366,8 +526,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "こう見ると、本当に目立つ三角形なんだね。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "こう見ると、本当に目立つ三角形なんだね。"
+            },
             "voice": "card/Card_14/Card_4140013_3/card_4140013_3_041.mp3"
         },
         {
@@ -375,8 +539,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "あと、利恵は確か射手座だったよね。\n向こうの空に見えるよ。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "あと、利恵は確か射手座だったよね。\n向こうの空に見えるよ。"
+            },
             "voice": "card/Card_14/Card_4140013_3/card_4140013_3_042.mp3"
         },
         {
@@ -384,8 +552,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "えっ、ほんと！？\nどこどこ？",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "えっ、ほんと！？\nどこどこ？"
+            },
             "voice": "card/Card_14/Card_4140013_3/card_4140013_3_043.mp3"
         },
         {
@@ -393,8 +565,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "ほら、向こうに……、伏せたお椀みたいに、\n4つの星が並んでるでしょ。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "ほら、向こうに……、伏せたお椀みたいに、\n4つの星が並んでるでしょ。"
+            },
             "voice": "card/Card_14/Card_4140013_3/card_4140013_3_044.mp3"
         },
         {
@@ -402,8 +578,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "うーん……。\nあっ、あそこ？",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "うーん……。\nあっ、あそこ？"
+            },
             "voice": "card/Card_14/Card_4140013_3/card_4140013_3_045.mp3"
         },
         {
@@ -411,8 +591,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "そうそう。それが射手座の真ん中で。\n南斗六星でもあるの。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "そうそう。それが射手座の真ん中で。\n南斗六星でもあるの。"
+            },
             "voice": "card/Card_14/Card_4140013_3/card_4140013_3_046.mp3"
         },
         {
@@ -420,8 +604,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "これ、星図盤。\n見比べると、よくわかるでしょう？",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "これ、星図盤。\n見比べると、よくわかるでしょう？"
+            },
             "voice": "card/Card_14/Card_4140013_3/card_4140013_3_047.mp3"
         },
         {
@@ -429,8 +617,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "おお、わかる……！\nあれが我輩の星座、射手座か！",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "おお、わかる……！\nあれが我輩の星座、射手座か！"
+            },
             "voice": "card/Card_14/Card_4140013_3/card_4140013_3_048.mp3"
         },
         {
@@ -438,8 +630,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "えへへ、良かったね。リエンヌー！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "えへへ、良かったね。リエンヌー！"
+            },
             "voice": "card/Card_14/Card_4140013_3/card_4140013_3_049.mp3"
         },
         {
@@ -447,8 +643,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "……。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "……。"
+            },
             "voice": "card/Card_14/Card_4140013_3/card_4140013_3_050.mp3"
         },
         {
@@ -456,8 +656,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "じゃあ、あの星は？　あっちの輝いてるのは何？",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "じゃあ、あの星は？　あっちの輝いてるのは何？"
+            },
             "voice": "card/Card_14/Card_4140013_3/card_4140013_3_051.mp3"
         },
         {
@@ -465,8 +669,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "あと、鳴や聡里、凛音の星座は……。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "あと、鳴や聡里、凛音の星座は……。"
+            },
             "voice": "card/Card_14/Card_4140013_3/card_4140013_3_052.mp3"
         },
         {
@@ -474,8 +682,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "ちょっと！　そんなに一気に聞かないで。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "ちょっと！　そんなに一気に聞かないで。"
+            },
             "voice": "card/Card_14/Card_4140013_3/card_4140013_3_053.mp3"
         },
         {
@@ -483,8 +695,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "夜はまだまだ、これからなんだから……。\nゆっくり、楽しみましょう。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "夜はまだまだ、これからなんだから……。\nゆっくり、楽しみましょう。"
+            },
             "voice": "card/Card_14/Card_4140013_3/card_4140013_3_054.mp3"
         }
     ]

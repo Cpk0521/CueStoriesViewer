@@ -6,8 +6,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "お疲れ様です！\nねえ、マネージャー。ちょっといいかしら？",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "お疲れ様です！\nねえ、マネージャー。ちょっといいかしら？"
+            },
             "voice": "audition/story_01/heroine_08/HM_Sub_01_08_26/hm_sub_01_08_26_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "このオーディションが終わったら、\n1日オフを貰いたいの。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "このオーディションが終わったら、\n1日オフを貰いたいの。"
+            },
             "voice": "audition/story_01/heroine_08/HM_Sub_01_08_26/hm_sub_01_08_26_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "了解。あとでスケジュールを見てみるね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "了解。あとでスケジュールを見てみるね。"
+            },
             "voice": ""
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "ありがとう！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "ありがとう！"
+            },
             "voice": "audition/story_01/heroine_08/HM_Sub_01_08_26/hm_sub_01_08_26_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "日帰りでシンガポールに行ってくるわ！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "日帰りでシンガポールに行ってくるわ！"
+            },
             "voice": "audition/story_01/heroine_08/HM_Sub_01_08_26/hm_sub_01_08_26_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "うふふ、お土産も楽しみにしててね！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "うふふ、お土産も楽しみにしててね！"
+            },
             "voice": "audition/story_01/heroine_08/HM_Sub_01_08_26/hm_sub_01_08_26_006.mp3"
         }
     ]

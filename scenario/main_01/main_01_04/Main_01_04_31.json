@@ -6,8 +6,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "鳴が熱を出したのは……、我輩のせいだ。\n鳴が休むなら、我輩も休む。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "鳴が熱を出したのは……、我輩のせいだ。\n鳴が休むなら、我輩も休む。"
+            },
             "voice": "main_01/Main_01_04/Main_01_04_31/main_01_04_31_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "利恵、気持ちは分かるけど……。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "利恵、気持ちは分かるけど……。"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "そんなこと、許されるわけないでしょ。\nこれは仕事だよ。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "そんなこと、許されるわけないでしょ。\nこれは仕事だよ。"
+            },
             "voice": "main_01/Main_01_04/Main_01_04_31/main_01_04_31_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "なるちゃん！\nもう大丈夫なの？",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "なるちゃん！\nもう大丈夫なの？"
+            },
             "voice": "main_01/Main_01_04/Main_01_04_31/main_01_04_31_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "うん。\n平熱になった。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "うん。\n平熱になった。"
+            },
             "voice": "main_01/Main_01_04/Main_01_04_31/main_01_04_31_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "滅多に薬なんて飲まないから、\nすごく効いたみたい。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "滅多に薬なんて飲まないから、\nすごく効いたみたい。"
+            },
             "voice": "main_01/Main_01_04/Main_01_04_31/main_01_04_31_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "すごい……。\n奇跡だ……。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "すごい……。\n奇跡だ……。"
+            },
             "voice": "main_01/Main_01_04/Main_01_04_31/main_01_04_31_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "マネージャー、ご心配をおかけしました。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "マネージャー、ご心配をおかけしました。"
+            },
             "voice": "main_01/Main_01_04/Main_01_04_31/main_01_04_31_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "いえいえ。本当に治ってよかった。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "いえいえ。本当に治ってよかった。"
+            },
             "voice": ""
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "利恵、いろいろありがとう。\n熱が下がったのは、利恵のおかげだよ。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "利恵、いろいろありがとう。\n熱が下がったのは、利恵のおかげだよ。"
+            },
             "voice": "main_01/Main_01_04/Main_01_04_31/main_01_04_31_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "よかった……、ホントよかった！\n鳴～！",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "よかった……、ホントよかった！\n鳴～！"
+            },
             "voice": "main_01/Main_01_04/Main_01_04_31/main_01_04_31_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "抱きつかないで。\n汗かいてるから嫌だ。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "抱きつかないで。\n汗かいてるから嫌だ。"
+            },
             "voice": "main_01/Main_01_04/Main_01_04_31/main_01_04_31_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "冷たいな……。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "冷たいな……。"
+            },
             "voice": "main_01/Main_01_04/Main_01_04_31/main_01_04_31_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "鳴、急いで着替えておいで。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "鳴、急いで着替えておいで。"
+            },
             "voice": ""
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "その前に、ひと言だけいいですか？",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "その前に、ひと言だけいいですか？"
+            },
             "voice": "main_01/Main_01_04/Main_01_04_31/main_01_04_31_015.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "どうしたの？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "どうしたの？"
+            },
             "voice": ""
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "私、普段はこういうこと、\n絶対に言わないんだけど……。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "私、普段はこういうこと、\n絶対に言わないんだけど……。"
+            },
             "voice": "main_01/Main_01_04/Main_01_04_31/main_01_04_31_017.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "今日はみんなで力を合わせて、\nいい仕事をしよう。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "今日はみんなで力を合わせて、\nいい仕事をしよう。"
+            },
             "voice": "main_01/Main_01_04/Main_01_04_31/main_01_04_31_018.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "うん、そうね。\n悔いのない仕事をしよう。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "うん、そうね。\n悔いのない仕事をしよう。"
+            },
             "voice": "main_01/Main_01_04/Main_01_04_31/main_01_04_31_019.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "それじゃ、タクシー呼ぶよ。\nすぐ準備して！",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "それじゃ、タクシー呼ぶよ。\nすぐ準備して！"
+            },
             "voice": ""
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "いってきま～す！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "いってきま～す！"
+            },
             "voice": "main_01/Main_01_04/Main_01_04_31/main_01_04_31_021.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "さ、スタジオに着いたよ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "さ、スタジオに着いたよ。"
+            },
             "voice": ""
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "タクシー使ったおかげで、余裕で着いたわね。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "タクシー使ったおかげで、余裕で着いたわね。"
+            },
             "voice": "main_01/Main_01_04/Main_01_04_31/main_01_04_31_023.mp3"
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "そこのコンビニ行ってきていいですか？\n熱が下がったらお腹空いちゃって。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "そこのコンビニ行ってきていいですか？\n熱が下がったらお腹空いちゃって。"
+            },
             "voice": "main_01/Main_01_04/Main_01_04_31/main_01_04_31_024.mp3"
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "いいけど、急いでね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "いいけど、急いでね。"
+            },
             "voice": ""
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "相変わらず、マイペースよね……。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "相変わらず、マイペースよね……。"
+            },
             "voice": "main_01/Main_01_04/Main_01_04_31/main_01_04_31_026.mp3"
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "ねぇねぇ、聞いて。\n夕べ夢に、小さなおじさんが出てきたの。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "ねぇねぇ、聞いて。\n夕べ夢に、小さなおじさんが出てきたの。"
+            },
             "voice": "main_01/Main_01_04/Main_01_04_31/main_01_04_31_027.mp3"
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "また、小さいおじさんの話か。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "また、小さいおじさんの話か。"
+            },
             "voice": "main_01/Main_01_04/Main_01_04_31/main_01_04_31_028.mp3"
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "それで、今日は上手くいくから、\n大丈夫って言ってくれたの。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "それで、今日は上手くいくから、\n大丈夫って言ってくれたの。"
+            },
             "voice": "main_01/Main_01_04/Main_01_04_31/main_01_04_31_029.mp3"
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "小さいおじさんが言うんだから、\nきっと大丈夫だな。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "小さいおじさんが言うんだから、\nきっと大丈夫だな。"
+            },
             "voice": "main_01/Main_01_04/Main_01_04_31/main_01_04_31_030.mp3"
         },
         {
@@ -276,8 +396,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "うん！\nわたしもそう思う！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "うん！\nわたしもそう思う！"
+            },
             "voice": "main_01/Main_01_04/Main_01_04_31/main_01_04_31_031.mp3"
         },
         {
@@ -285,8 +409,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "小さいおじさんてよくわかんないけど。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "小さいおじさんてよくわかんないけど。"
+            },
             "voice": "main_01/Main_01_04/Main_01_04_31/main_01_04_31_032.mp3"
         },
         {
@@ -294,8 +422,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "あ、母さんから連絡がきた……。\n「自分を信じて、頑張って」だって。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "あ、母さんから連絡がきた……。\n「自分を信じて、頑張って」だって。"
+            },
             "voice": "main_01/Main_01_04/Main_01_04_31/main_01_04_31_033.mp3"
         },
         {
@@ -303,8 +435,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "良かったじゃない。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "良かったじゃない。"
+            },
             "voice": ""
         },
         {
@@ -312,8 +448,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "よし……。\n頑張ろ。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "よし……。\n頑張ろ。"
+            },
             "voice": "main_01/Main_01_04/Main_01_04_31/main_01_04_31_035.mp3"
         },
         {
@@ -321,8 +461,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "あ、りおさんからも連絡がきた。\n「大きな声で挨拶するように」だって。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "あ、りおさんからも連絡がきた。\n「大きな声で挨拶するように」だって。"
+            },
             "voice": ""
         },
         {
@@ -330,8 +474,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "りおさんも心配性だな。\n我輩たちだってやるときはやるよ。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "りおさんも心配性だな。\n我輩たちだってやるときはやるよ。"
+            },
             "voice": "main_01/Main_01_04/Main_01_04_31/main_01_04_31_037.mp3"
         },
         {
@@ -339,8 +487,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "あ、なるちゃんが戻ってきた。",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "あ、なるちゃんが戻ってきた。"
+            },
             "voice": "main_01/Main_01_04/Main_01_04_31/main_01_04_31_038.mp3"
         },
         {
@@ -348,8 +500,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "お待たせ。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "お待たせ。"
+            },
             "voice": "main_01/Main_01_04/Main_01_04_31/main_01_04_31_039.mp3"
         },
         {
@@ -357,8 +513,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "何、買ってきたの？",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "何、買ってきたの？"
+            },
             "voice": "main_01/Main_01_04/Main_01_04_31/main_01_04_31_040.mp3"
         },
         {
@@ -366,8 +526,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "グミ。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "グミ。"
+            },
             "voice": "main_01/Main_01_04/Main_01_04_31/main_01_04_31_041.mp3"
         },
         {
@@ -375,8 +539,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "病み上がりなんだから、\nもっと栄養のあるもの食べたら？",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "病み上がりなんだから、\nもっと栄養のあるもの食べたら？"
+            },
             "voice": "main_01/Main_01_04/Main_01_04_31/main_01_04_31_042.mp3"
         },
         {
@@ -384,8 +552,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "レモングミだから、ビタミンが入ってる。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "レモングミだから、ビタミンが入ってる。"
+            },
             "voice": "main_01/Main_01_04/Main_01_04_31/main_01_04_31_043.mp3"
         },
         {
@@ -393,8 +565,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "マネージャー、スタジオに入ろう。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "マネージャー、スタジオに入ろう。"
+            },
             "voice": "main_01/Main_01_04/Main_01_04_31/main_01_04_31_044.mp3"
         },
         {
@@ -402,8 +578,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "それじゃ、皆行くよ。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "それじゃ、皆行くよ。"
+            },
             "voice": ""
         },
         {
@@ -411,8 +591,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "おはようございます！\n明神凛音です！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "おはようございます！\n明神凛音です！"
+            },
             "voice": "main_01/Main_01_04/Main_01_04_31/main_01_04_31_046.mp3"
         },
         {
@@ -420,8 +604,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "おはようございます。\n宇津木聡里です。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "おはようございます。\n宇津木聡里です。"
+            },
             "voice": "main_01/Main_01_04/Main_01_04_31/main_01_04_31_047.mp3"
         },
         {
@@ -429,8 +617,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "おはようございます。\n遠見鳴です。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "おはようございます。\n遠見鳴です。"
+            },
             "voice": "main_01/Main_01_04/Main_01_04_31/main_01_04_31_048.mp3"
         },
         {
@@ -438,8 +630,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "おはようございます。丸山利恵です。\n今日は、よろしくお願いします！",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "おはようございます。丸山利恵です。\n今日は、よろしくお願いします！"
+            },
             "voice": "main_01/Main_01_04/Main_01_04_31/main_01_04_31_049.mp3"
         }
     ]

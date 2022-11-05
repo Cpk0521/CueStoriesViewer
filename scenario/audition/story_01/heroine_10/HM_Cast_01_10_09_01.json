@@ -6,8 +6,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "お疲れ様です。\n美晴……、もう帰りましたか？",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "お疲れ様です。\n美晴……、もう帰りましたか？"
+            },
             "voice": "audition/story_01/heroine_10/HM_Cast_01_10_09_01/hm_cast_01_10_09_01_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "うん、ついさっきだけどね。\n何か用事でもあった？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "うん、ついさっきだけどね。\n何か用事でもあった？"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "あ、いえ……。\nちょっと話したかっただけなので。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "あ、いえ……。\nちょっと話したかっただけなので。"
+            },
             "voice": "audition/story_01/heroine_10/HM_Cast_01_10_09_01/hm_cast_01_10_09_01_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "あら、絢。\nどうかしたの？",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "あら、絢。\nどうかしたの？"
+            },
             "voice": "audition/story_01/heroine_10/HM_Cast_01_10_09_01/hm_cast_01_10_09_01_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "あれ、美晴。\n帰ったんじゃなかったの？",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "あれ、美晴。\n帰ったんじゃなかったの？"
+            },
             "voice": "audition/story_01/heroine_10/HM_Cast_01_10_09_01/hm_cast_01_10_09_01_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "そうだったんだけど、\nちょっと忘れ物を取りに来たの。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "そうだったんだけど、\nちょっと忘れ物を取りに来たの。"
+            },
             "voice": "audition/story_01/heroine_10/HM_Cast_01_10_09_01/hm_cast_01_10_09_01_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "そうだったんだ。\nじゃあ一緒に帰らない？",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "そうだったんだ。\nじゃあ一緒に帰らない？"
+            },
             "voice": "audition/story_01/heroine_10/HM_Cast_01_10_09_01/hm_cast_01_10_09_01_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "ええ、もちろん。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "ええ、もちろん。"
+            },
             "voice": "audition/story_01/heroine_10/HM_Cast_01_10_09_01/hm_cast_01_10_09_01_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 10
             ],
-            "name": "神室絢",
-            "message": "あ、忘れ物あるんだっけ。\n待ってるね。",
+            "name": {
+                "default": "神室絢"
+            },
+            "message": {
+                "default": "あ、忘れ物あるんだっけ。\n待ってるね。"
+            },
             "voice": "audition/story_01/heroine_10/HM_Cast_01_10_09_01/hm_cast_01_10_09_01_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 9
             ],
-            "name": "夜峰美晴",
-            "message": "うふふ、もう終わったから大丈夫よ。",
+            "name": {
+                "default": "夜峰美晴"
+            },
+            "message": {
+                "default": "うふふ、もう終わったから大丈夫よ。"
+            },
             "voice": "audition/story_01/heroine_10/HM_Cast_01_10_09_01/hm_cast_01_10_09_01_010.mp3"
         }
     ]

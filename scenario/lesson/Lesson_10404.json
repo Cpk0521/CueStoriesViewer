@@ -6,8 +6,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "それでは今から、「黒白のグィネヴィア」の、\nオーディション合格者と、配役を発表します。",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "それでは今から、「黒白のグィネヴィア」の、\nオーディション合格者と、配役を発表します。"
+            },
             "voice": "lesson/Lesson_10404/lesson_10404_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "（どんな役でもいいから欲しい……！）",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "（どんな役でもいいから欲しい……！）"
+            },
             "voice": "lesson/Lesson_10404/lesson_10404_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 101
             ],
-            "name": "鳳真咲",
-            "message": "聡里には、副主人公、朝霧或耶を演じてもらいます。",
+            "name": {
+                "default": "鳳真咲"
+            },
+            "message": {
+                "default": "聡里には、副主人公、朝霧或耶を演じてもらいます。"
+            },
             "voice": "lesson/Lesson_10404/lesson_10404_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "現実主義の女子高生、朝霧或耶か……。\n相手にとって不足はないわ。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "現実主義の女子高生、朝霧或耶か……。\n相手にとって不足はないわ。"
+            },
             "voice": "lesson/Lesson_10404/lesson_10404_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "聡里さん……。\nどうしたの？",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "聡里さん……。\nどうしたの？"
+            },
             "voice": "lesson/Lesson_10404/lesson_10404_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "鳴は、エスカ役だよね。\n自分の役に、不安は無い？",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "鳴は、エスカ役だよね。\n自分の役に、不安は無い？"
+            },
             "voice": "lesson/Lesson_10404/lesson_10404_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "とくに無いけど。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "とくに無いけど。"
+            },
             "voice": "lesson/Lesson_10404/lesson_10404_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "そっか……。\nやっぱり、鳴はすごいな。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "そっか……。\nやっぱり、鳴はすごいな。"
+            },
             "voice": "lesson/Lesson_10404/lesson_10404_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "聡里さんは不安なの？\n……相手に不足無しって言ってたのに。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "聡里さんは不安なの？\n……相手に不足無しって言ってたのに。"
+            },
             "voice": "lesson/Lesson_10404/lesson_10404_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "でもやっぱり、初めての仕事だからさ。\n出来れば誰かにアドバイスをもらいたいなぁって。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "でもやっぱり、初めての仕事だからさ。\n出来れば誰かにアドバイスをもらいたいなぁって。"
+            },
             "voice": "lesson/Lesson_10404/lesson_10404_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "私はアドバイスなんて出来ないよ？",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "私はアドバイスなんて出来ないよ？"
+            },
             "voice": "lesson/Lesson_10404/lesson_10404_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "それは分かってる。\n鳴はそういうことしないもんね。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "それは分かってる。\n鳴はそういうことしないもんね。"
+            },
             "voice": "lesson/Lesson_10404/lesson_10404_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "アドバイスもらうなら、桐香先生とか真咲さんは？\nそれか、マネージャーとか……。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "アドバイスもらうなら、桐香先生とか真咲さんは？\nそれか、マネージャーとか……。"
+            },
             "voice": "lesson/Lesson_10404/lesson_10404_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "私って弱気なこと言うキャラじゃないから。\nだから何か、恥ずかしくて。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "私って弱気なこと言うキャラじゃないから。\nだから何か、恥ずかしくて。"
+            },
             "voice": "lesson/Lesson_10404/lesson_10404_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "でも例えば、身内とかだったら、\n弱い面を見せても、別にいいかなって……。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "でも例えば、身内とかだったら、\n弱い面を見せても、別にいいかなって……。"
+            },
             "voice": "lesson/Lesson_10404/lesson_10404_015.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "もしかして、お母さんに相談しようとしてる？",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "もしかして、お母さんに相談しようとしてる？"
+            },
             "voice": "lesson/Lesson_10404/lesson_10404_016.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "……どう思う？\nやめた方がいいかな？",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "……どう思う？\nやめた方がいいかな？"
+            },
             "voice": "lesson/Lesson_10404/lesson_10404_017.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "アドバイス、もらったらいいんじゃない？\nせっかく身内に声優の大先輩がいるんだから。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "アドバイス、もらったらいいんじゃない？\nせっかく身内に声優の大先輩がいるんだから。"
+            },
             "voice": "lesson/Lesson_10404/lesson_10404_018.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "でも、今までそんな話、一切したことないんだよ？\nいきなりアドバイスなんて求めたら、ビックリするよね？",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "でも、今までそんな話、一切したことないんだよ？\nいきなりアドバイスなんて求めたら、ビックリするよね？"
+            },
             "voice": "lesson/Lesson_10404/lesson_10404_019.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "そりゃあ、ビックリするとは思うけど。",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "そりゃあ、ビックリするとは思うけど。"
+            },
             "voice": "lesson/Lesson_10404/lesson_10404_020.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "だから、練習させてくれない？",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "だから、練習させてくれない？"
+            },
             "voice": "lesson/Lesson_10404/lesson_10404_021.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 16
             ],
-            "name": "遠見鳴",
-            "message": "はぁ……？\n練習？",
+            "name": {
+                "default": "遠見鳴"
+            },
+            "message": {
+                "default": "はぁ……？\n練習？"
+            },
             "voice": "lesson/Lesson_10404/lesson_10404_022.mp3"
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "お願い！\nこんなこと頼めるの、鳴しかいないの！ ",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "お願い！\nこんなこと頼めるの、鳴しかいないの！ "
+            },
             "voice": "lesson/Lesson_10404/lesson_10404_023.mp3"
         }
     ]

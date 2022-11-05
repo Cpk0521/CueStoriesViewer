@@ -6,8 +6,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "マネージャー、お疲れ様です！",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "マネージャー、お疲れ様です！"
+            },
             "voice": "audition/story_01/heroine_08/HM_Sub_01_08_09/hm_sub_01_08_09_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "柚葉、お疲れ様。\nこの間はまた一段と派手に千紗に叱られてたね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "柚葉、お疲れ様。\nこの間はまた一段と派手に千紗に叱られてたね。"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "あら、見てたの？",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "あら、見てたの？"
+            },
             "voice": "audition/story_01/heroine_08/HM_Sub_01_08_09/hm_sub_01_08_09_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "うふふ、ユーキと一緒に叱られちゃったわ。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "うふふ、ユーキと一緒に叱られちゃったわ。"
+            },
             "voice": "audition/story_01/heroine_08/HM_Sub_01_08_09/hm_sub_01_08_09_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 8
             ],
-            "name": "九条柚葉",
-            "message": "でも、あれはチサのアイノムチなの。\nそれはちゃーんとわかってるわ。",
+            "name": {
+                "default": "九条柚葉"
+            },
+            "message": {
+                "default": "でも、あれはチサのアイノムチなの。\nそれはちゃーんとわかってるわ。"
+            },
             "voice": "audition/story_01/heroine_08/HM_Sub_01_08_09/hm_sub_01_08_09_005.mp3"
         }
     ]

@@ -6,8 +6,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "マネージャーさん、お疲れ様です。\nあの、聞いてください！",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "マネージャーさん、お疲れ様です。\nあの、聞いてください！"
+            },
             "voice": "audition/story_01/heroine_06/HM_Cast_01_06_07_03/hm_cast_01_06_07_03_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "お弁当の卵焼き、今日はすっごく上手く焼けたんです！",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "お弁当の卵焼き、今日はすっごく上手く焼けたんです！"
+            },
             "voice": "audition/story_01/heroine_06/HM_Cast_01_06_07_03/hm_cast_01_06_07_03_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "お、そうなんだ。\n回数を重ねた成果かな？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "お、そうなんだ。\n回数を重ねた成果かな？"
+            },
             "voice": ""
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "はい！　焦げてるとこもあんまり無くて、\nふわふわに出来ました！",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "はい！　焦げてるとこもあんまり無くて、\nふわふわに出来ました！"
+            },
             "voice": "audition/story_01/heroine_06/HM_Cast_01_06_07_03/hm_cast_01_06_07_03_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "お疲れ様です。\nもしかして、卵焼きの話ですか？",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "お疲れ様です。\nもしかして、卵焼きの話ですか？"
+            },
             "voice": "audition/story_01/heroine_06/HM_Cast_01_06_07_03/hm_cast_01_06_07_03_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "千紗ちゃん！",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "千紗ちゃん！"
+            },
             "voice": "audition/story_01/heroine_06/HM_Cast_01_06_07_03/hm_cast_01_06_07_03_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "うん。\n卵焼き、おいしかった？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "うん。\n卵焼き、おいしかった？"
+            },
             "voice": ""
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "はい！\nすごくふわふわで、見た目もキレイでした。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "はい！\nすごくふわふわで、見た目もキレイでした。"
+            },
             "voice": "audition/story_01/heroine_06/HM_Cast_01_06_07_03/hm_cast_01_06_07_03_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "良かったね、あいり。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "良かったね、あいり。"
+            },
             "voice": ""
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "えへへ……、はい！",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "えへへ……、はい！"
+            },
             "voice": "audition/story_01/heroine_06/HM_Cast_01_06_07_03/hm_cast_01_06_07_03_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 6
             ],
-            "name": "赤川千紗",
-            "message": "あいり、今日のお弁当もおいしかったよ。\nありがとう。",
+            "name": {
+                "default": "赤川千紗"
+            },
+            "message": {
+                "default": "あいり、今日のお弁当もおいしかったよ。\nありがとう。"
+            },
             "voice": "audition/story_01/heroine_06/HM_Cast_01_06_07_03/hm_cast_01_06_07_03_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 7
             ],
-            "name": "恵庭あいり",
-            "message": "ううん……！\nあいりのほうこそ、いつもありがとう、千紗ちゃん！",
+            "name": {
+                "default": "恵庭あいり"
+            },
+            "message": {
+                "default": "ううん……！\nあいりのほうこそ、いつもありがとう、千紗ちゃん！"
+            },
             "voice": "audition/story_01/heroine_06/HM_Cast_01_06_07_03/hm_cast_01_06_07_03_012.mp3"
         }
     ]

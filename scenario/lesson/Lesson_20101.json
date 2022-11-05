@@ -6,8 +6,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "ええっと、明日の朝食は……。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "ええっと、明日の朝食は……。"
+            },
             "voice": "lesson/Lesson_20101/lesson_20101_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "……ん？",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "……ん？"
+            },
             "voice": "lesson/Lesson_20101/lesson_20101_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "～～♪",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "～～♪"
+            },
             "voice": "lesson/Lesson_20101/lesson_20101_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "舞花ちゃん？　今帰ってきたの？",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "舞花ちゃん？　今帰ってきたの？"
+            },
             "voice": "lesson/Lesson_20101/lesson_20101_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "うん。ただいま。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "うん。ただいま。"
+            },
             "voice": "lesson/Lesson_20101/lesson_20101_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "おかえりなさい。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "おかえりなさい。"
+            },
             "voice": "lesson/Lesson_20101/lesson_20101_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "……何か、いいことでもあったの？",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "……何か、いいことでもあったの？"
+            },
             "voice": "lesson/Lesson_20101/lesson_20101_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "ふふーん。実はね、お土産があるんだよ。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "ふふーん。実はね、お土産があるんだよ。"
+            },
             "voice": "lesson/Lesson_20101/lesson_20101_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "お土産？",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "お土産？"
+            },
             "voice": "lesson/Lesson_20101/lesson_20101_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "これこれ。うますぎ棒！",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "これこれ。うますぎ棒！"
+            },
             "voice": "lesson/Lesson_20101/lesson_20101_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "わあ、おいしそう。\nありがとう。舞花ちゃん。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "わあ、おいしそう。\nありがとう。舞花ちゃん。"
+            },
             "voice": "lesson/Lesson_20101/lesson_20101_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "学校の帰り道に、駄菓子屋があるんだよ。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "学校の帰り道に、駄菓子屋があるんだよ。"
+            },
             "voice": "lesson/Lesson_20101/lesson_20101_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "そこで買うと、駅に着く前に、ちょうど食べ終わるんだよね。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "そこで買うと、駅に着く前に、ちょうど食べ終わるんだよね。"
+            },
             "voice": "lesson/Lesson_20101/lesson_20101_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "だけど、帰ってからも食べたくなっちゃって。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "だけど、帰ってからも食べたくなっちゃって。"
+            },
             "voice": "lesson/Lesson_20101/lesson_20101_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "特にセットで買うと安くなるから、ついつい買っちゃって。\n……10本セットのやつ！",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "特にセットで買うと安くなるから、ついつい買っちゃって。\n……10本セットのやつ！"
+            },
             "voice": "lesson/Lesson_20101/lesson_20101_015.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "10本も？　毎日？",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "10本も？　毎日？"
+            },
             "voice": "lesson/Lesson_20101/lesson_20101_016.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "毎日ではないけど、最近はよく買っちゃってるかも。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "毎日ではないけど、最近はよく買っちゃってるかも。"
+            },
             "voice": "lesson/Lesson_20101/lesson_20101_017.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "たまになら大丈夫だとは思うけど、\nニキビとか出来ちゃったりしない？",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "たまになら大丈夫だとは思うけど、\nニキビとか出来ちゃったりしない？"
+            },
             "voice": "lesson/Lesson_20101/lesson_20101_018.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "自分、肌強いから。大丈夫だよ。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "自分、肌強いから。大丈夫だよ。"
+            },
             "voice": "lesson/Lesson_20101/lesson_20101_019.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "そういう問題じゃないと思うけど……。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "そういう問題じゃないと思うけど……。"
+            },
             "voice": "lesson/Lesson_20101/lesson_20101_020.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "でも、ありがとう。いただきます。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "でも、ありがとう。いただきます。"
+            },
             "voice": "lesson/Lesson_20101/lesson_20101_021.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "あー、部屋まで待ちきれない！\n1本食べちゃおう……。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "あー、部屋まで待ちきれない！\n1本食べちゃおう……。"
+            },
             "voice": "lesson/Lesson_20101/lesson_20101_022.mp3"
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "あはは……。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "あはは……。"
+            },
             "voice": "lesson/Lesson_20101/lesson_20101_023.mp3"
         }
     ]

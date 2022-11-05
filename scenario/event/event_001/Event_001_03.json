@@ -6,8 +6,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "さぁ！\nそれじゃあ、バーベキュー場に出発しよう！　",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "さぁ！\nそれじゃあ、バーベキュー場に出発しよう！　"
+            },
             "voice": "event/Event_001/Event_001_03/event_001_03_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "バーベキュー場は、ここから近いの？　",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "バーベキュー場は、ここから近いの？　"
+            },
             "voice": "event/Event_001/Event_001_03/event_001_03_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "歩いて数分かな。\nでも途中で、スーパーに寄るよ。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "歩いて数分かな。\nでも途中で、スーパーに寄るよ。"
+            },
             "voice": "event/Event_001/Event_001_03/event_001_03_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "バーベキューの材料を買うの。　",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "バーベキューの材料を買うの。　"
+            },
             "voice": "event/Event_001/Event_001_03/event_001_03_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "調べたら、バーベキュー場に何でもあったよ。\n器具も、炭も、食材も。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "調べたら、バーベキュー場に何でもあったよ。\n器具も、炭も、食材も。"
+            },
             "voice": "event/Event_001/Event_001_03/event_001_03_005.mp3"
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "ああ、お肉とか野菜が一緒になった\nバーベキューセットが売ってたね。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "ああ、お肉とか野菜が一緒になった\nバーベキューセットが売ってたね。"
+            },
             "voice": "event/Event_001/Event_001_03/event_001_03_006.mp3"
         },
         {
@@ -60,8 +84,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "器具とか炭はレンタルするけど、\n食材は自分達で買おうよ。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "器具とか炭はレンタルするけど、\n食材は自分達で買おうよ。"
+            },
             "voice": "event/Event_001/Event_001_03/event_001_03_007.mp3"
         },
         {
@@ -69,8 +97,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "それがバーベキューの楽しみなんだから。　",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "それがバーベキューの楽しみなんだから。　"
+            },
             "voice": "event/Event_001/Event_001_03/event_001_03_008.mp3"
         },
         {
@@ -78,8 +110,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "確かに一理ある。　",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "確かに一理ある。　"
+            },
             "voice": "event/Event_001/Event_001_03/event_001_03_009.mp3"
         },
         {
@@ -87,8 +123,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "でも、予算は限られてるんだから、\n贅沢なものは買わない。いいね？",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "でも、予算は限られてるんだから、\n贅沢なものは買わない。いいね？"
+            },
             "voice": "event/Event_001/Event_001_03/event_001_03_010.mp3"
         },
         {
@@ -96,8 +136,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "それじゃあ、まずは野菜から買おう。　",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "それじゃあ、まずは野菜から買おう。　"
+            },
             "voice": "event/Event_001/Event_001_03/event_001_03_011.mp3"
         },
         {
@@ -105,8 +149,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "野菜はいらない。\n野菜を食べたら、肉が食べれなくなる。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "野菜はいらない。\n野菜を食べたら、肉が食べれなくなる。"
+            },
             "voice": "event/Event_001/Event_001_03/event_001_03_012.mp3"
         },
         {
@@ -114,8 +162,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "そんなのダメダメ！\n肉と野菜をバランスよく食べないと。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "そんなのダメダメ！\n肉と野菜をバランスよく食べないと。"
+            },
             "voice": "event/Event_001/Event_001_03/event_001_03_013.mp3"
         },
         {
@@ -123,8 +175,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "ねぇ、玉ねぎ買わない？　",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "ねぇ、玉ねぎ買わない？　"
+            },
             "voice": "event/Event_001/Event_001_03/event_001_03_014.mp3"
         },
         {
@@ -132,8 +188,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "いいね！\n血液がさらさらになるの。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "いいね！\n血液がさらさらになるの。"
+            },
             "voice": "event/Event_001/Event_001_03/event_001_03_015.mp3"
         },
         {
@@ -141,8 +201,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "トマト好きなんですけど。　",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "トマト好きなんですけど。　"
+            },
             "voice": "event/Event_001/Event_001_03/event_001_03_016.mp3"
         },
         {
@@ -150,8 +214,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "トマトに含まれるリコピンは、\n強い抗酸化作用があるんだよ。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "トマトに含まれるリコピンは、\n強い抗酸化作用があるんだよ。"
+            },
             "voice": "event/Event_001/Event_001_03/event_001_03_017.mp3"
         },
         {
@@ -159,8 +227,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "それじゃあ、ナスはどう？　",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "それじゃあ、ナスはどう？　"
+            },
             "voice": "event/Event_001/Event_001_03/event_001_03_018.mp3"
         },
         {
@@ -168,8 +240,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "ナスにはカリウムが豊富だから、\n体の熱を外に逃がしてくれるんだよ。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "ナスにはカリウムが豊富だから、\n体の熱を外に逃がしてくれるんだよ。"
+            },
             "voice": "event/Event_001/Event_001_03/event_001_03_019.mp3"
         },
         {
@@ -177,8 +253,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "ほのか、野菜に詳しいね。　",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "ほのか、野菜に詳しいね。　"
+            },
             "voice": "event/Event_001/Event_001_03/event_001_03_020.mp3"
         },
         {
@@ -186,8 +266,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "体にいいことは、何でも興味あるから！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "体にいいことは、何でも興味あるから！"
+            },
             "voice": "event/Event_001/Event_001_03/event_001_03_021.mp3"
         },
         {
@@ -195,8 +279,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "ちょっと待って。これはバーベキューだよ？\n体にいいのはもちろん大事だけど……。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "ちょっと待って。これはバーベキューだよ？\n体にいいのはもちろん大事だけど……。"
+            },
             "voice": "event/Event_001/Event_001_03/event_001_03_022.mp3"
         },
         {
@@ -204,8 +292,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "いかに安く！　満足する食材を買うか。\nもっと、戦略を練って買わないと。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "いかに安く！　満足する食材を買うか。\nもっと、戦略を練って買わないと。"
+            },
             "voice": "event/Event_001/Event_001_03/event_001_03_023.mp3"
         },
         {
@@ -213,8 +305,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "玉ねぎとナスは？　",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "玉ねぎとナスは？　"
+            },
             "voice": "event/Event_001/Event_001_03/event_001_03_024.mp3"
         },
         {
@@ -222,8 +318,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "いいよー。バーベキューには欠かせない野菜だもん。\nでも、そっちのは高いから……、こっちにしよう。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "いいよー。バーベキューには欠かせない野菜だもん。\nでも、そっちのは高いから……、こっちにしよう。"
+            },
             "voice": "event/Event_001/Event_001_03/event_001_03_025.mp3"
         },
         {
@@ -231,8 +331,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "なるべく量があって、安いのを買うの。　",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "なるべく量があって、安いのを買うの。　"
+            },
             "voice": "event/Event_001/Event_001_03/event_001_03_026.mp3"
         },
         {
@@ -240,8 +344,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "バーベキューって考えたら、\nトマトは変か。　",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "バーベキューって考えたら、\nトマトは変か。　"
+            },
             "voice": "event/Event_001/Event_001_03/event_001_03_027.mp3"
         },
         {
@@ -249,8 +357,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "えぇ……。\n食べたかったのにぃ。　",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "えぇ……。\n食べたかったのにぃ。　"
+            },
             "voice": "event/Event_001/Event_001_03/event_001_03_028.mp3"
         },
         {
@@ -258,8 +370,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "トマトも安いから、買っていいよ。　",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "トマトも安いから、買っていいよ。　"
+            },
             "voice": "event/Event_001/Event_001_03/event_001_03_029.mp3"
         },
         {
@@ -267,8 +383,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "焼きものばっかりじゃ飽きちゃうでしょ。\nトマトがあると、さっぱりしていいかも。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "焼きものばっかりじゃ飽きちゃうでしょ。\nトマトがあると、さっぱりしていいかも。"
+            },
             "voice": "event/Event_001/Event_001_03/event_001_03_030.mp3"
         },
         {
@@ -276,8 +396,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "じゃ、モッツァレラチーズは？　",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "じゃ、モッツァレラチーズは？　"
+            },
             "voice": "event/Event_001/Event_001_03/event_001_03_031.mp3"
         },
         {
@@ -285,8 +409,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "モッツァレラチーズは高いから却下。　",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "モッツァレラチーズは高いから却下。　"
+            },
             "voice": "event/Event_001/Event_001_03/event_001_03_032.mp3"
         },
         {
@@ -294,8 +422,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "カプレーゼにして食べたかったのに。　",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "カプレーゼにして食べたかったのに。　"
+            },
             "voice": "event/Event_001/Event_001_03/event_001_03_033.mp3"
         },
         {
@@ -303,8 +435,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "バーベキューにカプレーゼは必要ないから。　",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "バーベキューにカプレーゼは必要ないから。　"
+            },
             "voice": "event/Event_001/Event_001_03/event_001_03_034.mp3"
         },
         {
@@ -312,8 +448,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "じゃ、カボチャとニンジンは？　",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "じゃ、カボチャとニンジンは？　"
+            },
             "voice": "event/Event_001/Event_001_03/event_001_03_035.mp3"
         },
         {
@@ -321,8 +461,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "硬くてなかなか焼けないし、\n結局こういうのって余るんだよねー……。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "硬くてなかなか焼けないし、\n結局こういうのって余るんだよねー……。"
+            },
             "voice": "event/Event_001/Event_001_03/event_001_03_036.mp3"
         },
         {
@@ -330,8 +474,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "アスパラガスはどう？　",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "アスパラガスはどう？　"
+            },
             "voice": "event/Event_001/Event_001_03/event_001_03_037.mp3"
         },
         {
@@ -339,8 +487,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "値段のわりに、量が少ないな。\n……代わりにキャベツにしよう。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "値段のわりに、量が少ないな。\n……代わりにキャベツにしよう。"
+            },
             "voice": "event/Event_001/Event_001_03/event_001_03_038.mp3"
         },
         {
@@ -348,8 +500,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "アスパラガスの代わりが……、キャベツ？　",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "アスパラガスの代わりが……、キャベツ？　"
+            },
             "voice": "event/Event_001/Event_001_03/event_001_03_039.mp3"
         },
         {
@@ -357,8 +513,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "どっちも緑の野菜でしょー。\nキャベツの方が、食べごたえあるし。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "どっちも緑の野菜でしょー。\nキャベツの方が、食べごたえあるし。"
+            },
             "voice": "event/Event_001/Event_001_03/event_001_03_040.mp3"
         },
         {
@@ -366,8 +526,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "舞花、キノコ買ってもいいか？　",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "舞花、キノコ買ってもいいか？　"
+            },
             "voice": "event/Event_001/Event_001_03/event_001_03_041.mp3"
         },
         {
@@ -375,8 +539,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "いいねー！\nホイル焼きにしよっか。　",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "いいねー！\nホイル焼きにしよっか。　"
+            },
             "voice": "event/Event_001/Event_001_03/event_001_03_042.mp3"
         },
         {
@@ -384,8 +552,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "じゃ、マツタケ。　",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "じゃ、マツタケ。　"
+            },
             "voice": "event/Event_001/Event_001_03/event_001_03_043.mp3"
         },
         {
@@ -393,8 +565,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "バーベキューでマツタケって！\n大金持ちじゃないんだから！",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "バーベキューでマツタケって！\n大金持ちじゃないんだから！"
+            },
             "voice": "event/Event_001/Event_001_03/event_001_03_044.mp3"
         },
         {
@@ -402,8 +578,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "じゃ、トリュフ。　",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "じゃ、トリュフ。　"
+            },
             "voice": "event/Event_001/Event_001_03/event_001_03_045.mp3"
         },
         {
@@ -411,8 +591,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "話、聞いてた？\nホイル焼きなら、えのきで十分！",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "話、聞いてた？\nホイル焼きなら、えのきで十分！"
+            },
             "voice": "event/Event_001/Event_001_03/event_001_03_046.mp3"
         },
         {
@@ -420,8 +604,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "ねぇねぇ、ソーセージ買わない？\nバーベキューといえばソーセージでしょ！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "ねぇねぇ、ソーセージ買わない？\nバーベキューといえばソーセージでしょ！"
+            },
             "voice": "event/Event_001/Event_001_03/event_001_03_047.mp3"
         },
         {
@@ -429,8 +617,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "だったらこれは？\nハーブが入ってて美味しそう……。",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "だったらこれは？\nハーブが入ってて美味しそう……。"
+            },
             "voice": "event/Event_001/Event_001_03/event_001_03_048.mp3"
         },
         {
@@ -438,8 +630,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "そんなの贅沢。\nソーセージは、この安いやつでいいよ。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "そんなの贅沢。\nソーセージは、この安いやつでいいよ。"
+            },
             "voice": "event/Event_001/Event_001_03/event_001_03_049.mp3"
         },
         {
@@ -447,8 +643,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "じゃ、トウモロコシは？\n焼きトウモロコシにしようよ。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "じゃ、トウモロコシは？\n焼きトウモロコシにしようよ。"
+            },
             "voice": "event/Event_001/Event_001_03/event_001_03_050.mp3"
         },
         {
@@ -456,8 +656,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "うふふ……、いいね！\nデザートにしよう。　",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "うふふ……、いいね！\nデザートにしよう。　"
+            },
             "voice": "event/Event_001/Event_001_03/event_001_03_051.mp3"
         },
         {
@@ -465,8 +669,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "デザートはもう決めてるの。\nバナナを買おう！",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "デザートはもう決めてるの。\nバナナを買おう！"
+            },
             "voice": "event/Event_001/Event_001_03/event_001_03_052.mp3"
         },
         {
@@ -474,8 +682,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "え、バーベキューでバナナ……？　",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "え、バーベキューでバナナ……？　"
+            },
             "voice": "event/Event_001/Event_001_03/event_001_03_053.mp3"
         },
         {
@@ -483,8 +695,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "心配しなくて大丈夫。\n美味しいから、任せといて。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "心配しなくて大丈夫。\n美味しいから、任せといて。"
+            },
             "voice": "event/Event_001/Event_001_03/event_001_03_054.mp3"
         },
         {
@@ -492,8 +708,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "そりゃ、美味しいだろうけど……。　",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "そりゃ、美味しいだろうけど……。　"
+            },
             "voice": "event/Event_001/Event_001_03/event_001_03_055.mp3"
         },
         {
@@ -501,8 +721,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "あっちに安いバナナ売ってたな。\n……ちょっと行ってくる！",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "あっちに安いバナナ売ってたな。\n……ちょっと行ってくる！"
+            },
             "voice": "event/Event_001/Event_001_03/event_001_03_056.mp3"
         },
         {
@@ -510,8 +734,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "何でバーベキューなのに、\nバナナを食べるの？　",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "何でバーベキューなのに、\nバナナを食べるの？　"
+            },
             "voice": "event/Event_001/Event_001_03/event_001_03_057.mp3"
         },
         {
@@ -519,8 +747,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "舞花ちゃんに何か、考えがあるのかも……。　",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "舞花ちゃんに何か、考えがあるのかも……。　"
+            },
             "voice": "event/Event_001/Event_001_03/event_001_03_058.mp3"
         },
         {
@@ -528,8 +760,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "いーや、ただケチってるだけじゃない？\n買った食材、見てみて。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "いーや、ただケチってるだけじゃない？\n買った食材、見てみて。"
+            },
             "voice": "event/Event_001/Event_001_03/event_001_03_059.mp3"
         },
         {
@@ -537,8 +773,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "玉ねぎとトマトとナス。\nえのきと、安いソーセージ…。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "玉ねぎとトマトとナス。\nえのきと、安いソーセージ…。"
+            },
             "voice": "event/Event_001/Event_001_03/event_001_03_060.mp3"
         },
         {
@@ -546,8 +786,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "あと、デザートにバナナ。　",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "あと、デザートにバナナ。　"
+            },
             "voice": "event/Event_001/Event_001_03/event_001_03_061.mp3"
         },
         {
@@ -555,8 +799,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "バーベキューにしては、地味じゃない？　",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "バーベキューにしては、地味じゃない？　"
+            },
             "voice": "event/Event_001/Event_001_03/event_001_03_062.mp3"
         },
         {
@@ -564,8 +812,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "でも、予算は……、あんまり無いしね。　",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "でも、予算は……、あんまり無いしね。　"
+            },
             "voice": "event/Event_001/Event_001_03/event_001_03_063.mp3"
         },
         {
@@ -573,8 +825,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "それにしても、節約しすぎ。\n舞花に任せといたら、淋しいバーベキューになるかも。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "それにしても、節約しすぎ。\n舞花に任せといたら、淋しいバーベキューになるかも。"
+            },
             "voice": "event/Event_001/Event_001_03/event_001_03_064.mp3"
         },
         {
@@ -582,8 +838,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "舞花ちゃんはバーベキュー上級者だよ？　",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "舞花ちゃんはバーベキュー上級者だよ？　"
+            },
             "voice": "event/Event_001/Event_001_03/event_001_03_065.mp3"
         },
         {
@@ -591,8 +851,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "でも、このままじゃテンション上がんない！",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "でも、このままじゃテンション上がんない！"
+            },
             "voice": "event/Event_001/Event_001_03/event_001_03_066.mp3"
         },
         {
@@ -600,8 +864,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "ここで問題。\nバーベキューの主役はなに？　",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "ここで問題。\nバーベキューの主役はなに？　"
+            },
             "voice": "event/Event_001/Event_001_03/event_001_03_067.mp3"
         },
         {
@@ -609,8 +877,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "……どうしたの？\n急に。　",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "……どうしたの？\n急に。　"
+            },
             "voice": "event/Event_001/Event_001_03/event_001_03_068.mp3"
         },
         {
@@ -618,8 +890,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "主役はもちろん……、肉！　",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "主役はもちろん……、肉！　"
+            },
             "voice": "event/Event_001/Event_001_03/event_001_03_069.mp3"
         },
         {
@@ -627,8 +903,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "ピンポンピンポン～。\nバーベキューといえば肉。肉といえばバーベキュー。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "ピンポンピンポン～。\nバーベキューといえば肉。肉といえばバーベキュー。"
+            },
             "voice": "event/Event_001/Event_001_03/event_001_03_070.mp3"
         },
         {
@@ -636,8 +916,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "我々は毅然とした態度で舞花に要求する。\n肉だけは、美味しい肉を買おう！",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "我々は毅然とした態度で舞花に要求する。\n肉だけは、美味しい肉を買おう！"
+            },
             "voice": "event/Event_001/Event_001_03/event_001_03_071.mp3"
         },
         {
@@ -645,8 +929,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "そうだよ！\nそれだけは死守しよう！　",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "そうだよ！\nそれだけは死守しよう！　"
+            },
             "voice": "event/Event_001/Event_001_03/event_001_03_072.mp3"
         },
         {
@@ -654,8 +942,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "確かに、お肉はテンション上がるね！　",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "確かに、お肉はテンション上がるね！　"
+            },
             "voice": "event/Event_001/Event_001_03/event_001_03_073.mp3"
         },
         {
@@ -663,8 +955,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "あ、舞花が戻ってきた！\n志穂、お肉のこと舞花に言って。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "あ、舞花が戻ってきた！\n志穂、お肉のこと舞花に言って。"
+            },
             "voice": "event/Event_001/Event_001_03/event_001_03_074.mp3"
         },
         {
@@ -672,8 +968,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "引き受けよう。　",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "引き受けよう。　"
+            },
             "voice": "event/Event_001/Event_001_03/event_001_03_075.mp3"
         },
         {
@@ -681,8 +981,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "安いバナナがあってよかった～。\n……どうしたの？　みんな深刻な顔して。",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "安いバナナがあってよかった～。\n……どうしたの？　みんな深刻な顔して。"
+            },
             "voice": "event/Event_001/Event_001_03/event_001_03_076.mp3"
         },
         {
@@ -690,8 +994,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "志穂から、舞花に話があるの。　",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "志穂から、舞花に話があるの。　"
+            },
             "voice": "event/Event_001/Event_001_03/event_001_03_077.mp3"
         },
         {
@@ -699,8 +1007,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "話？\n何だろ？　",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "話？\n何だろ？　"
+            },
             "voice": "event/Event_001/Event_001_03/event_001_03_078.mp3"
         },
         {
@@ -708,8 +1020,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "我々は要求する。\n例え値段が高くても、これだけは譲れない。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "我々は要求する。\n例え値段が高くても、これだけは譲れない。"
+            },
             "voice": "event/Event_001/Event_001_03/event_001_03_079.mp3"
         },
         {
@@ -717,8 +1033,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "美味しい肉を買おう！",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "美味しい肉を買おう！"
+            },
             "voice": "event/Event_001/Event_001_03/event_001_03_080.mp3"
         },
         {
@@ -726,8 +1046,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "賛成！\nほら、陽菜も。",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "賛成！\nほら、陽菜も。"
+            },
             "voice": "event/Event_001/Event_001_03/event_001_03_081.mp3"
         },
         {
@@ -735,8 +1059,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "舞花ちゃん、お肉だけは……、いいの買わない？　",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "舞花ちゃん、お肉だけは……、いいの買わない？　"
+            },
             "voice": "event/Event_001/Event_001_03/event_001_03_082.mp3"
         },
         {
@@ -744,8 +1072,12 @@
             "heroineId": [
                 2
             ],
-            "name": "鷹取舞花",
-            "message": "お肉は……、買いません。　",
+            "name": {
+                "default": "鷹取舞花"
+            },
+            "message": {
+                "default": "お肉は……、買いません。　"
+            },
             "voice": "event/Event_001/Event_001_03/event_001_03_083.mp3"
         },
         {
@@ -753,8 +1085,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "ふぇ？\n買わない…？　",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "ふぇ？\n買わない…？　"
+            },
             "voice": "event/Event_001/Event_001_03/event_001_03_084.mp3"
         },
         {
@@ -762,8 +1098,12 @@
             "heroineId": [
                 4
             ],
-            "name": "月居ほのか",
-            "message": "そんな、バカな……！　",
+            "name": {
+                "default": "月居ほのか"
+            },
+            "message": {
+                "default": "そんな、バカな……！　"
+            },
             "voice": "event/Event_001/Event_001_03/event_001_03_085.mp3"
         },
         {
@@ -771,8 +1111,12 @@
             "heroineId": [
                 1
             ],
-            "name": "六石陽菜",
-            "message": "どういうこと……？　",
+            "name": {
+                "default": "六石陽菜"
+            },
+            "message": {
+                "default": "どういうこと……？　"
+            },
             "voice": "event/Event_001/Event_001_03/event_001_03_086.mp3"
         }
     ]

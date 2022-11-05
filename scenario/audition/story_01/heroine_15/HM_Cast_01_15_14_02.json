@@ -6,8 +6,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "マネージャーさん、お疲れ様です。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "マネージャーさん、お疲れ様です。"
+            },
             "voice": "audition/story_01/heroine_15/HM_Cast_01_15_14_02/hm_cast_01_15_14_02_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "お疲れ様でーす！\nさとちん、一緒に帰ろ！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "お疲れ様でーす！\nさとちん、一緒に帰ろ！"
+            },
             "voice": "audition/story_01/heroine_15/HM_Cast_01_15_14_02/hm_cast_01_15_14_02_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 14
             ],
-            "name": "宇津木聡里",
-            "message": "いいよ。\n荷物取ってくるから、ちょっと待ってて。",
+            "name": {
+                "default": "宇津木聡里"
+            },
+            "message": {
+                "default": "いいよ。\n荷物取ってくるから、ちょっと待ってて。"
+            },
             "voice": "audition/story_01/heroine_15/HM_Cast_01_15_14_02/hm_cast_01_15_14_02_003.mp3"
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "うん！　待ってる！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "うん！　待ってる！"
+            },
             "voice": "audition/story_01/heroine_15/HM_Cast_01_15_14_02/hm_cast_01_15_14_02_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "聡里、最近忙しいみたいだね。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "聡里、最近忙しいみたいだね。"
+            },
             "voice": ""
         },
         {
@@ -51,8 +71,12 @@
             "heroineId": [
                 15
             ],
-            "name": "明神凛音",
-            "message": "はい！　でも、明日はお休みだから、\n寮でゆっくりするって言ってました！",
+            "name": {
+                "default": "明神凛音"
+            },
+            "message": {
+                "default": "はい！　でも、明日はお休みだから、\n寮でゆっくりするって言ってました！"
+            },
             "voice": "audition/story_01/heroine_15/HM_Cast_01_15_14_02/hm_cast_01_15_14_02_006.mp3"
         }
     ]

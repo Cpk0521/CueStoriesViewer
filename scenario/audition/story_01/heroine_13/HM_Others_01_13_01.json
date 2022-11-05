@@ -6,8 +6,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "準備、足りてなかったのかな……。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "準備、足りてなかったのかな……。"
+            },
             "voice": "audition/story_01/heroine_13/HM_Others_01_13_01/hm_others_01_13_01_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "オーディションは運や相性も絡むから。\n次に生かそう。",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "オーディションは運や相性も絡むから。\n次に生かそう。"
+            },
             "voice": ""
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 13
             ],
-            "name": "丸山利恵",
-            "message": "……はい。\n次は……、絶対受かってみせるから。",
+            "name": {
+                "default": "丸山利恵"
+            },
+            "message": {
+                "default": "……はい。\n次は……、絶対受かってみせるから。"
+            },
             "voice": "audition/story_01/heroine_13/HM_Others_01_13_01/hm_others_01_13_01_003.mp3"
         }
     ]

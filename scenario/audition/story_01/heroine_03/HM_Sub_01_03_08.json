@@ -6,8 +6,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "ジャーマネ、私は今すごい悩みを抱えている。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "ジャーマネ、私は今すごい悩みを抱えている。"
+            },
             "voice": "audition/story_01/heroine_03/HM_Sub_01_03_08/hm_sub_01_03_08_001.mp3"
         },
         {
@@ -15,8 +19,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "餃子ラーメンってなんだと思う？",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "餃子ラーメンってなんだと思う？"
+            },
             "voice": "audition/story_01/heroine_03/HM_Sub_01_03_08/hm_sub_01_03_08_002.mp3"
         },
         {
@@ -24,8 +32,12 @@
             "heroineId": [
                 0
             ],
-            "name": "マネージャー",
-            "message": "え？",
+            "name": {
+                "default": "マネージャー"
+            },
+            "message": {
+                "default": "え？"
+            },
             "voice": ""
         },
         {
@@ -33,8 +45,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "学食のメニューにあるんだが、ただの餃子とラーメンなのか、\n果たして餃子ラーメンという新種なのか。",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "学食のメニューにあるんだが、ただの餃子とラーメンなのか、\n果たして餃子ラーメンという新種なのか。"
+            },
             "voice": "audition/story_01/heroine_03/HM_Sub_01_03_08/hm_sub_01_03_08_004.mp3"
         },
         {
@@ -42,8 +58,12 @@
             "heroineId": [
                 3
             ],
-            "name": "鹿野志穂",
-            "message": "かなり気になるとは思わないか？",
+            "name": {
+                "default": "鹿野志穂"
+            },
+            "message": {
+                "default": "かなり気になるとは思わないか？"
+            },
             "voice": "audition/story_01/heroine_03/HM_Sub_01_03_08/hm_sub_01_03_08_005.mp3"
         }
     ]
