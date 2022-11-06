@@ -9,13 +9,24 @@ var voicePlayer = new Audio()
 
 var original_Story = {}
 var edit_Story = {}
+var savetitle = ''
 var edit_lan = ''
 
 var isPreview = false
 
 var localStorge = window.localStorage
-const StorgeKey = 'StoryEditorStorge'
+const StorgeKey = 'StoryEditorStorge_v2'
+const StorgeKey_old = 'StoryEditorStorge'
+localStorge.removeItem(StorgeKey_old)
 var record = JSON.parse(localStorge.getItem(StorgeKey))
+
+
+// "TXT_NAME":{
+//     title : '',
+//     record : {
+//     }
+// }
+
 
 const loadAllJson = () => {
     fetch('./json/All.json')
@@ -44,6 +55,7 @@ const loadAllJson = () => {
 const loadStoryLog = (curr) => {
     var logtitle = document.getElementById('log-title')
     logtitle.innerText = curr.title
+    savetitle = curr.title
     document.title = `${curr.title} | Editor Mode`
 
     // var logItemList = document.getElementById('log-item-list')
@@ -61,8 +73,11 @@ const loadStoryLog = (curr) => {
             original_Story = json
             
             if(record != null) {
+                updateRecord()
                 if(record[original_Story.Txt_Name]) {
-                    edit_Story = record[original_Story.Txt_Name]
+                    edit_Story = record[original_Story.Txt_Name]['Record']
+                }else{
+                    edit_Story = {...original_Story}    
                 }
             }else {
                 edit_Story = {...original_Story}
@@ -75,6 +90,39 @@ const loadStoryLog = (curr) => {
             console.log(error);
         });
 }
+
+const updateRecord = () => {
+    let recordList = document.getElementById('record-list')
+    recordList.innerHTML = ''
+    Object.entries(record).map(([key, value])=>{
+        
+        let div = document.createElement("div");
+        div.className = 'record-item'
+    
+        let namediv = document.createElement("div");
+        namediv.innerHTML = value.Title
+        div.append(namediv)
+    
+        let button = document.createElement("button");
+        button.className = 'record-remove-btn'
+        button.innerHTML = `<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-x" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+                                <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+                                <line x1="18" y1="6" x2="6" y2="18"></line>
+                                <line x1="6" y1="6" x2="18" y2="18"></line>
+                            </svg>`
+        button.onclick = () => {
+            console.log(value.Title)
+            div.remove();
+            delete record[key]
+            localStorage.setItem(StorgeKey, JSON.stringify(record))
+        }
+        div.append(button)
+    
+        recordList.append(div)
+    })
+
+}
+
 
 const genEditorStoryLog = (EditStory, language = 'default') => {
 
@@ -124,7 +172,7 @@ const genEditorStoryLog = (EditStory, language = 'default') => {
 
         let input = document.createElement("input");
         input.type = 'text'
-        input.className = 'editor-name'
+        input.className = `editor-name ${edit_lan == 'zh'?'zh-font-bold':'jp-font-bold'}`
         input.value = `${d.name[language]}`
         if(edit_lan == '') {
             input.disabled = true
@@ -135,11 +183,12 @@ const genEditorStoryLog = (EditStory, language = 'default') => {
         div4.append(input)
 
         let textarea = document.createElement("textarea");
-        textarea.className = 'dialogue-meg editor-meg'
-        textarea.innerHTML = `${d.message[language]}`
         if(edit_lan == '') {
             textarea.disabled = true
         }
+
+        textarea.className = `dialogue-meg editor-meg ${edit_lan == 'zh'?'zh-font':'jp-font'}`
+        textarea.innerHTML = `${d.message[language]}`
         textarea.onchange = () => {
             editLogContent(d.index, textarea.value)
         }
@@ -169,8 +218,8 @@ const previewStoryLog = (language) => {
                 inner += `<img src="./Image/CharIcon/CharaIcon_${i.toString().padStart(2, '0')}.png"/>`
         })
         inner += `</div>`
-        inner += `<div class='dialogue-name'>${d.name[language]}</div>`
-        inner += `<div class='dialogue-meg'>${d.message[language]}</div>`
+        inner += `<div class='dialogue-name jp-font-bold'>${d.name[language]}</div>`
+        inner += `<div class='dialogue-meg ${language == 'zh'?'zh-font':'jp-font'}'>${d.message[language]}</div>`
         inner += `<div class='dialogue-voice'>`
         if(d.voice != "")
             inner += `<img src='./Image/Scenario_VoiceButton.png' onclick="playaudio('${d.voice}')"></img>`
@@ -211,9 +260,11 @@ const saveEditToLoacl = () => {
         record = {}
     }
 
-    record[edit_Story.Txt_Name] = edit_Story
+    record[edit_Story.Txt_Name] = {"Title": savetitle, "Record" : edit_Story}
     console.log(record)
     localStorage.setItem(StorgeKey, JSON.stringify(record))
+
+    updateRecord()
 }
 
 const downloadJSON = () => {
@@ -232,14 +283,16 @@ const downloadJSON = () => {
 
 const beforeSave = () =>{
 
-    if(edit_lan != '' || edit_lan != 'default') {
-        if(!edit_Story.Language){
-            edit_Story.Language = []
+    if(edit_lan == ''){
+        return
+    }
+
+    if(!edit_Story.Language){
+        edit_Story.Language = []
+        edit_Story.Language.push(edit_lan)
+    }else{
+        if(!edit_Story.Language.includes(edit_lan)){
             edit_Story.Language.push(edit_lan)
-        }else{
-            if(!edit_Story.Language.includes(edit_lan)){
-                edit_Story.Language.push(edit_lan)
-            }
         }
     }
 
@@ -249,8 +302,6 @@ const beforeSave = () =>{
 
     let translatorInput = document.getElementById("translator")
     edit_Story.Translator[edit_lan] = translatorInput.value
-
-
 }
 
 const playaudio = (path) => {
@@ -288,6 +339,7 @@ const editLogContent = (index, content) => {
         }
     });
 }
+
 
 loadAllJson()
 

@@ -79,8 +79,8 @@ const genStoryLog = (story, language = 'default') => {
                 inner += `<img src="./Image/CharIcon/CharaIcon_${i.toString().padStart(2, '0')}.png"/>`
         })
         inner += `</div>`
-        inner += `<div class='dialogue-name'>${d.name[language]}</div>`
-        inner += `<div class='dialogue-meg'>${d.message[language]}</div>`
+        inner += `<div class='dialogue-name jp-font-bold'>${d.name[language]}</div>`
+        inner += `<div class='dialogue-meg ${language == 'zh'?'zh-font':'jp-font'}'>${d.message[language]}</div>`
         inner += `<div class='dialogue-voice'>`
         if(d.voice != "")
             inner += `<img src='./Image/Scenario_VoiceButton.png' onclick="playaudio('${d.voice}')"></img>`

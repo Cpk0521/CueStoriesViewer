@@ -141,7 +141,7 @@ const loadChapterFilter = (type) => {
 
     let data = allJson[type]
 
-    var inner = `<button class="chapterFilter-all" id='chaper-btn' onclick="loadStories('${type}', -1)">全部</button>`
+    var inner = `<button class="chapterFilter-all jp-font-bold" id='chaper-btn' onclick="loadStories('${type}', -1)">全部</button>`
 
     data.map((d)=>{
         Array.from(d.image).forEach(img => {
