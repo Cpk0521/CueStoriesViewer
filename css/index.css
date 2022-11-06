@@ -498,6 +498,29 @@ input[type=text] {
     padding: 10px;
 }
 
+.lang-list {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    padding: 10px;
+}
+
+.lang-btn {
+    background-color: transparent;
+    border: 1px solid #e6e6e6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    height: 30px;
+    border-radius: 5px;
+}
+
+#translator {
+    font-size: large;
+}
+
+
 .record-item {
     display: grid;
     grid-template-columns: 5fr 1fr;
@@ -536,7 +559,6 @@ input[type=text] {
     background-color: #b3b3b3;
     border-radius: 100px;
 }
-
 
 .chapterFilter-list::-webkit-scrollbar {
     height: 5px;

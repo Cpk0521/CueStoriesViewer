@@ -6,6 +6,7 @@ var phase = params.get('phase')
 var resource_path = 'https://raw.githubusercontent.com/Cpk0521/CueStoryResource/main'
 
 var Story = {}
+var language_list = {"zh":"中文", "eng":"English"}
 var voicePlayer = new Audio()
 
 const loadAllJson = () => {
@@ -53,6 +54,12 @@ const genStory = (curr) => {
             Story = json
             genStoryLog(json)
 
+            console.log(json.Language.length )
+
+            if (json.Language && json.Language.length != 0) {
+                genLangOption(json.Language)
+            }
+
         }).catch(function(error) {
             console.log(error);
         });
@@ -89,6 +96,34 @@ const genStoryLog = (story, language = 'default') => {
     logItemList.innerHTML = inner
 }
 
+const genLangOption = (list) => {
+    let langList = document.getElementById('lang-list')
+
+    let def_btn = document.createElement('button')
+    def_btn.className = 'lang-btn jp-font-bold'
+    def_btn.innerHTML = '日本語'
+    def_btn.onclick = ()=>{
+        genStoryLog(Story, 'default')
+        showTanslator('default')
+    }
+    langList.append(def_btn)
+
+
+    list.map((l)=>{
+        if (l in language_list) {
+            let btn = document.createElement('button')
+            btn.className = 'lang-btn jp-font-bold'
+            btn.innerHTML = language_list[l]
+            btn.onclick = ()=>{
+                genStoryLog(Story, l)
+                showTanslator(l)
+            }
+            langList.append(btn)
+        }
+    })
+    
+}
+
 const genFooter = (prev, next, story_type) => {
     var logtitle = document.getElementById('log-footer')
 
@@ -100,6 +135,20 @@ const genFooter = (prev, next, story_type) => {
         inner += `<div class="next"><a href="./viewer.html?type=${story_type}&id=${next.story_id}&phase=${next.phase}">次の回</a></div>`
 
     logtitle.innerHTML = inner
+}
+
+const showTanslator = (lang)=>{
+    console.log(lang)
+    let info = document.getElementById('translator-info')
+    let translator = document.getElementById('translator')
+    if (lang == 'default'){
+        info.style.display = 'none'
+        translator.innerHTML = ''
+    }else{
+        info.style.display = 'block'        
+        translator.innerHTML = Story['Translator'][lang]
+    }
+
 }
 
 
