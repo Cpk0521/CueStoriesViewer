@@ -54,8 +54,6 @@ const genStory = (curr) => {
             Story = json
             genStoryLog(json)
 
-            console.log(json.Language.length )
-
             if (json.Language && json.Language.length != 0) {
                 genLangOption(json.Language)
             }
@@ -97,6 +95,8 @@ const genStoryLog = (story, language = 'default') => {
 }
 
 const genLangOption = (list) => {
+    let info = document.getElementById('lang-info')
+    info.style.display = 'block' 
     let langList = document.getElementById('lang-list')
 
     let def_btn = document.createElement('button')
@@ -138,7 +138,6 @@ const genFooter = (prev, next, story_type) => {
 }
 
 const showTanslator = (lang)=>{
-    console.log(lang)
     let info = document.getElementById('translator-info')
     let translator = document.getElementById('translator')
     if (lang == 'default'){
