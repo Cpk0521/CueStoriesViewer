@@ -172,9 +172,5 @@ document.addEventListener("keydown", function(event) {
     if (event.key == 'e' || event.key == 'E') {
         window.open(`./editor.html?type=${story_type}&id=${story_id}&phase=${phase}`,'_blank');
     }
-
-    if (event.key == 'c' || event.key == 'C') {
-        genStoryLog(Story, 'zh')
-    }
 });
 
