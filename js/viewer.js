@@ -25,9 +25,16 @@ const loadAllJson = () => {
             let storylist = json[story_type]?.find(x => {return x.scenarios.find(s => s.story_id == story_id && s.phase == phase)}) 
             let curr = [...storylist.scenarios]?.find(x => {return x.phase == phase && x.story_id == story_id})
             
-            let prev = storylist.scenarios.find(x => x.story_id == story_id && x.phase == (+phase-1))
-            let next = storylist.scenarios.find(x => x.story_id == story_id && x.phase == (+phase+1))
-        
+            let prev, next
+            
+            if(story_type == "Lesson") {
+                prev = storylist.scenarios.find(x => x.story_id == (+story_id-1) && x.phase == (+phase-1))
+                next = storylist.scenarios.find(x => x.story_id == (+story_id+1) && x.phase == (+phase+1))
+            }else {
+                prev = storylist.scenarios.find(x => x.story_id == story_id && x.phase == (+phase-1))
+                next = storylist.scenarios.find(x => x.story_id == story_id && x.phase == (+phase+1))
+            }
+
             genStory(curr)
             genFooter(prev, next, story_type)
 
