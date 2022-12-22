@@ -83,7 +83,6 @@ const genStoryLog = (story, language = 'default') => {
     var logItemList = document.getElementById('log-item-list')
     var inner = ``
     story.Logs?.map(d => {
-
         if(d.Type == 0) {
 
             inner += `<div class='Log-item'>`
@@ -186,9 +185,9 @@ const Hello = (text) => {
 
 loadAllJson()
 
-// document.addEventListener("keydown", function(event) {
-//     if (event.key == 'e' || event.key == 'E') {
-//         window.open(`./editor.html?type=${story_type}&id=${story_id}&phase=${phase}`,'_blank');
-//     }
-// });
+document.addEventListener("keydown", function(event) {
+    if (event.key == 'e' || event.key == 'E') {
+        window.open(`./editor.html?type=${story_type}&id=${story_id}&phase=${phase}`,'_blank');
+    }
+});
 

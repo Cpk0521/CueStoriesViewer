@@ -134,7 +134,7 @@ const genEditorStoryLog = (EditStory, language = 'default') => {
     logItemList.innerHTML = ''
 
     // var inner = ``
-    EditStory.Dialogue?.map(d => {
+    EditStory.Logs?.map(d => {
         // inner += `<div class='Log-item'>`
         // inner += `<div class='dialogue'>`
         // inner += `<div class='dialogue-icon ${d.heroineId.length > 1?`multiple-${d.heroineId.length}`:''}'>` 
@@ -150,51 +150,76 @@ const genEditorStoryLog = (EditStory, language = 'default') => {
         // //     inner += `<img src='./Image/Scenario_VoiceButton.png' onclick="playaudio('${d.voice}')"></img>`
         // inner += `</div></div></div>`
 
-        let div = document.createElement("div");
-        div.className = 'Log-item'
+        if(d.Type == 0) {
+            let div = document.createElement("div");
+            div.className = 'Log-item'
+    
+            let div2 = document.createElement("div");
+            div2.className = 'dialogue'
+            div.append(div2)
+    
+            let div3 = document.createElement("div");
+            div3.className = `dialogue-icon ${d.heroineId.length > 1?`multiple-${d.heroineId.length}`:''}`
+            div2.append(div3)
+    
+            Array.from(d.heroineId).forEach(i => {
+                if(i != 0)
+                    div3.innerHTML += `<img src="./Image/CharIcon/CharaIcon_${i.toString().padStart(2, '0')}.png"/>`
+            })
+    
+            let div4 = document.createElement("div");
+            div4.className = 'dialogue-name'
+            div2.append(div4)
+    
+            let input = document.createElement("input");
+            input.type = 'text'
+            input.className = `editor-name ${edit_lan == 'zh'?'zh-font-bold':'jp-font-bold'}`
+            input.value = `${d.name[language]}`
+            if(edit_lan == '') {
+                input.disabled = true
+            }
+            input.onchange = () => {
+                editNameContent(d.index, input.value)
+            }
+            div4.append(input)
+    
+            let textarea = document.createElement("textarea");
+            if(edit_lan == '') {
+                textarea.disabled = true
+            }
+    
+            textarea.className = `dialogue-meg editor-meg ${edit_lan == 'zh'?'zh-font':'jp-font'}`
+            textarea.innerHTML = `${d.message[language]}`
+            textarea.onchange = () => {
+                editLogContent(d.index, textarea.value)
+            }
+            div2.append(textarea)
 
-        let div2 = document.createElement("div");
-        div2.className = 'dialogue'
-        div.append(div2)
-
-        let div3 = document.createElement("div");
-        div3.className = `dialogue-icon ${d.heroineId.length > 1?`multiple-${d.heroineId.length}`:''}`
-        div2.append(div3)
-
-        Array.from(d.heroineId).forEach(i => {
-            if(i != 0)
-                div3.innerHTML += `<img src="./Image/CharIcon/CharaIcon_${i.toString().padStart(2, '0')}.png"/>`
-        })
-
-        let div4 = document.createElement("div");
-        div4.className = 'dialogue-name'
-        div2.append(div4)
-
-        let input = document.createElement("input");
-        input.type = 'text'
-        input.className = `editor-name ${edit_lan == 'zh'?'zh-font-bold':'jp-font-bold'}`
-        input.value = `${d.name[language]}`
-        if(edit_lan == '') {
-            input.disabled = true
+            logItemList.append(div)
         }
-        input.onchange = () => {
-            editNameContent(d.index, input.value)
-        }
-        div4.append(input)
 
-        let textarea = document.createElement("textarea");
-        if(edit_lan == '') {
-            textarea.disabled = true
-        }
+        if(d.Type == 1) {
+            let div = document.createElement("div");
+            div.className = 'Log-item'
+    
+            let div2 = document.createElement("div");
+            div2.className = 'dialogue2'
+            div.append(div2)
 
-        textarea.className = `dialogue-meg editor-meg ${edit_lan == 'zh'?'zh-font':'jp-font'}`
-        textarea.innerHTML = `${d.message[language]}`
-        textarea.onchange = () => {
-            editLogContent(d.index, textarea.value)
-        }
-        div2.append(textarea)
+            let input = document.createElement("input");
+            input.type = 'text'
+            input.className = `editor-name ${edit_lan == 'zh'?'zh-font-bold':'jp-font-bold'}`
+            input.value = `${d.message[language]}`
+            if(edit_lan == '') {
+                input.disabled = true
+            }
+            input.onchange = () => {
+                editLogContent(d.index, input.value)
+            }
+            div2.append(input)
 
-        logItemList.append(div)
+            logItemList.append(div)
+        }
 
     })
 
@@ -209,21 +234,33 @@ const previewStoryLog = (language) => {
 
     var logItemList = document.getElementById('log-item-list')
     var inner = ``
-    edit_Story.Dialogue?.map(d => {
-        inner += `<div class='Log-item'>`
-        inner += `<div class='dialogue'>`
-        inner += `<div class='dialogue-icon ${d.heroineId.length > 1?`multiple-${d.heroineId.length}`:''}'>` 
-        Array.from(d.heroineId).forEach(i => {
-            if(i != 0)
-                inner += `<img src="./Image/CharIcon/CharaIcon_${i.toString().padStart(2, '0')}.png"/>`
-        })
-        inner += `</div>`
-        inner += `<div class='dialogue-name jp-font-bold'>${d.name[language]}</div>`
-        inner += `<div class='dialogue-meg ${language == 'zh'?'zh-font':'jp-font'}'>${d.message[language]}</div>`
-        inner += `<div class='dialogue-voice'>`
-        if(d.voice != "")
-            inner += `<img src='./Image/Scenario_VoiceButton.png' onclick="playaudio('${d.voice}')"></img>`
-        inner += `</div></div></div>`
+    edit_Story.Logs?.map(d => {
+
+        if(d.Type == 0) {
+
+            inner += `<div class='Log-item'>`
+            inner += `<div class='dialogue'>`
+            inner += `<div class='dialogue-icon ${d.heroineId.length > 1?`multiple-${d.heroineId.length}`:''}'>` 
+            Array.from(d.heroineId).forEach(i => {
+                if(i != 0)
+                    inner += `<img src="./Image/CharIcon/CharaIcon_${i.toString().padStart(2, '0')}.png"/>`
+            })
+            inner += `</div>`
+            inner += `<div class='dialogue-name jp-font-bold'>${d.name[language]}</div>`
+            inner += `<div class='dialogue-meg ${language == 'zh'?'zh-font':'jp-font'}'>${d.message[language]}</div>`
+            inner += `<div class='dialogue-voice'>`
+            if(d.voice != "")
+                inner += `<img src='./Image/Scenario_VoiceButton.png' onclick="playaudio('${d.voice}')"></img>`
+            inner += `</div></div></div>`
+        }
+
+        if (d.Type == 1) {
+            inner += `<div class='Log-item'>`
+            inner += `<div class='dialogue2'>`
+            inner += `<div class='dialogue-meg ${language == 'zh'?'zh-font':'jp-font'}'>${d.message[language]}</div>`
+            inner += `</div></div></div>`
+        }
+
     })
     logItemList.innerHTML = inner
 }
@@ -320,7 +357,7 @@ const editNameContent = (index, content) => {
     }
 
     //edit
-    edit_Story.Dialogue.forEach(d => {
+    edit_Story.Logs.forEach(d => {
         if(d.index === index) {
             d.name[edit_lan] = content
         }
@@ -333,7 +370,7 @@ const editLogContent = (index, content) => {
     }
 
     //edit
-    edit_Story.Dialogue.forEach(d => {
+    edit_Story.Logs.forEach(d => {
         if(d.index === index) {
             d.message[edit_lan] = content
         }
@@ -365,14 +402,25 @@ option.onchange = (e) => {
 
     }
 
-    edit_Story.Dialogue.map((d)=>{
-        if(!d.name[edit_lan]) {
-            d.name[edit_lan] = d.name.default
+    edit_Story.Logs.map((d)=>{
+
+        if(d.Type == 0) {
+
+            if(!d.name[edit_lan]) {
+                d.name[edit_lan] = d.name.default
+            }
+    
+            if(!d.message[edit_lan]) {
+                d.message[edit_lan] = d.message.default
+            }
         }
 
-        if(!d.message[edit_lan]) {
-            d.message[edit_lan] = d.message.default
+        if(d.Type == 1) {
+            if(!d.message[edit_lan]) {
+                d.message[edit_lan] = d.message.default
+            }
         }
+
     })
 
     genEditorStoryLog(edit_Story, e.target.value)
