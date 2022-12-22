@@ -82,21 +82,32 @@ const genStoryLog = (story, language = 'default') => {
 
     var logItemList = document.getElementById('log-item-list')
     var inner = ``
-    story.Dialogue?.map(d => {
-        inner += `<div class='Log-item'>`
-        inner += `<div class='dialogue'>`
-        inner += `<div class='dialogue-icon ${d.heroineId.length > 1?`multiple-${d.heroineId.length}`:''}'>` 
-        Array.from(d.heroineId).forEach(i => {
-            if(i != 0)
-                inner += `<img src="./Image/CharIcon/CharaIcon_${i.toString().padStart(2, '0')}.png"/>`
-        })
-        inner += `</div>`
-        inner += `<div class='dialogue-name jp-font-bold'>${d.name[language]}</div>`
-        inner += `<div class='dialogue-meg ${language == 'zh'?'zh-font':'jp-font'}'>${d.message[language]}</div>`
-        inner += `<div class='dialogue-voice'>`
-        if(d.voice != "")
-            inner += `<img src='./Image/Scenario_VoiceButton.png' onclick="playaudio('${d.voice}')"></img>`
-        inner += `</div></div></div>`
+    story.Logs?.map(d => {
+
+        if(d.Type == 0) {
+
+            inner += `<div class='Log-item'>`
+            inner += `<div class='dialogue'>`
+            inner += `<div class='dialogue-icon ${d.heroineId.length > 1?`multiple-${d.heroineId.length}`:''}'>` 
+            Array.from(d.heroineId).forEach(i => {
+                if(i != 0)
+                    inner += `<img src="./Image/CharIcon/CharaIcon_${i.toString().padStart(2, '0')}.png"/>`
+            })
+            inner += `</div>`
+            inner += `<div class='dialogue-name jp-font-bold'>${d.name[language]}</div>`
+            inner += `<div class='dialogue-meg ${language == 'zh'?'zh-font':'jp-font'}'>${d.message[language]}</div>`
+            inner += `<div class='dialogue-voice'>`
+            if(d.voice != "")
+                inner += `<img src='./Image/Scenario_VoiceButton.png' onclick="playaudio('${d.voice}')"></img>`
+            inner += `</div></div></div>`
+        }
+        
+        if (d.Type == 1) {
+            inner += `<div class='Log-item'>`
+            inner += `<div class='dialogue2'>`
+            inner += `<div class='dialogue-meg ${language == 'zh'?'zh-font':'jp-font'}'>${d.message[language]}</div>`
+            inner += `</div></div></div>`
+        }
     })
     logItemList.innerHTML = inner
 }
@@ -175,9 +186,9 @@ const Hello = (text) => {
 
 loadAllJson()
 
-document.addEventListener("keydown", function(event) {
-    if (event.key == 'e' || event.key == 'E') {
-        window.open(`./editor.html?type=${story_type}&id=${story_id}&phase=${phase}`,'_blank');
-    }
-});
+// document.addEventListener("keydown", function(event) {
+//     if (event.key == 'e' || event.key == 'E') {
+//         window.open(`./editor.html?type=${story_type}&id=${story_id}&phase=${phase}`,'_blank');
+//     }
+// });
 
