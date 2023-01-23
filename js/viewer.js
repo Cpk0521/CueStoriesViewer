@@ -44,8 +44,6 @@ const loadAllJson = () => {
 }
 
 const genStory = (curr) => {
-    var logtitle = document.getElementById('log-title')
-    logtitle.innerHTML = curr.title
     document.title = `${curr.title} | Stories Archive Viewer`
 
     fetch(`${resource_path}/scenario/${curr.path}`)
@@ -80,6 +78,9 @@ const genStoryLog = (story, language = 'default') => {
         }
     }
 
+    var logtitle = document.getElementById('log-title')
+    logtitle.innerHTML = story.Title[language]
+
     var logItemList = document.getElementById('log-item-list')
     var inner = ``
     story.Logs?.map(d => {
@@ -93,7 +94,7 @@ const genStoryLog = (story, language = 'default') => {
                     inner += `<img src="./Image/CharIcon/CharaIcon_${i.toString().padStart(2, '0')}.png"/>`
             })
             inner += `</div>`
-            inner += `<div class='dialogue-name jp-font-bold'>${d.name[language]}</div>`
+            inner += `<div class='dialogue-name jp-font-bold'>${d.heroineId.length > 1 ? `${d.heroineId.length}人`: d.name[language]}</div>`
             inner += `<div class='dialogue-meg ${language == 'zh'?'zh-font':'jp-font'}'>${d.message[language]}</div>`
             inner += `<div class='dialogue-voice'>`
             if(d.voice != "")

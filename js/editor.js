@@ -20,14 +20,6 @@ const StorgeKey_old = 'StoryEditorStorge'
 localStorge.removeItem(StorgeKey_old)
 var record = JSON.parse(localStorge.getItem(StorgeKey))
 
-
-// "TXT_NAME":{
-//     title : '',
-//     record : {
-//     }
-// }
-
-
 const loadAllJson = () => {
     fetch('./json/All.json')
         .then(function(response) {
@@ -53,8 +45,6 @@ const loadAllJson = () => {
 }
 
 const loadStoryLog = (curr) => {
-    var logtitle = document.getElementById('log-title')
-    logtitle.innerText = curr.title
     savetitle = curr.title
     document.title = `${curr.title} | Editor Mode`
 
@@ -128,6 +118,21 @@ const genEditorStoryLog = (EditStory, language = 'default') => {
 
     if(language === '') {
         language = 'default'
+    }
+
+    let logtitle_forDisplay = document.getElementById('log-title')
+    logtitle_forDisplay.style = 'display : none'
+
+    let logtitle_forEdit = document.getElementById('log-title-editor')
+    logtitle_forEdit.style = ''
+    if(edit_lan == '') {
+        logtitle_forEdit.disabled = true
+    }else{
+        logtitle_forEdit.disabled = false
+    }
+    logtitle_forEdit.value = EditStory.Title[language] ?? EditStory.Title['default']
+    logtitle_forEdit.onchange = () => {
+        editScenarioTitle(logtitle_forEdit.value)
     }
 
     var logItemList = document.getElementById('log-item-list')
@@ -232,6 +237,16 @@ const previewStoryLog = (language) => {
         language = 'default'
     }
 
+    let logtitle_forDisplay = document.getElementById('log-title')
+    logtitle_forDisplay.style = ''
+    logtitle_forDisplay.innerText = edit_Story.Title[language]
+
+    let logtitle_forEdit = document.getElementById('log-title-editor')
+    logtitle_forEdit.disabled = true
+    logtitle_forEdit.value = ''
+    logtitle_forEdit.style = 'display : none'
+    logtitle_forEdit.onchange = () => {}
+
     var logItemList = document.getElementById('log-item-list')
     var inner = ``
     edit_Story.Logs?.map(d => {
@@ -246,7 +261,7 @@ const previewStoryLog = (language) => {
                     inner += `<img src="./Image/CharIcon/CharaIcon_${i.toString().padStart(2, '0')}.png"/>`
             })
             inner += `</div>`
-            inner += `<div class='dialogue-name jp-font-bold'>${d.name[language]}</div>`
+            inner += `<div class='dialogue-name jp-font-bold'>${d.heroineId.length > 1 ? `${d.heroineId.length}人`: d.name[language]}</div>`
             inner += `<div class='dialogue-meg ${language == 'zh'?'zh-font':'jp-font'}'>${d.message[language]}</div>`
             inner += `<div class='dialogue-voice'>`
             if(d.voice != "")
@@ -359,7 +374,8 @@ const editNameContent = (index, content) => {
     //edit
     edit_Story.Logs.forEach(d => {
         if(d.index === index) {
-            d.name[edit_lan] = content
+            let contents = content.split(',')
+            contents.length > 1 ? d.name[edit_lan] = contents : d.name[edit_lan] = content
         }
     });
 }
@@ -377,6 +393,14 @@ const editLogContent = (index, content) => {
     });
 }
 
+const editScenarioTitle = (content) => {
+    if((edit_lan === '' || edit_lan === 'default') && !edit_lan) {
+        return
+    }
+
+    //edit
+    edit_Story.Title[edit_lan] = content
+}
 
 loadAllJson()
 
@@ -401,6 +425,8 @@ option.onchange = (e) => {
         })
 
     }
+
+    edit_Story.Title[edit_lan] = edit_Story.Title.default
 
     edit_Story.Logs.map((d)=>{
 
