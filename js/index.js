@@ -111,18 +111,30 @@ const loadStories = (type, id = -2) => {
     }
 
     data.map((d) => {
-        inner += `<div class='storyBlock'>`
-        inner += `<div class='storyBlock-contain'>`
-        inner += `<div class='${type == 'Link'?'link-icon':''}'>`
+        let html = ``
+        let isadd = true
+        
+        html += `<div class='storyBlock'>`
+        html += `<div class='storyBlock-contain'>`
+        html += `<div class='${type == 'Link'?'link-icon':''}'>`
         Array.from(d.image).forEach(img => {
-            inner += `<img src='./Image/${img}'></img>`
+            html += `<img src='./Image/${img}'></img>`
         })
-        inner += `</div>`
-        inner += `<div class='story-chapter'>`
+        html += `</div>`
+        html += `<div class='story-chapter'>`
         Array.from(d.scenarios).forEach(episode => {
-            inner += `<a href="./viewer.html?type=${type}&id=${episode.story_id}&phase=${episode.phase}">${episode.title}</a>`
+            if(episode.published){
+                html += `<a href="./viewer.html?type=${type}&id=${episode.story_id}&phase=${episode.phase}">${episode.title}</a>`
+            }
+            else{
+                isadd = false
+            }
         });
-        inner += `</div></div></div>`
+        html += `</div></div></div>`
+
+        if(isadd){
+            inner += html
+        }
     })
 
     storiesArea.innerHTML = inner
