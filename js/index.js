@@ -110,7 +110,7 @@ const loadStories = (type, id = -2) => {
         data = data.filter(x => x.id == id)
     }
 
-    data.map((d) => {
+    data.forEach((d) => {
         let html = ``
         let isadd = true
         
@@ -123,11 +123,12 @@ const loadStories = (type, id = -2) => {
         html += `</div>`
         html += `<div class='story-chapter'>`
         Array.from(d.scenarios).forEach(episode => {
+            if(!episode.published && type == 'Link'){
+                isadd = false
+            }
+
             if(episode.published){
                 html += `<a href="./viewer.html?type=${type}&id=${episode.story_id}&phase=${episode.phase}">${episode.title}</a>`
-            }
-            else{
-                isadd = false
             }
         });
         html += `</div></div></div>`
