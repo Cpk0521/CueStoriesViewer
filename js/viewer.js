@@ -43,7 +43,7 @@ const loadAllJson = () => {
         });
 }
 
-const grnMetaTag = () => {
+const grnMetaTag = (curr) => {
     document.title = `${curr.title} | Stories Archive Viewer`
     const metaTags = "";
     metaTags += `<meta name="description" content="${curr.title} | Stories Archive Viewer">`;
@@ -54,7 +54,7 @@ const grnMetaTag = () => {
 
 const genStory = (curr) => {
     // document.title = `${curr.title} | Stories Archive Viewer`
-    grnMetaTag();
+    grnMetaTag(curr);
 
     fetch(`${resource_path}/scenario/${curr.path}`)
         .then(function(response) {
