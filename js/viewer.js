@@ -43,8 +43,18 @@ const loadAllJson = () => {
         });
 }
 
-const genStory = (curr) => {
+const grnMetaTag = () => {
     document.title = `${curr.title} | Stories Archive Viewer`
+    const metaTags = "";
+    metaTags += `<meta name="description" content="${curr.title} | Stories Archive Viewer">`;
+    metaTags += `<meta name="twitter:description" content="${curr.title} | Stories Archive Viewer">`;
+    metaTags += `<meta property="og:description" content="${curr.title} | Stories Archive Viewer">`;
+    document.head.innerHTML += metaTags
+}
+
+const genStory = (curr) => {
+    // document.title = `${curr.title} | Stories Archive Viewer`
+    grnMetaTag();
 
     fetch(`${resource_path}/scenario/${curr.path}`)
         .then(function(response) {
