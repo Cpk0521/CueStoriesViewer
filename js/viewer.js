@@ -45,10 +45,10 @@ const loadAllJson = () => {
 
 const grnMetaTag = (curr) => {
     document.title = `${curr.title} | Stories Archive Viewer`
-    const metaTags = "";
-    metaTags += `<meta name="description" content="${curr.title} | Stories Archive Viewer">`;
-    metaTags += `<meta name="twitter:description" content="${curr.title} | Stories Archive Viewer">`;
-    metaTags += `<meta property="og:description" content="${curr.title} | Stories Archive Viewer">`;
+    let metaTags = "";
+    metaTags += `<meta name="description" content='${curr.title} | Stories Archive Viewer'>`;
+    metaTags += `<meta name="twitter:description" content='${curr.title} | Stories Archive Viewer'>`;
+    metaTags += `<meta property="og:description" content='${curr.title} | Stories Archive Viewer'>`;
     document.head.innerHTML += metaTags
 }
 
